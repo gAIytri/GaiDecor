@@ -1,0 +1,113 @@
+import { Link } from 'react-router-dom';
+import { Star } from 'lucide-react';
+import type { Product } from '@/types';
+import { Badge } from '@/components/ui/badge';
+import ProductImage from '@/components/common/ProductImage';
+
+interface ProductCardProps {
+  product: Product;
+}
+
+export default function ProductCard({ product }: ProductCardProps) {
+  const discount = product.originalPrice
+    ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
+    : 0;
+
+  return (
+    <Link to={`/product/${product.id}`} className="group block">
+      <div className="bg-white dark:bg-gray-800 border rounded-lg overflow-hidden hover:shadow-lg transition-shadow">
+        {/* Image Container */}
+        <div className="relative h-48 overflow-hidden">
+          {/* Product Image */}
+          <ProductImage
+            src={product.images[0]}
+            alt={product.name}
+            className="h-48 w-full group-hover:scale-110 transition-transform duration-300"
+          />
+
+          {/* Brand Badge - Top Left */}
+          <Badge className="absolute top-2 left-2 text-[10px] px-2 py-0.5 bg-white/90 dark:bg-gray-900/90 text-gray-900 dark:text-white border">
+            {product.brand}
+          </Badge>
+
+          {/* Badges - Top Right */}
+          <div className="absolute top-2 right-2 flex flex-col gap-1">
+            {product.trending && (
+              <Badge className="text-[10px] px-2 py-0.5 bg-orange-500 text-white border-0">
+                🔥 Hot
+              </Badge>
+            )}
+            {discount > 0 && (
+              <Badge className="text-[10px] px-2 py-0.5 bg-red-500 text-white border-0">
+                -{discount}%
+              </Badge>
+            )}
+            {product.featured && (
+              <Badge className="text-[10px] px-2 py-0.5 bg-primary text-white border-0">
+                ⭐ Featured
+              </Badge>
+            )}
+          </div>
+
+          {/* Out of Stock Overlay */}
+          {!product.inStock && (
+            <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
+              <Badge className="text-xs px-3 py-1 bg-gray-900 text-white">
+                Out of Stock
+              </Badge>
+            </div>
+          )}
+        </div>
+
+        {/* Product Info */}
+        <div className="p-3 space-y-1.5">
+          {/* Product Name */}
+          <h3 className="text-sm font-medium text-gray-900 dark:text-white line-clamp-2 group-hover:text-primary transition-colors">
+            {product.name}
+          </h3>
+
+          {/* Rating */}
+          <div className="flex items-center gap-1.5">
+            <div className="flex items-center gap-0.5">
+              {[...Array(5)].map((_, i) => (
+                <Star
+                  key={i}
+                  className={`w-3 h-3 ${
+                    i < Math.floor(product.rating)
+                      ? 'fill-yellow-400 text-yellow-400'
+                      : 'text-gray-300 dark:text-gray-600'
+                  }`}
+                />
+              ))}
+            </div>
+            <span className="text-xs text-gray-600 dark:text-gray-400">
+              {product.rating.toFixed(1)}
+            </span>
+            <span className="text-xs text-gray-400 dark:text-gray-500">
+              ({product.reviewCount})
+            </span>
+          </div>
+
+          {/* Price */}
+          <div className="flex items-baseline gap-2">
+            <span className="text-lg font-bold text-primary-emerald dark:text-primary-emerald">
+              ${product.price.toFixed(2)}
+            </span>
+            {product.originalPrice && (
+              <span className="text-xs text-gray-500 dark:text-gray-400 line-through">
+                ${product.originalPrice.toFixed(2)}
+              </span>
+            )}
+          </div>
+
+          {/* Stock Status */}
+          {product.inStock && (
+            <p className="text-[10px] text-green-600 dark:text-green-400">
+              In Stock
+            </p>
+          )}
+        </div>
+      </div>
+    </Link>
+  );
+}

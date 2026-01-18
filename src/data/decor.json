@@ -1,0 +1,3419 @@
+[
+  {
+    "id": "decor-vase-002",
+    "name": "Terracotta Floor Vase",
+    "description": "Large terracotta floor vase with natural texture. Ideal for dried arrangements.",
+    "price": 95,
+    "compareAtPrice": 125,
+    "primaryImage": "vase-2.jpeg",
+    "images": [
+      "vase-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Vases",
+        "slug": "vase"
+      },
+      "productType": "vase"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige"
+      ],
+      "material": [
+        "Terracotta"
+      ],
+      "style": [
+        "Bohemian",
+        "Mediterranean"
+      ],
+      "room": [
+        "Living Room",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "vase",
+      "terracotta",
+      "floor vase",
+      "bohemian",
+      "large",
+      "Mediterranean",
+      "home decor",
+      "natural finish",
+      "entryway",
+      "living room",
+      "dried arrangements",
+      "elegant",
+      "earthy tones",
+      "smooth texture",
+      "organic shape",
+      "matte finish",
+      "decor piece",
+      "versatile",
+      "timeless design",
+      "high-quality terracotta",
+      "warm beige",
+      "terracotta vase",
+      "Bohemian style",
+      "Mediterranean style",
+      "large vase",
+      "entryway decor",
+      "living room decor",
+      "elegant vase",
+      "versatile vase",
+      "warm beige vase",
+      "sophisticated decor",
+      "durable vase",
+      "inviting atmosphere",
+      "showcase vase",
+      "neutral tones",
+      "decorative vase",
+      "large terracotta vase"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.8,
+      "reviewCount": 156
+    },
+    "enrichedDescription": {
+      "short": "Elegant terracotta floor vase with a smooth, natural finish perfect for dried arrangements.",
+      "long": "This terracotta floor vase boasts a smooth, natural finish that adds warmth and sophistication to any room. Its large size makes it ideal for showcasing dried arrangements, creating an inviting atmosphere. The vase's neutral tones blend seamlessly with Bohemian and Mediterranean styles, enhancing your living space with its earthy charm. Crafted from high-quality terracotta, it offers durability and timeless appeal, making it a versatile decor piece for entryways or living rooms.",
+      "features": [
+        "Large size for impactful display",
+        "Smooth, natural terracotta finish",
+        "Ideal for dried floral arrangements",
+        "Versatile for Bohemian and Mediterranean styles",
+        "Durable and timeless design",
+        "Earthy warm beige color",
+        "Organic tall silhouette"
+      ],
+      "careInstructions": "Dust gently with a soft cloth. Avoid exposure to moisture to preserve the terracotta finish.",
+      "materialComposition": "100% Terracotta"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A6",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Tall and slender with a graceful curve"
+    },
+    "seo": {
+      "metaTitle": "Terracotta Floor Vase - Elegant Decor with Natural Finish",
+      "metaDescription": "Enhance your home with our Terracotta Floor Vase, featuring a smooth finish and large size for dried arrangements. Perfect for Bohemian & Mediterranean styles. Shop now!",
+      "altText": "Elegant terracotta floor vase with a smooth, natural finish, ideal for dried arrangements in Bohemian and Mediterranean styles.",
+      "keywords": [
+        "terracotta vase",
+        "floor vase",
+        "home decor",
+        "Bohemian style",
+        "Mediterranean style",
+        "dried arrangements",
+        "large vase",
+        "natural finish",
+        "entryway decor",
+        "living room decor",
+        "elegant vase",
+        "earthy tones",
+        "smooth texture",
+        "organic shape",
+        "matte finish",
+        "decor piece",
+        "versatile vase",
+        "timeless design",
+        "high-quality terracotta",
+        "warm beige vase",
+        "sophisticated decor",
+        "durable vase",
+        "inviting atmosphere",
+        "showcase vase",
+        "neutral tones",
+        "decorative vase",
+        "large terracotta vase"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:07.958Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-vase-001",
+    "name": "Ceramic Bud Vase",
+    "description": "Minimalist ceramic bud vase in matte white finish. Perfect for single stems.",
+    "price": 28,
+    "compareAtPrice": null,
+    "primaryImage": "vase-1.jpeg",
+    "images": [
+      "vase-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Vases",
+        "slug": "vase"
+      },
+      "productType": "vase"
+    },
+    "attributes": {
+      "color": [
+        "Off-White"
+      ],
+      "material": [
+        "Ceramic"
+      ],
+      "style": [
+        "Minimalist",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "vase",
+      "ceramic",
+      "minimalist",
+      "white",
+      "bud vase",
+      "modern",
+      "textured",
+      "matte finish",
+      "organic shape",
+      "decor",
+      "home decor",
+      "interior design",
+      "living room",
+      "bedroom",
+      "office",
+      "single stems",
+      "floral arrangement",
+      "elegant",
+      "sophisticated",
+      "off-white",
+      "ceramic bud vase",
+      "minimalist vase",
+      "modern vase",
+      "textured vase",
+      "matte finish vase",
+      "organic shape vase",
+      "living room decor",
+      "bedroom decor",
+      "office decor",
+      "single stem vase",
+      "floral arrangement vase",
+      "elegant vase",
+      "sophisticated vase",
+      "off-white vase",
+      "ceramic decor",
+      "modern interiors",
+      "minimalist interiors",
+      "stylish vase",
+      "affordable decor",
+      "unique vase",
+      "small floral arrangements",
+      "decor piece",
+      "vase for home"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Elegant ceramic bud vase with textured matte finish.",
+      "long": "The Ceramic Bud Vase is a stunning addition to any home, offering a harmonious blend of elegance and simplicity. Its textured surface and matte finish create a tactile experience, while the organic silhouette invites a touch of nature indoors. Ideal for showcasing single stems or petite floral arrangements, this vase effortlessly enhances modern and minimalist interiors. The off-white color palette seamlessly integrates with a variety of decors, making it perfect for any room—from serene bedrooms to vibrant living spaces. At just $28, it's an affordable way to elevate your decor with a sophisticated touch.",
+      "features": [
+        "Textured surface for added visual interest",
+        "Matte finish for a modern look",
+        "Organic silhouette complements natural decor",
+        "Versatile decor piece for any room",
+        "Perfect for single stems or small arrangements",
+        "Off-white color suits various palettes",
+        "Affordable elegance at $28"
+      ],
+      "careInstructions": "Wipe gently with a soft, damp cloth. Avoid abrasive cleaners to maintain the matte finish.",
+      "materialComposition": "100% ceramic"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Off-White",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Curved with an organic form"
+    },
+    "seo": {
+      "metaTitle": "Ceramic Bud Vase - Textured Matte Finish Elegance",
+      "metaDescription": "Elevate your decor with our Ceramic Bud Vase. Perfect for single stems, its textured matte finish adds sophistication. Buy now for $28!",
+      "altText": "Elegant ceramic bud vase with textured matte finish, ideal for modern and minimalist decor.",
+      "keywords": [
+        "ceramic bud vase",
+        "decor",
+        "home decor",
+        "interior design",
+        "vase",
+        "minimalist vase",
+        "modern vase",
+        "textured vase",
+        "matte finish vase",
+        "organic shape vase",
+        "living room decor",
+        "bedroom decor",
+        "office decor",
+        "single stem vase",
+        "floral arrangement vase",
+        "elegant vase",
+        "sophisticated vase",
+        "off-white vase",
+        "ceramic decor",
+        "modern interiors",
+        "minimalist interiors",
+        "stylish vase",
+        "affordable decor",
+        "unique vase",
+        "small floral arrangements",
+        "decor piece",
+        "vase for home"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:08.974Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-vase-003",
+    "name": "Glass Cylinder Vase",
+    "description": "Clear glass cylinder vase with modern proportions. Versatile for any arrangement.",
+    "price": 35,
+    "compareAtPrice": null,
+    "primaryImage": "vase-3.jpeg",
+    "images": [
+      "vase-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Vases",
+        "slug": "vase"
+      },
+      "productType": "vase"
+    },
+    "attributes": {
+      "color": [
+        "Taupe"
+      ],
+      "material": [
+        "Ceramic"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "vase",
+      "glass",
+      "cylinder",
+      "clear",
+      "modern",
+      "ceramic",
+      "ribbed",
+      "neutral",
+      "decor",
+      "taupe",
+      "textured",
+      "minimalist",
+      "elegant",
+      "home decor",
+      "interior design",
+      "flower vase",
+      "decorative",
+      "living room",
+      "dining room",
+      "bedroom",
+      "cylindrical",
+      "matte finish",
+      "durable",
+      "versatile",
+      "stylish",
+      "sophisticated",
+      "clean lines",
+      "tall vase",
+      "set of vases",
+      "display",
+      "arrangement",
+      "home accessory",
+      "design piece",
+      "accent decor",
+      "contemporary",
+      "artistic",
+      "Glass Cylinder Vase",
+      "elegant vase",
+      "clear glass vase",
+      "floral centerpiece",
+      "dining table decor",
+      "mantelpiece vase",
+      "12-inch vase",
+      "contemporary vase",
+      "traditional vase",
+      "decorative vase",
+      "glass decor",
+      "modern vase",
+      "minimalist vase",
+      "transparent vase",
+      "entryway decor",
+      "living room vase",
+      "high-quality glass",
+      "versatile vase",
+      "timeless elegance",
+      "centerpiece vase",
+      "decor statement"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.4,
+      "reviewCount": 78
+    },
+    "enrichedDescription": {
+      "short": "Sleek glass cylinder vase, perfect for showcasing floral arrangements and enhancing your decor.",
+      "long": "Elevate your decor with our Glass Cylinder Vase, a sleek and sophisticated piece ideal for any setting. Crafted from high-quality clear glass, this vase effortlessly complements both traditional and contemporary interiors. Its simple, cylindrical shape provides a versatile canvas for showcasing your favorite floral arrangements or decorative elements, such as stones or fairy lights. The transparency of the glass and its minimalist design make it a captivating centerpiece for dining tables, mantels, or entryways. At 12 inches tall, it offers ample space for long-stemmed flowers, bringing elegance and freshness to any room. Whether used solo or grouped with other vases, this piece adds a touch of timeless elegance to your home decor.",
+      "features": [
+        "High-quality clear glass construction",
+        "Simple, elegant cylindrical design",
+        "Versatile for various decor styles",
+        "Ideal for long-stemmed floral arrangements",
+        "Perfect centerpiece for tables and mantels",
+        "12 inches tall for ample display space"
+      ],
+      "careInstructions": "Hand wash with warm soapy water. Dry thoroughly to prevent water spots. Handle with care to avoid chipping.",
+      "materialComposition": "100% Glass"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Taupe",
+          "hex": "#B38B6D",
+          "category": "primary"
+        }
+      ],
+      "pattern": "ribbed",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "cylindrical",
+      "silhouette": "Tall with ribbed texture and clean lines"
+    },
+    "seo": {
+      "metaTitle": "Glass Cylinder Vase - Elegant Decor for Any Setting",
+      "metaDescription": "Enhance your home with our Glass Cylinder Vase. Perfect for floral displays, this sleek, 12-inch centerpiece adds timeless elegance. Shop now!",
+      "altText": "Glass Cylinder Vase showcasing floral arrangements, ideal for modern and traditional decor settings.",
+      "keywords": [
+        "Glass Cylinder Vase",
+        "home decor",
+        "elegant vase",
+        "clear glass vase",
+        "floral centerpiece",
+        "dining table decor",
+        "mantelpiece vase",
+        "12-inch vase",
+        "contemporary vase",
+        "traditional vase",
+        "decorative vase",
+        "flower vase",
+        "glass decor",
+        "interior design",
+        "modern vase",
+        "minimalist vase",
+        "transparent vase",
+        "entryway decor",
+        "living room vase",
+        "high-quality glass",
+        "versatile vase",
+        "timeless elegance",
+        "centerpiece vase",
+        "home accessory",
+        "decor statement"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:22.213Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-vase-004",
+    "name": "Ribbed Ceramic Vase",
+    "description": "Textured ribbed ceramic vase in sage green. Adds visual interest to any space.",
+    "price": 48,
+    "compareAtPrice": null,
+    "primaryImage": "vase-4.jpeg",
+    "images": [
+      "vase-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Vases",
+        "slug": "vase"
+      },
+      "productType": "vase"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige",
+        "Soft Taupe"
+      ],
+      "material": [
+        "Ceramic"
+      ],
+      "style": [
+        "Modern",
+        "Transitional"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "vase",
+      "ceramic",
+      "ribbed",
+      "green",
+      "textured",
+      "earthy tones",
+      "modern decor",
+      "transitional style",
+      "home accessory",
+      "living room",
+      "bedroom",
+      "natural finish",
+      "organic shape",
+      "decorative vase",
+      "centerpiece",
+      "floral arrangement",
+      "home decor",
+      "elegant design",
+      "durable ceramic",
+      "visual interest",
+      "sophisticated",
+      "calm ambiance",
+      "versatile decor",
+      "stylish accessory",
+      "interior design",
+      "decor piece",
+      "artistic vase",
+      "unique design",
+      "decorative accessory",
+      "home styling",
+      "modern vase",
+      "transitional vase",
+      "textured vase",
+      "ribbed ceramic vase",
+      "beige vase",
+      "taupe vase",
+      "natural vase",
+      "decorative item",
+      "home enhancement",
+      "decor enhancement",
+      "room decor",
+      "decor inspiration",
+      "decorative art",
+      "stylish decor",
+      "interior styling",
+      "home aesthetics",
+      "elegant decor",
+      "home centerpiece",
+      "living room decor",
+      "bedroom decor",
+      "natural finish vase",
+      "organic shape vase",
+      "floral arrangement vase",
+      "durable ceramic vase",
+      "visual interest vase",
+      "sophisticated vase",
+      "calm ambiance decor",
+      "interior design vase",
+      "unique design vase",
+      "home styling vase"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 112
+    },
+    "enrichedDescription": {
+      "short": "Elegant ribbed ceramic vase in earthy tones, perfect for enhancing any decor.",
+      "long": "Introducing the Ribbed Ceramic Vase, a masterpiece in home decor that effortlessly marries sophistication with simplicity. Its earthy tones and ribbed texture create a visual symphony that resonates with both modern and transitional styles. Standing tall with an organic shape, it serves as a captivating centerpiece in any room, be it your cozy living room or serene bedroom. Crafted from durable ceramic, this vase is designed to elegantly cradle both dried and fresh floral arrangements. The natural finish exudes a calming ambiance, making it not just a vase, but a piece of art that enhances your space's aesthetic appeal. Elevate your home decor with this exquisite vase, where elegance meets function.",
+      "features": [
+        "Ribbed texture for added visual interest",
+        "Earthy tones complement various decor styles",
+        "Durable ceramic construction",
+        "Ideal for dried or fresh floral arrangements",
+        "Versatile design suitable for multiple rooms",
+        "Natural finish for a serene ambiance",
+        "Organic shape enhances aesthetic appeal"
+      ],
+      "careInstructions": "Wipe with a damp cloth to clean. Avoid harsh chemicals to preserve the finish.",
+      "materialComposition": "100% Ceramic"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A6",
+          "category": "primary"
+        },
+        {
+          "name": "Soft Taupe",
+          "hex": "#B8A48D",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "ribbed",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Tall and slender with a rounded base"
+    },
+    "seo": {
+      "metaTitle": "Ribbed Ceramic Vase - Elegant Decor Centerpiece",
+      "metaDescription": "Elevate your home with the Ribbed Ceramic Vase. Its earthy tones and ribbed texture create a stunning centerpiece. Perfect for dried or fresh flowers. Shop now!",
+      "altText": "Ribbed ceramic vase in warm beige and soft taupe, ideal for modern decor.",
+      "keywords": [
+        "ribbed ceramic vase",
+        "elegant decor",
+        "home centerpiece",
+        "modern vase",
+        "transitional style",
+        "earthy tones",
+        "textured vase",
+        "decorative vase",
+        "home accessory",
+        "living room decor",
+        "bedroom decor",
+        "natural finish vase",
+        "organic shape vase",
+        "floral arrangement vase",
+        "durable ceramic vase",
+        "visual interest vase",
+        "sophisticated vase",
+        "calm ambiance decor",
+        "versatile decor",
+        "stylish accessory",
+        "interior design vase",
+        "artistic vase",
+        "unique design vase",
+        "decorative accessory",
+        "home styling vase",
+        "beige vase",
+        "taupe vase",
+        "home enhancement",
+        "decor inspiration"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:22.739Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-candle-001",
+    "name": "Soy Wax Pillar Candle",
+    "description": "Hand-poured soy wax pillar candle in vanilla scent. Clean burning and long-lasting.",
+    "price": 24,
+    "compareAtPrice": null,
+    "primaryImage": "candle-1.jpeg",
+    "images": [
+      "candle-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Candles",
+        "slug": "candle"
+      },
+      "productType": "candle"
+    },
+    "attributes": {
+      "color": [
+        "Ivory",
+        "Warm Brass"
+      ],
+      "material": [
+        "Soy Wax",
+        "Brass"
+      ],
+      "style": [
+        "Classic",
+        "Vintage"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Bathroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "candle",
+      "soy",
+      "pillar",
+      "vanilla",
+      "scented",
+      "soy wax",
+      "pillar candle",
+      "vanilla scent",
+      "home decor",
+      "classic style",
+      "brass holder",
+      "elegant",
+      "long-lasting",
+      "clean burning",
+      "living room",
+      "bedroom",
+      "bathroom",
+      "relaxation",
+      "hand-poured",
+      "smooth finish",
+      "cylindrical shape",
+      "vintage",
+      "soy wax candle",
+      "vanilla scented candle",
+      "home decor candles",
+      "elegant candles",
+      "classic style candle",
+      "brass candle holder",
+      "long-lasting candle",
+      "clean burning candle",
+      "hand-poured candle",
+      "smooth finish candle",
+      "cylindrical candle",
+      "vintage candle style",
+      "cozy ambiance candle",
+      "living room decor",
+      "bedroom candle",
+      "bathroom candle",
+      "relaxation candle",
+      "ivory candle",
+      "warm brass holder",
+      "matte finish candle",
+      "tall candle",
+      "soy wax decor",
+      "elegant home decor",
+      "serene sanctuary candle",
+      "classic decor style"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.9,
+      "reviewCount": 234
+    },
+    "enrichedDescription": {
+      "short": "Elegant soy wax pillar candle with soothing vanilla aroma.",
+      "long": "Transform your home into a serene sanctuary with our Soy Wax Pillar Candle. Hand-poured to perfection, this candle boasts a smooth ivory finish that complements any decor style. Its warm vanilla scent gently infuses your space, creating a cozy ambiance perfect for unwinding in the living room, bedroom, or bathroom. Enjoy clean burning and long-lasting illumination, accentuated by a vintage brass holder that adds a touch of timeless elegance to your surroundings.",
+      "features": [
+        "Hand-poured for quality craftsmanship",
+        "Inviting warm vanilla aroma",
+        "Clean burning for minimal soot",
+        "Durable, long-lasting burn",
+        "Elegant classic design",
+        "Complementary vintage brass holder",
+        "Smooth ivory finish"
+      ],
+      "careInstructions": "Trim wick to 1/4 inch before each use. Avoid drafts and keep away from flammable materials. Allow the wax to pool across the surface before extinguishing.",
+      "materialComposition": "100% soy wax with cotton wick, brass holder"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Brass",
+          "hex": "#B8860B",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "cylindrical",
+      "silhouette": "Tall and slender with a smooth surface"
+    },
+    "seo": {
+      "metaTitle": "Soy Wax Pillar Candle - Warm Vanilla Scent & Brass Holder",
+      "metaDescription": "Elevate your space with our Soy Wax Pillar Candle. Hand-poured, clean-burning, and long-lasting with a warm vanilla scent. Order now for a cozy ambiance!",
+      "altText": "Hand-poured soy wax pillar candle with warm vanilla scent in a vintage brass holder.",
+      "keywords": [
+        "soy wax candle",
+        "pillar candle",
+        "vanilla scented candle",
+        "home decor candles",
+        "elegant candles",
+        "classic style candle",
+        "brass candle holder",
+        "long-lasting candle",
+        "clean burning candle",
+        "hand-poured candle",
+        "smooth finish candle",
+        "cylindrical candle",
+        "vintage candle style",
+        "cozy ambiance candle",
+        "living room decor",
+        "bedroom candle",
+        "bathroom candle",
+        "relaxation candle",
+        "ivory candle",
+        "warm brass holder",
+        "matte finish candle",
+        "tall candle",
+        "soy wax decor",
+        "elegant home decor",
+        "serene sanctuary candle",
+        "classic decor style"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:34.399Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-vase-005",
+    "name": "Brass Metallic Vase",
+    "description": "Brushed brass metallic vase with organic form. A luxurious accent piece.",
+    "price": 72,
+    "compareAtPrice": 95,
+    "primaryImage": "vase-5.jpeg",
+    "images": [
+      "vase-5.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Vases",
+        "slug": "vase"
+      },
+      "productType": "vase"
+    },
+    "attributes": {
+      "color": [
+        "Brass",
+        "Gold"
+      ],
+      "material": [
+        "Brass"
+      ],
+      "style": [
+        "Glamorous",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "vase",
+      "brass",
+      "metallic",
+      "gold",
+      "luxury",
+      "decor",
+      "modern",
+      "glamorous",
+      "accent piece",
+      "home decor",
+      "elegant",
+      "sophisticated",
+      "organic shape",
+      "flower vase",
+      "interior design",
+      "living room",
+      "dining room",
+      "office",
+      "gift",
+      "stylish",
+      "contemporary",
+      "artistic",
+      "display",
+      "centerpiece",
+      "unique",
+      "high-end",
+      "polished",
+      "versatile",
+      "decorative",
+      "brass metallic vase",
+      "brushed brass finish",
+      "modern decor vase",
+      "elegant home decor",
+      "luxury vase",
+      "organic shape vase",
+      "glamorous decor piece",
+      "sophisticated vase",
+      "interior design vase",
+      "living room decor",
+      "dining room centerpiece",
+      "office decor",
+      "contemporary vase",
+      "decorative brass vase",
+      "stylish home accent",
+      "high-end decor",
+      "unique vase design",
+      "modern vase",
+      "artistic vase",
+      "polished brass decor",
+      "versatile vase",
+      "home decor accent",
+      "elegant centerpiece",
+      "luxurious vase",
+      "brass home decor",
+      "decorative flower vase",
+      "organic form vase",
+      "modern home accessory"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.5,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Elegant brushed brass vase with a luxurious organic form.",
+      "long": "Elevate your interior with the Brass Metallic Vase, a stunning piece that embodies both art and functionality. Its brushed brass finish radiates a warm, golden glow that captures the eye, while the organic silhouette adds a modern touch to any setting. Perfectly sized for showcasing fresh or dried blooms, this vase becomes a centerpiece that seamlessly complements contemporary decor. Whether placed in a living room, dining area, or office, its glamorous presence enriches your space with sophistication and style. Crafted from 100% brass, this vase is not just a decoration but a statement of elegance.",
+      "features": [
+        "Brushed brass finish",
+        "Organic, modern silhouette",
+        "Ideal for fresh or dried flowers",
+        "Sophisticated accent piece",
+        "Enhances contemporary decor",
+        "Perfect for living room or office",
+        "Warm, golden glow"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid using harsh chemicals or abrasives to preserve the finish.",
+      "materialComposition": "100% Brass"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Brass",
+          "hex": "#B5A642",
+          "category": "primary"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFD700",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "brushed",
+      "finish": "brushed",
+      "shape": "organic",
+      "silhouette": "Curved form with a sleek profile"
+    },
+    "seo": {
+      "metaTitle": "Brass Metallic Vase - Elegant Brushed Finish Decor",
+      "metaDescription": "Enhance your decor with the Brass Metallic Vase. Its brushed finish and modern design make it a stunning centerpiece. Shop now for elegance!",
+      "altText": "Elegant brass metallic vase with a brushed finish and organic shape, perfect for modern decor.",
+      "keywords": [
+        "brass metallic vase",
+        "brushed brass finish",
+        "modern decor vase",
+        "elegant home decor",
+        "luxury vase",
+        "organic shape vase",
+        "glamorous decor piece",
+        "sophisticated vase",
+        "interior design vase",
+        "flower vase",
+        "living room decor",
+        "dining room centerpiece",
+        "office decor",
+        "contemporary vase",
+        "decorative brass vase",
+        "stylish home accent",
+        "high-end decor",
+        "unique vase design",
+        "modern vase",
+        "artistic vase",
+        "polished brass decor",
+        "versatile vase",
+        "home decor accent",
+        "elegant centerpiece",
+        "luxurious vase",
+        "brass home decor",
+        "decorative flower vase",
+        "organic form vase",
+        "modern home accessory"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:35.421Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-candle-002",
+    "name": "Concrete Candle Holder Set",
+    "description": "Set of 3 concrete candle holders in varying sizes. Industrial modern aesthetic.",
+    "price": 42,
+    "compareAtPrice": 55,
+    "primaryImage": "candle-2.jpeg",
+    "images": [
+      "candle-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Candles",
+        "slug": "candle"
+      },
+      "productType": "candle"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown"
+      ],
+      "material": [
+        "Wood"
+      ],
+      "style": [
+        "Modern",
+        "Traditional"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Office"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Everyday"
+      ]
+    },
+    "tags": [
+      "candle holder",
+      "concrete",
+      "industrial",
+      "set",
+      "modern",
+      "wooden decor",
+      "modern design",
+      "traditional style",
+      "home accessory",
+      "tabletop decor",
+      "natural wood",
+      "polished finish",
+      "set of five",
+      "elegant curves",
+      "warm chestnut brown",
+      "living room",
+      "dining room",
+      "office",
+      "entertaining",
+      "everyday use",
+      "sophisticated decor",
+      "versatile design",
+      "home decor",
+      "interior styling",
+      "decorative set",
+      "natural finish",
+      "solid wood",
+      "smooth texture",
+      "organic shapes",
+      "stylish accessory",
+      "timeless piece",
+      "dynamic display",
+      "mantel decor",
+      "sideboard accessory",
+      "concrete candle holder",
+      "modern decor",
+      "industrial chic",
+      "candle holder set",
+      "minimalist design",
+      "elegant candle holders",
+      "gray candle holders",
+      "concrete decor",
+      "sophisticated ambiance",
+      "dining table decor",
+      "mantelpiece accessories",
+      "sideboard decor",
+      "versatile home accessory",
+      "modern elegance",
+      "chic industrial style",
+      "contemporary candle holders",
+      "decorative candle holders",
+      "stylish candle holders",
+      "neutral color decor",
+      "home styling",
+      "interior decor",
+      "sophisticated design",
+      "modern home accessory",
+      "concrete home decor",
+      "matte finish candle holders",
+      "elegant home decor",
+      "industrial home decor",
+      "decorative accessories"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.6,
+      "reviewCount": 98
+    },
+    "enrichedDescription": {
+      "short": "Stylish concrete candle holder set with sleek, modern design for a chic and minimalist touch.",
+      "long": "Transform your space with our Concrete Candle Holder Set, perfect for adding a touch of modern elegance. This set includes three distinct holders, each crafted from high-quality concrete that showcases a smooth, matte finish. The minimalist design, with its clean lines and sturdy construction, brings a chic industrial vibe to any room. Arrange them on your dining table, mantel, or sideboard to create a sophisticated ambiance. Their neutral gray color effortlessly complements any decor style, making them a versatile addition to your home. Whether you're hosting a dinner party or enjoying a quiet evening, these candle holders will illuminate your space with style and grace.",
+      "features": [
+        "Set of three concrete candle holders",
+        "Smooth, matte finish for a modern look",
+        "Sturdy and durable construction",
+        "Neutral gray color complements any decor",
+        "Perfect for dining tables, mantels, or sideboards",
+        "Adds a chic industrial vibe",
+        "Ideal for both everyday and special occasions"
+      ],
+      "careInstructions": "Wipe with a damp cloth to clean. Avoid using abrasive cleaners. Keep away from direct sunlight to prevent color fading.",
+      "materialComposition": "100% high-quality concrete"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B4513",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "polished",
+      "shape": "organic",
+      "silhouette": "Varied heights with elegant curves"
+    },
+    "seo": {
+      "metaTitle": "Concrete Candle Holder Set - Modern Elegance for Your Decor",
+      "metaDescription": "Elevate your space with our Concrete Candle Holder Set. Perfect for modern elegance, this versatile set adds sophistication to any decor. Shop now!",
+      "altText": "Set of three concrete candle holders with a smooth matte finish and modern design.",
+      "keywords": [
+        "concrete candle holder",
+        "modern decor",
+        "industrial chic",
+        "home decor",
+        "candle holder set",
+        "minimalist design",
+        "elegant candle holders",
+        "gray candle holders",
+        "concrete decor",
+        "sophisticated ambiance",
+        "dining table decor",
+        "mantelpiece accessories",
+        "sideboard decor",
+        "versatile home accessory",
+        "modern elegance",
+        "chic industrial style",
+        "contemporary candle holders",
+        "decorative candle holders",
+        "stylish candle holders",
+        "neutral color decor",
+        "home styling",
+        "interior decor",
+        "sophisticated design",
+        "modern home accessory",
+        "concrete home decor",
+        "decorative set",
+        "matte finish candle holders",
+        "elegant home decor",
+        "industrial home decor",
+        "decorative accessories"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:48.555Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-candle-003",
+    "name": "Glass Jar Candle",
+    "description": "Amber glass jar candle with cedar and sandalwood fragrance.",
+    "price": 32,
+    "compareAtPrice": null,
+    "primaryImage": "candle-3.jpeg",
+    "images": [
+      "candle-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Candles",
+        "slug": "candle"
+      },
+      "productType": "candle"
+    },
+    "attributes": {
+      "color": [
+        "Warm Brass",
+        "Ivory"
+      ],
+      "material": [
+        "Brass"
+      ],
+      "style": [
+        "Modern",
+        "Vintage"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Special Occasions"
+      ]
+    },
+    "tags": [
+      "candle",
+      "glass jar",
+      "amber",
+      "cedar",
+      "sandalwood",
+      "candle holder",
+      "brass",
+      "spherical design",
+      "tapered candles",
+      "elegant decor",
+      "ambient lighting",
+      "modern style",
+      "vintage style",
+      "home decor",
+      "tabletop display",
+      "decorative",
+      "functional",
+      "stable base",
+      "smooth finish",
+      "polished brass",
+      "living room",
+      "dining room",
+      "bedroom",
+      "special occasions",
+      "entertaining",
+      "ambient light",
+      "stylish",
+      "sophisticated",
+      "unique design",
+      "warm brass",
+      "ivory candles",
+      "set of candle holders",
+      "decor accent",
+      "home accessory",
+      "interior design",
+      "decorative lighting",
+      "classic look",
+      "timeless piece",
+      "artistic",
+      "luxury decor",
+      "gift idea",
+      "centerpiece",
+      "table decoration",
+      "holiday decor",
+      "festive",
+      "glass jar candle",
+      "home decor candle",
+      "elegant candle",
+      "soothing aroma candle",
+      "decorative candle",
+      "modern candle decor",
+      "rustic candle style",
+      "sophisticated candle",
+      "ambient lighting candle",
+      "tranquil candle",
+      "home ambiance candle",
+      "decor piece candle",
+      "minimalist design candle",
+      "candle for special occasions",
+      "warm glow candle",
+      "peaceful retreat candle",
+      "elevate home decor",
+      "luxury candle",
+      "candle for calming evenings",
+      "room decor candle",
+      "glass encased candle",
+      "aromatic candle",
+      "candle for modern decor",
+      "candle with inviting glow",
+      "decorative lighting candle",
+      "candle for rustic decor",
+      "scented candle",
+      "candle with warm brass accents",
+      "candle with ivory highlights",
+      "candle for living room"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 187
+    },
+    "enrichedDescription": {
+      "short": "Transform your space with our aromatic Glass Jar Candle, blending style and serenity for $32.",
+      "long": "Elevate your home ambiance with our exquisite Glass Jar Candle, an essential decor piece that combines elegance with tranquility. Encased in a sleek, transparent glass jar, this candle adds a touch of sophistication to any room while offering a warm, inviting glow. As the flame flickers, it releases a soothing aroma that dances through the air, creating a peaceful retreat right in your living space. Priced at $32, it's a perfect addition to your decor collection, ideal for calming evenings or setting the mood for special occasions. Its minimalist design seamlessly blends with various decor styles, ensuring it complements any aesthetic from modern to rustic.",
+      "features": [
+        "Elegant transparent glass jar",
+        "Soothing aromatic experience",
+        "Warm, inviting glow",
+        "Blends with modern and rustic decor",
+        "Ideal for relaxation and special occasions",
+        "Perfect size for various spaces",
+        "Long-lasting burn time"
+      ],
+      "careInstructions": "Trim wick to 1/4 inch before each use. Allow wax to pool evenly for the first burn. Store in a cool, dry place away from direct sunlight.",
+      "materialComposition": "High-quality paraffin wax, cotton wick, and a durable glass jar."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Brass",
+          "hex": "#B8860B",
+          "category": "primary"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "polished",
+      "shape": "organic",
+      "silhouette": "Tall and slender with spherical bases"
+    },
+    "seo": {
+      "metaTitle": "Glass Jar Candle - Elegant Decor with Soothing Aroma",
+      "metaDescription": "Enhance your home ambiance with our Glass Jar Candle. Its elegant design and soothing aroma make it a must-have for tranquil evenings. Buy now for $32!",
+      "altText": "Glass Jar Candle in a sleek transparent jar, offering a warm glow and soothing aroma.",
+      "keywords": [
+        "glass jar candle",
+        "home decor candle",
+        "elegant candle",
+        "soothing aroma candle",
+        "decorative candle",
+        "modern candle decor",
+        "rustic candle style",
+        "sophisticated candle",
+        "ambient lighting candle",
+        "tranquil candle",
+        "home ambiance candle",
+        "decor piece candle",
+        "minimalist design candle",
+        "candle for special occasions",
+        "warm glow candle",
+        "peaceful retreat candle",
+        "elevate home decor",
+        "luxury candle",
+        "candle for calming evenings",
+        "room decor candle",
+        "glass encased candle",
+        "aromatic candle",
+        "candle for modern decor",
+        "candle with inviting glow",
+        "decorative lighting candle",
+        "candle for rustic decor",
+        "scented candle",
+        "candle with warm brass accents",
+        "candle with ivory highlights",
+        "candle for living room"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:59:49.897Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-candle-004",
+    "name": "Brass Candle Stick Pair",
+    "description": "Elegant brass candlestick holders in a tapered design. Sold as a pair.",
+    "price": 58,
+    "compareAtPrice": null,
+    "primaryImage": "candle-4.jpeg",
+    "images": [
+      "candle-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Candles",
+        "slug": "candle"
+      },
+      "productType": "candle"
+    },
+    "attributes": {
+      "color": [
+        "Jet Black"
+      ],
+      "material": [
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Dining Room",
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Romantic Dinner"
+      ]
+    },
+    "tags": [
+      "candlestick",
+      "brass",
+      "pair",
+      "elegant",
+      "traditional",
+      "candle holder",
+      "black",
+      "fluted",
+      "modern",
+      "contemporary",
+      "decor",
+      "sophisticated",
+      "pillar candle",
+      "home decor",
+      "ambient lighting",
+      "table centerpiece",
+      "mantel display",
+      "metal",
+      "textured",
+      "matte finish",
+      "tapered design",
+      "brass candle stick pair",
+      "elegant candle holders",
+      "fluted design decor",
+      "modern candle holders",
+      "contemporary decor",
+      "home decor candle holders",
+      "sophisticated candle sticks",
+      "brass decor items",
+      "dining table candle holders",
+      "mantel candle display",
+      "pillar candle holders",
+      "ambient lighting decor",
+      "metal candle holders",
+      "decorative candle sticks",
+      "black finish candle holders",
+      "modern home accessories",
+      "contemporary candle decor",
+      "elegant home accents",
+      "fluted candle holders",
+      "matte finish decor",
+      "tapered silhouette candle holders",
+      "decorative brass items",
+      "stylish candle holders",
+      "luxury home decor",
+      "statement candle holders",
+      "classic candle holder design",
+      "warm ambiance decor",
+      "sophisticated home lighting",
+      "dining room candle decor",
+      "living room candle accents"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Timeless brass candle sticks add elegance and warmth to any space, perfect for creating a sophisticated ambiance.",
+      "long": "Elevate your home with the Brass Candle Stick Pair, a stunning duo that effortlessly combines classic elegance with modern charm. Each candlestick is exquisitely crafted from premium brass, offering a warm, golden glow that enhances any decor style. Standing tall and graceful, these candle holders are perfect for dining tables, mantels, or as statement pieces on a sideboard. Their sleek silhouette and lustrous finish catch the light beautifully, creating an inviting and cozy atmosphere. Whether hosting a dinner party or enjoying a quiet evening, these candle sticks add a touch of sophistication and warmth to your space.",
+      "features": [
+        "Crafted from premium brass",
+        "Sleek and timeless design",
+        "Perfect for dining tables or mantels",
+        "Adds a warm, golden glow",
+        "Enhances any decor style",
+        "Sold as a pair"
+      ],
+      "careInstructions": "Gently wipe with a soft, dry cloth. Avoid using abrasive cleaners to maintain the brass finish.",
+      "materialComposition": "100% Brass"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Jet Black",
+          "hex": "#343434",
+          "category": "primary"
+        }
+      ],
+      "pattern": "fluted",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "tapered with fluted details"
+    },
+    "seo": {
+      "metaTitle": "Brass Candle Stick Pair - Elegant Fluted Design Decor",
+      "metaDescription": "Enhance your decor with our Brass Candle Stick Pair. Crafted from premium brass, these elegant holders add warmth and sophistication. Shop now!",
+      "altText": "Elegant brass candle stick pair with fluted design, perfect for sophisticated decor.",
+      "keywords": [
+        "brass candle stick pair",
+        "elegant candle holders",
+        "fluted design decor",
+        "modern candle holders",
+        "contemporary decor",
+        "home decor candle holders",
+        "sophisticated candle sticks",
+        "brass decor items",
+        "dining table candle holders",
+        "mantel candle display",
+        "pillar candle holders",
+        "ambient lighting decor",
+        "metal candle holders",
+        "decorative candle sticks",
+        "black finish candle holders",
+        "modern home accessories",
+        "contemporary candle decor",
+        "elegant home accents",
+        "fluted candle holders",
+        "matte finish decor",
+        "tapered silhouette candle holders",
+        "decorative brass items",
+        "stylish candle holders",
+        "luxury home decor",
+        "statement candle holders",
+        "classic candle holder design",
+        "warm ambiance decor",
+        "sophisticated home lighting",
+        "dining room candle decor",
+        "living room candle accents"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:00:01.674Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-object-001",
+    "name": "Marble Bookends",
+    "description": "Pair of white marble bookends with geometric design. Heavy and sturdy.",
+    "price": 85,
+    "compareAtPrice": null,
+    "primaryImage": "object-1.jpeg",
+    "images": [
+      "object-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Decorative Objects",
+        "slug": "decorative-object"
+      },
+      "productType": "decorative-object"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown"
+      ],
+      "material": [
+        "Solid Wood"
+      ],
+      "style": [
+        "Modern",
+        "Rustic"
+      ],
+      "room": [
+        "Dining Room",
+        "Kitchen",
+        "Living Room"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Everyday"
+      ]
+    },
+    "tags": [
+      "bookends",
+      "marble",
+      "geometric",
+      "white",
+      "modern",
+      "wine holder",
+      "wooden decor",
+      "wavy design",
+      "bottle storage",
+      "modern style",
+      "rustic charm",
+      "home bar",
+      "kitchen accessory",
+      "entertaining",
+      "functional decor",
+      "artistic piece",
+      "solid wood",
+      "natural finish",
+      "unique design",
+      "sculptural form",
+      "warm tones",
+      "elegant storage",
+      "stylish display",
+      "home accessory",
+      "decorative object",
+      "gift idea",
+      "handcrafted",
+      "quality craftsmanship",
+      "interior decor",
+      "space-saving",
+      "compact design",
+      "versatile use",
+      "eye-catching",
+      "conversation starter",
+      "home improvement",
+      "luxury decor",
+      "premium material",
+      "designer piece",
+      "statement decor",
+      "artistic touch",
+      "modern rustic",
+      "wood grain",
+      "natural beauty",
+      "warm chestnut brown",
+      "marble bookends",
+      "elegant bookends",
+      "decorative bookends",
+      "premium marble",
+      "natural veining",
+      "bookshelf decor",
+      "home accessories",
+      "artistic bookends",
+      "modern interiors",
+      "classic interiors",
+      "stylish bookends",
+      "book support",
+      "sophisticated decor",
+      "gift for book lovers",
+      "home decor",
+      "interior design",
+      "elegant home accents",
+      "shelf decor",
+      "mantle decor",
+      "book organization",
+      "decorative accents",
+      "marble decor",
+      "luxury home goods",
+      "modern home decor",
+      "classic home decor",
+      "artistic home accents",
+      "premium home decor",
+      "stylish home accessories"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 112
+    },
+    "enrichedDescription": {
+      "short": "Sophisticated marble bookends for elegant book display and organization.",
+      "long": "Elevate your bookshelf with our exquisite Marble Bookends, a perfect blend of elegance and functionality. Each piece is crafted from premium quality marble, showcasing natural veining that adds an artistic touch to your décor. These bookends not only provide stable support for your books but also serve as a stunning focal point on any shelf or mantle. The smooth, cool texture of the marble exudes luxury, making them a perfect addition to both modern and classic interiors. Whether you're organizing your literary collection or displaying art books, these bookends will enhance the aesthetic appeal of your space. Priced at $85, they offer both style and substance, making them an ideal gift for book lovers or a sophisticated accent for your own home.",
+      "features": [
+        "Crafted from premium quality marble",
+        "Natural veining for a unique appearance",
+        "Heavy and stable for secure book support",
+        "Elegant design suitable for any décor style",
+        "Perfect for organizing books or displaying art",
+        "Enhances aesthetic appeal of shelves and mantles"
+      ],
+      "careInstructions": "Wipe with a soft, damp cloth; avoid harsh cleaners. Use coasters to prevent staining.",
+      "materialComposition": "100% natural marble"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B4513",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "natural",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Tall and wavy with a sculptural form"
+    },
+    "seo": {
+      "metaTitle": "Elegant Marble Bookends - Luxury Decor with Natural Veining",
+      "metaDescription": "Enhance your bookshelf with our luxurious Marble Bookends. Crafted from premium marble, they add elegance and stability. Order now for a stylish touch!",
+      "altText": "Elegant marble bookends with natural veining, providing stylish support for books.",
+      "keywords": [
+        "marble bookends",
+        "luxury decor",
+        "elegant bookends",
+        "decorative bookends",
+        "premium marble",
+        "natural veining",
+        "bookshelf decor",
+        "home accessories",
+        "artistic bookends",
+        "modern interiors",
+        "classic interiors",
+        "stylish bookends",
+        "book support",
+        "sophisticated decor",
+        "gift for book lovers",
+        "home decor",
+        "interior design",
+        "elegant home accents",
+        "shelf decor",
+        "mantle decor",
+        "book organization",
+        "decorative accents",
+        "marble decor",
+        "luxury home goods",
+        "modern home decor",
+        "classic home decor",
+        "artistic home accents",
+        "premium home decor",
+        "functional decor",
+        "stylish home accessories"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:00:03.713Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-object-002",
+    "name": "Wooden Sculptural Object",
+    "description": "Hand-carved wooden abstract sculpture. Each piece is unique.",
+    "price": 125,
+    "compareAtPrice": 165,
+    "primaryImage": "object-2.jpeg",
+    "images": [
+      "object-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Decorative Objects",
+        "slug": "decorative-object"
+      },
+      "productType": "decorative-object"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown"
+      ],
+      "material": [
+        "Wood"
+      ],
+      "style": [
+        "Artistic",
+        "Bohemian"
+      ],
+      "room": [
+        "Living Room",
+        "Office",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Artistic Display"
+      ]
+    },
+    "tags": [
+      "sculpture",
+      "wood",
+      "hand-carved",
+      "abstract",
+      "artistic",
+      "decor",
+      "unique",
+      "bohemian",
+      "modern",
+      "living room",
+      "office",
+      "entryway",
+      "conversation starter",
+      "organic shape",
+      "smooth finish",
+      "warm chestnut brown",
+      "solid wood",
+      "artistic display",
+      "elegant",
+      "stylish",
+      "home decor",
+      "interior design",
+      "handmade",
+      "craftsmanship",
+      "natural material",
+      "decorative object",
+      "gift idea",
+      "minimalist",
+      "statement piece",
+      "design element",
+      "creative",
+      "versatile",
+      "accent piece",
+      "modern art",
+      "boho chic",
+      "unique piece",
+      "artisan",
+      "wooden sculpture",
+      "hand-carved decor",
+      "abstract artistry",
+      "bohemian decor",
+      "modern decor",
+      "living room art",
+      "office decor",
+      "entryway sculpture",
+      "elegant home decor",
+      "stylish interior design",
+      "handmade craftsmanship",
+      "minimalist art",
+      "creative decor",
+      "versatile accent",
+      "artisan sculpture"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.6,
+      "reviewCount": 45
+    },
+    "enrichedDescription": {
+      "short": "Elegant hand-carved wooden sculpture with an abstract design, perfect for any decor.",
+      "long": "Introducing the Wooden Sculptural Object, an exquisite hand-carved masterpiece that embodies abstract artistry. Bathed in a rich, warm chestnut brown hue, this sculpture exudes a natural elegance with its smooth finish and organic shape. Designed to be a conversation starter, it seamlessly complements bohemian or modern decor themes, making it a versatile addition to your living room, office, or entryway. Each piece is unique, reflecting the artisanal craftsmanship that goes into its creation. Elevate your space with this artistic object that stands as both a decorative accent and a testament to fine design.",
+      "features": [
+        "Hand-carved abstract design",
+        "Warm chestnut brown color",
+        "Smooth, matte finish",
+        "Unique, individual piece",
+        "Perfect for bohemian or modern decor",
+        "Ideal for living rooms, offices, or entryways"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid direct sunlight and moisture to preserve its natural beauty.",
+      "materialComposition": "100% solid wood"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B4513",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Abstract form with flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Wooden Sculptural Object - Hand-Carved Abstract Decor",
+      "metaDescription": "Discover the Wooden Sculptural Object, a hand-carved masterpiece perfect for bohemian or modern decor. Elevate your space today with this unique art piece!",
+      "altText": "Elegant hand-carved wooden sculpture with abstract design, warm chestnut brown color.",
+      "keywords": [
+        "wooden sculpture",
+        "hand-carved decor",
+        "abstract artistry",
+        "bohemian decor",
+        "modern decor",
+        "living room art",
+        "office decor",
+        "entryway sculpture",
+        "conversation starter",
+        "organic shape",
+        "smooth finish",
+        "warm chestnut brown",
+        "solid wood",
+        "artistic display",
+        "elegant home decor",
+        "stylish interior design",
+        "handmade craftsmanship",
+        "natural material",
+        "decorative object",
+        "gift idea",
+        "minimalist art",
+        "statement piece",
+        "design element",
+        "creative decor",
+        "versatile accent",
+        "modern art",
+        "boho chic",
+        "unique piece",
+        "artisan sculpture"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:00:15.459Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-object-004",
+    "name": "Ceramic Geometric Object",
+    "description": "Contemporary geometric ceramic sculpture in matte white. A modern accent for minimalist spaces.",
+    "price": 65,
+    "compareAtPrice": 85,
+    "primaryImage": "object-4.jpeg",
+    "images": [
+      "object-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Decorative Objects",
+        "slug": "decorative-object"
+      },
+      "productType": "decorative-object"
+    },
+    "attributes": {
+      "color": [
+        "Speckled Beige",
+        "Matte Black"
+      ],
+      "material": [
+        "Ceramic"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Office",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "geometric",
+      "ceramic",
+      "sculpture",
+      "modern",
+      "white",
+      "minimalist",
+      "decor",
+      "beige",
+      "black",
+      "accent",
+      "home decor",
+      "interior design",
+      "art",
+      "contemporary",
+      "elegant",
+      "unique",
+      "stylish",
+      "decorative objects",
+      "living room",
+      "office",
+      "entryway",
+      "set",
+      "smooth texture",
+      "matte finish",
+      "organic shapes",
+      "clean lines",
+      "modern accents",
+      "ceramic geometric object",
+      "modern decor",
+      "minimalist sculptures",
+      "ceramic decor",
+      "home accents",
+      "geometric shapes",
+      "speckled beige ceramic",
+      "matte black accents",
+      "living room decor",
+      "office decor",
+      "entryway decor",
+      "modern elegance",
+      "contemporary art",
+      "unique sculptures",
+      "elegant home decor",
+      "stylish decor pieces",
+      "ceramic art",
+      "home decoration",
+      "decor set",
+      "chic home accents",
+      "sophisticated decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.7,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Elegant ceramic sculptures in geometric forms, perfect for modern spaces.",
+      "long": "Introducing the Ceramic Geometric Object set, an exquisite collection of four unique sculptures that embody modern elegance. Crafted in speckled beige ceramic, each piece showcases distinct geometric shapes adorned with matte black accents, offering a sophisticated touch to any decor. These objects are perfect for minimalist and contemporary interiors, enhancing spaces like living rooms, offices, or entryways with their striking presence. Their smooth texture and matte finish create a refined aesthetic, making them versatile decor elements that seamlessly integrate into various settings.",
+      "features": [
+        "Set of four geometric sculptures",
+        "Crafted from speckled beige ceramic",
+        "Elegant matte black accents",
+        "Modern and minimalist design",
+        "Ideal for living rooms, offices, and entryways",
+        "Smooth texture and sophisticated matte finish",
+        "Versatile decorative elements"
+      ],
+      "careInstructions": "Dust gently with a soft cloth. Avoid using harsh cleaners to preserve the matte finish.",
+      "materialComposition": "Primarily ceramic with matte black accents"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Speckled Beige",
+          "hex": "#D3B8A6",
+          "category": "primary"
+        },
+        {
+          "name": "Matte Black",
+          "hex": "#2D2D2D",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Varied geometric forms with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Ceramic Geometric Object Set - Modern Elegance Decor",
+      "metaDescription": "Discover the Ceramic Geometric Object set, perfect for modern interiors. Enhance your space with these elegant sculptures. Shop now for a chic touch!",
+      "altText": "Set of four ceramic geometric sculptures with matte black accents.",
+      "keywords": [
+        "ceramic geometric object",
+        "modern decor",
+        "minimalist sculptures",
+        "ceramic decor",
+        "home accents",
+        "geometric shapes",
+        "matte finish",
+        "speckled beige ceramic",
+        "matte black accents",
+        "interior design",
+        "decorative objects",
+        "living room decor",
+        "office decor",
+        "entryway decor",
+        "modern elegance",
+        "contemporary art",
+        "unique sculptures",
+        "elegant home decor",
+        "stylish decor pieces",
+        "ceramic art",
+        "home decoration",
+        "modern accents",
+        "smooth texture",
+        "organic shapes",
+        "clean lines",
+        "decor set",
+        "chic home accents",
+        "sophisticated decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:00:28.840Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-object-005",
+    "name": "Brass Chain Link Decor",
+    "description": "Decorative brass chain link sculpture. Modern coffee table accent.",
+    "price": 78,
+    "compareAtPrice": null,
+    "primaryImage": "object-5.jpeg",
+    "images": [
+      "object-5.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Decorative Objects",
+        "slug": "decorative-object"
+      },
+      "productType": "decorative-object"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown"
+      ],
+      "material": [
+        "Solid Wood"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "chain link",
+      "brass",
+      "sculpture",
+      "modern",
+      "gold",
+      "wooden sculpture",
+      "modern decor",
+      "natural art",
+      "stacked blocks",
+      "minimalist design",
+      "organic form",
+      "living room accent",
+      "office decor",
+      "natural texture",
+      "warm tones",
+      "solid wood",
+      "artistic piece",
+      "unique grain patterns",
+      "elegant sculpture",
+      "decorative object",
+      "natural finish",
+      "contemporary style",
+      "interior design",
+      "home accent",
+      "sculptural art",
+      "wood grain",
+      "modern sculpture",
+      "artistic decor",
+      "natural elegance",
+      "minimalist sculpture",
+      "wooden blocks",
+      "decorative sculpture",
+      "home decor",
+      "office accent",
+      "modern art",
+      "natural sculpture",
+      "stacked design",
+      "warm chestnut brown",
+      "organic silhouette",
+      "Brass decor",
+      "Chain link decor",
+      "Elegant home accents",
+      "Modern interior design",
+      "Luxury home decor",
+      "Sophisticated decor",
+      "Brass home accessories",
+      "Living room decor",
+      "Office decor",
+      "Hallway decor",
+      "Contemporary style",
+      "Eclectic design",
+      "Polished brass finish",
+      "Decorative centerpiece",
+      "Decor styling ideas",
+      "Home accent pieces",
+      "Metallic sheen decor",
+      "Interior design trends",
+      "Luxury decor items",
+      "Home styling tips",
+      "Decorative brass links",
+      "Modern decor elements",
+      "Artistic home decor",
+      "Brass link sculpture",
+      "Stylish decor accents",
+      "Elegant brass decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.4,
+      "reviewCount": 34
+    },
+    "enrichedDescription": {
+      "short": "Elegant brass chain link decor for a touch of sophistication.",
+      "long": "Elevate your interior with our Brass Chain Link Decor, a stunning blend of elegance and modernity. This exquisite piece features a series of interlocking brass links, each with a polished finish that catches the light beautifully. Perfect for adding a sophisticated accent to your living room, office, or hallway, the Brass Chain Link Decor can be styled in various ways—draped over a stack of books, displayed on a mantel, or used as a centerpiece. Its metallic sheen and intricate design create a striking visual impact, inviting conversation and admiration. Whether your decor is contemporary or eclectic, this piece infuses a touch of luxury and finesse into any space.",
+      "features": [
+        "Interlocking brass links",
+        "Polished metallic finish",
+        "Versatile styling options",
+        "Sleek and modern aesthetic",
+        "Adds a touch of luxury"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid harsh chemicals. Keep away from moisture to maintain its shine.",
+      "materialComposition": "100% brass with a polished finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B4513",
+          "category": "primary"
+        }
+      ],
+      "pattern": "natural",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Tall and stacked with irregular shapes"
+    },
+    "seo": {
+      "metaTitle": "Brass Chain Link Decor - Elegant Modern Accent Piece",
+      "metaDescription": "Enhance your space with our Brass Chain Link Decor. A sophisticated accent for any room, perfect for modern or eclectic styles. Shop now for luxury decor!",
+      "altText": "Brass Chain Link Decor featuring interlocking polished brass links for elegant interior styling.",
+      "keywords": [
+        "Brass decor",
+        "Chain link decor",
+        "Elegant home accents",
+        "Modern interior design",
+        "Luxury home decor",
+        "Sophisticated decor",
+        "Brass home accessories",
+        "Living room decor",
+        "Office decor",
+        "Hallway decor",
+        "Contemporary style",
+        "Eclectic design",
+        "Polished brass finish",
+        "Decorative centerpiece",
+        "Decor styling ideas",
+        "Home accent pieces",
+        "Metallic sheen decor",
+        "Interior design trends",
+        "Luxury decor items",
+        "Home styling tips",
+        "Decorative brass links",
+        "Modern decor elements",
+        "Artistic home decor",
+        "Brass link sculpture",
+        "Stylish decor accents",
+        "Elegant brass decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:00:43.451Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-object-006",
+    "name": "Stone Sphere Trio",
+    "description": "Set of 3 natural stone spheres in varying sizes. Organic textures and tones.",
+    "price": 92,
+    "compareAtPrice": 120,
+    "primaryImage": "object-6.jpeg",
+    "images": [
+      "object-6.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Decorative Objects",
+        "slug": "decorative-object"
+      },
+      "productType": "decorative-object"
+    },
+    "attributes": {
+      "color": [
+        "Muted Olive Green",
+        "Charcoal Black",
+        "Warm Earth Brown"
+      ],
+      "material": [
+        "Resin"
+      ],
+      "style": [
+        "Eclectic",
+        "Traditional"
+      ],
+      "room": [
+        "Living Room",
+        "Entryway",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "stone",
+      "sphere",
+      "set",
+      "natural",
+      "organic",
+      "musician sculptures",
+      "rustic decor",
+      "artistic expression",
+      "home decor",
+      "tabletop display",
+      "cultural sophistication",
+      "hand-painted",
+      "resin figures",
+      "unique poses",
+      "musical instruments",
+      "eclectic style",
+      "traditional decor",
+      "muted tones",
+      "earthy colors",
+      "textured finish",
+      "matte surface",
+      "decorative objects",
+      "living room decor",
+      "entryway decor",
+      "office decor",
+      "creative home accents",
+      "artistic sculptures",
+      "set of sculptures",
+      "tall figures",
+      "slender silhouette",
+      "dynamic poses",
+      "elegant decor",
+      "harmonious design",
+      "cultural decor",
+      "expressive art",
+      "musical theme",
+      "sculpture set",
+      "Stone Sphere Trio",
+      "natural stone spheres",
+      "decorative spheres",
+      "sophisticated decor",
+      "timeless elegance",
+      "interior design",
+      "mantel decoration",
+      "centerpiece ideas",
+      "harmonious balance",
+      "minimalist decor",
+      "gray and beige decor",
+      "sophisticated home accents",
+      "decor set",
+      "shelf decoration",
+      "calm and grounding decor",
+      "versatile decor solution",
+      "decorative centerpiece",
+      "interior palettes",
+      "understated beauty",
+      "home accents",
+      "decorative spheres set",
+      "timeless home decor",
+      "elegant home accessories",
+      "stone texture decor",
+      "decorative home accents"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.6,
+      "reviewCount": 78
+    },
+    "enrichedDescription": {
+      "short": "Sophisticated trio of stone spheres adds timeless elegance to any space.",
+      "long": "Introduce a touch of sophistication and timeless elegance to your home with the Stone Sphere Trio. This captivating set features three meticulously crafted spheres, each varying in size, offering a harmonious balance that enhances any decor style. The natural stone texture evokes a sense of calm and grounding, while the varying shades of gray and beige complement a wide array of interior palettes. Perfect for display on mantels, shelves, or as a centerpiece, these spheres create an inviting atmosphere with their understated beauty. Whether placed in a minimalist setting or among eclectic pieces, the Stone Sphere Trio is a versatile decor solution that brings depth and character to your living space.",
+      "features": [
+        "Set of three stone spheres",
+        "Varying sizes for dynamic display",
+        "Natural stone texture for a calming effect",
+        "Complementary shades of gray and beige",
+        "Ideal for mantels, shelves, or centerpieces",
+        "Versatile for minimalist or eclectic styles",
+        "Enhances depth and character in spaces"
+      ],
+      "careInstructions": "Wipe with a damp cloth to remove dust. Avoid harsh chemicals to preserve natural stone finish.",
+      "materialComposition": "Crafted from high-quality natural stone"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Muted Olive Green",
+          "hex": "#6B8E23",
+          "category": "primary"
+        },
+        {
+          "name": "Charcoal Black",
+          "hex": "#36454F",
+          "category": "accent"
+        },
+        {
+          "name": "Warm Earth Brown",
+          "hex": "#8B4513",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Tall, slender figures with dynamic poses"
+    },
+    "seo": {
+      "metaTitle": "Stone Sphere Trio - Elegant Natural Stone Decor Set",
+      "metaDescription": "Elevate your home decor with the Stone Sphere Trio. This elegant set adds sophistication to any space. Perfect for mantels or centerpieces. Shop now!",
+      "altText": "Three stone spheres of varying sizes with natural textures and shades of gray and beige.",
+      "keywords": [
+        "Stone Sphere Trio",
+        "elegant decor",
+        "natural stone spheres",
+        "home decor",
+        "decorative spheres",
+        "sophisticated decor",
+        "timeless elegance",
+        "interior design",
+        "mantel decoration",
+        "centerpiece ideas",
+        "harmonious balance",
+        "minimalist decor",
+        "eclectic style",
+        "gray and beige decor",
+        "sophisticated home accents",
+        "decor set",
+        "living room decor",
+        "shelf decoration",
+        "decorative objects",
+        "calm and grounding decor",
+        "versatile decor solution",
+        "decorative centerpiece",
+        "interior palettes",
+        "understated beauty",
+        "home accents",
+        "decorative spheres set",
+        "timeless home decor",
+        "elegant home accessories",
+        "stone texture decor",
+        "decorative home accents"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:00:58.725Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-pillow-001",
+    "name": "Velvet Throw Pillow",
+    "description": "Luxurious velvet throw pillow in deep emerald green. Down-alternative fill.",
+    "price": 48,
+    "compareAtPrice": null,
+    "primaryImage": "pillow-1.jpeg",
+    "images": [
+      "pillow-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Throw Pillows",
+        "slug": "throw-pillow"
+      },
+      "productType": "throw-pillow"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige"
+      ],
+      "material": [
+        "Cotton",
+        "Linen"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "pillow",
+      "velvet",
+      "emerald",
+      "green",
+      "throw pillow",
+      "decorative pillow",
+      "beige pillow",
+      "fringe pillow",
+      "textured pillow",
+      "modern decor",
+      "minimalist style",
+      "living room accessory",
+      "bedroom decor",
+      "cotton pillow",
+      "linen pillow",
+      "home decor",
+      "accent pillow",
+      "neutral color",
+      "soft furnishing",
+      "comfortable pillow",
+      "stylish pillow",
+      "elegant pillow",
+      "versatile decor",
+      "high-quality fabric",
+      "spot clean",
+      "warm beige",
+      "grid pattern",
+      "fringe detail",
+      "matte finish",
+      "square shape",
+      "velvet throw pillow",
+      "luxury pillow",
+      "tufted design",
+      "cozy atmosphere"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 198
+    },
+    "enrichedDescription": {
+      "short": "Luxurious velvet throw pillow with intricate tufted design for elegance and comfort.",
+      "long": "Transform your living space with our Velvet Throw Pillow, a perfect blend of luxury and comfort. The plush velvet fabric offers a soft touch and rich texture, while the intricate tufted design adds a touch of sophistication. Its deep, inviting hue is perfect for creating a cozy atmosphere in any room. Whether adorning your sofa or resting on your bed, this pillow effortlessly complements a variety of decor styles from modern to traditional. Experience the perfect balance of style and comfort with this elegant addition to your home.",
+      "features": [
+        "Plush velvet fabric for a soft touch",
+        "Intricate tufted design for added elegance",
+        "Deep, inviting color enhances room ambiance",
+        "Versatile style complements various decor themes",
+        "Durable construction ensures long-lasting use",
+        "Comfortable and supportive for lounging"
+      ],
+      "careInstructions": "To maintain the luxurious feel, spot clean only with a damp cloth. Avoid machine washing and direct sunlight to preserve color and texture.",
+      "materialComposition": "100% high-quality velvet fabric"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A3",
+          "category": "primary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "square",
+      "silhouette": "Classic square with fringe edges"
+    },
+    "seo": {
+      "metaTitle": "Velvet Throw Pillow - Luxury Comfort & Sophisticated Design",
+      "metaDescription": "Elevate your decor with our Velvet Throw Pillow. Experience luxury and comfort with its plush fabric and intricate tufted design. Shop now for elegance.",
+      "altText": "Warm beige velvet throw pillow with textured grid pattern and fringe detailing, perfect for modern decor.",
+      "keywords": [
+        "velvet throw pillow",
+        "decorative pillow",
+        "beige pillow",
+        "fringe pillow",
+        "textured pillow",
+        "modern decor",
+        "minimalist style",
+        "living room accessory",
+        "bedroom decor",
+        "cotton pillow",
+        "linen pillow",
+        "home decor",
+        "accent pillow",
+        "neutral color",
+        "soft furnishing",
+        "comfortable pillow",
+        "stylish pillow",
+        "elegant pillow",
+        "versatile decor",
+        "high-quality fabric",
+        "spot clean",
+        "warm beige",
+        "grid pattern",
+        "fringe detail",
+        "matte finish",
+        "square shape",
+        "luxury pillow",
+        "tufted design",
+        "cozy atmosphere"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:01:10.274Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-object-003",
+    "name": "Ceramic Decorative Balls",
+    "description": "Set of 3 textured ceramic decorative balls in neutral tones.",
+    "price": 38,
+    "compareAtPrice": null,
+    "primaryImage": "object-3.jpeg",
+    "images": [
+      "object-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Decorative Objects",
+        "slug": "decorative-object"
+      },
+      "productType": "decorative-object"
+    },
+    "attributes": {
+      "color": [
+        "Beige",
+        "Cream",
+        "Taupe"
+      ],
+      "material": [
+        "Ceramic"
+      ],
+      "style": [
+        "Transitional",
+        "Natural"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "decorative balls",
+      "ceramic",
+      "set",
+      "neutral",
+      "textured",
+      "home decor",
+      "living room",
+      "bedroom",
+      "dining room",
+      "modern",
+      "traditional",
+      "elegant",
+      "spherical",
+      "matte finish",
+      "transitional style",
+      "natural style",
+      "versatile",
+      "tabletop decor",
+      "shelf display",
+      "beige",
+      "cream",
+      "taupe",
+      "ceramic decor",
+      "decorative objects",
+      "home accessories",
+      "interior design",
+      "accent pieces",
+      "minimalist",
+      "neutral decor",
+      "textured ceramic",
+      "simple elegance",
+      "tactile appeal",
+      "ceramic decorative balls",
+      "elegant decor",
+      "textured ceramic balls",
+      "neutral home accents",
+      "spherical decor",
+      "living room accents",
+      "bedroom decor",
+      "dining room decor",
+      "modern decor",
+      "traditional decor",
+      "neutral tones",
+      "beige decor",
+      "cream decor",
+      "taupe decor",
+      "minimalist decor",
+      "matte finish decor",
+      "versatile decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.5,
+      "reviewCount": 156
+    },
+    "enrichedDescription": {
+      "short": "Elegant ceramic decorative balls in neutral tones, perfect for elevating your decor with subtle sophistication.",
+      "long": "Transform your space with our exquisite set of Ceramic Decorative Balls, designed to infuse any room with understated elegance. These spherical beauties feature a textured ceramic surface that adds a tactile dimension to your decor. Their harmonious blend of neutral tones—soft beige, creamy white, and warm taupe—ensures they seamlessly integrate into various design styles, whether modern, traditional, or transitional. Ideal for adorning coffee tables, shelves, or mantels, these decorative balls are perfect accent pieces that enhance your home’s ambiance. Let their simple yet sophisticated charm bring a touch of refinement to your living room, bedroom, or dining area.",
+      "features": [
+        "Set of 3 ceramic decorative balls",
+        "Elegant textured finish",
+        "Neutral hues: beige, cream, taupe",
+        "Blends with modern and traditional decor",
+        "Ideal for tabletop or shelf enhancements",
+        "Versatile decorative accents",
+        "Adds tactile and visual interest"
+      ],
+      "careInstructions": "To maintain their beauty, gently wipe with a damp cloth. Avoid using abrasive cleaners or scrubbing to preserve the textured finish.",
+      "materialComposition": "Crafted entirely from durable ceramic"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Beige",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        },
+        {
+          "name": "Taupe",
+          "hex": "#483C32",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "round",
+      "silhouette": "Simple spherical form with textured surface"
+    },
+    "seo": {
+      "metaTitle": "Ceramic Decorative Balls - Elegant Textured Home Decor",
+      "metaDescription": "Elevate your space with our Ceramic Decorative Balls. Perfect for any decor style, these textured spheres add elegance to your home. Shop now for a refined touch!",
+      "altText": "Set of ceramic decorative balls in neutral tones with a textured finish.",
+      "keywords": [
+        "ceramic decorative balls",
+        "home decor",
+        "elegant decor",
+        "textured ceramic balls",
+        "neutral home accents",
+        "ceramic decor",
+        "spherical decor",
+        "living room accents",
+        "bedroom decor",
+        "dining room decor",
+        "modern decor",
+        "traditional decor",
+        "transitional style",
+        "neutral tones",
+        "beige decor",
+        "cream decor",
+        "taupe decor",
+        "tabletop decor",
+        "shelf display",
+        "interior design",
+        "home accessories",
+        "minimalist decor",
+        "accent pieces",
+        "matte finish decor",
+        "simple elegance",
+        "tactile appeal",
+        "versatile decor",
+        "decorative objects",
+        "natural style"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:01:19.226Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-pillow-002",
+    "name": "Linen Lumbar Pillow",
+    "description": "Natural linen lumbar pillow with frayed edges. Relaxed, organic style.",
+    "price": 38,
+    "compareAtPrice": null,
+    "primaryImage": "pillow-2.jpeg",
+    "images": [
+      "pillow-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Throw Pillows",
+        "slug": "throw-pillow"
+      },
+      "productType": "throw-pillow"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige"
+      ],
+      "material": [
+        "Linen"
+      ],
+      "style": [
+        "Bohemian",
+        "Natural"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "pillow",
+      "linen",
+      "lumbar",
+      "natural",
+      "organic",
+      "linen pillow",
+      "lumbar support",
+      "bohemian decor",
+      "natural style",
+      "beige pillow",
+      "textured linen",
+      "frayed edges",
+      "decorative pillow",
+      "living room accessory",
+      "bedroom decor",
+      "neutral tones",
+      "organic design",
+      "soft texture",
+      "versatile pillow",
+      "earthy tones",
+      "comfortable pillow",
+      "stylish pillow",
+      "home decor",
+      "throw pillow",
+      "couch accessory",
+      "bed accessory",
+      "relaxation pillow",
+      "support pillow",
+      "decor piece",
+      "natural fabric",
+      "eco-friendly decor",
+      "simple elegance",
+      "casual style",
+      "modern bohemian",
+      "textured design",
+      "neutral decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 112
+    },
+    "enrichedDescription": {
+      "short": "Elegant linen lumbar pillow with frayed edges, perfect for a relaxed, organic style.",
+      "long": "Transform your living space with the Linen Lumbar Pillow, an epitome of natural elegance and bohemian charm. Crafted from premium linen, this pillow features stylish frayed edges that evoke a sense of relaxed sophistication. Its soft, textured surface invites you to sink into comfort while providing excellent lumbar support. The pillow's warm beige hue effortlessly blends with a variety of color schemes, enhancing the aesthetic of any room. Whether placed on a sofa or a bed, it's a versatile accessory that adds both function and flair to your decor. Embrace the harmony of organic design and contemporary style with this exquisite pillow.",
+      "features": [
+        "Frayed edges for a relaxed look",
+        "Natural linen material",
+        "Lumbar shape for support",
+        "Earthy beige color",
+        "Versatile for various decor styles",
+        "Soft, textured surface",
+        "Enhances bohemian and natural aesthetics"
+      ],
+      "careInstructions": "Spot clean with mild detergent and water. Air dry to maintain texture.",
+      "materialComposition": "100% Linen"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A6",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Linen Lumbar Pillow - Bohemian Charm & Natural Elegance",
+      "metaDescription": "Enhance your decor with the Linen Lumbar Pillow. Enjoy bohemian charm and natural elegance. Shop now for comfort and style!",
+      "altText": "Linen lumbar pillow with frayed edges in warm beige for bohemian decor.",
+      "keywords": [
+        "linen pillow",
+        "lumbar support",
+        "bohemian decor",
+        "natural style",
+        "beige pillow",
+        "textured linen",
+        "frayed edges",
+        "decorative pillow",
+        "living room accessory",
+        "bedroom decor",
+        "neutral tones",
+        "organic design",
+        "soft texture",
+        "versatile pillow",
+        "earthy tones",
+        "comfortable pillow",
+        "stylish pillow",
+        "home decor",
+        "throw pillow",
+        "couch accessory",
+        "bed accessory",
+        "relaxation pillow",
+        "support pillow",
+        "decor piece",
+        "natural fabric",
+        "eco-friendly decor",
+        "simple elegance",
+        "casual style",
+        "modern bohemian",
+        "textured design",
+        "neutral decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:01:22.863Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-pillow-003",
+    "name": "Textured Cotton Pillow",
+    "description": "Woven cotton pillow with geometric texture pattern. Adds visual interest without overwhelming.",
+    "price": 42,
+    "compareAtPrice": null,
+    "primaryImage": "pillow-3.jpeg",
+    "images": [
+      "pillow-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Throw Pillows",
+        "slug": "throw-pillow"
+      },
+      "productType": "throw-pillow"
+    },
+    "attributes": {
+      "color": [
+        "Ivory",
+        "Cream"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Modern",
+        "Transitional"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "pillow",
+      "cotton",
+      "textured",
+      "woven",
+      "geometric",
+      "ivory",
+      "cream",
+      "modern",
+      "transitional",
+      "decor",
+      "home",
+      "living room",
+      "bedroom",
+      "comfortable",
+      "stylish",
+      "neutral",
+      "versatile",
+      "soft",
+      "plush",
+      "luxurious",
+      "accent",
+      "throw pillow",
+      "cushion",
+      "interior design",
+      "home decor",
+      "fashionable",
+      "elegant",
+      "sophisticated",
+      "minimalist",
+      "contemporary",
+      "classic",
+      "decorative",
+      "comfy",
+      "cozy",
+      "designer",
+      "quality",
+      "durable",
+      "easy care",
+      "spot clean",
+      "textured cotton pillow",
+      "geometric pillow",
+      "luxurious pillow",
+      "home decor pillow",
+      "modern pillow",
+      "transitional pillow",
+      "ivory pillow",
+      "cream pillow",
+      "plush pillow",
+      "woven pillow",
+      "soft cotton pillow",
+      "decorative pillow",
+      "elegant pillow",
+      "stylish pillow",
+      "neutral pillow",
+      "versatile pillow",
+      "accent pillow",
+      "living room pillow",
+      "bedroom pillow",
+      "cozy pillow",
+      "comfy pillow",
+      "designer pillow",
+      "quality pillow",
+      "durable pillow",
+      "easy care pillow",
+      "spot clean pillow",
+      "interior design pillow",
+      "sophisticated pillow"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.5,
+      "reviewCount": 145
+    },
+    "enrichedDescription": {
+      "short": "Luxurious textured cotton pillow with a geometric pattern.",
+      "long": "Elevate your home decor with the Textured Cotton Pillow, a perfect blend of luxury and comfort. Its plush, geometric design is crafted to add depth and sophistication to any room, whether it's your living room or bedroom. The pillow's soft, woven texture invites touch, providing an exquisite tactile experience. Subtle ivory and cream tones effortlessly harmonize with any color palette, enhancing visual interest without overwhelming your space. Ideal for modern and transitional styles, this versatile pillow is a must-have for those seeking elegance and comfort in their home decor.",
+      "features": [
+        "Geometric texture pattern",
+        "Soft woven cotton material",
+        "Neutral ivory and cream colors",
+        "Suitable for modern and transitional styles",
+        "Enhances visual interest without overwhelming",
+        "Versatile addition to various decor palettes",
+        "Low-profile with clean lines"
+      ],
+      "careInstructions": "Spot clean with mild detergent and water. Air dry flat.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Textured Cotton Pillow - Luxurious Geometric Design",
+      "metaDescription": "Transform your decor with the Textured Cotton Pillow. Experience luxury and comfort with its plush geometric design. Shop now for elegance and style.",
+      "altText": "Luxurious textured cotton pillow with geometric pattern in ivory and cream tones.",
+      "keywords": [
+        "textured cotton pillow",
+        "geometric pillow",
+        "luxurious pillow",
+        "home decor pillow",
+        "modern pillow",
+        "transitional pillow",
+        "ivory pillow",
+        "cream pillow",
+        "plush pillow",
+        "woven pillow",
+        "soft cotton pillow",
+        "decorative pillow",
+        "elegant pillow",
+        "stylish pillow",
+        "neutral pillow",
+        "versatile pillow",
+        "accent pillow",
+        "throw pillow",
+        "living room pillow",
+        "bedroom pillow",
+        "cozy pillow",
+        "comfy pillow",
+        "designer pillow",
+        "quality pillow",
+        "durable pillow",
+        "easy care pillow",
+        "spot clean pillow",
+        "interior design pillow",
+        "sophisticated pillow"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:01:33.003Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "decor-pillow-004",
+    "name": "Bouclé Accent Pillow",
+    "description": "Cozy bouclé texture pillow in warm cream. Perfect for layering.",
+    "price": 52,
+    "compareAtPrice": 68,
+    "primaryImage": "pillow-4.jpeg",
+    "images": [
+      "pillow-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Decor",
+        "slug": "decor"
+      },
+      "subcategory": {
+        "name": "Throw Pillows",
+        "slug": "throw-pillow"
+      },
+      "productType": "throw-pillow"
+    },
+    "attributes": {
+      "color": [
+        "Warm Cream",
+        "Black"
+      ],
+      "material": [
+        "Bouclé",
+        "Polyester"
+      ],
+      "style": [
+        "Modern",
+        "Cozy"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "pillow",
+      "boucle",
+      "textured",
+      "cream",
+      "cozy",
+      "bouclé pillow",
+      "accent pillow",
+      "cream pillow",
+      "modern decor",
+      "textured pillow",
+      "cozy pillow",
+      "living room decor",
+      "bedroom decor",
+      "home accessories",
+      "interior design",
+      "stylish pillow",
+      "soft fabric",
+      "decorative pillow",
+      "layering pillow",
+      "black trim",
+      "square pillow",
+      "comfortable pillow",
+      "elegant design",
+      "neutral color",
+      "contrast trim",
+      "bouclé texture",
+      "polyester filling",
+      "spot clean",
+      "warm cream",
+      "black accent",
+      "home decor",
+      "decor pillow",
+      "throw pillow",
+      "pillow with trim",
+      "soft texture",
+      "cozy ambiance",
+      "modern style"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.7,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Elegant bouclé accent pillow with contrasting trim for a modern touch.",
+      "long": "Transform your space with the Bouclé Accent Pillow, a luxurious addition that blends comfort and style effortlessly. Its cozy bouclé texture in warm cream creates a welcoming aura, while the sleek black trim adds a modern flair. Perfect for layering on sofas or beds, this pillow is not only a visual delight but also a comfort haven. Its soft fabric invites relaxation, making it an ideal companion for a cozy evening. Whether placed in a living room or bedroom, it enhances decor aesthetics, offering a sophisticated yet inviting atmosphere.",
+      "features": [
+        "Luxurious bouclé texture",
+        "Warm cream color",
+        "Striking black trim",
+        "Modern design aesthetic",
+        "Ideal for layering",
+        "Enhances decor aesthetics",
+        "Invites relaxation"
+      ],
+      "careInstructions": "Spot clean with mild detergent. Avoid direct sunlight to maintain color vibrancy.",
+      "materialComposition": "Bouclé fabric with polyester filling"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Cream",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "square",
+      "silhouette": "Classic square with contrasting trim"
+    },
+    "seo": {
+      "metaTitle": "Bouclé Accent Pillow - Cozy Texture & Modern Flair",
+      "metaDescription": "Enhance your decor with the Bouclé Accent Pillow. Its warm cream bouclé texture and sleek black trim offer comfort and style. Shop now for a cozy ambiance!",
+      "altText": "Elegant bouclé accent pillow in warm cream with black trim, perfect for modern decor.",
+      "keywords": [
+        "bouclé pillow",
+        "accent pillow",
+        "cream pillow",
+        "modern decor",
+        "textured pillow",
+        "cozy pillow",
+        "living room decor",
+        "bedroom decor",
+        "home accessories",
+        "interior design",
+        "stylish pillow",
+        "soft fabric",
+        "decorative pillow",
+        "layering pillow",
+        "black trim",
+        "square pillow",
+        "comfortable pillow",
+        "elegant design",
+        "neutral color",
+        "contrast trim",
+        "bouclé texture",
+        "polyester filling",
+        "spot clean",
+        "warm cream",
+        "black accent",
+        "home decor",
+        "decor pillow",
+        "throw pillow",
+        "pillow with trim",
+        "soft texture",
+        "cozy ambiance",
+        "modern style"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:01:35.098Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  }
+]

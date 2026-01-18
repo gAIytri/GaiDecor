@@ -1,0 +1,192 @@
+[
+  {
+    "id": "trending-1",
+    "productId": "sofa-1",
+    "name": "Modern Velvet 3-Seater Sofa",
+    "price": 899.99,
+    "image": "furniture/sofa/sofa-1.jpg",
+    "colors": ["gray", "blue", "beige"],
+    "category": "Furniture",
+    "badge": "BESTSELLER"
+  },
+  {
+    "id": "trending-2",
+    "productId": "indoor-rug-1",
+    "name": "Modern Geometric Indoor Rug",
+    "price": 189.99,
+    "image": "rugs/rug-1.jpeg",
+    "colors": ["gray", "white", "black"],
+    "category": "Rugs",
+    "badge": "NEW"
+  },
+  {
+    "id": "trending-3",
+    "productId": "sofa-2",
+    "name": "Contemporary Leather Sofa",
+    "price": 1299.99,
+    "image": "furniture/sofa/sofa-2.jpg",
+    "colors": ["black", "brown"],
+    "category": "Furniture"
+  },
+  {
+    "id": "trending-4",
+    "productId": "indoor-rug-2",
+    "name": "Traditional Persian Style Rug",
+    "price": 299.99,
+    "image": "rugs/rug-2.jpeg",
+    "colors": ["red", "navy", "gold"],
+    "category": "Rugs",
+    "badge": "BESTSELLER"
+  },
+  {
+    "id": "trending-5",
+    "productId": "accent-chair-1",
+    "name": "Tufted Velvet Accent Chair",
+    "price": 449.99,
+    "image": "furniture/accent chairs/accent-chair-1.jpg",
+    "colors": ["gray", "navy", "emerald"],
+    "category": "Furniture",
+    "badge": "NEW"
+  },
+  {
+    "id": "trending-6",
+    "productId": "indoor-rug-3",
+    "name": "Bohemian Moroccan Shag Rug",
+    "price": 229.99,
+    "image": "rugs/rug-3.jpeg",
+    "colors": ["cream", "black", "brown"],
+    "category": "Rugs"
+  },
+  {
+    "id": "trending-7",
+    "productId": "accent-chair-2",
+    "name": "Leather Wingback Chair",
+    "price": 699.99,
+    "image": "furniture/accent chairs/accent-chair-2.jpg",
+    "colors": ["brown", "black"],
+    "category": "Furniture",
+    "badge": "TRENDING"
+  },
+  {
+    "id": "trending-8",
+    "productId": "indoor-rug-4",
+    "name": "Minimalist Solid Color Rug",
+    "price": 149.99,
+    "image": "rugs/rug-4.jpeg",
+    "colors": ["beige", "gray"],
+    "category": "Rugs"
+  },
+  {
+    "id": "trending-9",
+    "productId": "coffee-table-1",
+    "name": "Scandinavian Coffee Table",
+    "price": 249.99,
+    "image": "furniture/coffee table/coffee-table-1.jpg",
+    "colors": ["white", "oak"],
+    "category": "Furniture"
+  },
+  {
+    "id": "trending-10",
+    "productId": "indoor-rug-5",
+    "name": "Abstract Art Deco Indoor Rug",
+    "price": 279.99,
+    "image": "rugs/rug-5.jpeg",
+    "colors": ["blue", "gold", "white"],
+    "category": "Rugs",
+    "badge": "BESTSELLER"
+  },
+  {
+    "id": "trending-11",
+    "productId": "coffee-table-2",
+    "name": "Glass Top Coffee Table",
+    "price": 349.99,
+    "image": "furniture/coffee table/coffee-table-2.jpg",
+    "colors": ["clear", "gold"],
+    "category": "Furniture"
+  },
+  {
+    "id": "trending-12",
+    "productId": "indoor-rug-6",
+    "name": "Vintage Distressed Indoor Rug",
+    "price": 199.99,
+    "image": "rugs/rug-6.jpeg",
+    "colors": ["gray", "blue", "cream"],
+    "category": "Rugs",
+    "badge": "NEW"
+  },
+  {
+    "id": "trending-13",
+    "productId": "tv-stand-1",
+    "name": "Modern Floating TV Stand",
+    "price": 399.99,
+    "image": "furniture/tvstand/tv-stand-1.jpg",
+    "colors": ["white", "black"],
+    "category": "Furniture"
+  },
+  {
+    "id": "trending-14",
+    "productId": "indoor-rug-7",
+    "name": "Plush Velvet Indoor Rug",
+    "price": 259.99,
+    "image": "rugs/rug-7.jpeg",
+    "colors": ["navy", "emerald", "burgundy"],
+    "category": "Rugs",
+    "badge": "TRENDING"
+  },
+  {
+    "id": "trending-15",
+    "productId": "tv-stand-2",
+    "name": "Industrial TV Console",
+    "price": 349.99,
+    "image": "furniture/tvstand/tv-stand-2.jpg",
+    "colors": ["brown", "black"],
+    "category": "Furniture"
+  },
+  {
+    "id": "trending-16",
+    "productId": "indoor-outdoor-rug-1",
+    "name": "Striped Indoor/Outdoor Rug",
+    "price": 129.99,
+    "image": "rugs/rug-8.jpeg",
+    "colors": ["blue", "white"],
+    "category": "Rugs"
+  },
+  {
+    "id": "trending-17",
+    "productId": "sofa-3",
+    "name": "Mid-Century Tufted Sofa",
+    "price": 749.99,
+    "image": "furniture/sofa/sofa-3.jpg",
+    "colors": ["beige", "gray"],
+    "category": "Furniture",
+    "badge": "BESTSELLER"
+  },
+  {
+    "id": "trending-18",
+    "productId": "indoor-outdoor-rug-2",
+    "name": "Geometric Indoor/Outdoor Rug",
+    "price": 159.99,
+    "image": "rugs/rug-9.jpeg",
+    "colors": ["gray", "black", "white"],
+    "category": "Rugs"
+  },
+  {
+    "id": "trending-19",
+    "productId": "accent-chair-3",
+    "name": "Modern Swivel Chair",
+    "price": 399.99,
+    "image": "furniture/accent chairs/accent-chair-3.jpg",
+    "colors": ["white", "gray"],
+    "category": "Furniture",
+    "badge": "NEW"
+  },
+  {
+    "id": "trending-20",
+    "productId": "indoor-outdoor-rug-3",
+    "name": "Tropical Palm Indoor/Outdoor Rug",
+    "price": 179.99,
+    "image": "rugs/rug-10.jpeg",
+    "colors": ["green", "cream", "brown"],
+    "category": "Rugs"
+  }
+]

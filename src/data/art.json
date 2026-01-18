@@ -1,0 +1,3458 @@
+[
+  {
+    "id": "art-mirror-001",
+    "name": "Round Sunburst Mirror",
+    "description": "Stunning sunburst mirror with gold metal rays. A statement piece for any wall.",
+    "price": 285,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-1.jpeg",
+    "images": [
+      "mirror-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Vibrant Green"
+      ],
+      "material": [
+        "Glass",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Statement Piece"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "sunburst",
+      "gold",
+      "statement",
+      "glamorous",
+      "organic shape",
+      "green frame",
+      "modern",
+      "contemporary",
+      "home decor",
+      "statement piece",
+      "living room",
+      "bedroom",
+      "entryway",
+      "unique design",
+      "smooth texture",
+      "matte finish",
+      "decorative mirror",
+      "interior design",
+      "stylish",
+      "elegant",
+      "artistic",
+      "bold color",
+      "unconventional",
+      "eye-catching",
+      "focal point",
+      "versatile",
+      "fashionable",
+      "trendy",
+      "luxury",
+      "high-end",
+      "decor",
+      "Round Sunburst Mirror",
+      "artistic mirror",
+      "decorative mirrors",
+      "luxury home decor",
+      "statement mirror",
+      "living room mirror",
+      "bedroom mirror",
+      "entryway mirror",
+      "sunburst design",
+      "intricate frame mirror",
+      "modern decor",
+      "contemporary mirror",
+      "unique mirror design",
+      "high-end mirrors",
+      "mirror for home",
+      "stylish mirrors",
+      "elegant mirrors",
+      "artistic home decor",
+      "mirror with movement",
+      "radiant mirror",
+      "mirror with light reflection",
+      "mirror focal point",
+      "luxury statement piece",
+      "exquisite mirrors",
+      "mirror with organic shape",
+      "green frame mirror"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.9,
+      "reviewCount": 178
+    },
+    "enrichedDescription": {
+      "short": "Radiate elegance with the Round Sunburst Mirror, featuring a captivating design and luxurious finish.",
+      "long": "Transform your space with the exquisite Round Sunburst Mirror, priced at $285, which effortlessly combines artistry and functionality. This stunning piece showcases a dazzling sunburst design, emanating from a central, perfectly round mirror. The intricate frame, crafted with meticulous attention to detail, creates a sense of movement and light, making it an ideal focal point for any room. Whether placed in a living room, bedroom, or entryway, its radiant charm will elevate your decor, reflecting natural light to brighten and expand your space. This mirror is more than just a decorative element; it's a statement of luxury and style.",
+      "features": [
+        "Striking sunburst design",
+        "Luxurious and intricate frame",
+        "Perfect for living rooms, bedrooms, and entryways",
+        "Enhances natural light and creates depth",
+        "High-quality craftsmanship",
+        "Versatile and timeless"
+      ],
+      "careInstructions": "Dust the frame regularly with a soft cloth. Clean the mirror surface with a gentle glass cleaner to maintain its shine.",
+      "materialComposition": "Crafted from high-quality glass and a durable metallic frame, ensuring longevity and elegance."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Vibrant Green",
+          "hex": "#6E8B3D",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Organic shape with smooth curves"
+    },
+    "seo": {
+      "metaTitle": "Round Sunburst Mirror - Artistic & Functional Decor",
+      "metaDescription": "Elevate your space with the Round Sunburst Mirror. Its stunning design and radiant charm make it a luxurious focal point. Buy now for $285!",
+      "altText": "Round Sunburst Mirror with dazzling sunburst design and intricate frame, reflecting light to brighten any room.",
+      "keywords": [
+        "Round Sunburst Mirror",
+        "artistic mirror",
+        "decorative mirrors",
+        "luxury home decor",
+        "statement mirror",
+        "living room mirror",
+        "bedroom mirror",
+        "entryway mirror",
+        "sunburst design",
+        "intricate frame mirror",
+        "modern decor",
+        "contemporary mirror",
+        "unique mirror design",
+        "high-end mirrors",
+        "mirror for home",
+        "stylish mirrors",
+        "elegant mirrors",
+        "artistic home decor",
+        "mirror with movement",
+        "radiant mirror",
+        "mirror with light reflection",
+        "mirror focal point",
+        "luxury statement piece",
+        "exquisite mirrors",
+        "mirror with organic shape",
+        "green frame mirror"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:01:57.659Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-002",
+    "name": "Arched Floor Mirror",
+    "description": "Full-length arched mirror with slim black metal frame, perfect for bedrooms and dressing areas.",
+    "price": 445,
+    "compareAtPrice": 575,
+    "primaryImage": "mirror-2.jpg",
+    "images": [
+      "mirror-2.jpg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Jet Black"
+      ],
+      "material": [
+        "Metal",
+        "Glass"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Bedroom",
+        "Dressing Area",
+        "Living Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "floor",
+      "arched",
+      "full-length",
+      "bedroom",
+      "floor mirror",
+      "arched mirror",
+      "full-length mirror",
+      "bedroom decor",
+      "modern mirror",
+      "minimalist mirror",
+      "black frame",
+      "sleek design",
+      "decorative mirror",
+      "tall mirror",
+      "elegant mirror",
+      "living room mirror",
+      "dressing area mirror",
+      "home decor",
+      "interior design",
+      "reflective surface",
+      "clear reflection",
+      "space-enhancing",
+      "architectural interest",
+      "arched floor mirror",
+      "sleek black frame",
+      "bedroom mirror",
+      "space-enhancing mirror",
+      "clear reflective surface",
+      "modern style",
+      "minimalist style",
+      "black metal frame",
+      "mirror with arched top",
+      "undistorted view",
+      "room decor",
+      "stylish home accessory",
+      "versatile mirror",
+      "decorative touch",
+      "modern elegance",
+      "matte finish mirror",
+      "slim frame mirror"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.8,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Elegant arched floor mirror with a sleek black metal frame for modern decor.",
+      "long": "Transform your interior with the Arched Floor Mirror, a captivating blend of functionality and style. This full-length mirror is encased in a slim, sleek black metal frame, delivering a modern aesthetic that seamlessly integrates into any decor. Its elegant arched silhouette adds a touch of architectural intrigue, making it a focal point in any room. Whether placed in a bedroom, dressing area, or living room, this mirror enhances your space by creating the illusion of depth and light. The crystal-clear reflective surface offers an undistorted view, perfect for daily grooming or adding a decorative touch. With its minimalist design and sophisticated finish, the Arched Floor Mirror is more than just a reflection—it's an expression of style.",
+      "features": [
+        "Full-length mirror for comprehensive views",
+        "Elegant arched top for architectural interest",
+        "Sleek black metal frame for a modern touch",
+        "Minimalist design enhances room decor",
+        "Clear reflective surface for undistorted images",
+        "Space-enhancing effect for a spacious feel"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid harsh chemicals and abrasive cleaners to maintain its pristine finish.",
+      "materialComposition": "Frame: Metal; Mirror: Glass"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Jet Black",
+          "hex": "#343434",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "arched",
+      "silhouette": "Tall and slender with an arched top"
+    },
+    "seo": {
+      "metaTitle": "Arched Floor Mirror - Modern Elegance with Sleek Black Frame",
+      "metaDescription": "Enhance your space with the Arched Floor Mirror. Its sleek black frame and elegant design create depth and style. Order now for a stylish touch!",
+      "altText": "Arched floor mirror with a sleek black metal frame, enhancing room decor.",
+      "keywords": [
+        "arched floor mirror",
+        "modern mirror",
+        "sleek black frame",
+        "full-length mirror",
+        "minimalist mirror",
+        "home decor",
+        "bedroom mirror",
+        "living room mirror",
+        "dressing area mirror",
+        "decorative mirror",
+        "elegant mirror",
+        "tall mirror",
+        "interior design",
+        "space-enhancing mirror",
+        "clear reflective surface",
+        "architectural interest",
+        "modern style",
+        "minimalist style",
+        "black metal frame",
+        "mirror with arched top",
+        "sleek design",
+        "reflective surface",
+        "undistorted view",
+        "room decor",
+        "stylish home accessory",
+        "versatile mirror",
+        "decorative touch",
+        "modern elegance",
+        "matte finish mirror",
+        "slim frame mirror"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:01.832Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-003",
+    "name": "Venetian Style Ornate Mirror",
+    "description": "Elegantly detailed Venetian-style mirror with intricate etched glass border and beveled edges.",
+    "price": 495,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-3.jpeg",
+    "images": [
+      "mirror-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown",
+        "Clear"
+      ],
+      "material": [
+        "Wood",
+        "Glass"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "venetian",
+      "ornate",
+      "decorative",
+      "traditional",
+      "wooden frame",
+      "organic shape",
+      "modern decor",
+      "minimalist",
+      "home accessory",
+      "reflective",
+      "natural finish",
+      "elegant design",
+      "living room",
+      "bedroom",
+      "entryway",
+      "interior design",
+      "decorative mirror",
+      "unique shape",
+      "warm tones",
+      "home decor",
+      "wall mirror",
+      "large mirror",
+      "stylish",
+      "functional",
+      "versatile",
+      "smooth texture",
+      "contemporary",
+      "artistic",
+      "statement piece",
+      "neutral colors",
+      "flowing lines",
+      "brightening space",
+      "natural materials",
+      "clean lines",
+      "modern aesthetic",
+      "Venetian mirror",
+      "ornate mirror",
+      "elegant mirror",
+      "wooden frame mirror",
+      "large wall mirror",
+      "modern decor mirror",
+      "minimalist mirror",
+      "reflective mirror",
+      "natural finish mirror",
+      "living room mirror",
+      "bedroom mirror",
+      "entryway mirror",
+      "interior design mirror",
+      "unique shape mirror",
+      "warm tones mirror",
+      "stylish mirror",
+      "functional mirror",
+      "versatile mirror",
+      "smooth texture mirror",
+      "contemporary mirror",
+      "artistic mirror",
+      "statement piece mirror",
+      "neutral colors mirror",
+      "flowing lines mirror",
+      "brightening space mirror",
+      "natural materials mirror",
+      "clean lines mirror"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 45
+    },
+    "enrichedDescription": {
+      "short": "Exquisite Venetian Style Ornate Mirror for your elegant home decor.",
+      "long": "Transform your space with the Venetian Style Ornate Mirror, a masterpiece of craftsmanship and elegance. Its intricate detailing and luxurious design make it a standout piece in any room, reflecting both light and sophistication. Perfect for enhancing the charm of living rooms, bedrooms, or entryways, this mirror serves as a functional art piece that draws admiration and complements a variety of interior styles. Whether accentuating your modern decor or adding a touch of opulence to traditional settings, this mirror is an investment in beauty and style.",
+      "features": [
+        "Venetian ornate design",
+        "Reflective glass surface",
+        "Luxurious craftsmanship",
+        "Versatile room placement",
+        "Enhances light and space",
+        "Adds elegance to decor",
+        "Intricate detailing"
+      ],
+      "careInstructions": "Clean the glass with a gentle glass cleaner. Dust the frame using a soft cloth, avoiding abrasive materials.",
+      "materialComposition": "Glass mirror encased in a resin ornate frame"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B5A2B",
+          "category": "primary"
+        },
+        {
+          "name": "Clear",
+          "hex": "#FFFFFF",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Curved with flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Venetian Style Ornate Mirror - Elegant Craftsmanship & Design",
+      "metaDescription": "Enhance your decor with the Venetian Style Ornate Mirror. Its luxurious design and intricate details make it a standout piece. Order now for elegance!",
+      "altText": "Venetian Style Ornate Mirror with organic wooden frame and smooth finish.",
+      "keywords": [
+        "Venetian mirror",
+        "ornate mirror",
+        "elegant mirror",
+        "wooden frame mirror",
+        "decorative mirror",
+        "large wall mirror",
+        "modern decor mirror",
+        "minimalist mirror",
+        "home accessory",
+        "reflective mirror",
+        "natural finish mirror",
+        "living room mirror",
+        "bedroom mirror",
+        "entryway mirror",
+        "interior design mirror",
+        "unique shape mirror",
+        "warm tones mirror",
+        "stylish mirror",
+        "functional mirror",
+        "versatile mirror",
+        "smooth texture mirror",
+        "contemporary mirror",
+        "artistic mirror",
+        "statement piece mirror",
+        "neutral colors mirror",
+        "flowing lines mirror",
+        "brightening space mirror",
+        "natural materials mirror",
+        "clean lines mirror"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:10.219Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-004",
+    "name": "Organic Shape Mirror",
+    "description": "Asymmetrical organic-shaped mirror with natural curves. A unique modern accent.",
+    "price": 225,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-4.jpeg",
+    "images": [
+      "mirror-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut",
+        "Clear"
+      ],
+      "material": [
+        "Glass",
+        "Wood"
+      ],
+      "style": [
+        "Modern",
+        "Organic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Bathroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative Accent"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "organic",
+      "asymmetrical",
+      "modern",
+      "unique",
+      "decor",
+      "home",
+      "interior",
+      "design",
+      "accent",
+      "wood",
+      "glass",
+      "natural",
+      "elegant",
+      "stylish",
+      "contemporary",
+      "artistic",
+      "frame",
+      "chestnut",
+      "warm",
+      "decorative",
+      "space",
+      "light",
+      "living room",
+      "bedroom",
+      "bathroom",
+      "home decor",
+      "wall mirror",
+      "statement piece",
+      "nature-inspired",
+      "organic shape mirror",
+      "modern mirror",
+      "chestnut wood frame",
+      "asymmetrical mirror",
+      "unique home decor",
+      "living room mirror",
+      "bedroom mirror",
+      "bathroom mirror",
+      "nature-inspired design",
+      "artistic wall mirror",
+      "decorative mirror",
+      "modern elegance",
+      "home accent piece",
+      "stylish mirror",
+      "contemporary decor",
+      "natural mirror",
+      "mirror with curves",
+      "elegant mirror",
+      "mirror for space enhancement",
+      "light enhancing mirror",
+      "statement piece mirror",
+      "warm chestnut mirror",
+      "mirror for modern homes",
+      "accent mirror",
+      "mirror with wooden frame",
+      "home interior mirror",
+      "mirror for artistic flair",
+      "unique aesthetic mirror",
+      "mirror for contemporary settings"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Transform your space with our elegant organic-shaped mirror framed in warm chestnut wood.",
+      "long": "Elevate your home decor with the Organic Shape Mirror, an embodiment of modern elegance and nature-inspired design. The mirror features a captivating asymmetrical shape that flows with graceful curves, making it a unique accent piece for any room. Encased in a warm chestnut wood frame, it exudes a cozy ambiance while enhancing your space's light and depth. Perfect for living rooms, bedrooms, or bathrooms, this mirror not only serves a functional purpose but also adds artistic flair to your walls. Its organic silhouette effortlessly complements contemporary settings, offering a harmonious blend of style and substance.",
+      "features": [
+        "Asymmetrical organic silhouette",
+        "Warm chestnut wood frame",
+        "Enhances space and light",
+        "Perfect for contemporary decor",
+        "Nature-inspired elegance",
+        "Artistic accent piece",
+        "Versatile for multiple rooms"
+      ],
+      "careInstructions": "Use a soft, damp cloth to clean the glass mirror. Maintain the wooden frame by wiping with a dry cloth and avoid using harsh chemicals.",
+      "materialComposition": "Crafted from high-quality glass with a solid chestnut wood frame."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut",
+          "hex": "#8B4513",
+          "category": "primary"
+        },
+        {
+          "name": "Clear",
+          "hex": "#FFFFFF",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Asymmetrical with flowing curves"
+    },
+    "seo": {
+      "metaTitle": "Organic Shape Mirror - Modern Elegance with Chestnut Frame",
+      "metaDescription": "Transform your decor with the Organic Shape Mirror. Its unique asymmetrical design and warm chestnut frame enhance any room's style. Shop now!",
+      "altText": "Elegant organic-shaped mirror with asymmetrical design and warm chestnut wood frame.",
+      "keywords": [
+        "organic shape mirror",
+        "modern mirror",
+        "chestnut wood frame",
+        "asymmetrical mirror",
+        "unique home decor",
+        "living room mirror",
+        "bedroom mirror",
+        "bathroom mirror",
+        "nature-inspired design",
+        "artistic wall mirror",
+        "decorative mirror",
+        "modern elegance",
+        "home accent piece",
+        "stylish mirror",
+        "contemporary decor",
+        "natural mirror",
+        "mirror with curves",
+        "elegant mirror",
+        "mirror for space enhancement",
+        "light enhancing mirror",
+        "statement piece mirror",
+        "warm chestnut mirror",
+        "mirror for modern homes",
+        "accent mirror",
+        "mirror with wooden frame",
+        "home interior mirror",
+        "mirror for artistic flair",
+        "unique aesthetic mirror",
+        "mirror for contemporary settings"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:14.449Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-006",
+    "name": "Rattan Frame Mirror",
+    "description": "Natural rattan frame mirror with bohemian coastal appeal.",
+    "price": 165,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-6.webp",
+    "images": [
+      "mirror-6.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Black"
+      ],
+      "material": [
+        "Glass",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Bedroom",
+        "Bathroom",
+        "Living Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "rattan",
+      "natural",
+      "bohemian",
+      "coastal",
+      "full-length",
+      "LED",
+      "black frame",
+      "modern",
+      "contemporary",
+      "home decor",
+      "bedroom mirror",
+      "bathroom mirror",
+      "living room mirror",
+      "sleek design",
+      "ambient lighting",
+      "rectangular mirror",
+      "stylish",
+      "elegant",
+      "versatile",
+      "Rattan Frame Mirror",
+      "Art & Mirrors",
+      "woven mirror design",
+      "bohemian decor mirror",
+      "entryway mirror",
+      "organic texture mirror",
+      "light brown mirror",
+      "durable rattan mirror",
+      "natural elegance mirror",
+      "decorative wall mirror",
+      "home decor mirror",
+      "mirror with rattan frame",
+      "authentic design mirror",
+      "earthy decor mirror",
+      "mirror centerpiece",
+      "reflective home decor",
+      "mirror with warmth",
+      "mirror for open spaces",
+      "versatile mirror design",
+      "mirror with authenticity",
+      "mirror for modern homes",
+      "mirror with woven texture",
+      "mirror for stylish homes",
+      "mirror for elegant interiors"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 78
+    },
+    "enrichedDescription": {
+      "short": "Charming Rattan Frame Mirror adds a natural touch to your space.",
+      "long": "Embrace the effortless elegance of nature with our Rattan Frame Mirror. Its intricate woven design evokes a sense of warmth and authenticity, making it an exceptional centerpiece for any room. Ideal for entryways or living spaces, the mirror's organic texture and light brown hue harmonize beautifully with earthy or bohemian decor. Reflecting light with grace, this mirror enhances the feeling of openness in your home, while the sturdy rattan frame ensures durability and long-lasting beauty.",
+      "features": [
+        "Rattan woven frame for a natural aesthetic",
+        "Lightweight and easy to hang",
+        "Versatile design complements various decor styles",
+        "Large mirror surface enhances room brightness",
+        "Durable craftsmanship for long-lasting use",
+        "Perfect for entryways, living rooms, or bedrooms"
+      ],
+      "careInstructions": "Dust the rattan frame regularly with a soft brush or cloth. Clean the mirror surface with a damp cloth and mild glass cleaner. Avoid excessive moisture.",
+      "materialComposition": "Frame: 100% natural rattan; Mirror: high-quality reflective glass"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Tall and slender with rounded corners"
+    },
+    "seo": {
+      "metaTitle": "Rattan Frame Mirror - Elegant Woven Design & Durability",
+      "metaDescription": "Transform your space with our Rattan Frame Mirror, featuring an intricate woven design that adds warmth and authenticity. Perfect for entryways or living spaces. Order now!",
+      "altText": "Rattan Frame Mirror with intricate woven design, perfect for entryways or living spaces.",
+      "keywords": [
+        "Rattan Frame Mirror",
+        "Art & Mirrors",
+        "woven mirror design",
+        "bohemian decor mirror",
+        "entryway mirror",
+        "living room mirror",
+        "organic texture mirror",
+        "light brown mirror",
+        "durable rattan mirror",
+        "natural elegance mirror",
+        "decorative wall mirror",
+        "home decor mirror",
+        "mirror with rattan frame",
+        "authentic design mirror",
+        "earthy decor mirror",
+        "mirror centerpiece",
+        "reflective home decor",
+        "mirror with warmth",
+        "mirror for open spaces",
+        "versatile mirror design",
+        "mirror with authenticity",
+        "mirror for modern homes",
+        "mirror with woven texture",
+        "mirror for stylish homes",
+        "mirror for elegant interiors"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:26.531Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-005",
+    "name": "Industrial Pipe Mirror",
+    "description": "Round mirror with industrial pipe frame in matte black finish.",
+    "price": 195,
+    "compareAtPrice": 250,
+    "primaryImage": "mirror-5.jpg",
+    "images": [
+      "mirror-5.jpg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Matte Black"
+      ],
+      "material": [
+        "Metal",
+        "Glass"
+      ],
+      "style": [
+        "Industrial",
+        "Modern"
+      ],
+      "room": [
+        "Bathroom",
+        "Entryway",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "industrial",
+      "pipe",
+      "round",
+      "black",
+      "modern",
+      "decor",
+      "home",
+      "bathroom",
+      "entryway",
+      "office",
+      "wall",
+      "reflective",
+      "stylish",
+      "functional",
+      "versatile",
+      "matte",
+      "metal",
+      "glass",
+      "frame",
+      "design",
+      "interior",
+      "decorative",
+      "accent",
+      "edgy",
+      "sleek",
+      "contemporary",
+      "minimalist",
+      "art",
+      "home decor",
+      "unique",
+      "statement piece",
+      "easy to clean",
+      "durable",
+      "high quality",
+      "trendy",
+      "modern design",
+      "industrial style",
+      "matte black",
+      "industrial pipe mirror",
+      "modern mirror",
+      "matte black mirror",
+      "round mirror",
+      "decorative mirror",
+      "bathroom mirror",
+      "entryway mirror",
+      "office mirror",
+      "wall mirror",
+      "reflective surface",
+      "stylish mirror",
+      "functional mirror",
+      "versatile mirror",
+      "matte finish",
+      "metal frame mirror",
+      "glass mirror",
+      "industrial design",
+      "contemporary mirror",
+      "minimalist mirror",
+      "unique mirror",
+      "durable mirror",
+      "high quality mirror",
+      "trendy mirror"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.5,
+      "reviewCount": 134
+    },
+    "enrichedDescription": {
+      "short": "Enhance your space with an edgy round mirror featuring a matte black industrial pipe frame.",
+      "long": "Introduce a bold, modern statement piece to your home with our Industrial Pipe Mirror. This round mirror is enclosed in a striking industrial pipe frame finished in a sleek matte black, providing a perfect blend of contemporary design and rugged elegance. Its reflective surface not only enhances the light and depth of any room but also adds an industrial touch to spaces like bathrooms, entryways, and offices. Designed for versatility, this mirror complements various interior styles, from minimalist to modern industrial. Transform your space with this unique and functional art piece that promises to be both a conversation starter and a practical addition to your decor.",
+      "features": [
+        "Round mirror with industrial pipe frame",
+        "Matte black finish for a sleek look",
+        "Enhances light and depth",
+        "Perfect for bathrooms, entryways, or offices",
+        "Versatile design complements various styles",
+        "Durable construction for long-lasting use"
+      ],
+      "careInstructions": "Clean the mirror surface with a glass cleaner and a soft cloth. Dust the frame regularly with a dry cloth to maintain its matte finish.",
+      "materialComposition": "Metal frame with durable glass mirror"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Matte Black",
+          "hex": "#2B2B2B",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "round",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Industrial Pipe Mirror - Modern Matte Black Statement Piece",
+      "metaDescription": "Transform your space with the Industrial Pipe Mirror, featuring a sleek matte black pipe frame. Perfect for bathrooms, entryways, and offices. Shop now!",
+      "altText": "Round mirror with sleek industrial pipe frame in matte black finish, perfect for modern decor.",
+      "keywords": [
+        "industrial pipe mirror",
+        "modern mirror",
+        "matte black mirror",
+        "round mirror",
+        "decorative mirror",
+        "home decor",
+        "bathroom mirror",
+        "entryway mirror",
+        "office mirror",
+        "wall mirror",
+        "reflective surface",
+        "stylish mirror",
+        "functional mirror",
+        "versatile mirror",
+        "matte finish",
+        "metal frame mirror",
+        "glass mirror",
+        "industrial design",
+        "contemporary mirror",
+        "minimalist mirror",
+        "statement piece",
+        "unique mirror",
+        "easy to clean",
+        "durable mirror",
+        "high quality mirror",
+        "trendy mirror",
+        "modern design"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:34.726Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-007",
+    "name": "Hexagon Wall Mirror Set",
+    "description": "Set of 3 hexagonal wall mirrors in varying sizes for geometric arrangements.",
+    "price": 125,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-7.webp",
+    "images": [
+      "mirror-7.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Jet Black"
+      ],
+      "material": [
+        "Glass",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Bathroom",
+        "Hallway",
+        "Living Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "hexagon",
+      "set",
+      "geometric",
+      "gold",
+      "oval",
+      "black frame",
+      "modern",
+      "minimalist",
+      "decor",
+      "bathroom mirror",
+      "hallway",
+      "living room",
+      "sleek design",
+      "elegant",
+      "reflective",
+      "glass",
+      "metal",
+      "home decor",
+      "wall mirror",
+      "interior design",
+      "stylish",
+      "functional",
+      "versatile",
+      "light enhancing",
+      "space enhancing",
+      "easy maintenance",
+      "hexagon wall mirror",
+      "mirror set",
+      "modern mirrors",
+      "geometric design",
+      "living room mirrors",
+      "hallway decor",
+      "bedroom mirrors",
+      "minimalist mirrors",
+      "contemporary mirrors",
+      "mirror trio",
+      "light enhancing mirrors",
+      "decorative mirrors",
+      "stylish mirror set",
+      "versatile wall mirrors",
+      "mirror arrangement ideas",
+      "sleek mirror frames",
+      "reflective wall mirrors",
+      "interior design mirrors",
+      "conversation starter decor",
+      "focal point mirrors",
+      "customizable mirror set",
+      "space enhancing mirrors",
+      "modern aesthetic mirrors",
+      "elegant wall mirrors",
+      "functional mirror decor",
+      "mirror for brightening spaces",
+      "mirror for larger appearance",
+      "mirror set for modern homes"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 92
+    },
+    "enrichedDescription": {
+      "short": "Transform your space with the elegant Hexagon Wall Mirror Set, perfect for adding depth and modern flair.",
+      "long": "Elevate your home decor with the Hexagon Wall Mirror Set, a stunning trio that effortlessly combines functionality with style. Each hexagonal mirror boasts a sleek frame, enhancing the modern aesthetic of your living room, hallway, or bedroom. The geometric design not only creates visual interest but also reflects light to make any space appear larger and brighter. Ideal for contemporary and minimalist interiors, this set provides versatility in arrangement, allowing you to customize your wall decor. Whether grouped together or placed separately, these mirrors are sure to be conversation starters and focal points in your home.",
+      "features": [
+        "Set of three hexagonal mirrors",
+        "Sleek, modern frame design",
+        "Reflects light to enhance space",
+        "Versatile arrangement options",
+        "Perfect for contemporary decor",
+        "Adds depth and style",
+        "Easy wall mounting"
+      ],
+      "careInstructions": "Wipe mirrors with a soft, damp cloth. Avoid using harsh chemicals or abrasive materials to prevent scratches.",
+      "materialComposition": "High-quality glass mirrors with durable metal frames."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Jet Black",
+          "hex": "#343434",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "oval",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Hexagon Wall Mirror Set - Stylish Trio for Modern Decor",
+      "metaDescription": "Transform your space with the Hexagon Wall Mirror Set. Enhance light and style in your home. Shop now for versatile, modern wall decor!",
+      "altText": "Hexagon Wall Mirror Set featuring sleek frames and geometric design, perfect for modern home decor.",
+      "keywords": [
+        "hexagon wall mirror",
+        "mirror set",
+        "home decor",
+        "modern mirrors",
+        "geometric design",
+        "living room mirrors",
+        "hallway decor",
+        "bedroom mirrors",
+        "minimalist mirrors",
+        "contemporary mirrors",
+        "mirror trio",
+        "light enhancing mirrors",
+        "decorative mirrors",
+        "stylish mirror set",
+        "versatile wall mirrors",
+        "mirror arrangement ideas",
+        "sleek mirror frames",
+        "reflective wall mirrors",
+        "interior design mirrors",
+        "conversation starter decor",
+        "focal point mirrors",
+        "customizable mirror set",
+        "space enhancing mirrors",
+        "modern aesthetic mirrors",
+        "elegant wall mirrors",
+        "functional mirror decor",
+        "mirror for brightening spaces",
+        "mirror for larger appearance",
+        "mirror set for modern homes"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:38.664Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-008",
+    "name": "Minimalist Rectangle Mirror",
+    "description": "Clean-lined rectangular mirror with thin brass frame. Versatile and elegant.",
+    "price": 175,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-8.webp",
+    "images": [
+      "mirror-8.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Bright Red"
+      ],
+      "material": [
+        "Glass",
+        "Metal"
+      ],
+      "style": [
+        "Contemporary",
+        "Modern"
+      ],
+      "room": [
+        "Bathroom",
+        "Bedroom",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "minimalist",
+      "rectangle",
+      "brass",
+      "modern",
+      "organic shape",
+      "red frame",
+      "contemporary",
+      "decor",
+      "home",
+      "wall mirror",
+      "accent piece",
+      "unique design",
+      "statement mirror",
+      "reflective surface",
+      "glass",
+      "metal",
+      "bold color",
+      "artistic",
+      "versatile",
+      "bathroom mirror",
+      "bedroom mirror",
+      "entryway mirror",
+      "interior design",
+      "home decor",
+      "stylish",
+      "elegant",
+      "sleek",
+      "trendy",
+      "fashionable",
+      "decorative mirror",
+      "Minimalist Rectangle Mirror",
+      "bold red frame mirror",
+      "modern decor mirror",
+      "contemporary mirror",
+      "home decor mirror",
+      "reflective surface mirror",
+      "organic shape mirror",
+      "accent piece mirror",
+      "glass and metal mirror",
+      "interior design mirror",
+      "stylish mirror",
+      "elegant mirror",
+      "minimalist mirror",
+      "sleek mirror",
+      "trendy mirror",
+      "fashionable mirror",
+      "artistic mirror",
+      "unique design mirror",
+      "organic-shaped mirror",
+      "bright red mirror",
+      "versatile mirror"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 156
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with this minimalist rectangle mirror, featuring a sleek design and versatile charm.",
+      "long": "Enhance your home's aesthetic with the Minimalist Rectangle Mirror, a perfect blend of simplicity and elegance. Its clean lines and unobtrusive design make it an ideal choice for modern and minimalist decor styles. The mirror's expansive reflective surface is perfect for amplifying natural light and creating a sense of space in any room. Whether placed in a bathroom to brighten the area, or in a bedroom as a subtle statement piece, this mirror seamlessly integrates into various settings. With a focus on functionality and style, its enduring appeal lies in its ability to complement without overwhelming.",
+      "features": [
+        "Sleek minimalist design",
+        "Rectangle shape for versatile placement",
+        "Large reflective surface",
+        "Enhances natural light",
+        "Perfect for modern decor",
+        "Unobtrusive and elegant",
+        "Ideal for bathrooms and bedrooms"
+      ],
+      "careInstructions": "Clean the mirror with a soft, dry cloth to remove dust. For smudges, use a gentle glass cleaner. Avoid abrasive materials.",
+      "materialComposition": "High-quality glass mirror with a durable metal frame"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Bright Red",
+          "hex": "#FF0000",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "gloss",
+      "shape": "organic",
+      "silhouette": "Organic shape with bold lines"
+    },
+    "seo": {
+      "metaTitle": "Minimalist Rectangle Mirror with Bold Red Frame",
+      "metaDescription": "Elevate your space with the Minimalist Rectangle Mirror. Its bold red frame and expansive surface enhance light and style. Perfect for modern decor. Shop now!",
+      "altText": "Minimalist Rectangle Mirror with bold red frame, ideal for modern and contemporary home decor.",
+      "keywords": [
+        "Minimalist Rectangle Mirror",
+        "bold red frame mirror",
+        "modern decor mirror",
+        "contemporary mirror",
+        "home decor mirror",
+        "reflective surface mirror",
+        "organic shape mirror",
+        "accent piece mirror",
+        "statement mirror",
+        "glass and metal mirror",
+        "bathroom mirror",
+        "bedroom mirror",
+        "entryway mirror",
+        "interior design mirror",
+        "stylish mirror",
+        "elegant mirror",
+        "minimalist mirror",
+        "sleek mirror",
+        "trendy mirror",
+        "fashionable mirror",
+        "decorative mirror",
+        "artistic mirror",
+        "unique design mirror",
+        "organic-shaped mirror",
+        "bright red mirror",
+        "versatile mirror"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:46.583Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-009",
+    "name": "Ornate Carved Mirror",
+    "description": "Beautifully carved wooden frame mirror with antique white finish.",
+    "price": 325,
+    "compareAtPrice": 425,
+    "primaryImage": "mirror-9.webp",
+    "images": [
+      "mirror-9.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Black"
+      ],
+      "material": [
+        "Glass",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Bedroom",
+        "Bathroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "ornate",
+      "carved",
+      "antique",
+      "french country",
+      "sleek",
+      "curved",
+      "modern",
+      "minimalist",
+      "decorative",
+      "elegant",
+      "reflective",
+      "home decor",
+      "interior design",
+      "wall mirror",
+      "bedroom mirror",
+      "bathroom mirror",
+      "dining room mirror",
+      "black frame",
+      "contemporary",
+      "clean lines",
+      "light enhancement",
+      "space enhancement",
+      "versatile",
+      "stylish",
+      "sophisticated",
+      "accent piece",
+      "home improvement",
+      "wall decor",
+      "furniture",
+      "accessory",
+      "ornament",
+      "design",
+      "architecture",
+      "living space",
+      "home styling",
+      "room enhancement",
+      "visual appeal",
+      "ornate carved mirror",
+      "vintage mirror",
+      "floral mirror",
+      "wooden frame mirror",
+      "art and mirrors",
+      "decorative mirror",
+      "elegant mirror",
+      "statement piece",
+      "entryway mirror",
+      "living room mirror",
+      "traditional decor",
+      "contemporary decor",
+      "reflective surface",
+      "depth enhancement",
+      "mirror craftsmanship",
+      "artful mirror",
+      "mirror for home",
+      "mirror with motifs",
+      "mirror elegance",
+      "mirror allure",
+      "mirror vintage",
+      "mirror design",
+      "mirror style"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.7,
+      "reviewCount": 56
+    },
+    "enrichedDescription": {
+      "short": "Bring opulence and charm with the Ornate Carved Mirror.",
+      "long": "Elevate your space with the Ornate Carved Mirror, a testament to exquisite craftsmanship. Its intricately carved wooden frame boasts elegant floral motifs, offering a touch of vintage allure to your home. This mirror's rich details and reflective surface create an expansive feel, ideal for adorning any wall in need of a statement piece. Whether gracing the entryway, living room, or bedroom, it harmonizes effortlessly with both traditional and contemporary interiors, enhancing light and depth. Priced at $325, this piece is more than a mirror; it's an artful addition to your decor.",
+      "features": [
+        "Intricately carved wooden frame",
+        "Vintage floral motifs",
+        "Expands light and space",
+        "Suitable for traditional and contemporary styles",
+        "Ideal for entryways, living rooms, or bedrooms",
+        "Statement piece for wall decor",
+        "Reflective surface enhances ambiance"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Clean glass with a gentle glass cleaner. Avoid moisture contact with the wooden frame.",
+      "materialComposition": "Glass mirror with solid wood frame featuring carved details"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Curved top with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Ornate Carved Mirror - Vintage Elegance for Your Home",
+      "metaDescription": "Transform your space with the Ornate Carved Mirror's floral motifs. Add vintage allure and depth to any room. Shop now for $325!",
+      "altText": "Ornate Carved Mirror with elegant floral motifs on a wooden frame, enhancing room decor.",
+      "keywords": [
+        "ornate carved mirror",
+        "vintage mirror",
+        "floral mirror",
+        "wooden frame mirror",
+        "art and mirrors",
+        "decorative mirror",
+        "elegant mirror",
+        "home decor",
+        "interior design",
+        "statement piece",
+        "entryway mirror",
+        "living room mirror",
+        "bedroom mirror",
+        "traditional decor",
+        "contemporary decor",
+        "reflective surface",
+        "light enhancement",
+        "depth enhancement",
+        "mirror craftsmanship",
+        "artful mirror",
+        "wall mirror",
+        "mirror for home",
+        "mirror with motifs",
+        "mirror elegance",
+        "mirror allure",
+        "mirror vintage",
+        "mirror design",
+        "mirror style"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:51.722Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-mirror-010",
+    "name": "Art Deco Fan Mirror",
+    "description": "Dramatic art deco inspired mirror with fan-shaped design and brass finish.",
+    "price": 275,
+    "compareAtPrice": null,
+    "primaryImage": "mirror-10.webp",
+    "images": [
+      "mirror-10.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Mirrors",
+        "slug": "mirror"
+      },
+      "productType": "mirror"
+    },
+    "attributes": {
+      "color": [
+        "Jet Black"
+      ],
+      "material": [
+        "Glass",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Dressing"
+      ]
+    },
+    "tags": [
+      "mirror",
+      "art deco",
+      "fan",
+      "brass",
+      "glamorous",
+      "full-length",
+      "black frame",
+      "modern",
+      "contemporary",
+      "sleek",
+      "minimalist",
+      "home decor",
+      "reflective",
+      "glass",
+      "metal",
+      "rectangular",
+      "elegant",
+      "versatile",
+      "entryway",
+      "bedroom",
+      "living room",
+      "dressing",
+      "interior design",
+      "decor",
+      "stylish",
+      "clean lines",
+      "matte finish",
+      "smooth texture",
+      "solid pattern",
+      "tall mirror",
+      "floor mirror",
+      "accent piece",
+      "home accessory",
+      "decorative mirror",
+      "functional",
+      "sleek design",
+      "modern aesthetic",
+      "contemporary style",
+      "black accent",
+      "glass surface",
+      "clear reflection",
+      "metal frame",
+      "simple elegance",
+      "versatile use",
+      "room enhancement",
+      "space enlarging",
+      "light reflecting",
+      "easy maintenance",
+      "Art Deco Fan Mirror",
+      "vintage mirror",
+      "gold frame mirror",
+      "fan-shaped mirror",
+      "elegant mirrors",
+      "decorative mirrors",
+      "modern mirrors",
+      "home decor mirrors",
+      "living room mirrors",
+      "bedroom mirrors",
+      "entryway mirrors",
+      "luxury mirrors",
+      "artistic mirrors",
+      "statement mirrors",
+      "reflective mirrors",
+      "light enhancing mirrors",
+      "space enlarging mirrors",
+      "clear reflection mirrors",
+      "accent mirrors",
+      "glamorous mirrors",
+      "mirrors for home",
+      "stylish mirrors",
+      "bold mirrors",
+      "refined decor",
+      "decor accent pieces",
+      "mirror art",
+      "home accessories",
+      "interior design mirrors",
+      "glam mirrors",
+      "elegant home decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.9,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Add vintage charm with the Art Deco Fan Mirror, featuring a unique fan-shaped design and a sophisticated gold frame.",
+      "long": "Transform your home with the Art Deco Fan Mirror, a captivating blend of vintage elegance and modern functionality. Its distinct fan-shaped design, outlined by a luxurious gold frame, evokes the glamorous essence of the Art Deco era. Ideal for making a bold statement in your living room, bedroom, or entryway, this mirror not only serves as a piece of art but also enhances natural light and creates the illusion of more space. The reflective surface provides a crisp, clear image, perfect for last-minute checks before heading out. Add a touch of refinement to your decor with this exquisite accent piece.",
+      "features": [
+        "Unique fan-shaped design",
+        "Elegant gold frame",
+        "Art Deco-inspired aesthetics",
+        "Clear reflective glass surface",
+        "Enhances light and space"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Use a gentle glass cleaner for the mirror surface. Avoid harsh chemicals on the frame.",
+      "materialComposition": "High-quality glass mirror with a durable metal frame finished in gold"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Jet Black",
+          "hex": "#343434",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Tall and sleek with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Art Deco Fan Mirror - Vintage Elegance & Modern Flair",
+      "metaDescription": "Elevate your space with the Art Deco Fan Mirror's luxurious gold frame and fan-shaped design. Perfect for enhancing light and space. Shop now!",
+      "altText": "Art Deco Fan Mirror with a gold frame and fan-shaped design.",
+      "keywords": [
+        "Art Deco Fan Mirror",
+        "vintage mirror",
+        "gold frame mirror",
+        "fan-shaped mirror",
+        "elegant mirrors",
+        "decorative mirrors",
+        "modern mirrors",
+        "home decor mirrors",
+        "living room mirrors",
+        "bedroom mirrors",
+        "entryway mirrors",
+        "luxury mirrors",
+        "artistic mirrors",
+        "statement mirrors",
+        "reflective mirrors",
+        "light enhancing mirrors",
+        "space enlarging mirrors",
+        "clear reflection mirrors",
+        "accent mirrors",
+        "glamorous mirrors",
+        "mirrors for home",
+        "stylish mirrors",
+        "bold mirrors",
+        "refined decor",
+        "decor accent pieces",
+        "mirror art",
+        "home accessories",
+        "interior design mirrors",
+        "glam mirrors",
+        "elegant home decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:02:59.724Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-001",
+    "name": "Abstract Canvas Print",
+    "description": "Large abstract canvas print in soft neutral tones. Gallery wrapped and ready to hang.",
+    "price": 185,
+    "compareAtPrice": null,
+    "primaryImage": "art-1.jpeg",
+    "images": [
+      "art-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Forest Green",
+        "Soft Beige",
+        "Neutral Gray"
+      ],
+      "material": [
+        "Canvas"
+      ],
+      "style": [
+        "Abstract",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "abstract",
+      "canvas",
+      "neutral",
+      "modern",
+      "neutral tones",
+      "modern design",
+      "gallery wrapped",
+      "forest green",
+      "interior decor",
+      "living room art",
+      "bedroom art",
+      "office art",
+      "large canvas",
+      "textured art",
+      "ready to hang",
+      "contemporary",
+      "artistic centerpiece",
+      "decorative",
+      "home decor",
+      "stylish",
+      "elegant",
+      "versatile",
+      "art print",
+      "modern art",
+      "neutral palette",
+      "green tones",
+      "abstract painting",
+      "canvas print",
+      "artwork",
+      "creative",
+      "design",
+      "sophisticated",
+      "minimalist",
+      "statement piece",
+      "decor",
+      "abstract canvas print",
+      "forest green art",
+      "neutral tones decor",
+      "ready to hang art",
+      "contemporary art",
+      "stylish wall art",
+      "elegant art",
+      "versatile canvas",
+      "canvas artwork",
+      "creative design",
+      "sophisticated decor",
+      "minimalist art"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 234
+    },
+    "enrichedDescription": {
+      "short": "Large abstract canvas print in deep green and neutral tones, gallery wrapped.",
+      "long": "Transform your space with this captivating abstract canvas print, featuring a harmonious blend of deep forest green and soft neutral tones. The textured design creates a sense of movement and depth, making it a striking centerpiece for any room. Its gallery-wrapped finish ensures a polished look from every angle, while the ready-to-hang design makes installation effortless. Perfect for living spaces, offices, or bedrooms, this piece adds a touch of modern elegance and complements various interior styles with its versatile color palette and artistic flair.",
+      "features": [
+        "Large abstract design",
+        "Deep forest green and neutral tones",
+        "Textured appearance",
+        "Gallery wrapped",
+        "Ready to hang",
+        "Versatile color palette",
+        "Modern and elegant touch"
+      ],
+      "careInstructions": "Dust gently with a soft, dry cloth. Avoid direct sunlight to prevent fading.",
+      "materialComposition": "Canvas with gallery wrap"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Forest Green",
+          "hex": "#2C5F2D",
+          "category": "primary"
+        },
+        {
+          "name": "Soft Beige",
+          "hex": "#D8CFC4",
+          "category": "secondary"
+        },
+        {
+          "name": "Neutral Gray",
+          "hex": "#B0B0B0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Bold and dynamic with flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Abstract Canvas Print - Modern Art with Gallery Wrap",
+      "metaDescription": "Elevate your space with this large abstract canvas print in deep green and neutral tones. Ready to hang, it adds modern elegance. Order now!",
+      "altText": "Large abstract canvas print with deep forest green and neutral tones, gallery-wrapped finish.",
+      "keywords": [
+        "abstract canvas print",
+        "modern art",
+        "gallery wrapped",
+        "forest green art",
+        "neutral tones decor",
+        "living room art",
+        "bedroom art",
+        "office art",
+        "large canvas",
+        "textured art",
+        "ready to hang art",
+        "contemporary art",
+        "artistic centerpiece",
+        "home decor",
+        "stylish wall art",
+        "elegant art",
+        "versatile canvas",
+        "art print",
+        "modern design",
+        "neutral palette",
+        "green tones",
+        "abstract painting",
+        "canvas artwork",
+        "creative design",
+        "sophisticated decor",
+        "minimalist art",
+        "statement piece"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:03.805Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-002",
+    "name": "Botanical Print Set",
+    "description": "Set of 4 vintage-style botanical prints in matching black frames.",
+    "price": 145,
+    "compareAtPrice": 195,
+    "primaryImage": "art-2.jpeg",
+    "images": [
+      "art-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown",
+        "Soft Beige",
+        "Gold"
+      ],
+      "material": [
+        "Canvas",
+        "Metal"
+      ],
+      "style": [
+        "Contemporary",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "botanical",
+      "print set",
+      "vintage",
+      "nature",
+      "abstract art",
+      "modern decor",
+      "canvas painting",
+      "gold frame",
+      "earth tones",
+      "contemporary style",
+      "living room art",
+      "bedroom decor",
+      "office artwork",
+      "textured painting",
+      "elegant wall art",
+      "sophisticated design",
+      "artistic focal point",
+      "warm color palette",
+      "interior design",
+      "home decoration",
+      "stylish art piece",
+      "visual depth",
+      "artistic flair",
+      "decorative accent",
+      "modern aesthetics",
+      "canvas art",
+      "gold accent",
+      "matte finish",
+      "rectangular shape",
+      "bold design",
+      "artistic expression",
+      "unique artwork",
+      "creative decor",
+      "room enhancement",
+      "visual intrigue",
+      "harmonious blend",
+      "botanical prints",
+      "nature art",
+      "art and mirrors",
+      "living room decor",
+      "bedroom art",
+      "black frames",
+      "green and earth tones",
+      "nature illustrations",
+      "modern art",
+      "decorative accents",
+      "serene art",
+      "art trio",
+      "nature-inspired art",
+      "tranquil decor",
+      "elegant art set",
+      "botanical illustrations",
+      "art for home",
+      "stylish art pieces",
+      "nature escape"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.7,
+      "reviewCount": 187
+    },
+    "enrichedDescription": {
+      "short": "Elegant Botanical Print Set in soothing hues, perfect for enhancing any room's ambiance.",
+      "long": "Transform your space with our Botanical Print Set, a trio of stunning artworks that encapsulate nature's beauty. Each piece showcases intricate botanical illustrations, rendered in soothing greens and subtle earth tones, offering a tranquil escape into the natural world. The prints' vivid details and delicate lines are framed in elegant white mats and housed within sleek black frames, making them a versatile addition to any decor style. Ideal for living rooms, bedrooms, or home offices, this set brings a refreshing touch of nature indoors, inviting serenity and elegance into your space.",
+      "features": [
+        "Set of three botanical prints",
+        "Intricate botanical illustrations",
+        "Soothing green and earth tone palette",
+        "Elegant white mats and black frames",
+        "Perfect for living rooms, bedrooms, offices"
+      ],
+      "careInstructions": "Clean frames with a damp cloth. Avoid hanging in direct sunlight to prevent fading.",
+      "materialComposition": "High-quality paper prints with wooden frames and glass covers"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B5A2B",
+          "category": "primary"
+        },
+        {
+          "name": "Soft Beige",
+          "hex": "#D3B8A3",
+          "category": "secondary"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFD700",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Bold abstract with textured brushstrokes"
+    },
+    "seo": {
+      "metaTitle": "Botanical Print Set - Elegant Nature Art Trio",
+      "metaDescription": "Revitalize your space with our Botanical Print Set. These elegant artworks bring nature indoors, offering serenity and sophistication. Order now!",
+      "altText": "Botanical Print Set featuring elegant black frames and intricate nature illustrations.",
+      "keywords": [
+        "botanical prints",
+        "nature art",
+        "art and mirrors",
+        "elegant wall art",
+        "home decoration",
+        "living room decor",
+        "bedroom art",
+        "office artwork",
+        "black frames",
+        "green and earth tones",
+        "nature illustrations",
+        "interior design",
+        "modern art",
+        "contemporary style",
+        "artistic flair",
+        "decorative accents",
+        "serene art",
+        "art trio",
+        "nature-inspired art",
+        "tranquil decor",
+        "sophisticated design",
+        "elegant art set",
+        "botanical illustrations",
+        "art for home",
+        "stylish art pieces",
+        "nature escape",
+        "visual depth",
+        "artistic expression"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:13.714Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-003",
+    "name": "Minimalist Line Art",
+    "description": "Elegant single-line drawing print in sleek white frame. Modern simplicity.",
+    "price": 95,
+    "compareAtPrice": null,
+    "primaryImage": "art-3.jpeg",
+    "images": [
+      "art-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Antique Gold"
+      ],
+      "material": [
+        "Wood",
+        "Glass"
+      ],
+      "style": [
+        "Traditional",
+        "Vintage"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "line art",
+      "minimalist",
+      "black and white",
+      "modern",
+      "mirror",
+      "gold frame",
+      "ornate",
+      "baroque",
+      "traditional decor",
+      "vintage style",
+      "home accessory",
+      "luxury",
+      "elegant",
+      "reflective",
+      "decorative",
+      "large mirror",
+      "arched mirror",
+      "classic design",
+      "interior design",
+      "wall mirror",
+      "accent piece",
+      "home decor",
+      "living room",
+      "bedroom",
+      "hallway",
+      "opulent",
+      "sophisticated",
+      "baroque style",
+      "ornate detailing",
+      "polished finish",
+      "decorative mirror",
+      "statement piece",
+      "golden hue",
+      "traditional style",
+      "vintage charm",
+      "minimalist line art",
+      "modern wall decor",
+      "contemporary art piece",
+      "sophisticated wall art",
+      "minimalist design",
+      "bold black lines",
+      "artistic flair",
+      "modern interiors",
+      "living room art",
+      "bedroom wall decor",
+      "office art",
+      "understated elegance",
+      "dynamic visual impact",
+      "clean lines art",
+      "stylish appeal",
+      "decorative art piece",
+      "contemplative art",
+      "conversation starter art",
+      "minimalist wall decor",
+      "art for modern homes",
+      "simplicity in art",
+      "elevate your decor",
+      "art for contemporary spaces",
+      "minimalist home decor",
+      "versatile art piece",
+      "art for art enthusiasts",
+      "sophisticated art piece",
+      "minimalist black and white art",
+      "modern minimalist art"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 112
+    },
+    "enrichedDescription": {
+      "short": "Minimalist black line art print adds contemporary elegance to any space.",
+      "long": "Enhance your living space with our Minimalist Line Art, a striking blend of simplicity and sophistication. This piece features bold black lines on a crisp white background, creating a dynamic visual impact. Its minimalist design complements modern and contemporary interiors, adding a touch of artistic flair to your walls. Whether displayed in the living room, bedroom, or office, this art piece effortlessly elevates your decor with its clean lines and stylish appeal. Perfect for art enthusiasts who appreciate understated elegance, the Minimalist Line Art is a versatile addition that invites contemplation and conversation.",
+      "features": [
+        "Bold black lines on white background",
+        "Contemporary minimalist design",
+        "Versatile for various room settings",
+        "Enhances modern decor",
+        "Artistic focal point",
+        "Unframed for seamless integration",
+        "Ideal for art lovers"
+      ],
+      "careInstructions": "Dust gently with a soft cloth. Avoid direct sunlight to prevent fading. Frame as desired to protect and preserve.",
+      "materialComposition": "High-quality paper print with archival ink"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Antique Gold",
+          "hex": "#D4AF37",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "ornate",
+      "finish": "polished",
+      "shape": "arched",
+      "silhouette": "Tall and arched with intricate frame detailing"
+    },
+    "seo": {
+      "metaTitle": "Minimalist Line Art - Sophisticated Modern Wall Decor",
+      "metaDescription": "Elevate your space with Minimalist Line Art. Perfect for modern interiors, this art piece adds sophistication and style. Shop now to transform your decor!",
+      "altText": "Minimalist Line Art featuring bold black lines on a white background.",
+      "keywords": [
+        "minimalist line art",
+        "modern wall decor",
+        "contemporary art piece",
+        "sophisticated wall art",
+        "minimalist design",
+        "bold black lines",
+        "artistic flair",
+        "modern interiors",
+        "living room art",
+        "bedroom wall decor",
+        "office art",
+        "understated elegance",
+        "dynamic visual impact",
+        "clean lines art",
+        "stylish appeal",
+        "decorative art piece",
+        "contemplative art",
+        "conversation starter art",
+        "minimalist wall decor",
+        "art for modern homes",
+        "simplicity in art",
+        "elevate your decor",
+        "art for contemporary spaces",
+        "minimalist home decor",
+        "versatile art piece",
+        "art for art enthusiasts",
+        "sophisticated art piece",
+        "minimalist black and white art",
+        "modern minimalist art"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:16.704Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-004",
+    "name": "Textured Wall Sculpture",
+    "description": "Dimensional wall sculpture in white ceramic. Creates beautiful shadow play.",
+    "price": 245,
+    "compareAtPrice": null,
+    "primaryImage": "art-4.jpeg",
+    "images": [
+      "art-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Terracotta",
+        "Deep Teal",
+        "Beige",
+        "Black"
+      ],
+      "material": [
+        "Canvas",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Abstract"
+      ],
+      "room": [
+        "Living Room",
+        "Entryway",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "sculpture",
+      "ceramic",
+      "white",
+      "textured",
+      "modern art",
+      "abstract design",
+      "geometric shapes",
+      "earthy tones",
+      "framed art",
+      "canvas print",
+      "wall decor",
+      "contemporary style",
+      "living room art",
+      "entryway decor",
+      "dining room art",
+      "terracotta",
+      "deep teal",
+      "beige",
+      "black frame",
+      "textured wall art",
+      "art piece",
+      "home decoration",
+      "interior design",
+      "visual interest",
+      "focal point",
+      "artistic expression",
+      "minimalist",
+      "stylish",
+      "unique design",
+      "creative",
+      "decorative piece",
+      "artistic",
+      "eye-catching",
+      "modern aesthetic",
+      "home styling",
+      "art collection",
+      "gallery wall",
+      "artistic flair",
+      "design element",
+      "wall sculpture",
+      "ceramic art",
+      "shadow play",
+      "textured wall sculpture",
+      "terracotta art",
+      "deep teal art",
+      "beige art",
+      "black frame art",
+      "focal point art",
+      "minimalist art",
+      "stylish wall decor",
+      "creative art",
+      "eye-catching art"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with a stunning Textured Wall Sculpture in earthy tones and geometric design.",
+      "long": "Transform your home with the Textured Wall Sculpture, a masterpiece of modern art that brings depth and sophistication to any room. This striking piece features an abstract array of geometric shapes in a harmonious blend of terracotta, deep teal, and beige. Encased in a sleek black frame, it offers a contemporary flair that's perfect for living rooms, entryways, or dining areas. The textured finish of this sculpture adds dimension, creating an engaging focal point that captivates the eye. With its earthy color palette and modern design, this wall art seamlessly integrates into various interior styles, offering both aesthetic appeal and versatility.",
+      "features": [
+        "Abstract geometric design",
+        "Earthy tones: terracotta, deep teal, beige",
+        "Sleek black metal frame",
+        "Textured, dimensional finish",
+        "Modern, contemporary style",
+        "Ideal for living rooms, entryways, and dining rooms"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Keep out of direct sunlight to prevent fading.",
+      "materialComposition": "Canvas print with a black metal frame"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Terracotta",
+          "hex": "#E2725B",
+          "category": "primary"
+        },
+        {
+          "name": "Deep Teal",
+          "hex": "#004B49",
+          "category": "secondary"
+        },
+        {
+          "name": "Beige",
+          "hex": "#D3B8A0",
+          "category": "accent"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Framed geometric composition"
+    },
+    "seo": {
+      "metaTitle": "Textured Wall Sculpture - Modern Art with Geometric Design",
+      "metaDescription": "Elevate your space with the Textured Wall Sculpture. This modern art piece features abstract geometric shapes in earthy tones. Perfect for any room. Shop now!",
+      "altText": "Modern wall sculpture with abstract geometric shapes in terracotta, teal, and beige.",
+      "keywords": [
+        "textured wall sculpture",
+        "modern art",
+        "abstract design",
+        "geometric shapes",
+        "earthy tones",
+        "framed art",
+        "canvas print",
+        "wall decor",
+        "contemporary style",
+        "living room art",
+        "entryway decor",
+        "dining room art",
+        "terracotta art",
+        "deep teal art",
+        "beige art",
+        "black frame art",
+        "textured wall art",
+        "home decoration",
+        "interior design",
+        "visual interest",
+        "focal point art",
+        "artistic expression",
+        "minimalist art",
+        "stylish wall decor",
+        "unique design",
+        "creative art",
+        "decorative piece",
+        "eye-catching art",
+        "modern aesthetic",
+        "home styling"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:29.102Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-005",
+    "name": "Photography Print",
+    "description": "Black and white architectural photography print in oak frame.",
+    "price": 165,
+    "compareAtPrice": null,
+    "primaryImage": "art-5.jpeg",
+    "images": [
+      "art-5.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Warm Ochre",
+        "Natural Oak"
+      ],
+      "material": [
+        "Paper",
+        "Oak Wood",
+        "Glass"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Office",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "photography",
+      "black and white",
+      "architecture",
+      "modern",
+      "abstract art",
+      "geometric print",
+      "modern decor",
+      "contemporary art",
+      "home decor",
+      "office art",
+      "living room",
+      "hallway",
+      "minimalist",
+      "oak frame",
+      "warm tones",
+      "ochre",
+      "art print",
+      "decorative piece",
+      "stylish",
+      "elegant",
+      "sophisticated",
+      "versatile",
+      "clean lines",
+      "bold design",
+      "framed art",
+      "interior design",
+      "artistic",
+      "visual impact",
+      "earthy colors",
+      "modern style",
+      "contemporary style",
+      "high-quality print",
+      "natural materials",
+      "easy to integrate",
+      "captivating",
+      "living room art",
+      "hallway decor",
+      "minimalist design",
+      "ochre art",
+      "stylish art",
+      "elegant decor",
+      "sophisticated art",
+      "versatile wall art",
+      "artistic print"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.5,
+      "reviewCount": 78
+    },
+    "enrichedDescription": {
+      "short": "Abstract geometric print in warm ochre tones, framed in oak.",
+      "long": "This striking abstract print features bold geometric shapes in a warm ochre hue, creating a captivating visual impact. The artwork is elegantly framed in natural oak, enhancing its modern appeal. Ideal for adding a touch of contemporary sophistication to any space, this piece is perfect for living rooms, offices, or hallways. The print's minimalist design and earthy color palette make it versatile and easy to integrate into various decor styles. Whether you're looking to enliven a neutral space or complement a colorful room, this print provides a balanced blend of style and elegance.",
+      "features": [
+        "Abstract geometric design",
+        "Warm ochre color",
+        "Natural oak frame",
+        "Modern and contemporary style",
+        "Versatile decor piece",
+        "High-quality art print",
+        "Smooth matte finish"
+      ],
+      "careInstructions": "Dust frame regularly with a soft cloth. Avoid direct sunlight to prevent fading.",
+      "materialComposition": "Print on high-quality paper, framed with solid oak and glass."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Ochre",
+          "hex": "#C68A53",
+          "category": "primary"
+        },
+        {
+          "name": "Natural Oak",
+          "hex": "#D3BFA6",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Bold geometric shapes with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Photography Print - Abstract Geometric Art in Oak Frame",
+      "metaDescription": "Enhance your space with our abstract geometric photography print in warm ochre. Elegantly framed in natural oak, perfect for modern decor. Shop now!",
+      "altText": "Abstract geometric photography print in warm ochre, framed in natural oak.",
+      "keywords": [
+        "abstract art",
+        "geometric print",
+        "modern decor",
+        "contemporary art",
+        "wall art",
+        "home decor",
+        "office art",
+        "living room art",
+        "hallway decor",
+        "minimalist design",
+        "oak frame",
+        "warm tones",
+        "ochre art",
+        "art print",
+        "decorative piece",
+        "stylish art",
+        "elegant decor",
+        "sophisticated art",
+        "versatile wall art",
+        "clean lines",
+        "bold design",
+        "framed art",
+        "interior design",
+        "artistic print",
+        "visual impact",
+        "earthy colors",
+        "modern style",
+        "contemporary style",
+        "high-quality print",
+        "natural materials"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:29.232Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-006",
+    "name": "Metal Wall Art",
+    "description": "Geometric metal wall art in brushed gold finish. Modern sophistication.",
+    "price": 215,
+    "compareAtPrice": 275,
+    "primaryImage": "art-6.jpg",
+    "images": [
+      "art-6.jpg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Vivid Orange",
+        "Jet Black",
+        "Bright White"
+      ],
+      "material": [
+        "Canvas"
+      ],
+      "style": [
+        "Contemporary",
+        "Urban"
+      ],
+      "room": [
+        "Living Room",
+        "Office",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Art Display"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "metal",
+      "geometric",
+      "gold",
+      "modern",
+      "graffiti art",
+      "street art",
+      "urban decor",
+      "cat illustration",
+      "vivid colors",
+      "modern art",
+      "canvas print",
+      "expressive design",
+      "bold artwork",
+      "contemporary style",
+      "artistic decor",
+      "whimsical cat",
+      "orange wall art",
+      "black and white",
+      "text elements",
+      "dynamic art",
+      "creative decor",
+      "unique wall art",
+      "eye-catching design",
+      "playful illustration",
+      "artistic expression",
+      "modern aesthetic",
+      "decorative piece",
+      "statement art",
+      "colorful artwork",
+      "urban style",
+      "artistic flair",
+      "vibrant decor",
+      "creative wall art",
+      "eclectic style"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.7,
+      "reviewCount": 98
+    },
+    "enrichedDescription": {
+      "short": "Add dynamic urban flair with this vibrant graffiti-style cat wall art.",
+      "long": "Transform your space with this vibrant graffiti-style wall art, featuring a whimsical cat on a vivid orange canvas. The dynamic design incorporates bold black and white stripes and expressive text elements, creating an urban aesthetic that stands out. Perfect for contemporary and eclectic interiors, this piece not only adds a splash of color but also brings a playful, artistic vibe to your decor. Whether in a living room, office, or bedroom, it serves as a striking statement piece that's sure to spark conversation and admiration. Infuse your space with creativity and modern street art charm.",
+      "features": [
+        "Vivid graffiti-style artwork",
+        "Whimsical cat motif",
+        "Bold color palette with vivid orange",
+        "Expressive text elements for added flair",
+        "Urban aesthetic perfect for modern spaces",
+        "High-quality canvas print",
+        "Ideal for contemporary and eclectic decor"
+      ],
+      "careInstructions": "Dust gently with a soft cloth. Avoid direct sunlight to prevent fading and preserve color vibrancy.",
+      "materialComposition": "Printed on high-quality canvas"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Vivid Orange",
+          "hex": "#FF4500",
+          "category": "primary"
+        },
+        {
+          "name": "Jet Black",
+          "hex": "#000000",
+          "category": "secondary"
+        },
+        {
+          "name": "Bright White",
+          "hex": "#FFFFFF",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Bold and dynamic with expressive lines"
+    },
+    "seo": {
+      "metaTitle": "Vibrant Graffiti Metal Wall Art - Whimsical Cat Design",
+      "metaDescription": "Transform your space with vibrant graffiti wall art featuring a whimsical cat. Shop now for bold, urban decor that sparks conversation and admiration.",
+      "altText": "Graffiti-style metal wall art with a whimsical cat on a vivid orange canvas.",
+      "keywords": [
+        "graffiti art",
+        "street art",
+        "urban decor",
+        "cat illustration",
+        "vivid colors",
+        "modern art",
+        "canvas print",
+        "expressive design",
+        "bold artwork",
+        "contemporary style",
+        "artistic decor",
+        "whimsical cat",
+        "orange wall art",
+        "black and white",
+        "text elements",
+        "dynamic art",
+        "creative decor",
+        "unique wall art",
+        "eye-catching design",
+        "playful illustration",
+        "artistic expression",
+        "modern aesthetic",
+        "decorative piece",
+        "statement art",
+        "colorful artwork",
+        "urban style",
+        "artistic flair",
+        "vibrant decor",
+        "creative wall art",
+        "eclectic style"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:43.565Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-007",
+    "name": "Woven Wall Hanging",
+    "description": "Handwoven macramé wall hanging in natural cotton. Bohemian texture.",
+    "price": 125,
+    "compareAtPrice": null,
+    "primaryImage": "art-7.jpg",
+    "images": [
+      "art-7.jpg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Natural Cotton",
+        "Cream"
+      ],
+      "material": [
+        "Cotton",
+        "Wood"
+      ],
+      "style": [
+        "Bohemian",
+        "Handcrafted"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Nursery"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "macrame",
+      "woven",
+      "bohemian",
+      "handmade",
+      "natural decor",
+      "cotton",
+      "wood",
+      "textured",
+      "organic",
+      "artisan",
+      "craft",
+      "home decor",
+      "interior design",
+      "neutral tones",
+      "rustic",
+      "soft texture",
+      "bedroom decor",
+      "living room decor",
+      "nursery decor",
+      "artisanal",
+      "handcrafted",
+      "boho",
+      "eco-friendly",
+      "sustainable",
+      "decorative piece",
+      "wall hanging",
+      "natural fibers",
+      "unique design",
+      "gift idea",
+      "stylish",
+      "elegant",
+      "woven wall hanging",
+      "macrame wall art",
+      "bohemian decor",
+      "handcrafted wall hanging",
+      "natural cotton",
+      "rustic home decor",
+      "artisanal wall piece",
+      "boho style",
+      "unique wall decor",
+      "cotton wall hanging",
+      "wooden accents",
+      "bedroom wall art",
+      "eco-friendly decor",
+      "handmade wall art",
+      "intricate knots",
+      "tassels",
+      "decorative wall hanging",
+      "organic design",
+      "artistic wall piece",
+      "stylish home decor",
+      "sustainable decor",
+      "elegant wall hanging",
+      "artisan craftsmanship"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.9,
+      "reviewCount": 156
+    },
+    "enrichedDescription": {
+      "short": "Elegant macramé wall hanging crafted from natural cotton for a bohemian touch.",
+      "long": "Transform your living space with this elegant macramé wall hanging, meticulously handwoven from natural cotton. Its delicate craftsmanship showcases a bohemian charm, accentuated by cascading tassels and intricate knots. The neutral palette of soft creams and natural hues harmonizes effortlessly with any decor style, making it an ideal addition to bedrooms, living rooms, or nurseries. The wooden rod adds a rustic element, enhancing its artisanal appeal. Perfect for those who appreciate handcrafted artistry, this piece promises to add warmth and character to your home.",
+      "features": [
+        "Handwoven macramé design",
+        "Natural cotton fibers for soft texture",
+        "Bohemian style with intricate knots",
+        "Wooden rod for rustic charm",
+        "Neutral tones for versatile decor",
+        "Ideal for bedrooms, living rooms, and nurseries",
+        "Artisanal and handcrafted"
+      ],
+      "careInstructions": "Gently dust with a soft cloth or use a vacuum with a brush attachment. Avoid direct exposure to moisture.",
+      "materialComposition": "100% natural cotton with wooden accents"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Natural Cotton",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "woven",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Flowing with intricate knots and tassels"
+    },
+    "seo": {
+      "metaTitle": "Woven Wall Hanging - Handcrafted Bohemian Art Piece",
+      "metaDescription": "Elevate your home decor with our elegant woven wall hanging. Handcrafted from natural cotton, it adds warmth and charm. Shop now for boho style!",
+      "altText": "Elegant handwoven macramé wall hanging made of natural cotton with intricate knots and tassels.",
+      "keywords": [
+        "woven wall hanging",
+        "macrame wall art",
+        "bohemian decor",
+        "handcrafted wall hanging",
+        "natural cotton",
+        "rustic home decor",
+        "artisanal wall piece",
+        "boho style",
+        "unique wall decor",
+        "cotton wall hanging",
+        "wooden accents",
+        "neutral tones",
+        "living room decor",
+        "bedroom wall art",
+        "nursery decor",
+        "eco-friendly decor",
+        "handmade wall art",
+        "soft texture",
+        "intricate knots",
+        "tassels",
+        "decorative wall hanging",
+        "organic design",
+        "artistic wall piece",
+        "stylish home decor",
+        "gift idea",
+        "sustainable decor",
+        "elegant wall hanging",
+        "natural fibers",
+        "artisan craftsmanship",
+        "interior design"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:47.120Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-008",
+    "name": "Gallery Frame Set",
+    "description": "Set of 5 matching gallery frames in matte black for custom photo arrangements.",
+    "price": 95,
+    "compareAtPrice": null,
+    "primaryImage": "art-8.jpg",
+    "images": [
+      "art-8.jpg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Matte Black"
+      ],
+      "material": [
+        "Wood",
+        "Glass"
+      ],
+      "style": [
+        "Modern",
+        "Classic"
+      ],
+      "room": [
+        "Living Room",
+        "Hallway",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "frames",
+      "gallery",
+      "set",
+      "black",
+      "modern",
+      "gallery frames",
+      "photo display",
+      "matte black",
+      "modern decor",
+      "classic style",
+      "home decor",
+      "wall art",
+      "living room",
+      "office decor",
+      "hallway decoration",
+      "wood frames",
+      "glass front",
+      "set of frames",
+      "minimalist design",
+      "custom arrangement",
+      "photo frames",
+      "art display",
+      "decorative frames",
+      "sleek design",
+      "clean lines",
+      "durable construction",
+      "versatile decor",
+      "interior design",
+      "elegant frames",
+      "black frames",
+      "frame set",
+      "wall decoration",
+      "memory display",
+      "art showcase",
+      "picture frames",
+      "home styling",
+      "artistic display",
+      "visual appeal",
+      "sophisticated decor",
+      "frame collection",
+      "stylish frames",
+      "decor accents",
+      "frame arrangement",
+      "photo gallery",
+      "art frames",
+      "decorative accents",
+      "home accents",
+      "interior accents"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 134
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with this sleek set of 5 matte black gallery frames.",
+      "long": "Transform any room with the Gallery Frame Set, featuring five meticulously crafted frames in a sophisticated matte black finish. Each frame is designed to enhance your cherished memories or artwork with a touch of elegance. The sturdy wood and glass construction ensures durability, while the minimalist rectangular design seamlessly integrates into modern or classic interiors. Whether displayed in your living room, hallway, or office, these frames create a personalized visual narrative. Let your creativity flow as you arrange them to suit your style, adding depth and character to your decor.",
+      "features": [
+        "Set of 5 matching frames",
+        "Sophisticated matte black finish",
+        "Sturdy wood and glass construction",
+        "Minimalist rectangular design",
+        "Enhances modern and classic interiors",
+        "Ideal for personalized arrangements",
+        "Creates a cohesive visual narrative"
+      ],
+      "careInstructions": "Wipe frames with a soft, dry cloth to remove dust. Avoid using harsh chemicals or abrasive materials.",
+      "materialComposition": "Wood frame with glass front"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Matte Black",
+          "hex": "#000000",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Sleek and minimalist with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Gallery Frame Set - Elegant Matte Black Frames for Art Display",
+      "metaDescription": "Transform your space with our Gallery Frame Set. Durable, matte black frames enhance your photos or art. Arrange them creatively for a stylish decor. Shop now!",
+      "altText": "Set of 5 elegant gallery frames in matte black, perfect for personalized photo displays and art arrangements.",
+      "keywords": [
+        "gallery frames",
+        "photo display",
+        "matte black",
+        "modern decor",
+        "classic style",
+        "home decor",
+        "wall art",
+        "living room",
+        "office decor",
+        "hallway decoration",
+        "wood frames",
+        "glass front",
+        "set of frames",
+        "minimalist design",
+        "custom arrangement",
+        "photo frames",
+        "art display",
+        "decorative frames",
+        "sleek design",
+        "clean lines",
+        "durable construction",
+        "versatile decor",
+        "interior design",
+        "elegant frames",
+        "black frames",
+        "frame set",
+        "wall decoration",
+        "memory display",
+        "art showcase",
+        "picture frames"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:03:56.959Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "art-wall-009",
+    "name": "Oversized Canvas Art",
+    "description": "Extra-large abstract canvas in bold blue tones. Statement piece for large walls.",
+    "price": 395,
+    "compareAtPrice": 495,
+    "primaryImage": "art-9.jpg",
+    "images": [
+      "art-9.jpg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Art & Mirrors",
+        "slug": "art"
+      },
+      "subcategory": {
+        "name": "Wall Art",
+        "slug": "wall-art"
+      },
+      "productType": "wall-art"
+    },
+    "attributes": {
+      "color": [
+        "Vivid Yellow",
+        "Deep Teal",
+        "Fiery Red"
+      ],
+      "material": [
+        "Canvas",
+        "Acrylic Paint"
+      ],
+      "style": [
+        "Abstract",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "wall art",
+      "canvas",
+      "oversized",
+      "abstract",
+      "blue",
+      "abstract art",
+      "canvas painting",
+      "vibrant colors",
+      "large wall art",
+      "contemporary design",
+      "home decor",
+      "living room art",
+      "office decoration",
+      "modern style",
+      "statement piece",
+      "artwork",
+      "colorful painting",
+      "bold design",
+      "textured surface",
+      "unique art",
+      "acrylic paint",
+      "interior decoration",
+      "creative expression",
+      "visual impact",
+      "dynamic art",
+      "oversized canvas art",
+      "contemporary artwork",
+      "textured canvas",
+      "art & mirrors",
+      "exhilarating visual impact",
+      "fiery red",
+      "deep teal",
+      "vivid yellow",
+      "high-quality canvas"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.8,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with vibrant oversized abstract canvas art.",
+      "long": "Transform your home with this oversized canvas art, a magnificent addition to any large wall. Its bold abstract design features a vibrant palette dominated by vivid yellow, deep teal, and fiery red, creating an exhilarating visual impact. Perfect for living rooms, dining areas, or offices, this contemporary masterpiece breathes life and energy into any space. The textured surface adds depth and movement, inviting you into its intricate layers, making it a dynamic centerpiece for creative expression.",
+      "features": [
+        "Oversized format ideal for large walls",
+        "Bold abstract design for a modern look",
+        "Vibrant color palette including yellow, teal, and red",
+        "Textured canvas adds depth",
+        "Contemporary style fits various decor themes",
+        "Dynamic visual impact",
+        "Perfect for living rooms, dining areas, or offices"
+      ],
+      "careInstructions": "Dust gently with a soft cloth. Avoid direct sunlight to prevent fading and preserve vibrancy.",
+      "materialComposition": "Crafted from high-quality canvas with durable acrylic paint"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Vivid Yellow",
+          "hex": "#FFD700",
+          "category": "primary"
+        },
+        {
+          "name": "Deep Teal",
+          "hex": "#008080",
+          "category": "secondary"
+        },
+        {
+          "name": "Fiery Red",
+          "hex": "#FF4500",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Bold and dynamic with layered colors"
+    },
+    "seo": {
+      "metaTitle": "Oversized Canvas Art - Bold Abstract Design for Impact",
+      "metaDescription": "Transform your space with oversized canvas art. Bold abstract colors create a dynamic centerpiece. Perfect for living rooms or offices. Shop now!",
+      "altText": "Oversized canvas art with bold abstract design featuring vivid yellow, deep teal, and fiery red colors.",
+      "keywords": [
+        "oversized canvas art",
+        "abstract art",
+        "bold design",
+        "vibrant colors",
+        "large wall art",
+        "contemporary artwork",
+        "home decor",
+        "living room art",
+        "office decoration",
+        "statement piece",
+        "modern style",
+        "colorful painting",
+        "textured canvas",
+        "acrylic paint",
+        "unique art",
+        "creative expression",
+        "visual impact",
+        "dynamic art",
+        "art & mirrors",
+        "artwork",
+        "interior decoration",
+        "exhilarating visual impact",
+        "textured surface",
+        "fiery red",
+        "deep teal",
+        "vivid yellow",
+        "high-quality canvas"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:02.420Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  }
+]

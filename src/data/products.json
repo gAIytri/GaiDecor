@@ -1,0 +1,649 @@
+[
+  {
+    "id": "furn-001",
+    "name": "Modern Velvet Sofa - 3 Seater",
+    "brand": "LuxeHome",
+    "category": "Furniture",
+    "price": 1299.99,
+    "originalPrice": 1799.99,
+    "rating": 4.8,
+    "reviewCount": 342,
+    "description": "Elegant modern sofa featuring plush velvet upholstery and solid wood legs. Perfect for contemporary living rooms.",
+    "features": [
+      "Premium Velvet Fabric",
+      "Solid Wood Legs",
+      "High-Density Foam Cushions",
+      "Seats 3 People Comfortably",
+      "Easy Assembly"
+    ],
+    "images": ["🛋️", "🏠", "✨", "🎨"],
+    "colors": ["Navy Blue", "Emerald Green", "Blush Pink", "Charcoal Gray"],
+    "inStock": true,
+    "trending": true,
+    "featured": true
+  },
+  {
+    "id": "furn-002",
+    "name": "Solid Oak Dining Table",
+    "brand": "Craftwood",
+    "category": "Furniture",
+    "price": 899.99,
+    "originalPrice": 1199.99,
+    "rating": 4.9,
+    "reviewCount": 521,
+    "description": "Handcrafted solid oak dining table with natural finish. Seats 6-8 people comfortably.",
+    "features": [
+      "100% Solid Oak Wood",
+      "Natural Wood Finish",
+      "Seats 6-8 People",
+      "Timeless Design",
+      "Durable Construction"
+    ],
+    "images": ["🪑", "🌳", "🍽️", "✨"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "furn-003",
+    "name": "Mid-Century Modern Coffee Table",
+    "brand": "RetroLiving",
+    "category": "Furniture",
+    "price": 349.99,
+    "rating": 4.6,
+    "reviewCount": 234,
+    "description": "Classic mid-century design with walnut finish and tapered legs. Perfect centerpiece for your living room.",
+    "features": [
+      "Walnut Wood Finish",
+      "Tapered Wooden Legs",
+      "Spacious Surface",
+      "Lower Shelf Storage",
+      "Mid-Century Style"
+    ],
+    "images": ["☕", "🪑", "🏠", "✨"],
+    "colors": ["Walnut", "Natural Oak"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "furn-004",
+    "name": "Upholstered Platform Bed - Queen",
+    "brand": "DreamRest",
+    "category": "Furniture",
+    "price": 799.99,
+    "originalPrice": 1099.99,
+    "rating": 4.7,
+    "reviewCount": 412,
+    "description": "Contemporary platform bed with tufted headboard and sturdy slat support. No box spring needed.",
+    "features": [
+      "Tufted Headboard",
+      "Platform Design",
+      "No Box Spring Required",
+      "Sturdy Slat Support",
+      "Queen Size"
+    ],
+    "images": ["🛏️", "💤", "🏠", "✨"],
+    "colors": ["Light Gray", "Charcoal", "Beige"],
+    "sizes": ["Queen", "King"],
+    "inStock": true
+  },
+  {
+    "id": "furn-005",
+    "name": "Modern Accent Chair",
+    "brand": "LuxeHome",
+    "category": "Furniture",
+    "price": 449.99,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "description": "Stylish accent chair with velvet upholstery and gold metal legs.",
+    "features": [
+      "Velvet Upholstery",
+      "Gold Metal Legs",
+      "Comfortable Seating",
+      "Modern Design"
+    ],
+    "images": ["🪑", "✨", "🏠", "🎨"],
+    "colors": ["Navy", "Blush Pink", "Emerald"],
+    "inStock": true
+  },
+  {
+    "id": "furn-006",
+    "name": "Wooden Bookshelf - 5 Tier",
+    "brand": "Craftwood",
+    "category": "Furniture",
+    "price": 249.99,
+    "rating": 4.6,
+    "reviewCount": 203,
+    "description": "Industrial-style bookshelf with solid wood shelves and metal frame.",
+    "features": [
+      "5 Spacious Shelves",
+      "Solid Wood & Metal",
+      "Industrial Design",
+      "Easy Assembly"
+    ],
+    "images": ["📚", "🪑", "🏠", "✨"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "furn-007",
+    "name": "TV Console Table",
+    "brand": "RetroLiving",
+    "category": "Furniture",
+    "price": 599.99,
+    "rating": 4.8,
+    "reviewCount": 312,
+    "description": "Mid-century modern TV console with storage cabinets and open shelving.",
+    "features": [
+      "Holds TVs up to 65\"",
+      "Storage Cabinets",
+      "Open Shelving",
+      "Cable Management"
+    ],
+    "images": ["📺", "🪑", "🏠", "✨"],
+    "colors": ["Walnut", "White Oak"],
+    "inStock": true
+  },
+  {
+    "id": "furn-008",
+    "name": "Velvet Ottoman - Round",
+    "brand": "LuxeHome",
+    "category": "Furniture",
+    "price": 229.99,
+    "rating": 4.5,
+    "reviewCount": 178,
+    "description": "Plush velvet ottoman with gold base. Perfect for extra seating or as a footrest.",
+    "features": [
+      "Velvet Upholstery",
+      "Gold Metal Base",
+      "Versatile Use",
+      "Modern Design"
+    ],
+    "images": ["🛋️", "✨", "🏠", "💎"],
+    "colors": ["Emerald", "Navy", "Gray"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "furn-009",
+    "name": "Nightstand Set of 2",
+    "brand": "DreamRest",
+    "category": "Furniture",
+    "price": 329.99,
+    "rating": 4.7,
+    "reviewCount": 245,
+    "description": "Modern nightstand set with 2 drawers each. Perfect bedroom storage solution.",
+    "features": [
+      "Set of 2 Nightstands",
+      "2 Drawers Each",
+      "Soft-Close Drawers",
+      "Modern Design"
+    ],
+    "images": ["🛏️", "🪑", "🏠", "✨"],
+    "colors": ["White", "Gray", "Black"],
+    "inStock": true
+  },
+  {
+    "id": "rug-001",
+    "name": "Hand-Woven Jute Area Rug 8x10",
+    "brand": "NaturalWeave",
+    "category": "Rugs",
+    "price": 299.99,
+    "originalPrice": 449.99,
+    "rating": 4.5,
+    "reviewCount": 287,
+    "description": "Eco-friendly hand-woven jute rug with natural texture. Perfect for living rooms and bedrooms.",
+    "features": [
+      "100% Natural Jute",
+      "Hand-Woven Craftsmanship",
+      "Eco-Friendly Material",
+      "Durable & Long-Lasting",
+      "8' x 10' Size"
+    ],
+    "images": ["🧺", "🌿", "🏠", "✨"],
+    "colors": ["Natural"],
+    "sizes": ["5x7", "8x10", "9x12"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "rug-002",
+    "name": "Moroccan Geometric Rug",
+    "brand": "GlobalStyle",
+    "category": "Rugs",
+    "price": 399.99,
+    "rating": 4.8,
+    "reviewCount": 456,
+    "description": "Stunning Moroccan-inspired geometric pattern with plush pile. Adds bohemian charm to any space.",
+    "features": [
+      "Geometric Pattern",
+      "Plush Pile",
+      "Stain Resistant",
+      "Moroccan Design",
+      "Machine Washable"
+    ],
+    "images": ["🎨", "🧩", "🏠", "✨"],
+    "colors": ["Ivory/Gray", "Navy/Cream", "Blush/Gold"],
+    "sizes": ["5x7", "7x9", "8x10"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "light-001",
+    "name": "Modern Pendant Light - Gold Finish",
+    "brand": "LumenCraft",
+    "category": "Lighting",
+    "price": 189.99,
+    "originalPrice": 279.99,
+    "rating": 4.7,
+    "reviewCount": 198,
+    "description": "Elegant pendant light with brushed gold finish. Perfect for dining rooms and kitchen islands.",
+    "features": [
+      "Brushed Gold Finish",
+      "Adjustable Height",
+      "Compatible with LED Bulbs",
+      "Easy Installation",
+      "Modern Design"
+    ],
+    "images": ["💡", "✨", "🏠", "🎨"],
+    "colors": ["Gold", "Black", "Chrome"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "light-002",
+    "name": "Crystal Chandelier - 6 Light",
+    "brand": "RegalGlow",
+    "category": "Lighting",
+    "price": 549.99,
+    "rating": 4.9,
+    "reviewCount": 312,
+    "description": "Stunning crystal chandelier with 6 lights. Creates elegant ambiance in dining rooms and entryways.",
+    "features": [
+      "Genuine Crystal Droplets",
+      "6 Light Fixture",
+      "Chrome Finish",
+      "Adjustable Chain",
+      "Elegant Design"
+    ],
+    "images": ["💎", "✨", "🏠", "👑"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "decor-001",
+    "name": "Ceramic Vase Set - Modern Minimalist",
+    "brand": "ArtisanCraft",
+    "category": "Decor",
+    "price": 79.99,
+    "rating": 4.6,
+    "reviewCount": 234,
+    "description": "Set of 3 ceramic vases in varying heights. Perfect for fresh or dried flowers.",
+    "features": [
+      "Set of 3 Vases",
+      "High-Quality Ceramic",
+      "Matte Finish",
+      "Varying Heights",
+      "Minimalist Design"
+    ],
+    "images": ["🏺", "🌸", "✨", "🎨"],
+    "colors": ["White", "Sage Green", "Terracotta"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "decor-002",
+    "name": "Decorative Wooden Tray",
+    "brand": "RusticCharm",
+    "category": "Decor",
+    "price": 49.99,
+    "originalPrice": 69.99,
+    "rating": 4.5,
+    "reviewCount": 187,
+    "description": "Handcrafted wooden serving tray with handles. Perfect for ottoman styling or serving.",
+    "features": [
+      "Solid Wood Construction",
+      "Rope Handles",
+      "Versatile Use",
+      "Natural Finish",
+      "Handcrafted"
+    ],
+    "images": ["🪵", "✨", "🏠", "🎨"],
+    "inStock": true
+  },
+  {
+    "id": "decor-003",
+    "name": "Decorative Gold Bowl Set",
+    "brand": "ArtisanCraft",
+    "category": "Decor",
+    "price": 69.99,
+    "rating": 4.6,
+    "reviewCount": 143,
+    "description": "Set of 3 decorative bowls with gold finish. Perfect for coffee table styling.",
+    "features": [
+      "Set of 3 Bowls",
+      "Gold Metallic Finish",
+      "Varying Sizes",
+      "Modern Design"
+    ],
+    "images": ["🏺", "✨", "🎨", "🏠"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "decor-004",
+    "name": "Faux Eucalyptus Stems - Set of 6",
+    "brand": "BotanicalHome",
+    "category": "Decor",
+    "price": 39.99,
+    "rating": 4.7,
+    "reviewCount": 289,
+    "description": "Realistic faux eucalyptus stems. Perfect for vases and arrangements.",
+    "features": [
+      "Set of 6 Stems",
+      "Realistic Appearance",
+      "No Maintenance",
+      "24 inches Long"
+    ],
+    "images": ["🌿", "🏺", "✨", "🏠"],
+    "inStock": true
+  },
+  {
+    "id": "decor-005",
+    "name": "Glass Hurricane Candle Holders",
+    "brand": "ArtisanCraft",
+    "category": "Decor",
+    "price": 89.99,
+    "rating": 4.8,
+    "reviewCount": 201,
+    "description": "Set of 3 glass hurricane candle holders in varying heights.",
+    "features": [
+      "Set of 3 Holders",
+      "Premium Glass",
+      "Varying Heights",
+      "Gold Base Accent"
+    ],
+    "images": ["🕯️", "✨", "🏠", "🎨"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "decor-006",
+    "name": "Marble & Brass Bookends",
+    "brand": "RusticCharm",
+    "category": "Decor",
+    "price": 64.99,
+    "rating": 4.5,
+    "reviewCount": 156,
+    "description": "Elegant bookends with white marble and brass finish.",
+    "features": [
+      "White Marble Base",
+      "Brass Finish",
+      "Heavy Duty",
+      "Modern Design"
+    ],
+    "images": ["📚", "✨", "🏠", "🎨"],
+    "inStock": true
+  },
+  {
+    "id": "decor-007",
+    "name": "Ceramic Planter Set",
+    "brand": "BotanicalHome",
+    "category": "Decor",
+    "price": 54.99,
+    "rating": 4.6,
+    "reviewCount": 198,
+    "description": "Set of 3 modern ceramic planters with drainage holes and saucers.",
+    "features": [
+      "Set of 3 Planters",
+      "Drainage Holes",
+      "Includes Saucers",
+      "Modern Design"
+    ],
+    "images": ["🌱", "🏺", "✨", "🏠"],
+    "colors": ["White", "Terracotta", "Sage"],
+    "inStock": true
+  },
+  {
+    "id": "decor-008",
+    "name": "Decorative Rope Basket Set",
+    "brand": "RusticCharm",
+    "category": "Decor",
+    "price": 79.99,
+    "rating": 4.7,
+    "reviewCount": 234,
+    "description": "Set of 3 woven rope baskets with handles. Perfect for storage and organization.",
+    "features": [
+      "Set of 3 Baskets",
+      "Woven Rope",
+      "Sturdy Handles",
+      "Versatile Storage"
+    ],
+    "images": ["🧺", "🏠", "✨", "🎨"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "decor-009",
+    "name": "Geometric Terrarium - Gold",
+    "brand": "ArtisanCraft",
+    "category": "Decor",
+    "price": 45.99,
+    "rating": 4.6,
+    "reviewCount": 167,
+    "description": "Modern geometric glass terrarium with gold frame. Perfect for succulents.",
+    "features": [
+      "Geometric Design",
+      "Glass & Gold Frame",
+      "Hinged Door",
+      "Perfect for Plants"
+    ],
+    "images": ["🌿", "✨", "🏠", "💎"],
+    "inStock": true
+  },
+  {
+    "id": "decor-010",
+    "name": "Decorative Book Stack Set",
+    "brand": "RusticCharm",
+    "category": "Decor",
+    "price": 59.99,
+    "rating": 4.5,
+    "reviewCount": 145,
+    "description": "Set of 5 decorative books in neutral tones. Perfect for styling shelves and tables.",
+    "features": [
+      "Set of 5 Books",
+      "Neutral Color Palette",
+      "Quality Binding",
+      "Coffee Table Ready"
+    ],
+    "images": ["📚", "✨", "🏠", "🎨"],
+    "inStock": true
+  },
+  {
+    "id": "decor-011",
+    "name": "Crystal Decorative Objects Set",
+    "brand": "ArtisanCraft",
+    "category": "Decor",
+    "price": 94.99,
+    "rating": 4.8,
+    "reviewCount": 178,
+    "description": "Set of 3 decorative crystal objects. Perfect accent pieces for shelves and mantels.",
+    "features": [
+      "Set of 3 Objects",
+      "Premium Crystal Glass",
+      "Geometric Shapes",
+      "Elegant Design"
+    ],
+    "images": ["💎", "✨", "🏠", "🎨"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "art-001",
+    "name": "Abstract Canvas Art - Set of 3",
+    "brand": "GalleryWall",
+    "category": "Art & Mirrors",
+    "price": 249.99,
+    "originalPrice": 349.99,
+    "rating": 4.7,
+    "reviewCount": 289,
+    "description": "Modern abstract canvas art set with neutral tones. Ready to hang gallery-quality prints.",
+    "features": [
+      "Set of 3 Canvases",
+      "Gallery-Quality Print",
+      "Wooden Frame",
+      "Ready to Hang",
+      "Neutral Color Palette"
+    ],
+    "images": ["🖼️", "🎨", "✨", "🏠"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "art-002",
+    "name": "Round Gold Mirror - 32 inch",
+    "brand": "ReflectStyle",
+    "category": "Art & Mirrors",
+    "price": 179.99,
+    "rating": 4.8,
+    "reviewCount": 421,
+    "description": "Elegant round mirror with brushed gold frame. Perfect statement piece for entryways and bedrooms.",
+    "features": [
+      "32-inch Diameter",
+      "Brushed Gold Frame",
+      "High-Quality Glass",
+      "Easy to Hang",
+      "Modern Design"
+    ],
+    "images": ["🪞", "✨", "🏠", "👑"],
+    "colors": ["Gold", "Black", "Silver"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "bed-001",
+    "name": "Linen Duvet Cover Set - Queen",
+    "brand": "CloudRest",
+    "category": "Bedding & Curtains",
+    "price": 149.99,
+    "originalPrice": 229.99,
+    "rating": 4.9,
+    "reviewCount": 567,
+    "description": "Premium linen duvet cover set with breathable fabric. Includes duvet cover and 2 pillow shams.",
+    "features": [
+      "100% French Linen",
+      "Breathable & Soft",
+      "Button Closure",
+      "Includes 2 Pillow Shams",
+      "Machine Washable"
+    ],
+    "images": ["🛏️", "💤", "✨", "🏠"],
+    "colors": ["White", "Light Gray", "Sage Green", "Navy"],
+    "sizes": ["Queen", "King"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "bed-002",
+    "name": "Blackout Curtain Panels - Set of 2",
+    "brand": "ShadeStyle",
+    "category": "Bedding & Curtains",
+    "price": 89.99,
+    "rating": 4.6,
+    "reviewCount": 398,
+    "description": "Thermal insulated blackout curtains. Blocks 99% of light and reduces noise.",
+    "features": [
+      "99% Light Blocking",
+      "Thermal Insulated",
+      "Noise Reducing",
+      "Set of 2 Panels",
+      "Rod Pocket Design"
+    ],
+    "images": ["🪟", "🌙", "✨", "🏠"],
+    "colors": ["Charcoal Gray", "Navy", "Ivory", "Blush Pink"],
+    "sizes": ["52x84", "52x96"],
+    "inStock": true
+  },
+  {
+    "id": "pill-001",
+    "name": "Velvet Throw Pillows - Set of 2",
+    "brand": "PlushComfort",
+    "category": "Pillows & Throws",
+    "price": 59.99,
+    "rating": 4.7,
+    "reviewCount": 423,
+    "description": "Luxurious velvet throw pillows with hidden zipper. Perfect accent for sofas and beds.",
+    "features": [
+      "Set of 2 Pillows",
+      "Premium Velvet Cover",
+      "Down Alternative Fill",
+      "Hidden Zipper",
+      "18x18 inches"
+    ],
+    "images": ["🛋️", "✨", "🏠", "💎"],
+    "colors": ["Emerald Green", "Navy", "Blush Pink", "Mustard Yellow"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "pill-002",
+    "name": "Chunky Knit Throw Blanket",
+    "brand": "CozyNest",
+    "category": "Pillows & Throws",
+    "price": 129.99,
+    "originalPrice": 179.99,
+    "rating": 4.8,
+    "reviewCount": 512,
+    "description": "Hand-knitted chunky throw blanket made from soft chenille yarn. Perfect for cold evenings.",
+    "features": [
+      "Hand-Knitted",
+      "Chenille Yarn",
+      "Super Soft",
+      "50x60 inches",
+      "Machine Washable"
+    ],
+    "images": ["🧶", "🛋️", "✨", "🏠"],
+    "colors": ["Cream", "Gray", "Blush Pink"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "gift-001",
+    "name": "Scented Candle Gift Set",
+    "brand": "AromaLux",
+    "category": "Gifts",
+    "price": 69.99,
+    "rating": 4.9,
+    "reviewCount": 634,
+    "description": "Set of 4 premium scented candles in elegant glass jars. Perfect gift for any occasion.",
+    "features": [
+      "Set of 4 Candles",
+      "Natural Soy Wax",
+      "Long Burn Time",
+      "Elegant Packaging",
+      "Various Scents"
+    ],
+    "images": ["🕯️", "🎁", "✨", "🏠"],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": "gift-002",
+    "name": "Marble Serving Board Set",
+    "brand": "GourmetHome",
+    "category": "Gifts",
+    "price": 89.99,
+    "rating": 4.6,
+    "reviewCount": 287,
+    "description": "Premium marble serving boards with gold handles. Perfect for entertaining and gifting.",
+    "features": [
+      "Set of 2 Boards",
+      "Natural Marble",
+      "Gold-Tone Handles",
+      "Food Safe",
+      "Gift Box Included"
+    ],
+    "images": ["🍽️", "✨", "🎁", "🏠"],
+    "inStock": true,
+    "featured": true
+  }
+]

@@ -1,0 +1,208 @@
+{
+  "megaMenus": [
+    {
+      "title": "Furniture",
+      "categorySlug": "furniture",
+      "columns": [
+        {
+          "title": "SHOP BY TYPE",
+          "links": [
+            { "label": "All Furniture", "path": "/category/furniture" },
+            { "label": "Sofas & Sectionals", "path": "/category/furniture?productType=sofa" },
+            { "label": "Accent Chairs", "path": "/category/furniture?productType=accent-chair" },
+            { "label": "Coffee Tables", "path": "/category/furniture?productType=coffee-table" },
+            { "label": "TV Stands", "path": "/category/furniture?productType=tv-stand" }
+          ]
+        },
+        {
+          "title": "BY STYLE",
+          "links": [
+            { "label": "Modern", "path": "/category/furniture?style=Modern" },
+            { "label": "Mid-Century", "path": "/category/furniture?style=Mid-Century" },
+            { "label": "Scandinavian", "path": "/category/furniture?style=Scandinavian" },
+            { "label": "Industrial", "path": "/category/furniture?style=Industrial" },
+            { "label": "Traditional", "path": "/category/furniture?style=Traditional" }
+          ]
+        },
+        {
+          "title": "BY ROOM",
+          "links": [
+            { "label": "Living Room", "path": "/category/furniture?tags=living-room" },
+            { "label": "Bedroom", "path": "/category/furniture?tags=bedroom" },
+            { "label": "Office", "path": "/category/furniture?tags=office" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rugs",
+      "categorySlug": "rugs",
+      "columns": [
+        {
+          "title": "SHOP BY TYPE",
+          "links": [
+            { "label": "All Rugs", "path": "/category/rugs" },
+            { "label": "Indoor Rugs", "path": "/category/rugs?productType=indoor-rug" },
+            { "label": "Indoor/Outdoor Rugs", "path": "/category/rugs?productType=indoor-outdoor-rug" },
+            { "label": "Reversible Rugs", "path": "/category/rugs?productType=reversible-rug" },
+            { "label": "Natural Fiber Rugs", "path": "/category/rugs?productType=natural-fiber-rug" }
+          ]
+        },
+        {
+          "title": "BY STYLE",
+          "links": [
+            { "label": "Modern", "path": "/category/rugs?style=Modern" },
+            { "label": "Traditional", "path": "/category/rugs?style=Traditional" },
+            { "label": "Bohemian", "path": "/category/rugs?style=Bohemian" },
+            { "label": "Coastal", "path": "/category/rugs?style=Coastal" },
+            { "label": "Minimalist", "path": "/category/rugs?style=Minimalist" }
+          ]
+        },
+        {
+          "title": "BY ROOM",
+          "links": [
+            { "label": "Living Room", "path": "/category/rugs?tags=living-room" },
+            { "label": "Bedroom", "path": "/category/rugs?tags=bedroom" },
+            { "label": "Dining Room", "path": "/category/rugs?tags=dining-room" },
+            { "label": "Outdoor", "path": "/category/rugs?tags=outdoor" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lighting",
+      "categorySlug": "lighting",
+      "columns": [
+        {
+          "title": "SHOP BY TYPE",
+          "links": [
+            { "label": "All Lighting", "path": "/category/lighting" },
+            { "label": "Ceiling Lights", "path": "/category/lighting?productType=ceiling-light" },
+            { "label": "Floor Lamps", "path": "/category/lighting?productType=floor-lamp" },
+            { "label": "Table Lamps", "path": "/category/lighting?productType=table-lamp" },
+            { "label": "Wall Sconces", "path": "/category/lighting?productType=wall-sconce" }
+          ]
+        },
+        {
+          "title": "BY STYLE",
+          "links": [
+            { "label": "Modern", "path": "/category/lighting?style=Modern" },
+            { "label": "Mid-Century", "path": "/category/lighting?style=Mid-Century" },
+            { "label": "Industrial", "path": "/category/lighting?style=Industrial" },
+            { "label": "Traditional", "path": "/category/lighting?style=Traditional" },
+            { "label": "Contemporary", "path": "/category/lighting?style=Contemporary" }
+          ]
+        },
+        {
+          "title": "BY ROOM",
+          "links": [
+            { "label": "Living Room", "path": "/category/lighting?tags=Living Room" },
+            { "label": "Bedroom", "path": "/category/lighting?tags=Bedroom" },
+            { "label": "Kitchen", "path": "/category/lighting?tags=Kitchen" },
+            { "label": "Office", "path": "/category/lighting?tags=Office" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Decor",
+      "categorySlug": "decor",
+      "columns": [
+        {
+          "title": "SHOP BY TYPE",
+          "links": [
+            { "label": "All Decor", "path": "/category/decor" },
+            { "label": "Vases & Planters", "path": "/category/decor?productType=vase" },
+            { "label": "Candles & Holders", "path": "/category/decor?productType=candle" },
+            { "label": "Decorative Trays", "path": "/category/decor?productType=tray" },
+            { "label": "Decorative Objects", "path": "/category/decor?productType=decorative-object" }
+          ]
+        },
+        {
+          "title": "BY STYLE",
+          "links": [
+            { "label": "Modern", "path": "/category/decor?style=Modern" },
+            { "label": "Rustic", "path": "/category/decor?style=Rustic" },
+            { "label": "Bohemian", "path": "/category/decor?style=Bohemian" },
+            { "label": "Minimalist", "path": "/category/decor?style=Minimalist" }
+          ]
+        },
+        {
+          "title": "BY ROOM",
+          "links": [
+            { "label": "Living Room", "path": "/category/decor?tags=living-room" },
+            { "label": "Bedroom", "path": "/category/decor?tags=bedroom" },
+            { "label": "Entryway", "path": "/category/decor?tags=entryway" },
+            { "label": "Bathroom", "path": "/category/decor?tags=bathroom" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Art & Mirrors",
+      "categorySlug": "art",
+      "columns": [
+        {
+          "title": "SHOP BY TYPE",
+          "links": [
+            { "label": "All Art & Mirrors", "path": "/category/art" },
+            { "label": "Wall Art", "path": "/category/art?productType=wall-art" },
+            { "label": "Canvas Art", "path": "/category/art?productType=canvas" },
+            { "label": "Mirrors", "path": "/category/art?productType=mirror" },
+            { "label": "Framed Prints", "path": "/category/art?productType=framed-print" }
+          ]
+        },
+        {
+          "title": "BY STYLE",
+          "links": [
+            { "label": "Abstract", "path": "/category/art?style=Abstract" },
+            { "label": "Modern", "path": "/category/art?style=Modern" },
+            { "label": "Traditional", "path": "/category/art?style=Traditional" },
+            { "label": "Contemporary", "path": "/category/art?style=Contemporary" }
+          ]
+        },
+        {
+          "title": "BY ROOM",
+          "links": [
+            { "label": "Living Room", "path": "/category/art?tags=living-room" },
+            { "label": "Bedroom", "path": "/category/art?tags=bedroom" },
+            { "label": "Entryway", "path": "/category/art?tags=entryway" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bedding",
+      "categorySlug": "bedding",
+      "columns": [
+        {
+          "title": "SHOP BY TYPE",
+          "links": [
+            { "label": "All Bedding", "path": "/category/bedding" },
+            { "label": "Duvet Covers", "path": "/category/bedding?productType=duvet" },
+            { "label": "Sheet Sets", "path": "/category/bedding?productType=sheets" },
+            { "label": "Quilts & Coverlets", "path": "/category/bedding?productType=quilt" },
+            { "label": "Curtains", "path": "/category/bedding?productType=curtain" }
+          ]
+        },
+        {
+          "title": "BY STYLE",
+          "links": [
+            { "label": "Modern", "path": "/category/bedding?style=Modern" },
+            { "label": "Classic", "path": "/category/bedding?style=Classic" },
+            { "label": "Bohemian", "path": "/category/bedding?style=Bohemian" },
+            { "label": "Minimalist", "path": "/category/bedding?style=Minimalist" }
+          ]
+        },
+        {
+          "title": "BY SIZE",
+          "links": [
+            { "label": "Twin/Full", "path": "/category/bedding?size=Twin,Full" },
+            { "label": "Queen", "path": "/category/bedding?size=Queen" },
+            { "label": "King/Cal King", "path": "/category/bedding?size=King" }
+          ]
+        }
+      ]
+    }
+  ]
+}

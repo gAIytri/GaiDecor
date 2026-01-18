@@ -1,0 +1,4797 @@
+[
+  {
+    "id": "indoor-rug-1",
+    "sku": "RUG-IND-001",
+    "name": "Modern Geometric Indoor Rug",
+    "description": "Contemporary geometric pattern rug perfect for living spaces",
+    "price": 189.99,
+    "compareAtPrice": 249.99,
+    "currency": "USD",
+    "images": [
+      "rug-1.jpeg"
+    ],
+    "primaryImage": "rug-1.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Forest Green",
+        "Olive Green",
+        "Cream"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "geometric",
+      "modern",
+      "modern rug",
+      "geometric pattern",
+      "green rug",
+      "living room decor",
+      "bedroom rug",
+      "contemporary style",
+      "polypropylene rug",
+      "indoor rug",
+      "stylish rug",
+      "home decor",
+      "floor covering",
+      "soft texture",
+      "durable rug",
+      "easy maintenance",
+      "accent piece",
+      "rectangular rug",
+      "matte finish",
+      "low-profile rug",
+      "office decor",
+      "versatile rug",
+      "colorful rug",
+      "designer rug",
+      "trendy rug",
+      "fashionable rug",
+      "eco-friendly rug",
+      "machine-made rug",
+      "affordable rug",
+      "high-quality rug",
+      "decorative rug",
+      "unique design",
+      "eye-catching rug",
+      "comfortable rug",
+      "green tones",
+      "flowing lines",
+      "artistic rug",
+      "statement piece",
+      "easy to clean",
+      "fade-resistant",
+      "non-slip backing",
+      "5x7 rug",
+      "8x10 rug",
+      "sale rug",
+      "best seller rug",
+      "modern geometric rug",
+      "office rug",
+      "contemporary style rug",
+      "soft texture rug",
+      "accent piece rug",
+      "matte finish rug",
+      "unique design rug",
+      "statement piece rug",
+      "easy to clean rug",
+      "fade-resistant rug",
+      "non-slip backing rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": true,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 24,
+      "rating": 4.8,
+      "reviewCount": 312,
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with a modern rug featuring bold geometric patterns in soothing green tones.",
+      "long": "Transform your home with the Modern Geometric Indoor Rug, a striking piece that combines artistry and comfort. The bold geometric pattern dances across the surface in a harmonious blend of forest and olive greens, accented by soft cream touches. Crafted from high-quality polypropylene, this rug ensures durability while providing a plush, inviting texture underfoot. Its versatile design makes it a perfect fit for living rooms, bedrooms, or offices, injecting a dose of contemporary style and color into any setting. Whether you're aiming for a chic, minimalist vibe or a cozy retreat, this rug is a statement piece that brings life and sophistication to your decor.",
+      "features": [
+        "Bold geometric design",
+        "Forest and olive green tones",
+        "Soft, plush texture",
+        "Durable polypropylene construction",
+        "Versatile for various rooms",
+        "Fade-resistant and easy to maintain",
+        "Non-slip backing"
+      ],
+      "careInstructions": "Regular vacuuming and spot cleaning with mild detergent recommended. Avoid prolonged exposure to direct sunlight to maintain vibrant colors.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Forest Green",
+          "hex": "#228B22",
+          "category": "primary"
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#808000",
+          "category": "secondary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Modern Geometric Indoor Rug - Stylish & Durable Comfort",
+      "metaDescription": "Transform any room with the Modern Geometric Indoor Rug. Featuring bold green patterns and plush texture, it's perfect for living rooms, bedrooms, or offices. Shop now!",
+      "altText": "Modern geometric indoor rug with bold green patterns and soft texture, perfect for stylish home decor.",
+      "keywords": [
+        "modern geometric rug",
+        "indoor rug",
+        "green rug",
+        "living room decor",
+        "bedroom rug",
+        "office rug",
+        "contemporary style rug",
+        "polypropylene rug",
+        "stylish rug",
+        "home decor",
+        "floor covering",
+        "durable rug",
+        "soft texture rug",
+        "accent piece rug",
+        "rectangular rug",
+        "matte finish rug",
+        "low-profile rug",
+        "versatile rug",
+        "colorful rug",
+        "designer rug",
+        "trendy rug",
+        "fashionable rug",
+        "eco-friendly rug",
+        "machine-made rug",
+        "affordable rug",
+        "high-quality rug",
+        "decorative rug",
+        "unique design rug",
+        "eye-catching rug",
+        "comfortable rug",
+        "statement piece rug",
+        "easy to clean rug",
+        "fade-resistant rug",
+        "non-slip backing rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T03:59:31.491Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-rug-2",
+    "sku": "RUG-IND-002",
+    "name": "Traditional Persian Style Rug",
+    "description": "Classic Persian-inspired design with intricate patterns",
+    "price": 299.99,
+    "currency": "USD",
+    "images": [
+      "rug-2.jpeg"
+    ],
+    "primaryImage": "rug-2.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Teal",
+        "Vibrant Orange",
+        "Sunny Yellow"
+      ],
+      "material": [
+        "Synthetic Fibers"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "dining-room",
+      "persian",
+      "traditional",
+      "modern",
+      "contemporary",
+      "abstract",
+      "round rug",
+      "teal",
+      "orange",
+      "yellow",
+      "living room",
+      "bedroom",
+      "office",
+      "plush texture",
+      "durable",
+      "vibrant colors",
+      "centerpiece",
+      "synthetic fibers",
+      "bold design",
+      "decor",
+      "interior design",
+      "home decor",
+      "floor covering",
+      "artistic",
+      "colorful",
+      "unique",
+      "eye-catching",
+      "stylish",
+      "comfortable",
+      "soft",
+      "warm",
+      "accent piece",
+      "statement rug",
+      "dynamic",
+      "Traditional Persian rug",
+      "Persian style rug",
+      "intricate rug patterns",
+      "plush wool rug",
+      "elegant home decor",
+      "sophisticated rug",
+      "earthy tone rug",
+      "luxury rugs",
+      "living room rug",
+      "bedroom rug",
+      "office rug",
+      "premium wool rug",
+      "durable rugs",
+      "opulent rug design",
+      "timeless rug",
+      "Persian artistry rug",
+      "decorative floor covering",
+      "rich color rug",
+      "classic Persian rug",
+      "artistic rug design",
+      "soft texture rug",
+      "high-quality rug",
+      "warm home accents",
+      "timeless beauty rug",
+      "Persian motifs rug",
+      "elegant interior design",
+      "classic decor rug",
+      "plush texture rug",
+      "statement rug piece",
+      "inviting ambiance rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.7,
+      "reviewCount": 245,
+      "createdAt": "2024-01-12T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant Persian-style rug infused with intricate motifs and rich earthy tones.",
+      "long": "Enhance your home with the timeless beauty of our Traditional Persian Style Rug. This exquisite piece showcases intricately woven motifs and patterns that evoke the elegance and sophistication of Persian artistry. Rich earthy tones of deep red, golden beige, and lush greens blend seamlessly, creating an inviting ambiance that complements various decor styles. Crafted from premium wool, the rug offers a plush, soft texture underfoot and exceptional durability. Perfect for anchoring your living room, bedroom, or office, this rug adds a touch of opulence and warmth to any space.",
+      "features": [
+        "Intricate Persian motifs and designs",
+        "Rich earthy color palette with deep reds and greens",
+        "Made from premium wool for softness and durability",
+        "Suitable for living rooms, bedrooms, and offices",
+        "Adds warmth and elegance to any space",
+        "Classic design that complements various styles"
+      ],
+      "careInstructions": "Vacuum regularly to prevent dust buildup. Professional cleaning recommended for deep stains. Rotate periodically to ensure even wear.",
+      "materialComposition": "100% premium wool"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Teal",
+          "hex": "#008080",
+          "category": "primary"
+        },
+        {
+          "name": "Vibrant Orange",
+          "hex": "#FF4500",
+          "category": "secondary"
+        },
+        {
+          "name": "Sunny Yellow",
+          "hex": "#FFD700",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "plush",
+      "finish": "matte",
+      "shape": "round",
+      "silhouette": "Bold and dynamic with flowing curves"
+    },
+    "seo": {
+      "metaTitle": "Traditional Persian Style Rug - Plush Wool, Timeless Elegance",
+      "metaDescription": "Add opulence to your home with our Traditional Persian Style Rug. Enjoy intricate patterns and plush wool. Shop now for elegance and durability!",
+      "altText": "Traditional Persian Style Rug with intricate patterns in earthy tones.",
+      "keywords": [
+        "Traditional Persian rug",
+        "Persian style rug",
+        "intricate rug patterns",
+        "plush wool rug",
+        "elegant home decor",
+        "sophisticated rug",
+        "earthy tone rug",
+        "luxury rugs",
+        "living room rug",
+        "bedroom rug",
+        "office rug",
+        "premium wool rug",
+        "durable rugs",
+        "opulent rug design",
+        "timeless rug",
+        "Persian artistry rug",
+        "decorative floor covering",
+        "rich color rug",
+        "classic Persian rug",
+        "artistic rug design",
+        "soft texture rug",
+        "high-quality rug",
+        "warm home accents",
+        "timeless beauty rug",
+        "Persian motifs rug",
+        "elegant interior design",
+        "classic decor rug",
+        "plush texture rug",
+        "statement rug piece",
+        "inviting ambiance rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T03:59:32.215Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-rug-4",
+    "sku": "RUG-IND-004",
+    "name": "Minimalist Solid Color Rug",
+    "description": "Clean solid color rug for minimalist interiors",
+    "price": 149.99,
+    "currency": "USD",
+    "images": [
+      "rug-4.jpeg"
+    ],
+    "primaryImage": "rug-4.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige",
+        "Tan"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Minimalist",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "bedroom",
+      "living-room",
+      "minimalist",
+      "solid",
+      "modern",
+      "geometric",
+      "cotton rug",
+      "beige rug",
+      "tan rug",
+      "living room",
+      "office",
+      "soft texture",
+      "durable",
+      "rectangular rug",
+      "matte finish",
+      "clean lines",
+      "elegant",
+      "understated",
+      "sophisticated",
+      "versatile",
+      "calming ambiance",
+      "contemporary decor",
+      "indoor rug",
+      "home decor",
+      "floor covering",
+      "area rug",
+      "patterned rug",
+      "neutral colors",
+      "warm tones",
+      "easy care",
+      "vacuum regularly",
+      "spot clean",
+      "avoid sunlight",
+      "long-lasting",
+      "minimalist rug",
+      "solid color rug",
+      "geometric pattern rug",
+      "living room rug",
+      "bedroom rug",
+      "office rug",
+      "soft texture rug",
+      "durable rug",
+      "matte finish rug",
+      "clean lines rug",
+      "elegant rug",
+      "understated rug",
+      "sophisticated rug",
+      "versatile rug",
+      "calming ambiance rug",
+      "contemporary decor rug",
+      "home decor rug",
+      "floor covering rug",
+      "neutral colors rug",
+      "warm tones rug",
+      "easy care rug",
+      "vacuum regularly rug",
+      "spot clean rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 45,
+      "rating": 4.5,
+      "reviewCount": 156,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with our Minimalist Solid Color Rug, offering a serene blend of beige and tan for modern elegance.",
+      "long": "Transform your home into a haven of tranquility with our Minimalist Solid Color Rug. This exquisite piece, expertly crafted from 100% cotton, comes in warm beige and tan tones that effortlessly blend with any decor. Its subtle geometric pattern and smooth texture add a modern touch, while the durable construction ensures it withstands the test of time. Ideal for living rooms, bedrooms, or offices, this rug brings a sophisticated yet calming ambiance to your space. Its minimalist design not only complements contemporary interiors but also serves as a versatile backdrop for your furniture. Priced at $149.99, this rug offers an affordable luxury that enhances your home’s aesthetic with understated elegance.",
+      "features": [
+        "Minimalist design with geometric pattern",
+        "Warm beige and tan color palette",
+        "Smooth, soft cotton texture",
+        "Durable and long-lasting construction",
+        "Perfect for modern and contemporary spaces",
+        "Versatile addition to living rooms, bedrooms, and offices"
+      ],
+      "careInstructions": "Vacuum regularly to maintain appearance. Spot clean with a mild detergent as needed. Keep away from direct sunlight to prevent fading.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D8C3A5",
+          "category": "primary"
+        },
+        {
+          "name": "Tan",
+          "hex": "#C19A6B",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Flat with clean geometric lines"
+    },
+    "seo": {
+      "metaTitle": "Minimalist Solid Color Rug - Geometric Pattern & Cotton",
+      "metaDescription": "Enhance your space with our Minimalist Solid Color Rug. Crafted from 100% cotton, its geometric pattern and warm tones offer elegance. Buy now for $149.99!",
+      "altText": "Minimalist rug with geometric patterns in warm beige and tan, crafted from cotton for modern interiors.",
+      "keywords": [
+        "minimalist rug",
+        "solid color rug",
+        "geometric pattern rug",
+        "cotton rug",
+        "beige rug",
+        "tan rug",
+        "living room rug",
+        "bedroom rug",
+        "office rug",
+        "soft texture rug",
+        "durable rug",
+        "rectangular rug",
+        "matte finish rug",
+        "clean lines rug",
+        "elegant rug",
+        "understated rug",
+        "sophisticated rug",
+        "versatile rug",
+        "calming ambiance rug",
+        "contemporary decor rug",
+        "indoor rug",
+        "home decor rug",
+        "floor covering rug",
+        "area rug",
+        "patterned rug",
+        "neutral colors rug",
+        "warm tones rug",
+        "easy care rug",
+        "vacuum regularly rug",
+        "spot clean rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T03:59:45.028Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-rug-3",
+    "sku": "RUG-IND-003",
+    "name": "Bohemian Moroccan Shag Rug",
+    "description": "Plush shag rug with bohemian Moroccan patterns",
+    "price": 229.99,
+    "currency": "USD",
+    "images": [
+      "rug-3.jpeg"
+    ],
+    "primaryImage": "rug-3.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige",
+        "Cream"
+      ],
+      "material": [
+        "Polyester"
+      ],
+      "style": [
+        "Bohemian",
+        "Moroccan"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Cozy gatherings"
+      ]
+    },
+    "tags": [
+      "bedroom",
+      "living-room",
+      "bohemian",
+      "shag",
+      "Moroccan",
+      "shag rug",
+      "geometric",
+      "indoor rug",
+      "living room",
+      "cozy",
+      "warm tones",
+      "polyester",
+      "durable",
+      "easy maintenance",
+      "decor",
+      "home",
+      "style",
+      "comfort",
+      "elegant",
+      "plush",
+      "patterned",
+      "fringed",
+      "rectangular",
+      "matte finish",
+      "low-profile",
+      "soft texture",
+      "warm beige",
+      "cream",
+      "accent piece",
+      "floor covering",
+      "textured",
+      "Bohemian Moroccan shag rug",
+      "geometric pattern rug",
+      "plush shag rug",
+      "beige and cream rug",
+      "living room rug",
+      "bedroom rug",
+      "cozy rug",
+      "soft texture rug",
+      "durable polyester rug",
+      "easy maintenance rug",
+      "elegant home decor",
+      "bohemian style rug",
+      "Moroccan design rug",
+      "warm tones rug",
+      "fringed edges rug",
+      "rectangular shag rug",
+      "matte finish rug",
+      "low-profile rug",
+      "accent piece rug",
+      "floor covering rug",
+      "textured rug",
+      "polyester shag rug",
+      "soft underfoot rug",
+      "home aesthetic rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 30,
+      "rating": 4.6,
+      "reviewCount": 189,
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Add elegance to your space with our Bohemian Moroccan Shag Rug, featuring timeless geometric patterns in warm tones.",
+      "long": "Transform your living space with the Bohemian Moroccan Shag Rug, a perfect blend of style and comfort. This exquisite rug showcases intricate geometric patterns in soothing warm beige and cream hues, ideal for creating a cozy and inviting atmosphere. The plush shag texture provides an indulgent softness underfoot, making it a delightful addition to your living room or bedroom. Crafted from high-quality polyester, this rug is not only durable but also easy to maintain, ensuring it remains a staple in your home decor for years to come. Its bohemian charm and eclectic appeal make it a versatile piece that complements a wide range of interior styles. Elevate your home's aesthetic and embrace the comfort of this beautiful shag rug.",
+      "features": [
+        "Bohemian Moroccan design with unique charm",
+        "Soft, plush shag texture for added comfort",
+        "Intricate geometric patterns",
+        "Crafted from durable, easy-care polyester",
+        "Warm beige and cream color palette",
+        "Versatile for living rooms and bedrooms",
+        "Complements bohemian and eclectic styles"
+      ],
+      "careInstructions": "Vacuum regularly to maintain appearance. Spot clean with a mild detergent as needed. Avoid direct sunlight to prevent fading.",
+      "materialComposition": "100% Polyester"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A6",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "shag",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with intricate geometric patterns"
+    },
+    "seo": {
+      "metaTitle": "Bohemian Moroccan Shag Rug - Plush Comfort & Style",
+      "metaDescription": "Elevate your decor with the Bohemian Moroccan Shag Rug. Enjoy plush comfort and intricate patterns. Shop now for a cozy, stylish home!",
+      "altText": "Bohemian Moroccan shag rug with geometric patterns in beige and cream.",
+      "keywords": [
+        "Bohemian Moroccan shag rug",
+        "geometric pattern rug",
+        "plush shag rug",
+        "beige and cream rug",
+        "living room rug",
+        "bedroom rug",
+        "cozy rug",
+        "soft texture rug",
+        "indoor rug",
+        "durable polyester rug",
+        "easy maintenance rug",
+        "elegant home decor",
+        "bohemian style rug",
+        "Moroccan design rug",
+        "warm tones rug",
+        "fringed edges rug",
+        "rectangular shag rug",
+        "matte finish rug",
+        "low-profile rug",
+        "accent piece rug",
+        "floor covering rug",
+        "textured rug",
+        "polyester shag rug",
+        "soft underfoot rug",
+        "home aesthetic rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T03:59:45.814Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-rug-5",
+    "sku": "RUG-IND-005",
+    "name": "Abstract Art Deco Indoor Rug",
+    "description": "Stunning abstract pattern with art deco influences",
+    "price": 279.99,
+    "compareAtPrice": 349.99,
+    "currency": "USD",
+    "images": [
+      "rug-5.jpeg"
+    ],
+    "primaryImage": "rug-5.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut",
+        "Cream"
+      ],
+      "material": [
+        "Wool"
+      ],
+      "style": [
+        "Art Deco",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "dining-room",
+      "abstract",
+      "art-deco",
+      "art deco",
+      "indoor rug",
+      "living room",
+      "dining room",
+      "modern decor",
+      "wool rug",
+      "elegant design",
+      "warm chestnut",
+      "cream",
+      "soft texture",
+      "durable",
+      "high quality",
+      "6x9 rug",
+      "8x10 rug",
+      "home decor",
+      "floor covering",
+      "patterned rug",
+      "matte finish",
+      "rectangular shape",
+      "sophisticated style",
+      "visual interest",
+      "comfortable",
+      "luxury rug",
+      "designer rug",
+      "unique pattern",
+      "artistic design",
+      "contemporary",
+      "stylish",
+      "versatile",
+      "easy maintenance",
+      "highly rated",
+      "best seller",
+      "abstract rug",
+      "art deco rug",
+      "living room rug",
+      "dining room rug",
+      "warm chestnut rug",
+      "cream rug",
+      "soft texture rug",
+      "durable rug",
+      "high quality rug",
+      "home decor rug",
+      "matte finish rug",
+      "rectangular shape rug",
+      "sophisticated style rug",
+      "visual interest rug",
+      "comfortable rug",
+      "unique pattern rug",
+      "artistic design rug",
+      "contemporary rug",
+      "stylish rug",
+      "versatile rug",
+      "easy maintenance rug",
+      "highly rated rug",
+      "best seller rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": true,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 12,
+      "rating": 4.9,
+      "reviewCount": 278,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant rug with abstract Art Deco pattern in warm tones.",
+      "long": "Infuse your living space with sophistication using the Abstract Art Deco Indoor Rug. This captivating piece presents a mesmerizing blend of intricate lines and shapes, painted in warm chestnut and cream tones. Perfectly crafted from 100% high-quality wool, it provides a plush, soft texture underfoot while ensuring long-lasting durability. The rug’s abstract design adds visual interest, making it an ideal centerpiece for modern living rooms or dining areas. Its matte finish and rectangular silhouette make it a versatile addition to any home, enhancing contemporary decor styles with elegance and flair.",
+      "features": [
+        "Captivating abstract Art Deco design",
+        "Warm chestnut and cream colors",
+        "Soft and plush wool texture",
+        "Durable, high-quality construction",
+        "Matte finish for modern aesthetics",
+        "Rectangular shape for versatile placement",
+        "Ideal for living rooms and dining areas"
+      ],
+      "careInstructions": "Vacuum regularly to maintain appearance. Spot clean with mild detergent for minor spills. Professional cleaning recommended for heavy stains.",
+      "materialComposition": "100% Wool"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut",
+          "hex": "#8B5A2B",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "soft",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Flat with intricate line patterns"
+    },
+    "seo": {
+      "metaTitle": "Abstract Art Deco Indoor Rug - Soft Wool & Elegant Design",
+      "metaDescription": "Elevate your space with the Abstract Art Deco Indoor Rug. Crafted from plush wool, this elegant rug combines durability with sophisticated style. Shop now!",
+      "altText": "Elegant Abstract Art Deco Indoor Rug in warm chestnut and cream tones, made from soft wool.",
+      "keywords": [
+        "abstract rug",
+        "art deco rug",
+        "indoor rug",
+        "living room rug",
+        "dining room rug",
+        "modern decor",
+        "wool rug",
+        "elegant design",
+        "warm chestnut rug",
+        "cream rug",
+        "soft texture rug",
+        "durable rug",
+        "high quality rug",
+        "6x9 rug",
+        "8x10 rug",
+        "home decor rug",
+        "floor covering",
+        "patterned rug",
+        "matte finish rug",
+        "rectangular shape rug",
+        "sophisticated style rug",
+        "visual interest rug",
+        "comfortable rug",
+        "luxury rug",
+        "designer rug",
+        "unique pattern rug",
+        "artistic design rug",
+        "contemporary rug",
+        "stylish rug",
+        "versatile rug",
+        "easy maintenance rug",
+        "highly rated rug",
+        "best seller rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:00:29.695Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-rug-6",
+    "sku": "RUG-IND-006",
+    "name": "Vintage Distressed Indoor Rug",
+    "description": "Vintage-style rug with distressed finish",
+    "price": 199.99,
+    "currency": "USD",
+    "images": [
+      "rug-6.jpeg"
+    ],
+    "primaryImage": "rug-6.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Warm Orange",
+        "Cream"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Hallway",
+        "Living Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "vintage",
+      "distressed",
+      "rug",
+      "runner",
+      "hallway",
+      "modern",
+      "contemporary",
+      "geometric",
+      "orange",
+      "cream",
+      "wavy",
+      "decorative",
+      "polypropylene",
+      "smooth",
+      "matte",
+      "organic shape",
+      "stylish",
+      "eye-catching",
+      "interior design",
+      "home decor",
+      "floor covering",
+      "long runner",
+      "durable",
+      "easy care",
+      "vacuum",
+      "spot clean",
+      "fade resistant",
+      "warm tones",
+      "dynamic design",
+      "narrow spaces",
+      "bold design",
+      "vintage rug",
+      "distressed indoor rug",
+      "elegant rugs",
+      "modern design rugs",
+      "earthy palette rug",
+      "deep brown rug",
+      "muted blue rug",
+      "high-quality polypropylene rug",
+      "durable rugs",
+      "living room rug",
+      "hallway rug",
+      "soft texture rug",
+      "cozy rugs",
+      "classic style rug",
+      "contemporary rug",
+      "versatile rugs",
+      "home decor rugs",
+      "stylish rugs",
+      "wavy pattern rug",
+      "warm orange rug",
+      "cream colored rug",
+      "geometric pattern rug",
+      "modern style rug",
+      "easy care rug",
+      "fade resistant rug",
+      "dynamic design rug",
+      "bold design rug",
+      "eye-catching rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 22,
+      "rating": 4.6,
+      "reviewCount": 198,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Add vintage charm with our elegant distressed rug, featuring warm, earthy tones.",
+      "long": "Transform your living space with the Vintage Distressed Indoor Rug, a masterpiece that marries timeless elegance with modern design. This rug radiates warmth through its earthy palette of deep browns and muted blues, capturing the essence of vintage charm. The distressed pattern not only adds character but also a sense of history and depth to your decor. It's crafted from high-quality polypropylene, ensuring durability and longevity, making it perfect for high-traffic areas like the living room or hallway. The soft texture underfoot invites comfort and coziness, making every step feel indulgent. This rug seamlessly fits into both classic and contemporary settings, offering a versatile piece that elevates any room.",
+      "features": [
+        "Distressed vintage pattern",
+        "Warm earthy tones of brown and blue",
+        "High-quality polypropylene for durability",
+        "Soft texture for added comfort",
+        "Ideal for high-traffic areas",
+        "Versatile design suits various decor styles",
+        "Fade-resistant for long-lasting appeal"
+      ],
+      "careInstructions": "Vacuum regularly to maintain appearance. Spot clean with mild detergent as needed. Avoid excessive moisture and direct sunlight to prevent fading.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Orange",
+          "hex": "#D35400",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Long runner with wavy edges"
+    },
+    "seo": {
+      "metaTitle": "Vintage Distressed Indoor Rug - Timeless Elegance & Durability",
+      "metaDescription": "Elevate your space with the Vintage Distressed Indoor Rug. Enjoy its timeless charm and durability. Perfect for living rooms or hallways. Shop now!",
+      "altText": "Vintage Distressed Indoor Rug with earthy tones and a wavy pattern.",
+      "keywords": [
+        "vintage rug",
+        "distressed indoor rug",
+        "elegant rugs",
+        "modern design rugs",
+        "earthy palette rug",
+        "deep brown rug",
+        "muted blue rug",
+        "high-quality polypropylene rug",
+        "durable rugs",
+        "living room rug",
+        "hallway rug",
+        "soft texture rug",
+        "cozy rugs",
+        "classic style rug",
+        "contemporary rug",
+        "versatile rugs",
+        "home decor rugs",
+        "floor covering",
+        "stylish rugs",
+        "wavy pattern rug",
+        "warm orange rug",
+        "cream colored rug",
+        "geometric pattern rug",
+        "modern style rug",
+        "easy care rug",
+        "fade resistant rug",
+        "dynamic design rug",
+        "bold design rug",
+        "eye-catching rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:00:31.213Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-rug-7",
+    "sku": "RUG-IND-007",
+    "name": "Plush Velvet Indoor Rug",
+    "description": "Luxurious velvet-feel rug for ultimate comfort",
+    "price": 259.99,
+    "currency": "USD",
+    "images": [
+      "rug-7.jpeg"
+    ],
+    "primaryImage": "rug-7.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor Rug",
+        "slug": "indoor-rug"
+      },
+      "productType": "Indoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Emerald Green",
+        "Burgundy",
+        "Navy Blue",
+        "Warm Beige",
+        "Golden Yellow"
+      ],
+      "material": [
+        "Polyester"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "bedroom",
+      "living-room",
+      "plush",
+      "velvet",
+      "abstract rug",
+      "velvet rug",
+      "modern decor",
+      "living room rug",
+      "bedroom rug",
+      "plush texture",
+      "colorful rug",
+      "indoor rug",
+      "luxury rug",
+      "home decor",
+      "floor covering",
+      "soft rug",
+      "designer rug",
+      "unique shape",
+      "comfort",
+      "style",
+      "polyester rug",
+      "easy care",
+      "vibrant colors",
+      "decorative rug",
+      "fashionable",
+      "trendy",
+      "artistic",
+      "statement piece",
+      "luxurious feel",
+      "warm tones",
+      "eye-catching",
+      "Plush Velvet Indoor Rug",
+      "fashionable rug",
+      "trendy rug",
+      "artistic rug",
+      "eye-catching rug",
+      "comfort rug",
+      "style rug",
+      "easy care rug",
+      "modern style rug",
+      "organic shape rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 16,
+      "rating": 4.7,
+      "reviewCount": 167,
+      "createdAt": "2024-01-25T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Luxurious velvet indoor rug with vibrant abstract design.",
+      "long": "Transform your living space with the Plush Velvet Indoor Rug, a masterpiece of modern design and comfort. Its abstract pattern, featuring deep hues of emerald, burgundy, and navy, creates a striking focal point in any room. Imagined as an organic silhouette, this rug complements contemporary interiors with its flowing curves and vibrant colors. The velvet-like texture offers an indulgent softness underfoot, inviting you to experience a touch of luxury every day. Perfect for living rooms or bedrooms, this rug not only elevates style but also provides practical comfort, making it a versatile choice for any home.",
+      "features": [
+        "Captivating abstract design with rich colors",
+        "Luxurious velvet-like texture",
+        "Organic silhouette for modern appeal",
+        "Enhances comfort and style",
+        "Ideal for living rooms and bedrooms",
+        "Vibrant hues: emerald, burgundy, navy"
+      ],
+      "careInstructions": "Regular vacuuming is recommended. Spot clean with a mild detergent. Keep away from direct sunlight to prevent color fading.",
+      "materialComposition": "Crafted from 100% Polyester with a velvet-like finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Emerald Green",
+          "hex": "#50C878",
+          "category": "primary"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#800020",
+          "category": "secondary"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "#000080",
+          "category": "accent"
+        },
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A3",
+          "category": "accent"
+        },
+        {
+          "name": "Golden Yellow",
+          "hex": "#FFD700",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "velvet",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Flowing organic form with vibrant curves"
+    },
+    "seo": {
+      "metaTitle": "Plush Velvet Indoor Rug - Luxurious Abstract Design",
+      "metaDescription": "Elevate your space with the Plush Velvet Indoor Rug. Experience luxury with its soft texture and vibrant abstract design. Perfect for living rooms or bedrooms. Shop now!",
+      "altText": "Plush Velvet Indoor Rug with abstract design in emerald, burgundy, and navy.",
+      "keywords": [
+        "Plush Velvet Indoor Rug",
+        "abstract rug",
+        "velvet rug",
+        "modern decor",
+        "living room rug",
+        "bedroom rug",
+        "luxury rug",
+        "home decor",
+        "soft rug",
+        "designer rug",
+        "unique shape",
+        "polyester rug",
+        "vibrant colors",
+        "decorative rug",
+        "fashionable rug",
+        "trendy rug",
+        "artistic rug",
+        "statement piece",
+        "luxurious feel",
+        "warm tones",
+        "eye-catching rug",
+        "colorful rug",
+        "indoor rug",
+        "floor covering",
+        "comfort rug",
+        "style rug",
+        "easy care rug",
+        "modern style rug",
+        "organic shape rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:00:44.255Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-outdoor-rug-1",
+    "sku": "RUG-IO-001",
+    "name": "Striped Indoor/Outdoor Rug",
+    "description": "Durable striped rug perfect for patios and living areas",
+    "price": 129.99,
+    "currency": "USD",
+    "images": [
+      "rug-8.jpeg"
+    ],
+    "primaryImage": "rug-8.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor/Outdoor Rug",
+        "slug": "indoor-outdoor-rug"
+      },
+      "productType": "Indoor/Outdoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Black",
+        "Taupe",
+        "Brown"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "living-room",
+      "entryway",
+      "striped",
+      "coastal",
+      "modern",
+      "abstract",
+      "neutral",
+      "living room",
+      "contemporary",
+      "plush",
+      "decorative",
+      "organic",
+      "layered",
+      "black",
+      "taupe",
+      "brown",
+      "durable",
+      "synthetic",
+      "soft",
+      "cozy",
+      "stylish",
+      "home decor",
+      "interior design",
+      "floor covering",
+      "rug",
+      "matte finish",
+      "unique",
+      "artistic",
+      "geometric",
+      "patterned",
+      "versatile",
+      "comfortable",
+      "warm",
+      "inviting",
+      "textured",
+      "quality",
+      "fashionable",
+      "striped rug",
+      "indoor outdoor rug",
+      "versatile rug",
+      "earthy tones rug",
+      "sophisticated stripe pattern",
+      "durable rug",
+      "high-traffic rug",
+      "living room rug",
+      "patio rug",
+      "comfortable rug",
+      "elegant rug",
+      "modern rug",
+      "contemporary rug",
+      "abstract design rug",
+      "organic shapes rug",
+      "neutral color rug",
+      "plush texture rug",
+      "cozy rug",
+      "home decor rug",
+      "interior design rug",
+      "matte finish rug",
+      "unique rug",
+      "geometric pattern rug",
+      "stylish rug",
+      "quality rug",
+      "fashionable rug",
+      "inviting rug",
+      "textured rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 35,
+      "rating": 4.6,
+      "reviewCount": 289,
+      "createdAt": "2024-01-08T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Versatile striped rug suitable for both indoor and outdoor use, perfect for adding texture and elegance to any space.",
+      "long": "Transform your space with the Striped Indoor/Outdoor Rug, a versatile piece that combines functionality and style. This rug's sophisticated striped pattern in earthy tones effortlessly complements any decor, creating a welcoming ambiance. Whether it's gracing your living room or enhancing your patio, its durable construction ensures it withstands the elements while maintaining its charm. The texture feels soft underfoot, providing comfort and warmth. Ideal for high-traffic areas, this rug is as practical as it is visually appealing, bringing a touch of elegance to indoor and outdoor settings alike.",
+      "features": [
+        "Durable for indoor and outdoor use",
+        "Elegant striped pattern",
+        "Earthy color tones",
+        "Soft texture underfoot",
+        "Suitable for high-traffic areas",
+        "Weather-resistant construction",
+        "Enhances decor with sophistication"
+      ],
+      "careInstructions": "Vacuum regularly to remove dust and debris. For outdoor use, hose down and air dry. Spot clean with mild soap as needed.",
+      "materialComposition": "Crafted from 100% polypropylene for durability and weather resistance."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "primary"
+        },
+        {
+          "name": "Taupe",
+          "hex": "#B38B6D",
+          "category": "secondary"
+        },
+        {
+          "name": "Brown",
+          "hex": "#8B4513",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "plush",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Layered with smooth, flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Striped Indoor/Outdoor Rug - Durable & Stylish Design",
+      "metaDescription": "Enhance your space with the Striped Indoor/Outdoor Rug. Durable and stylish, perfect for high-traffic areas. Order now for elegance and comfort!",
+      "altText": "Striped Indoor/Outdoor Rug with earthy tones and sophisticated pattern",
+      "keywords": [
+        "striped rug",
+        "indoor outdoor rug",
+        "versatile rug",
+        "earthy tones rug",
+        "sophisticated stripe pattern",
+        "durable rug",
+        "high-traffic rug",
+        "living room rug",
+        "patio rug",
+        "comfortable rug",
+        "elegant rug",
+        "modern rug",
+        "contemporary rug",
+        "abstract design rug",
+        "organic shapes rug",
+        "neutral color rug",
+        "plush texture rug",
+        "cozy rug",
+        "home decor rug",
+        "interior design rug",
+        "floor covering",
+        "matte finish rug",
+        "unique rug",
+        "geometric pattern rug",
+        "stylish rug",
+        "quality rug",
+        "fashionable rug",
+        "inviting rug",
+        "textured rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:00:46.860Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-outdoor-rug-2",
+    "sku": "RUG-IO-002",
+    "name": "Geometric Indoor/Outdoor Rug",
+    "description": "Weather-resistant rug with bold geometric pattern",
+    "price": 159.99,
+    "compareAtPrice": 199.99,
+    "currency": "USD",
+    "images": [
+      "rug-9.jpeg"
+    ],
+    "primaryImage": "rug-9.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor/Outdoor Rug",
+        "slug": "indoor-outdoor-rug"
+      },
+      "productType": "Indoor/Outdoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Sage Green",
+        "Cream"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Patio",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "entryway",
+      "geometric",
+      "modern",
+      "indoor",
+      "rug",
+      "sage green",
+      "cream",
+      "polypropylene",
+      "weather-resistant",
+      "patio",
+      "living room",
+      "durable",
+      "stylish",
+      "matte finish",
+      "textured",
+      "low-profile",
+      "clean lines",
+      "versatile",
+      "easy care",
+      "vacuum",
+      "spot clean",
+      "mild soap",
+      "water",
+      "elegant",
+      "functional",
+      "design",
+      "home decor",
+      "floor covering",
+      "accent piece",
+      "indoor rug",
+      "outdoor rug",
+      "geometric rug",
+      "modern rug",
+      "sage green rug",
+      "cream rug",
+      "polypropylene rug",
+      "weather-resistant rug",
+      "entryway rug",
+      "patio rug",
+      "living room rug",
+      "durable rug",
+      "stylish rug",
+      "matte finish rug",
+      "textured rug",
+      "low-profile rug",
+      "clean lines rug",
+      "versatile rug",
+      "easy care rug",
+      "vacuum rug",
+      "spot clean rug",
+      "mild soap rug",
+      "elegant rug",
+      "functional rug",
+      "home decor rug",
+      "accent piece rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 28,
+      "rating": 4.5,
+      "reviewCount": 234,
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your indoor or outdoor space with our modern geometric rug, crafted for durability and style.",
+      "long": "Transform your living room, patio, or entryway with the Geometric Indoor/Outdoor Rug, featuring a captivating geometric pattern in soothing sage green and cream hues. Crafted from 100% polypropylene, this rug offers unparalleled durability and weather resistance, making it perfect for both indoor and outdoor settings. Its low-profile design seamlessly integrates into any decor style, while the textured surface adds depth and character. Whether you're entertaining guests or enjoying a quiet evening, this rug provides a stylish yet functional backdrop to your home.",
+      "features": [
+        "Striking geometric pattern",
+        "Soft sage green and cream color palette",
+        "Weather-resistant for versatile use",
+        "100% polypropylene construction for durability",
+        "Low-profile design for easy integration",
+        "Textured surface for added visual interest",
+        "Ideal for living rooms, patios, and entryways"
+      ],
+      "careInstructions": "Vacuum regularly to remove dust and debris. Spot clean with mild soap and water as needed. Avoid prolonged exposure to moisture to maintain quality.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Sage Green",
+          "hex": "#9CAF88",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean geometric lines"
+    },
+    "seo": {
+      "metaTitle": "Geometric Indoor/Outdoor Rug - Durable & Stylish Design",
+      "metaDescription": "Enhance your space with the Geometric Indoor/Outdoor Rug. Durable, weather-resistant, and stylish, perfect for any decor. Shop now for elegance!",
+      "altText": "Stylish indoor/outdoor rug with modern geometric pattern in sage green and cream.",
+      "keywords": [
+        "indoor rug",
+        "outdoor rug",
+        "geometric rug",
+        "modern rug",
+        "sage green rug",
+        "cream rug",
+        "polypropylene rug",
+        "weather-resistant rug",
+        "entryway rug",
+        "patio rug",
+        "living room rug",
+        "durable rug",
+        "stylish rug",
+        "matte finish rug",
+        "textured rug",
+        "low-profile rug",
+        "clean lines rug",
+        "versatile rug",
+        "easy care rug",
+        "vacuum rug",
+        "spot clean rug",
+        "mild soap rug",
+        "elegant rug",
+        "functional rug",
+        "home decor rug",
+        "floor covering",
+        "accent piece rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:00:56.199Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-outdoor-rug-3",
+    "sku": "RUG-IO-003",
+    "name": "Tropical Palm Indoor/Outdoor Rug",
+    "description": "Tropical palm leaf design for indoor and outdoor spaces",
+    "price": 179.99,
+    "currency": "USD",
+    "images": [
+      "rug-10.jpeg"
+    ],
+    "primaryImage": "rug-10.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor/Outdoor Rug",
+        "slug": "indoor-outdoor-rug"
+      },
+      "productType": "Indoor/Outdoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Forest Green"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Coastal",
+        "Tropical"
+      ],
+      "room": [
+        "Living Room",
+        "Patio",
+        "Sunroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "living-room",
+      "tropical",
+      "palm",
+      "indoor",
+      "rug",
+      "green",
+      "coastal",
+      "nature-inspired",
+      "polypropylene",
+      "durable",
+      "easy care",
+      "living room",
+      "patio",
+      "sunroom",
+      "textured",
+      "matte finish",
+      "5x7",
+      "6x9",
+      "rectangular",
+      "embossed design",
+      "smooth texture",
+      "modern",
+      "stylish",
+      "versatile",
+      "decor",
+      "floor covering",
+      "home",
+      "garden",
+      "porch",
+      "balcony",
+      "eco-friendly",
+      "easy maintenance",
+      "high quality",
+      "affordable",
+      "comfortable",
+      "soft underfoot",
+      "weather-resistant",
+      "tropical palm rug",
+      "indoor outdoor rug",
+      "green rug",
+      "coastal rug",
+      "tropical decor",
+      "polypropylene rug",
+      "durable rug",
+      "easy care rug",
+      "living room rug",
+      "patio rug",
+      "sunroom rug",
+      "textured rug",
+      "matte finish rug",
+      "rectangular rug",
+      "embossed design rug",
+      "smooth texture rug",
+      "modern rug",
+      "stylish rug",
+      "versatile rug",
+      "home decor rug",
+      "eco-friendly rug",
+      "easy maintenance rug",
+      "weather-resistant rug",
+      "nature-inspired rug",
+      "high quality rug",
+      "affordable rug",
+      "comfortable rug",
+      "soft underfoot rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 20,
+      "rating": 4.7,
+      "reviewCount": 178,
+      "createdAt": "2024-01-14T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Lush green tropical palm rug perfect for any indoor or outdoor space, enhancing nature-inspired decor.",
+      "long": "Transform your living space into a serene tropical paradise with our Tropical Palm Indoor/Outdoor Rug. Featuring a vibrant forest green hue adorned with embossed palm leaf patterns, this rug brings a lush and inviting atmosphere to your surroundings. Crafted from durable polypropylene, it stands resilient against the elements, making it suitable for both indoor and outdoor use. Its smooth texture and subtle design add elegance and style, effortlessly complementing coastal and tropical themes. Ideal for living rooms, patios, or sunrooms, this rug is both functional and visually appealing.",
+      "features": [
+        "Vibrant forest green color",
+        "Embossed palm leaf patterns",
+        "Durable polypropylene construction",
+        "Suitable for indoor and outdoor use",
+        "Smooth texture with subtle design",
+        "Weather-resistant and easy maintenance",
+        "Enhances coastal and tropical decor"
+      ],
+      "careInstructions": "Vacuum regularly to remove dust and debris. Spot clean with mild detergent and water. Avoid prolonged exposure to direct sunlight to maintain color vibrancy.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Forest Green",
+          "hex": "#228B22",
+          "category": "primary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Flat with embossed leaf patterns"
+    },
+    "seo": {
+      "metaTitle": "Tropical Palm Indoor/Outdoor Rug - Vibrant & Durable",
+      "metaDescription": "Enhance your space with our Tropical Palm Rug. Perfect for indoor/outdoor use, its vibrant green and durable design is a must-have. Shop now!",
+      "altText": "Vibrant green Tropical Palm Indoor/Outdoor Rug with embossed palm leaf design",
+      "keywords": [
+        "tropical palm rug",
+        "indoor outdoor rug",
+        "green rug",
+        "coastal rug",
+        "tropical decor",
+        "polypropylene rug",
+        "durable rug",
+        "easy care rug",
+        "living room rug",
+        "patio rug",
+        "sunroom rug",
+        "textured rug",
+        "matte finish rug",
+        "rectangular rug",
+        "embossed design rug",
+        "smooth texture rug",
+        "modern rug",
+        "stylish rug",
+        "versatile rug",
+        "home decor rug",
+        "floor covering",
+        "eco-friendly rug",
+        "easy maintenance rug",
+        "weather-resistant rug",
+        "nature-inspired rug",
+        "high quality rug",
+        "affordable rug",
+        "comfortable rug",
+        "soft underfoot rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:01.396Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-outdoor-rug-4",
+    "sku": "RUG-IO-004",
+    "name": "Medallion Indoor/Outdoor Rug",
+    "description": "Classic medallion pattern suitable for any space",
+    "price": 149.99,
+    "currency": "USD",
+    "images": [
+      "rug-11.jpeg"
+    ],
+    "primaryImage": "rug-11.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor/Outdoor Rug",
+        "slug": "indoor-outdoor-rug"
+      },
+      "productType": "Indoor/Outdoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Forest Green"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Traditional"
+      ],
+      "room": [
+        "Living Room",
+        "Patio",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "entryway",
+      "medallion",
+      "traditional",
+      "indoor rug",
+      "outdoor rug",
+      "floral pattern",
+      "green rug",
+      "traditional decor",
+      "polypropylene",
+      "textured rug",
+      "living room rug",
+      "patio rug",
+      "entryway rug",
+      "easy maintenance",
+      "durable rug",
+      "elegant design",
+      "comfortable underfoot",
+      "versatile style",
+      "matte finish",
+      "low-profile",
+      "embossed detailing",
+      "forest green",
+      "classic style",
+      "home decor",
+      "soft texture",
+      "decorative rug",
+      "rug for all spaces",
+      "stylish rug",
+      "high-quality material",
+      "easy to clean",
+      "weather resistant",
+      "multi-use rug",
+      "5x7 size",
+      "8x10 size",
+      "Medallion rug",
+      "floral pattern rug",
+      "traditional decor rug",
+      "polypropylene rug",
+      "easy maintenance rug",
+      "elegant design rug",
+      "comfortable underfoot rug",
+      "versatile style rug",
+      "matte finish rug",
+      "low-profile rug",
+      "embossed detailing rug",
+      "forest green rug",
+      "classic style rug",
+      "home decor rug",
+      "soft texture rug",
+      "high-quality material rug",
+      "easy to clean rug",
+      "weather resistant rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 25,
+      "rating": 4.4,
+      "reviewCount": 145,
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant green rug with a floral embossed pattern, perfect for indoor and outdoor spaces.",
+      "long": "Transform your living space with the Medallion Indoor/Outdoor Rug, a perfect blend of elegance and durability. Crafted in a rich forest green, this rug features a sophisticated embossed floral pattern that adds depth and texture to any area. Made from high-quality polypropylene, it is resistant to wear and ideal for both indoor and outdoor use, adapting beautifully to any setting. Whether gracing your living room, enhancing your patio, or welcoming guests in your entryway, this rug provides a soft, comfortable underfoot experience. Its traditional style effortlessly complements a variety of decor themes, ensuring a seamless addition to your home. With easy maintenance and weather-resistant properties, it's the perfect choice for any stylish, functional space.",
+      "features": [
+        "Embossed floral pattern for added texture",
+        "Made from durable polypropylene material",
+        "Suitable for both indoor and outdoor use",
+        "Rich forest green color adds elegance",
+        "Traditional style complements various decors",
+        "Soft underfoot for added comfort",
+        "Weather-resistant and easy to maintain"
+      ],
+      "careInstructions": "Vacuum regularly and spot clean with mild detergent. Suitable for outdoor use; store indoors during extreme weather.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Forest Green",
+          "hex": "#228B22",
+          "category": "primary"
+        }
+      ],
+      "pattern": "floral",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with embossed detailing"
+    },
+    "seo": {
+      "metaTitle": "Medallion Indoor/Outdoor Rug - Elegant & Durable Design",
+      "metaDescription": "Enhance any space with the Medallion Indoor/Outdoor Rug's elegant floral pattern. Shop now for a durable, stylish addition to your home decor!",
+      "altText": "Forest green rug with embossed floral pattern, suitable for indoor and outdoor use.",
+      "keywords": [
+        "Medallion rug",
+        "indoor rug",
+        "outdoor rug",
+        "floral pattern rug",
+        "green rug",
+        "traditional decor rug",
+        "polypropylene rug",
+        "textured rug",
+        "living room rug",
+        "patio rug",
+        "entryway rug",
+        "easy maintenance rug",
+        "durable rug",
+        "elegant design rug",
+        "comfortable underfoot rug",
+        "versatile style rug",
+        "matte finish rug",
+        "low-profile rug",
+        "embossed detailing rug",
+        "forest green rug",
+        "classic style rug",
+        "home decor rug",
+        "soft texture rug",
+        "decorative rug",
+        "rug for all spaces",
+        "stylish rug",
+        "high-quality material rug",
+        "easy to clean rug",
+        "weather resistant rug",
+        "multi-use rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:12.888Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-outdoor-rug-5",
+    "sku": "RUG-IO-005",
+    "name": "Chevron Indoor/Outdoor Rug",
+    "description": "Modern chevron pattern for versatile placement",
+    "price": 139.99,
+    "currency": "USD",
+    "images": [
+      "rug-12.jpeg"
+    ],
+    "primaryImage": "rug-12.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor/Outdoor Rug",
+        "slug": "indoor-outdoor-rug"
+      },
+      "productType": "Indoor/Outdoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Navy Blue",
+        "White"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Patio",
+        "Deck"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "living-room",
+      "chevron",
+      "modern",
+      "indoor",
+      "rug",
+      "polypropylene",
+      "navy",
+      "white",
+      "living room",
+      "patio",
+      "deck",
+      "durable",
+      "stylish",
+      "easy maintenance",
+      "versatile",
+      "geometric",
+      "smooth texture",
+      "matte finish",
+      "rectangular",
+      "low pile",
+      "clean lines",
+      "sophisticated",
+      "decor",
+      "foundation",
+      "elements",
+      "design",
+      "pattern",
+      "Chevron rug",
+      "Indoor outdoor rug",
+      "Modern rug design",
+      "Polypropylene rug",
+      "Navy and white rug",
+      "Durable rug",
+      "Easy maintenance rug",
+      "Living room rug",
+      "Patio rug",
+      "Deck rug",
+      "Stylish rug",
+      "Geometric pattern rug",
+      "Smooth texture rug",
+      "Matte finish rug",
+      "Rectangular rug",
+      "Low pile rug",
+      "Sophisticated decor rug",
+      "Versatile rug",
+      "Outdoor decor",
+      "Indoor decor",
+      "Rug for high-traffic areas",
+      "Rug for backyard",
+      "Rug for entertaining",
+      "Rug with clean lines",
+      "Navy rug",
+      "White rug",
+      "Home decor rug",
+      "Rug for elements"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 32,
+      "rating": 4.6,
+      "reviewCount": 201,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish chevron rug with a modern flair, perfect for both indoor and outdoor spaces.",
+      "long": "Elevate your home decor with the Chevron Indoor/Outdoor Rug, a stylish blend of functionality and modern design. Featuring a dynamic chevron pattern in sophisticated navy and crisp white, this rug breathes life into any space, be it your cozy living room or a breezy patio. Made from robust polypropylene, it stands resilient against the elements, ensuring longevity and color retention. The low pile height offers hassle-free maintenance, making it ideal for high-traffic areas. Whether you're hosting a backyard gathering or relaxing indoors, this rug adds an elegant touch to your decor, creating an inviting ambiance.",
+      "features": [
+        "Contemporary chevron design",
+        "Resilient polypropylene construction",
+        "Perfect for indoor and outdoor settings",
+        "Elegant navy and white color palette",
+        "Low pile for easy cleaning and durability",
+        "Weather-resistant and fade-resistant",
+        "Ideal for high-traffic areas"
+      ],
+      "careInstructions": "Spot clean with mild soap and water. Avoid prolonged exposure to moisture. Rotate periodically to ensure even wear.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Navy Blue",
+          "hex": "#000080",
+          "category": "primary"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Flat with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Chevron Indoor/Outdoor Rug - Modern Design & Durability",
+      "metaDescription": "Enhance your decor with the Chevron Indoor/Outdoor Rug. Stylish, durable, and easy to maintain. Perfect for living rooms and patios. Shop now!",
+      "altText": "Chevron Indoor/Outdoor Rug with navy and white modern pattern.",
+      "keywords": [
+        "Chevron rug",
+        "Indoor outdoor rug",
+        "Modern rug design",
+        "Polypropylene rug",
+        "Navy and white rug",
+        "Durable rug",
+        "Easy maintenance rug",
+        "Living room rug",
+        "Patio rug",
+        "Deck rug",
+        "Stylish rug",
+        "Geometric pattern rug",
+        "Smooth texture rug",
+        "Matte finish rug",
+        "Rectangular rug",
+        "Low pile rug",
+        "Sophisticated decor rug",
+        "Versatile rug",
+        "Outdoor decor",
+        "Indoor decor",
+        "Rug for high-traffic areas",
+        "Rug for backyard",
+        "Rug for entertaining",
+        "Rug with clean lines",
+        "Navy rug",
+        "White rug",
+        "Home decor rug",
+        "Rug for elements"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:15.756Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "indoor-outdoor-rug-6",
+    "sku": "RUG-IO-006",
+    "name": "Solid Indoor/Outdoor Rug",
+    "description": "Simple solid color rug for indoor and outdoor use",
+    "price": 99.99,
+    "currency": "USD",
+    "images": [
+      "rug-13.jpeg"
+    ],
+    "primaryImage": "rug-13.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Indoor/Outdoor Rug",
+        "slug": "indoor-outdoor-rug"
+      },
+      "productType": "Indoor/Outdoor Rug"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige",
+        "Slate Gray",
+        "Muted Blue"
+      ],
+      "material": [
+        "Polypropylene"
+      ],
+      "style": [
+        "Minimalist",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Patio",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "entryway",
+      "solid",
+      "minimalist",
+      "indoor rug",
+      "outdoor rug",
+      "abstract design",
+      "minimalist style",
+      "polypropylene",
+      "durable",
+      "entryway decor",
+      "patio rug",
+      "modern rug",
+      "soft texture",
+      "beige rug",
+      "gray rug",
+      "blue accents",
+      "rectangular rug",
+      "matte finish",
+      "low-profile",
+      "contemporary design",
+      "high-traffic area",
+      "easy care",
+      "versatile",
+      "stylish",
+      "elegant",
+      "functional",
+      "decorative",
+      "comfortable",
+      "neutral tones",
+      "weather-resistant",
+      "easy to clean",
+      "3x5 rug",
+      "5x7 rug",
+      "8x10 rug",
+      "living room rug",
+      "entryway rug",
+      "patio decor",
+      "durable rug",
+      "easy care rug",
+      "versatile rug",
+      "stylish rug",
+      "elegant rug",
+      "functional rug",
+      "decorative rug",
+      "comfortable rug",
+      "weather-resistant rug",
+      "easy to clean rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 50,
+      "rating": 4.3,
+      "reviewCount": 123,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Versatile indoor/outdoor rug with a subtle abstract pattern.",
+      "long": "Enhance your living space with our Solid Indoor/Outdoor Rug, a versatile masterpiece that effortlessly marries style and functionality. This rug showcases a sophisticated blend of warm beige, slate gray, and muted blue tones, woven into an abstract pattern that adds a touch of elegance to any room or patio. Crafted from durable polypropylene, it is designed to withstand the elements, making it perfect for both indoor and outdoor settings. The soft texture provides comfort underfoot, ideal for high-traffic areas such as entryways, patios, and living rooms. With its minimalist and contemporary style, this rug is a chic addition to modern and minimalist decor, offering a weather-resistant and easy-to-clean solution for your home.",
+      "features": [
+        "Abstract pattern with subtle color variations",
+        "Durable polypropylene construction",
+        "Suitable for indoor and outdoor use",
+        "Soft texture for comfort",
+        "Ideal for high-traffic areas",
+        "Weather-resistant and easy to clean",
+        "Versatile design for modern and minimalist decor"
+      ],
+      "careInstructions": "Regularly vacuum to remove dirt and debris. Spot clean with mild detergent and water. Avoid prolonged exposure to moisture.",
+      "materialComposition": "100% Polypropylene"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A6",
+          "category": "primary"
+        },
+        {
+          "name": "Slate Gray",
+          "hex": "#7A7A7A",
+          "category": "secondary"
+        },
+        {
+          "name": "Muted Blue",
+          "hex": "#6A7B8C",
+          "category": "accent"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "soft",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean edges"
+    },
+    "seo": {
+      "metaTitle": "Solid Indoor/Outdoor Rug - Durable & Stylish Abstract Design",
+      "metaDescription": "Upgrade your space with our Solid Indoor/Outdoor Rug. Durable polypropylene, elegant abstract pattern, perfect for high-traffic areas. Shop now for comfort & style!",
+      "altText": "Solid Indoor/Outdoor Rug featuring a blend of beige, gray, and blue tones in an abstract pattern.",
+      "keywords": [
+        "indoor rug",
+        "outdoor rug",
+        "abstract design",
+        "minimalist style",
+        "polypropylene",
+        "durable rug",
+        "entryway decor",
+        "patio rug",
+        "modern rug",
+        "soft texture",
+        "beige rug",
+        "gray rug",
+        "blue accents",
+        "rectangular rug",
+        "matte finish",
+        "low-profile",
+        "contemporary design",
+        "high-traffic area",
+        "easy care rug",
+        "versatile rug",
+        "stylish rug",
+        "elegant rug",
+        "functional rug",
+        "decorative rug",
+        "comfortable rug",
+        "neutral tones",
+        "weather-resistant rug",
+        "easy to clean rug",
+        "living room rug",
+        "entryway rug",
+        "patio decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:25.426Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "reversible-rug-1",
+    "sku": "RUG-REV-001",
+    "name": "Two-Tone Reversible Area Rug",
+    "description": "Versatile two-tone rug that can be flipped for a new look",
+    "price": 169.99,
+    "currency": "USD",
+    "images": [
+      "rug-14.jpeg"
+    ],
+    "primaryImage": "rug-14.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Reversible Rug",
+        "slug": "reversible-rug"
+      },
+      "productType": "Reversible Rug"
+    },
+    "attributes": {
+      "color": [
+        "Black",
+        "Orange",
+        "Yellow",
+        "Cream"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "reversible",
+      "two-tone",
+      "reversible rug",
+      "modern decor",
+      "abstract design",
+      "colorful rug",
+      "cotton rug",
+      "living room rug",
+      "office decor",
+      "soft texture",
+      "organic shape",
+      "vibrant colors",
+      "black rug",
+      "orange accents",
+      "yellow highlights",
+      "cream details",
+      "matte finish",
+      "stylish rug",
+      "versatile design",
+      "eye-catching",
+      "comfortable",
+      "unique shape",
+      "decorative rug",
+      "floor covering",
+      "home accessory",
+      "interior design",
+      "contemporary style",
+      "artistic rug",
+      "soft underfoot",
+      "easy to clean",
+      "durable",
+      "high-quality",
+      "cotton material",
+      "accent piece",
+      "room enhancement",
+      "visual interest",
+      "color splash",
+      "personality",
+      "Two-Tone Reversible Area Rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 28,
+      "rating": 4.7,
+      "reviewCount": 234,
+      "createdAt": "2024-01-05T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Enhance your space with our Two-Tone Reversible Area Rug, featuring vibrant colors and an organic shape for dynamic decor.",
+      "long": "Transform your living space with the Two-Tone Reversible Area Rug, a modern masterpiece designed to captivate. Its vibrant palette of black, orange, yellow, and cream is masterfully woven into an organic shape that adds a touch of artistic flair to any room. Made from 100% cotton, this rug offers a plush, soft texture underfoot, making it a cozy addition to your living room or office. The reversible design allows you to effortlessly switch up your decor, providing two looks in one. Whether you're adding a bold splash of color or complementing existing decor, this rug is the perfect choice for contemporary enthusiasts looking to elevate their interior style.",
+      "features": [
+        "Reversible design for two stylish looks",
+        "Organic shape for added visual intrigue",
+        "Vibrant color palette: black, orange, yellow, cream",
+        "Soft, plush cotton material",
+        "Ideal for modern and contemporary spaces",
+        "Easy to switch and refresh room aesthetics",
+        "Perfect for living rooms and office decor"
+      ],
+      "careInstructions": "Vacuum regularly to maintain freshness. Spot clean with mild detergent when necessary. Keep out of direct sunlight to prevent color fading.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "primary"
+        },
+        {
+          "name": "Orange",
+          "hex": "#FFA500",
+          "category": "accent"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFD700",
+          "category": "accent"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "soft",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Flowing organic form with vibrant color sections"
+    },
+    "seo": {
+      "metaTitle": "Two-Tone Reversible Area Rug - Vibrant & Versatile Design",
+      "metaDescription": "Elevate your decor with the Two-Tone Reversible Area Rug. Enjoy vibrant colors and a plush cotton texture. Shop now for a stylish, cozy living space!",
+      "altText": "Two-Tone Reversible Area Rug with vibrant colors and organic shape, perfect for modern interiors.",
+      "keywords": [
+        "Two-Tone Reversible Area Rug",
+        "modern decor",
+        "abstract design",
+        "colorful rug",
+        "cotton rug",
+        "living room rug",
+        "office decor",
+        "soft texture",
+        "organic shape",
+        "vibrant colors",
+        "black rug",
+        "orange accents",
+        "yellow highlights",
+        "cream details",
+        "matte finish",
+        "stylish rug",
+        "versatile design",
+        "eye-catching",
+        "comfortable",
+        "unique shape",
+        "decorative rug",
+        "floor covering",
+        "home accessory",
+        "interior design",
+        "contemporary style",
+        "artistic rug",
+        "soft underfoot",
+        "easy to clean",
+        "durable",
+        "high-quality",
+        "cotton material",
+        "accent piece",
+        "room enhancement",
+        "visual interest",
+        "color splash",
+        "personality"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:28.864Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "reversible-rug-2",
+    "sku": "RUG-REV-002",
+    "name": "Patterned Reversible Flatweave",
+    "description": "Flatweave rug with different patterns on each side",
+    "price": 199.99,
+    "compareAtPrice": 259.99,
+    "currency": "USD",
+    "images": [
+      "rug-15.jpeg"
+    ],
+    "primaryImage": "rug-15.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Reversible Rug",
+        "slug": "reversible-rug"
+      },
+      "productType": "Reversible Rug"
+    },
+    "attributes": {
+      "color": [
+        "Navy Blue",
+        "Warm Beige",
+        "Rich Red",
+        "Earthy Brown"
+      ],
+      "material": [
+        "Cotton",
+        "Wool"
+      ],
+      "style": [
+        "Bohemian",
+        "Traditional"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "dining-room",
+      "reversible",
+      "flatweave",
+      "reversible rug",
+      "bohemian style",
+      "traditional design",
+      "floral pattern",
+      "living room decor",
+      "dining room rug",
+      "cotton wool blend",
+      "durable rug",
+      "soft texture",
+      "elegant rug",
+      "versatile styling",
+      "intricate design",
+      "home decor",
+      "floor covering",
+      "textile art",
+      "patterned rug",
+      "woven texture",
+      "natural finish",
+      "rectangular shape",
+      "border detailing",
+      "rich colors",
+      "navy blue rug",
+      "beige rug",
+      "red accent",
+      "brown accent",
+      "comfortable underfoot",
+      "easy maintenance",
+      "vacuum regularly",
+      "spot clean",
+      "prevent fading",
+      "high-quality materials",
+      "stylish rug",
+      "practical design",
+      "elegant appearance",
+      "home styling",
+      "interior design",
+      "flatweave rug",
+      "bohemian style rug",
+      "traditional design rug",
+      "floral pattern rug",
+      "cotton wool blend rug",
+      "soft texture rug",
+      "versatile styling rug",
+      "intricate design rug",
+      "home decor rug",
+      "floor covering rug",
+      "textile art rug",
+      "woven texture rug",
+      "natural finish rug",
+      "rectangular shape rug",
+      "border detailing rug",
+      "rich colors rug",
+      "red accent rug",
+      "brown accent rug",
+      "comfortable underfoot rug",
+      "easy maintenance rug",
+      "vacuum regularly rug",
+      "spot clean rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 15,
+      "rating": 4.8,
+      "reviewCount": 189,
+      "createdAt": "2024-01-08T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant reversible flatweave rug with intricate floral patterns and rich colors.",
+      "long": "Elevate your home decor with the Patterned Reversible Flatweave Rug, a masterpiece of intricate floral designs and rich, harmonious colors. This elegant rug, crafted from a durable cotton and wool blend, offers a soft texture that feels luxurious underfoot. Its reversible nature allows you to effortlessly switch styles, making it a versatile addition to any living room or dining area. The sophisticated blend of navy, warm beige, and accenting reds and browns creates a visual symphony that enriches any space with warmth and elegance. Whether you're hosting a dinner party or enjoying a quiet evening at home, this rug provides the perfect foundation for comfort and style.",
+      "features": [
+        "Reversible design for versatile styling",
+        "Intricate floral patterns",
+        "Durable cotton and wool construction",
+        "Soft texture for comfort",
+        "Ideal for living and dining rooms",
+        "Rich, harmonious color palette",
+        "Easy to integrate into various decor styles"
+      ],
+      "careInstructions": "Vacuum regularly and spot clean with mild detergent. Avoid direct sunlight to prevent fading.",
+      "materialComposition": "Cotton and wool blend"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Navy Blue",
+          "hex": "#001F54",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Beige",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        },
+        {
+          "name": "Rich Red",
+          "hex": "#8B0000",
+          "category": "accent"
+        },
+        {
+          "name": "Earthy Brown",
+          "hex": "#8B4513",
+          "category": "accent"
+        }
+      ],
+      "pattern": "floral",
+      "texture": "woven",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Flat with intricate border detailing"
+    },
+    "seo": {
+      "metaTitle": "Patterned Reversible Flatweave Rug - Elegant Floral Design",
+      "metaDescription": "Enhance your decor with our Patterned Reversible Flatweave Rug. Enjoy luxurious comfort and versatile style. Shop now to transform your space!",
+      "altText": "Elegant reversible flatweave rug with intricate floral patterns in navy, beige, red, and brown.",
+      "keywords": [
+        "reversible rug",
+        "flatweave rug",
+        "bohemian style rug",
+        "traditional design rug",
+        "floral pattern rug",
+        "living room decor",
+        "dining room rug",
+        "cotton wool blend rug",
+        "durable rug",
+        "soft texture rug",
+        "elegant rug",
+        "versatile styling rug",
+        "intricate design rug",
+        "home decor rug",
+        "floor covering rug",
+        "textile art rug",
+        "patterned rug",
+        "woven texture rug",
+        "natural finish rug",
+        "rectangular shape rug",
+        "border detailing rug",
+        "rich colors rug",
+        "navy blue rug",
+        "beige rug",
+        "red accent rug",
+        "brown accent rug",
+        "comfortable underfoot rug",
+        "easy maintenance rug",
+        "vacuum regularly rug",
+        "spot clean rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:39.319Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "reversible-rug-3",
+    "sku": "RUG-REV-003",
+    "name": "Geometric Reversible Rug",
+    "description": "Bold geometric design reversible rug",
+    "price": 179.99,
+    "currency": "USD",
+    "images": [
+      "rug-16.jpeg"
+    ],
+    "primaryImage": "rug-16.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Reversible Rug",
+        "slug": "reversible-rug"
+      },
+      "productType": "Reversible Rug"
+    },
+    "attributes": {
+      "color": [
+        "Jet Black",
+        "Warm Beige"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "reversible",
+      "geometric",
+      "reversible rug",
+      "geometric design",
+      "modern style",
+      "black and beige rug",
+      "cotton rug",
+      "living room decor",
+      "bedroom accessory",
+      "home decor",
+      "soft texture",
+      "wave pattern",
+      "rectangular rug",
+      "plush rug",
+      "contemporary rug",
+      "durable rug",
+      "stylish rug",
+      "versatile rug",
+      "decorative rug",
+      "elegant rug",
+      "contrast colors",
+      "floor covering",
+      "interior design",
+      "textured rug",
+      "matte finish",
+      "easy care",
+      "vacuum friendly",
+      "spot clean",
+      "fade resistant",
+      "high quality",
+      "comfortable rug",
+      "accent piece",
+      "room focal point",
+      "adaptable decor",
+      "decor switch",
+      "geometric reversible rug",
+      "modern cotton rug",
+      "soft texture rug",
+      "wave pattern rug",
+      "contrast colors rug",
+      "interior design rug",
+      "matte finish rug",
+      "easy care rug",
+      "vacuum friendly rug",
+      "spot clean rug",
+      "fade resistant rug",
+      "high quality rug",
+      "accent piece rug",
+      "room focal point rug",
+      "adaptable decor rug",
+      "decor switch rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 22,
+      "rating": 4.6,
+      "reviewCount": 167,
+      "createdAt": "2024-01-12T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with a chic, reversible geometric rug in black and beige.",
+      "long": "Transform your living area with the Geometric Reversible Rug, a masterpiece of modern design that marries style and functionality. Featuring bold geometric waves in contrasting jet black and warm beige, this rug offers a sophisticated aesthetic that enhances any room. Crafted from 100% soft cotton, its plush texture invites comfort and luxury underfoot. The reversible feature doubles its lifespan while allowing for effortless decor versatility. Whether placed in a living room or bedroom, this rug serves as a striking focal point, complementing contemporary furnishings with its sleek, matte finish and low-profile silhouette.",
+      "features": [
+        "Reversible design for extended use and decor flexibility",
+        "Striking geometric wave pattern in black and beige",
+        "Crafted from plush, 100% soft cotton",
+        "Modern style perfect for contemporary interiors",
+        "Available in multiple sizes to suit your space",
+        "Matte finish adds a sophisticated touch",
+        "Durable and stylish addition to any room"
+      ],
+      "careInstructions": "To maintain its beauty, vacuum regularly and spot clean with a mild detergent. Keep out of direct sunlight to prevent fading.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Jet Black",
+          "hex": "#343434",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A5",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "plush",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with undulating wave patterns"
+    },
+    "seo": {
+      "metaTitle": "Geometric Reversible Rug - Modern Cotton Design",
+      "metaDescription": "Elevate your space with the Geometric Reversible Rug. Enjoy style and comfort with its bold design. Shop now for a versatile and luxurious addition!",
+      "altText": "Elegant reversible rug with bold geometric waves in black and beige.",
+      "keywords": [
+        "geometric reversible rug",
+        "modern cotton rug",
+        "black and beige rug",
+        "living room decor",
+        "bedroom accessory",
+        "soft texture rug",
+        "wave pattern rug",
+        "contemporary rug",
+        "durable rug",
+        "stylish rug",
+        "versatile rug",
+        "decorative rug",
+        "elegant rug",
+        "contrast colors rug",
+        "floor covering",
+        "interior design rug",
+        "textured rug",
+        "matte finish rug",
+        "easy care rug",
+        "vacuum friendly rug",
+        "spot clean rug",
+        "fade resistant rug",
+        "high quality rug",
+        "comfortable rug",
+        "accent piece rug",
+        "room focal point rug",
+        "adaptable decor rug",
+        "decor switch rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:41.543Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "reversible-rug-5",
+    "sku": "RUG-REV-005",
+    "name": "Moroccan Reversible Rug",
+    "description": "Moroccan-inspired reversible area rug",
+    "price": 219.99,
+    "currency": "USD",
+    "images": [
+      "rug-18.jpeg"
+    ],
+    "primaryImage": "rug-18.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Reversible Rug",
+        "slug": "reversible-rug"
+      },
+      "productType": "Reversible Rug"
+    },
+    "attributes": {
+      "color": [
+        "Cream",
+        "Taupe"
+      ],
+      "material": [
+        "Wool",
+        "Cotton"
+      ],
+      "style": [
+        "Moroccan",
+        "Bohemian"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "reversible",
+      "moroccan",
+      "Moroccan rug",
+      "reversible rug",
+      "abstract pattern",
+      "round rug",
+      "wool rug",
+      "cotton rug",
+      "living room decor",
+      "bedroom decor",
+      "bohemian style",
+      "textured rug",
+      "durable rug",
+      "soft rug",
+      "high-traffic rug",
+      "modern home",
+      "versatile rug",
+      "cream rug",
+      "taupe rug",
+      "elegant rug",
+      "flowing lines",
+      "matte finish",
+      "comfortable rug",
+      "easy maintenance",
+      "vacuum regularly",
+      "spot clean",
+      "avoid sunlight",
+      "home decor",
+      "floor covering",
+      "interior design",
+      "soft texture",
+      "decorative rug",
+      "stylish rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.7,
+      "reviewCount": 178,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant Moroccan-inspired reversible rug with a flowing abstract pattern.",
+      "long": "This Moroccan-inspired reversible rug features a captivating abstract pattern in a soothing palette of cream and taupe. Its round shape and intricate design make it a versatile addition to any room, offering both style and comfort. Crafted from a blend of wool and cotton, this rug is soft yet durable, perfect for high-traffic areas. The reversible feature allows for extended use and easy maintenance, making it a practical choice for modern homes.",
+      "features": [
+        "Reversible design for extended use",
+        "Abstract pattern with flowing lines",
+        "Soft wool and cotton blend",
+        "Round shape for versatile placement",
+        "Durable and suitable for high-traffic areas"
+      ],
+      "careInstructions": "Vacuum regularly on a low setting. Spot clean with mild detergent and water. Avoid direct sunlight to prevent fading.",
+      "materialComposition": "70% Wool, 30% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Taupe",
+          "hex": "#B38B6D",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "round",
+      "silhouette": "Round with flowing abstract lines"
+    },
+    "seo": {
+      "metaTitle": "Moroccan Reversible Rug - Abstract Pattern & Comfort",
+      "metaDescription": "Discover the Moroccan Reversible Rug with an elegant abstract design in cream and taupe. Perfect for any room, offering style and durability. Shop now!",
+      "altText": "Elegant Moroccan-inspired reversible rug with abstract pattern in cream and taupe.",
+      "keywords": [
+        "Moroccan rug",
+        "reversible rug",
+        "abstract pattern",
+        "round rug",
+        "wool rug",
+        "cotton rug",
+        "living room decor",
+        "bedroom decor",
+        "bohemian style",
+        "textured rug",
+        "durable rug",
+        "soft rug",
+        "high-traffic rug",
+        "modern home",
+        "versatile rug",
+        "cream rug",
+        "taupe rug",
+        "elegant rug",
+        "flowing lines",
+        "matte finish",
+        "comfortable rug",
+        "easy maintenance",
+        "vacuum regularly",
+        "spot clean",
+        "home decor",
+        "floor covering",
+        "interior design",
+        "soft texture",
+        "decorative rug",
+        "stylish rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:53.566Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "reversible-rug-4",
+    "sku": "RUG-REV-004",
+    "name": "Striped Reversible Cotton Rug",
+    "description": "Classic striped reversible rug in soft cotton",
+    "price": 149.99,
+    "currency": "USD",
+    "images": [
+      "rug-17.jpeg"
+    ],
+    "primaryImage": "rug-17.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Reversible Rug",
+        "slug": "reversible-rug"
+      },
+      "productType": "Reversible Rug"
+    },
+    "attributes": {
+      "color": [
+        "Cream",
+        "Beige",
+        "Light Brown"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Farmhouse",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "bedroom",
+      "entryway",
+      "reversible",
+      "striped",
+      "reversible rug",
+      "cotton rug",
+      "geometric stripes",
+      "neutral tones",
+      "farmhouse style",
+      "contemporary decor",
+      "living room rug",
+      "bedroom rug",
+      "entryway rug",
+      "textured rug",
+      "matte finish",
+      "rectangular rug",
+      "soft underfoot",
+      "versatile design",
+      "high-quality cotton",
+      "elegant rug",
+      "modern rug",
+      "striped rug",
+      "beige rug",
+      "cream rug",
+      "light brown accents",
+      "durable rug",
+      "easy to clean",
+      "vacuum regularly",
+      "spot clean",
+      "avoid direct sunlight",
+      "comfortable texture",
+      "stylish rug",
+      "functional rug",
+      "decorative rug",
+      "striped reversible cotton rug",
+      "geometric stripe rug",
+      "neutral tone rug",
+      "farmhouse style rug",
+      "contemporary decor rug",
+      "living room cotton rug",
+      "bedroom cotton rug",
+      "textured cotton rug",
+      "matte finish rug",
+      "soft underfoot rug",
+      "versatile design rug",
+      "high-quality cotton rug",
+      "elegant modern rug",
+      "beige and cream rug",
+      "light brown accent rug",
+      "durable cotton rug",
+      "easy to clean rug",
+      "vacuum regular rug",
+      "spot clean rug",
+      "comfortable texture rug",
+      "stylish decorative rug",
+      "functional cotton rug",
+      "reversible design rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 35,
+      "rating": 4.5,
+      "reviewCount": 145,
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant reversible cotton rug with geometric stripes, perfect for contemporary or farmhouse decor.",
+      "long": "Transform your living space with our Striped Reversible Cotton Rug, a harmonious blend of style and functionality. This exquisite rug boasts a sophisticated geometric stripe pattern in soothing cream, beige, and light brown tones, making it an ideal choice for both farmhouse and contemporary interiors. Crafted from high-quality cotton, it provides a soft, comforting feel underfoot, while the reversible design allows you to effortlessly alternate looks. Whether gracing your living room, bedroom, or entryway, this rug enhances any area with its understated elegance. With its low-profile and clean lines, it seamlessly integrates with your existing decor, offering both aesthetic appeal and practical versatility.",
+      "features": [
+        "Reversible design for dual styling options",
+        "Elegant geometric stripe pattern",
+        "Soft, comfortable cotton texture",
+        "Neutral cream, beige, and light brown tones",
+        "Versatile for farmhouse and contemporary decor",
+        "Low-profile silhouette with clean lines",
+        "Durable and stylish for high-traffic areas"
+      ],
+      "careInstructions": "Vacuum regularly to remove dust and debris. Spot clean with a mild detergent as needed. Avoid prolonged exposure to direct sunlight to prevent fading.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Beige",
+          "hex": "#F5F5F5",
+          "category": "secondary"
+        },
+        {
+          "name": "Light Brown",
+          "hex": "#D2B48C",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Striped Reversible Cotton Rug - Elegant Geometric Design",
+      "metaDescription": "Enhance your home with our Striped Reversible Cotton Rug. Enjoy its stylish geometric pattern and soft comfort. Perfect for any decor. Buy now!",
+      "altText": "Striped reversible cotton rug with geometric pattern in neutral tones.",
+      "keywords": [
+        "striped reversible cotton rug",
+        "geometric stripe rug",
+        "neutral tone rug",
+        "farmhouse style rug",
+        "contemporary decor rug",
+        "living room cotton rug",
+        "bedroom cotton rug",
+        "entryway rug",
+        "textured cotton rug",
+        "matte finish rug",
+        "rectangular rug",
+        "soft underfoot rug",
+        "versatile design rug",
+        "high-quality cotton rug",
+        "elegant modern rug",
+        "beige and cream rug",
+        "light brown accent rug",
+        "durable cotton rug",
+        "easy to clean rug",
+        "vacuum regular rug",
+        "spot clean rug",
+        "comfortable texture rug",
+        "stylish decorative rug",
+        "functional cotton rug",
+        "reversible design rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:01:53.739Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "natural-fiber-rug-1",
+    "sku": "RUG-NAT-001",
+    "name": "Hand-Woven Jute Area Rug",
+    "description": "Natural hand-woven jute rug with organic texture",
+    "price": 189.99,
+    "currency": "USD",
+    "images": [
+      "rug-20.jpg"
+    ],
+    "primaryImage": "rug-20.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Natural Fiber Rug",
+        "slug": "natural-fiber-rug"
+      },
+      "productType": "Natural Fiber Rug"
+    },
+    "attributes": {
+      "color": [
+        "Crimson Red",
+        "Cream",
+        "Dark Navy"
+      ],
+      "material": [
+        "Jute"
+      ],
+      "style": [
+        "Traditional",
+        "Bohemian"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "dining-room",
+      "natural",
+      "jute",
+      "eco-friendly",
+      "hand-woven",
+      "floral rug",
+      "traditional design",
+      "vibrant colors",
+      "living room rug",
+      "dining room rug",
+      "home decor",
+      "elegant rug",
+      "bohemian style",
+      "jute rug",
+      "durable",
+      "high-traffic",
+      "centerpiece",
+      "intricate patterns",
+      "smooth texture",
+      "fringed edges",
+      "matte finish",
+      "rectangular rug",
+      "crimson red",
+      "cream",
+      "dark navy",
+      "hand-woven rug",
+      "jute area rug",
+      "floral patterns",
+      "eco-friendly rug",
+      "durable rug",
+      "high-traffic rug",
+      "living room decor",
+      "centerpiece rug",
+      "crimson red rug",
+      "cream rug",
+      "dark navy rug",
+      "rug for entertaining",
+      "rug with intricate borders",
+      "rug with fringed edges",
+      "rug for everyday use",
+      "rug with geometric patterns"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 20,
+      "rating": 4.7,
+      "reviewCount": 256,
+      "createdAt": "2024-01-03T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with this vibrant, hand-woven jute rug featuring intricate floral patterns and rich colors.",
+      "long": "Transform your living or dining area with the Hand-Woven Jute Area Rug, priced at $189.99. This exquisite rug boasts a captivating blend of crimson red, cream, and dark navy hues, woven into intricate floral and geometric patterns. Its traditional design adds a touch of elegance, while the smooth texture ensures durability, making it perfect for high-traffic areas. The fringed edges and intricate border design enhance its bohemian charm, serving as a stunning centerpiece that radiates warmth and sophistication. Experience the beauty and durability of eco-friendly jute, ideal for everyday use or entertaining guests.",
+      "features": [
+        "Captivating floral and geometric patterns",
+        "Rich crimson red, cream, and dark navy colors",
+        "Smooth, durable texture perfect for high-traffic",
+        "Elegant traditional design with fringed edges",
+        "Eco-friendly hand-woven craftsmanship",
+        "Flat silhouette with intricate borders",
+        "Versatile for living and dining rooms"
+      ],
+      "careInstructions": "Vacuum regularly to keep the rug clean. Spot clean with a damp cloth for stains. Keep away from direct sunlight to prevent fading.",
+      "materialComposition": "100% Natural Jute"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Crimson Red",
+          "hex": "#DC143C",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        },
+        {
+          "name": "Dark Navy",
+          "hex": "#000080",
+          "category": "accent"
+        }
+      ],
+      "pattern": "floral",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Flat with intricate borders"
+    },
+    "seo": {
+      "metaTitle": "Hand-Woven Jute Area Rug - Elegant & Durable Design",
+      "metaDescription": "Enhance your space with the Hand-Woven Jute Area Rug. Elegant floral patterns, eco-friendly jute, perfect for high-traffic areas. Buy now for $189.99!",
+      "altText": "Vibrant hand-woven jute area rug featuring intricate floral and geometric patterns in crimson red, cream, and dark navy.",
+      "keywords": [
+        "hand-woven rug",
+        "jute area rug",
+        "floral patterns",
+        "traditional design",
+        "bohemian style",
+        "eco-friendly rug",
+        "durable rug",
+        "high-traffic rug",
+        "living room decor",
+        "dining room rug",
+        "elegant rug",
+        "vibrant colors",
+        "centerpiece rug",
+        "smooth texture",
+        "fringed edges",
+        "matte finish",
+        "rectangular rug",
+        "crimson red rug",
+        "cream rug",
+        "dark navy rug",
+        "home decor",
+        "rug for entertaining",
+        "rug with intricate borders",
+        "rug with fringed edges",
+        "rug for everyday use",
+        "rug with geometric patterns"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:02:11.155Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "reversible-rug-6",
+    "sku": "RUG-REV-006",
+    "name": "Solid Color Reversible Rug",
+    "description": "Simple solid reversible rug with contrasting sides",
+    "price": 129.99,
+    "currency": "USD",
+    "images": [
+      "rug-19.jpg"
+    ],
+    "primaryImage": "rug-19.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Reversible Rug",
+        "slug": "reversible-rug"
+      },
+      "productType": "Reversible Rug"
+    },
+    "attributes": {
+      "color": [
+        "Ivory",
+        "Navy Blue",
+        "Crimson Red",
+        "Beige"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Traditional",
+        "Classic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "bedroom",
+      "living-room",
+      "reversible",
+      "solid",
+      "floral rug",
+      "traditional design",
+      "reversible rug",
+      "elegant decor",
+      "living room rug",
+      "bedroom rug",
+      "dining room rug",
+      "cotton rug",
+      "woven texture",
+      "classic style",
+      "home decor",
+      "interior design",
+      "patterned rug",
+      "colorful rug",
+      "high-traffic area",
+      "durable rug",
+      "versatile styling",
+      "sophisticated look",
+      "rich colors",
+      "detailed weaving",
+      "matte finish",
+      "rectangular shape",
+      "low-profile",
+      "solid color rug",
+      "minimalist rug",
+      "modern rug",
+      "traditional rug",
+      "soft rug",
+      "high-traffic rug",
+      "low-profile rug",
+      "elegant rug",
+      "stylish rug",
+      "versatile rug",
+      "easy-to-maintain rug",
+      "premium materials rug",
+      "home decor rug",
+      "interior design rug",
+      "solid color palette",
+      "rug under furniture",
+      "rug with rich textures",
+      "rug for modern settings",
+      "rug for traditional settings",
+      "rug transformation",
+      "rug staple decor"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 40,
+      "rating": 4.4,
+      "reviewCount": 134,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish reversible rug offering dual color options for versatile home decor.",
+      "long": "Elevate your living space with our Solid Color Reversible Rug, the epitome of style and versatility. Priced at $129.99, this rug features a minimalist design with a sophisticated solid color palette, perfect for modern or traditional settings. Its reversible nature offers two stylish looks in one, allowing you to effortlessly switch up your decor. Crafted with premium materials, this rug is both soft underfoot and durable enough to withstand high-traffic areas, making it ideal for your living room, bedroom, or dining area. The low-profile silhouette ensures it fits seamlessly under furniture, while the rich textures add a touch of warmth and elegance to any room. Transform your home with this easy-to-maintain, versatile piece that promises to be a staple in your decor for years to come.",
+      "features": [
+        "Reversible design for dual styling options",
+        "Solid color palette for a modern look",
+        "Durable construction for high-traffic areas",
+        "Soft texture for comfort underfoot",
+        "Low-profile silhouette fits under furniture",
+        "Versatile for living room, bedroom, or dining room"
+      ],
+      "careInstructions": "Vacuum regularly to maintain appearance. Spot clean with mild detergent and water. Avoid direct sunlight to preserve color vibrancy.",
+      "materialComposition": "100% high-quality cotton with a tightly woven texture"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "primary"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "#000080",
+          "category": "secondary"
+        },
+        {
+          "name": "Crimson Red",
+          "hex": "#DC143C",
+          "category": "accent"
+        },
+        {
+          "name": "Beige",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "floral",
+      "texture": "woven",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with intricate border"
+    },
+    "seo": {
+      "metaTitle": "Solid Color Reversible Rug - Stylish & Versatile Design",
+      "metaDescription": "Transform your space with our Solid Color Reversible Rug. Enjoy two stylish looks in one. Shop now for $129.99 and elevate your decor effortlessly!",
+      "altText": "Solid Color Reversible Rug featuring a minimalist design and sophisticated palette.",
+      "keywords": [
+        "solid color rug",
+        "reversible rug",
+        "minimalist rug",
+        "modern rug",
+        "traditional rug",
+        "living room rug",
+        "bedroom rug",
+        "dining room rug",
+        "soft rug",
+        "durable rug",
+        "high-traffic rug",
+        "low-profile rug",
+        "elegant rug",
+        "stylish rug",
+        "versatile rug",
+        "easy-to-maintain rug",
+        "premium materials rug",
+        "home decor rug",
+        "interior design rug",
+        "solid color palette",
+        "rug under furniture",
+        "rug with rich textures",
+        "rug for modern settings",
+        "rug for traditional settings",
+        "rug transformation",
+        "rug staple decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:02:12.821Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "natural-fiber-rug-2",
+    "sku": "RUG-NAT-002",
+    "name": "Sisal Herringbone Rug",
+    "description": "Durable sisal rug with elegant herringbone pattern",
+    "price": 229.99,
+    "compareAtPrice": 289.99,
+    "currency": "USD",
+    "images": [
+      "rug-21.jpg"
+    ],
+    "primaryImage": "rug-21.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Natural Fiber Rug",
+        "slug": "natural-fiber-rug"
+      },
+      "productType": "Natural Fiber Rug"
+    },
+    "attributes": {
+      "color": [
+        "Slate Blue",
+        "Vibrant Orange",
+        "Charcoal Gray"
+      ],
+      "material": [
+        "Synthetic Fiber"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "entryway",
+      "natural",
+      "sisal",
+      "herringbone",
+      "modern rug",
+      "abstract design",
+      "blue rug",
+      "living room decor",
+      "contemporary style",
+      "accent rug",
+      "home decor",
+      "office rug",
+      "durable",
+      "comfortable",
+      "medium pile",
+      "stylish",
+      "artistic",
+      "vibrant colors",
+      "slate blue",
+      "orange accents",
+      "rectangular rug",
+      "smooth texture",
+      "matte finish",
+      "low-profile",
+      "Sisal Herringbone Rug",
+      "eco-friendly rug",
+      "durable rugs",
+      "natural texture rug",
+      "herringbone pattern rug",
+      "living room rug",
+      "entryway rug",
+      "organic texture rug",
+      "neutral tone rug",
+      "high-traffic area rug",
+      "elegant rugs",
+      "sustainable home decor",
+      "modern decor rug",
+      "traditional decor rug",
+      "comfortable underfoot rug",
+      "natural material rug",
+      "sisal fiber rug",
+      "timeless rug design",
+      "interior palette rug",
+      "inviting atmosphere rug",
+      "sturdy weave rug",
+      "home transformation rug",
+      "warmth adding rug",
+      "room enhancing rug",
+      "decor complementing rug",
+      "rug for modern homes",
+      "rug for traditional homes"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 14,
+      "rating": 4.8,
+      "reviewCount": 198,
+      "createdAt": "2024-01-06T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Natural sisal herringbone rug adds texture and warmth to any room.",
+      "long": "Transform your space with the Sisal Herringbone Rug, a natural beauty that brings organic texture and elegant warmth to any room. Crafted from eco-friendly sisal fibers, this rug features a timeless herringbone pattern that complements both modern and traditional decor styles. Its neutral tones blend seamlessly with your interior palette, creating an inviting atmosphere. The rug's sturdy weave ensures durability, making it perfect for high-traffic areas like living rooms or entryways. Experience the comforting underfoot feel while enjoying the aesthetic appeal of natural materials.",
+      "features": [
+        "Eco-friendly sisal fibers",
+        "Timeless herringbone pattern",
+        "Neutral tones for versatile decor",
+        "Durable weave for high-traffic areas",
+        "Natural texture and warmth",
+        "Perfect for modern and traditional spaces",
+        "Comforting underfoot feel"
+      ],
+      "careInstructions": "Regularly vacuum and rotate to maintain even wear. Spot clean with mild soap and water. Avoid saturating with water.",
+      "materialComposition": "100% natural sisal fibers woven into a durable herringbone pattern."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Slate Blue",
+          "hex": "#6A7B8D",
+          "category": "primary"
+        },
+        {
+          "name": "Vibrant Orange",
+          "hex": "#FF5733",
+          "category": "accent"
+        },
+        {
+          "name": "Charcoal Gray",
+          "hex": "#36454F",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "abstract",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Sisal Herringbone Rug - Eco-Friendly & Durable Design",
+      "metaDescription": "Enhance your home with the Sisal Herringbone Rug. Eco-friendly and durable, perfect for high-traffic areas. Shop now for elegance and comfort!",
+      "altText": "Sisal Herringbone Rug with natural texture and herringbone pattern for modern and traditional decor.",
+      "keywords": [
+        "Sisal Herringbone Rug",
+        "eco-friendly rug",
+        "durable rugs",
+        "natural texture rug",
+        "herringbone pattern rug",
+        "living room rug",
+        "entryway rug",
+        "organic texture rug",
+        "neutral tone rug",
+        "high-traffic area rug",
+        "elegant rugs",
+        "sustainable home decor",
+        "modern decor rug",
+        "traditional decor rug",
+        "comfortable underfoot rug",
+        "natural material rug",
+        "sisal fiber rug",
+        "timeless rug design",
+        "interior palette rug",
+        "inviting atmosphere rug",
+        "sturdy weave rug",
+        "home transformation rug",
+        "warmth adding rug",
+        "room enhancing rug",
+        "decor complementing rug",
+        "rug for modern homes",
+        "rug for traditional homes"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:02:26.267Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "natural-fiber-rug-3",
+    "sku": "RUG-NAT-003",
+    "name": "Seagrass Round Rug",
+    "description": "Round seagrass rug for a natural coastal look",
+    "price": 159.99,
+    "currency": "USD",
+    "images": [
+      "rug-22.jpg"
+    ],
+    "primaryImage": "rug-22.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Natural Fiber Rug",
+        "slug": "natural-fiber-rug"
+      },
+      "productType": "Natural Fiber Rug"
+    },
+    "attributes": {
+      "color": [
+        "Natural"
+      ],
+      "material": [
+        "Seagrass"
+      ],
+      "style": [
+        "Coastal",
+        "Bohemian"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "natural",
+      "seagrass",
+      "round",
+      "round rug",
+      "coastal decor",
+      "bohemian style",
+      "living room",
+      "eco-friendly",
+      "textured rug",
+      "neutral tones",
+      "organic",
+      "durable",
+      "versatile",
+      "earthy",
+      "natural fibers",
+      "home decor",
+      "interior design",
+      "sustainable",
+      "floor covering",
+      "woven",
+      "handmade",
+      "beach house",
+      "rustic",
+      "casual",
+      "soft underfoot",
+      "easy maintenance",
+      "vacuum friendly",
+      "spot clean",
+      "fade resistant",
+      "natural finish",
+      "low-profile",
+      "organic form",
+      "textured surface",
+      "eco-conscious",
+      "Seagrass Round Rug",
+      "natural seagrass rug",
+      "coastal decor rug",
+      "bohemian style rug",
+      "eco-friendly rug",
+      "neutral tone rug",
+      "rustic decor rug",
+      "living room rug",
+      "bedroom rug",
+      "sustainable rug",
+      "organic floor covering",
+      "woven rug",
+      "handmade rug",
+      "beach house decor",
+      "durable seagrass rug",
+      "versatile rug",
+      "earthy rug",
+      "home decor rug",
+      "interior design rug",
+      "natural fibers rug",
+      "low-profile rug",
+      "fade resistant rug",
+      "easy maintenance rug",
+      "vacuum friendly rug",
+      "spot clean rug",
+      "natural finish rug",
+      "organic form rug",
+      "textured surface rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 25,
+      "rating": 4.6,
+      "reviewCount": 167,
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Embrace coastal elegance with our Seagrass Round Rug.",
+      "long": "Transform your living space into a serene coastal retreat with the Seagrass Round Rug. Crafted from natural seagrass fibers, this rug exudes an earthy charm that seamlessly blends with both contemporary and rustic decor. The textured surface adds a tactile layer of depth, inviting guests to experience its unique woven feel. Perfect for living rooms or bedrooms, its neutral tones complement a variety of color palettes, offering versatility and timeless style. Durable and eco-friendly, it is an ideal choice for those who appreciate sustainable beauty.",
+      "features": [
+        "Made from 100% natural seagrass",
+        "Round, low-profile design fits any room",
+        "Textured surface provides tactile interest",
+        "Neutral tones for versatile styling",
+        "Eco-friendly and sustainable material",
+        "Durable construction for long-lasting use",
+        "Perfect for coastal and bohemian decor"
+      ],
+      "careInstructions": "Regularly vacuum to remove dust and debris. Spot clean using a damp cloth when necessary. Keep away from direct sunlight to avoid fading.",
+      "materialComposition": "100% Seagrass"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Natural",
+          "hex": "#D2B48C",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "round",
+      "silhouette": "Low-profile with a natural, organic form"
+    },
+    "seo": {
+      "metaTitle": "Seagrass Round Rug - Eco-Friendly Coastal Charm",
+      "metaDescription": "Transform your space with our Seagrass Round Rug. Eco-friendly and durable, it offers a coastal vibe. Shop now for a touch of natural elegance!",
+      "altText": "Seagrass Round Rug with natural fibers and textured surface for a coastal style.",
+      "keywords": [
+        "Seagrass Round Rug",
+        "natural seagrass rug",
+        "coastal decor rug",
+        "bohemian style rug",
+        "eco-friendly rug",
+        "textured rug",
+        "neutral tone rug",
+        "rustic decor rug",
+        "living room rug",
+        "bedroom rug",
+        "sustainable rug",
+        "organic floor covering",
+        "woven rug",
+        "handmade rug",
+        "beach house decor",
+        "durable seagrass rug",
+        "versatile rug",
+        "earthy rug",
+        "home decor rug",
+        "interior design rug",
+        "natural fibers rug",
+        "low-profile rug",
+        "fade resistant rug",
+        "easy maintenance rug",
+        "vacuum friendly rug",
+        "spot clean rug",
+        "natural finish rug",
+        "organic form rug",
+        "textured surface rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:02:28.361Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "natural-fiber-rug-4",
+    "sku": "RUG-NAT-004",
+    "name": "Braided Jute Runner",
+    "description": "Braided jute runner perfect for hallways and entryways",
+    "price": 89.99,
+    "currency": "USD",
+    "images": [
+      "rug-23.jpg"
+    ],
+    "primaryImage": "rug-23.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Natural Fiber Rug",
+        "slug": "natural-fiber-rug"
+      },
+      "productType": "Natural Fiber Rug"
+    },
+    "attributes": {
+      "color": [
+        "Deep Red",
+        "Earthy Brown",
+        "Soft Cream"
+      ],
+      "material": [
+        "Jute"
+      ],
+      "style": [
+        "Traditional",
+        "Bohemian"
+      ],
+      "room": [
+        "Living Room",
+        "Entryway",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "entryway",
+      "hallway",
+      "natural",
+      "jute",
+      "runner",
+      "geometric rug",
+      "traditional style",
+      "bohemian decor",
+      "warm tones",
+      "woven texture",
+      "fringe detailing",
+      "entryway rug",
+      "living room centerpiece",
+      "durable jute",
+      "cultural flair",
+      "high-traffic areas",
+      "comfortable underfoot",
+      "elegant design",
+      "earthy colors",
+      "soft cream accents",
+      "deep red highlights",
+      "natural finish",
+      "rectangular shape",
+      "low-profile rug",
+      "Braided Jute Runner",
+      "eco-friendly rugs",
+      "sustainable home decor",
+      "rustic ambiance",
+      "hallway runner",
+      "natural elegance",
+      "jute rug",
+      "textured runner",
+      "home decor upgrade",
+      "sustainable materials"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 45,
+      "rating": 4.5,
+      "reviewCount": 145,
+      "createdAt": "2024-01-14T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Transform your space with the rustic charm of the Braided Jute Runner, perfect for adding texture and warmth.",
+      "long": "The Braided Jute Runner is a quintessential piece for any home seeking a touch of natural elegance. Crafted from durable jute, this runner boasts a rich, earthy texture that enhances the rustic ambiance of your living room, hallway, or entryway. Its intricate braiding provides a visual feast of texture, inviting you to experience the serene comfort underfoot. Measuring at a practical length, it effortlessly complements any space while its eco-friendly materials promise longevity and sustainability. Ideal for high-traffic areas, this runner is both functional and stylish, making it a must-have addition to your home decor.",
+      "features": [
+        "Crafted from durable jute",
+        "Intricate braiding adds texture",
+        "Eco-friendly and sustainable materials",
+        "Perfect for high-traffic areas",
+        "Adds rustic charm to any room",
+        "Comfortable underfoot experience"
+      ],
+      "careInstructions": "Spot clean with a damp cloth. Avoid prolonged exposure to moisture and direct sunlight. Regularly shake out to remove debris.",
+      "materialComposition": "100% natural jute fibers"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Deep Red",
+          "hex": "#8B0000",
+          "category": "primary"
+        },
+        {
+          "name": "Earthy Brown",
+          "hex": "#A0522D",
+          "category": "secondary"
+        },
+        {
+          "name": "Soft Cream",
+          "hex": "#FFFDD0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "woven",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with intricate patterns"
+    },
+    "seo": {
+      "metaTitle": "Braided Jute Runner - Durable, Eco-Friendly Elegance",
+      "metaDescription": "Enhance your home with the Braided Jute Runner. Experience natural elegance and durability. Order now for a stylish and sustainable decor upgrade!",
+      "altText": "Braided Jute Runner with geometric patterns in warm tones, ideal for entryways.",
+      "keywords": [
+        "Braided Jute Runner",
+        "geometric rug",
+        "traditional style",
+        "bohemian decor",
+        "warm tones",
+        "woven texture",
+        "fringe detailing",
+        "entryway rug",
+        "living room centerpiece",
+        "durable jute",
+        "cultural flair",
+        "high-traffic areas",
+        "comfortable underfoot",
+        "elegant design",
+        "earthy colors",
+        "soft cream accents",
+        "deep red highlights",
+        "natural finish",
+        "rectangular shape",
+        "low-profile rug",
+        "eco-friendly rugs",
+        "sustainable home decor",
+        "rustic ambiance",
+        "hallway runner",
+        "natural elegance",
+        "jute rug",
+        "textured runner",
+        "home decor upgrade",
+        "sustainable materials"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:02:42.826Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "natural-fiber-rug-5",
+    "sku": "RUG-NAT-005",
+    "name": "Chunky Wool Natural Rug",
+    "description": "Thick chunky wool rug with natural undyed fibers",
+    "price": 349.99,
+    "currency": "USD",
+    "images": [
+      "rug-24.jpg"
+    ],
+    "primaryImage": "rug-24.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Natural Fiber Rug",
+        "slug": "natural-fiber-rug"
+      },
+      "productType": "Natural Fiber Rug"
+    },
+    "attributes": {
+      "color": [
+        "Multicolored",
+        "Bright Red",
+        "Lime Green",
+        "Sky Blue"
+      ],
+      "material": [
+        "Cotton",
+        "Synthetic Fibers"
+      ],
+      "style": [
+        "Eclectic",
+        "Bohemian"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "bedroom",
+      "natural",
+      "wool",
+      "chunky",
+      "round rug",
+      "braided rug",
+      "multicolored",
+      "fringed edges",
+      "eclectic style",
+      "bohemian decor",
+      "living room rug",
+      "bedroom rug",
+      "vibrant rug",
+      "colorful rug",
+      "decorative rug",
+      "textured rug",
+      "woven rug",
+      "spiral pattern",
+      "cotton rug",
+      "synthetic fibers",
+      "unique rug",
+      "statement piece",
+      "home decor",
+      "floor covering",
+      "interior design",
+      "accent rug",
+      "handmade look",
+      "artistic rug",
+      "playful design",
+      "eye-catching",
+      "bold colors",
+      "textile art",
+      "boho chic",
+      "modern eclectic",
+      "colorful home",
+      "Chunky Wool Rug",
+      "Natural Wool Rug",
+      "Handcrafted Wool Rug",
+      "Luxury Wool Rug",
+      "Cozy Wool Rug",
+      "Neutral Tone Rug",
+      "Thick Wool Rug",
+      "Warm Wool Rug",
+      "Elegant Wool Rug",
+      "Scandinavian Rug",
+      "Farmhouse Rug",
+      "Living Room Rug",
+      "Bedroom Rug",
+      "Wool Floor Rug",
+      "Insulating Rug",
+      "Plush Wool Rug",
+      "Stylish Wool Rug",
+      "Comfortable Wool Rug",
+      "Home Decor Rug",
+      "Warmth and Sophistication",
+      "Natural Fiber Rug",
+      "High-Quality Wool Rug",
+      "Rug for Chilly Mornings",
+      "Minimalist Rug",
+      "Rustic Rug",
+      "Wool Area Rug",
+      "Eco-Friendly Rug",
+      "Rug for Any Decor",
+      "Woolen Rug"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 12,
+      "rating": 4.9,
+      "reviewCount": 189,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Add cozy charm to any room with our Chunky Wool Natural Rug, offering warmth and texture for a serene ambiance.",
+      "long": "Transform your living space with the luxurious Chunky Wool Natural Rug. Handcrafted from 100% natural wool, this rug embodies the essence of cozy elegance. Its thick, chunky weave invites you to sink your feet into its plush texture, making it a perfect addition for those chilly mornings. The neutral hues of creamy whites and soft beiges seamlessly blend with any decor style, from minimalist Scandinavian to rustic farmhouse. This rug not only enhances the aesthetic of your space but also provides excellent insulation, keeping your feet warm and your room stylishly comfortable. Perfectly suited for living rooms, bedrooms, or any area needing a touch of warmth and sophistication.",
+      "features": [
+        "Handcrafted from 100% natural wool",
+        "Thick, chunky weave for plush texture",
+        "Neutral hues complement various decor styles",
+        "Provides excellent insulation",
+        "Enhances warmth and sophistication in any room",
+        "Ideal for living rooms and bedrooms",
+        "Eco-friendly and sustainable material"
+      ],
+      "careInstructions": "Vacuum regularly on a low-power setting to maintain the wool's texture. Spot clean spills immediately with a clean, damp cloth. Avoid exposure to direct sunlight to prevent fading.",
+      "materialComposition": "100% natural wool"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Multicolored",
+          "hex": "#D2691E",
+          "category": "primary"
+        },
+        {
+          "name": "Bright Red",
+          "hex": "#FF4500",
+          "category": "accent"
+        },
+        {
+          "name": "Lime Green",
+          "hex": "#32CD32",
+          "category": "accent"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#87CEEB",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "woven",
+      "finish": "natural",
+      "shape": "round",
+      "silhouette": "Round with braided spiral and fringed edges"
+    },
+    "seo": {
+      "metaTitle": "Chunky Wool Natural Rug - Cozy Elegance & Insulation",
+      "metaDescription": "Elevate your home with the Chunky Wool Natural Rug. Crafted from 100% natural wool, this plush, neutral-toned rug adds warmth and sophistication. Shop now!",
+      "altText": "Chunky Wool Natural Rug with thick weave in creamy whites and soft beiges.",
+      "keywords": [
+        "Chunky Wool Rug",
+        "Natural Wool Rug",
+        "Handcrafted Wool Rug",
+        "Luxury Wool Rug",
+        "Cozy Wool Rug",
+        "Neutral Tone Rug",
+        "Thick Wool Rug",
+        "Warm Wool Rug",
+        "Elegant Wool Rug",
+        "Scandinavian Rug",
+        "Farmhouse Rug",
+        "Living Room Rug",
+        "Bedroom Rug",
+        "Wool Floor Rug",
+        "Insulating Rug",
+        "Plush Wool Rug",
+        "Stylish Wool Rug",
+        "Comfortable Wool Rug",
+        "Home Decor Rug",
+        "Warmth and Sophistication",
+        "Natural Fiber Rug",
+        "High-Quality Wool Rug",
+        "Rug for Chilly Mornings",
+        "Minimalist Rug",
+        "Rustic Rug",
+        "Wool Area Rug",
+        "Eco-Friendly Rug",
+        "Rug for Any Decor",
+        "Woolen Rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:02:46.802Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "natural-fiber-rug-6",
+    "sku": "RUG-NAT-006",
+    "name": "Mixed Fiber Natural Rug",
+    "description": "Beautiful blend of natural fibers for unique texture",
+    "price": 219.99,
+    "currency": "USD",
+    "images": [
+      "rug-25.jpg"
+    ],
+    "primaryImage": "rug-25.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Rugs",
+        "slug": "rugs"
+      },
+      "subcategory": {
+        "name": "Natural Fiber Rug",
+        "slug": "natural-fiber-rug"
+      },
+      "productType": "Natural Fiber Rug"
+    },
+    "attributes": {
+      "color": [
+        "Deep Ocean Blue",
+        "Crimson Red",
+        "Natural Beige",
+        "Forest Green",
+        "Sunset Orange"
+      ],
+      "material": [
+        "Jute",
+        "Cotton"
+      ],
+      "style": [
+        "Bohemian",
+        "Coastal"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "living-room",
+      "dining-room",
+      "natural",
+      "mixed-fiber",
+      "eco-friendly",
+      "bohemian",
+      "geometric",
+      "fringe",
+      "natural fibers",
+      "jute",
+      "cotton",
+      "living room",
+      "dining room",
+      "colorful",
+      "durable",
+      "textured",
+      "patterned",
+      "decorative",
+      "sustainable",
+      "handmade",
+      "artisan",
+      "unique",
+      "vibrant",
+      "modern",
+      "coastal",
+      "home decor",
+      "floor covering",
+      "rug",
+      "mixed fiber",
+      "5x7",
+      "6x9",
+      "8x10",
+      "soft",
+      "comfortable",
+      "warm",
+      "inviting",
+      "stylish",
+      "versatile",
+      "high quality",
+      "easy care",
+      "non-toxic",
+      "environmentally friendly",
+      "artistic",
+      "eye-catching",
+      "multi-color",
+      "handcrafted",
+      "woven",
+      "Mixed Fiber Natural Rug",
+      "eco-friendly rug",
+      "bohemian rug",
+      "geometric rug",
+      "jute cotton rug",
+      "vibrant rug",
+      "living room rug",
+      "dining room rug",
+      "colorful rug",
+      "sustainable rug",
+      "handmade rug",
+      "artisan rug",
+      "coastal style rug",
+      "natural fiber rug",
+      "textured rug",
+      "patterned rug",
+      "decorative rug",
+      "durable rug",
+      "fringe edge rug",
+      "modern rug",
+      "home decor rug",
+      "floor covering rug",
+      "unique rug design",
+      "artistic rug",
+      "eye-catching rug",
+      "multi-color rug",
+      "woven rug",
+      "soft comfortable rug",
+      "high quality rug"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.6,
+      "reviewCount": 156,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Vibrant natural fiber rug with geometric patterns and fringe detailing.",
+      "long": "Introducing the Mixed Fiber Natural Rug, a stunning fusion of eco-friendly materials and artistic design. This rug features a rich tapestry of deep ocean blue, crimson red, forest green, and sunset orange woven into intricate geometric patterns, making it a centerpiece for any room. Crafted from a durable blend of jute and cotton, it offers both resilience and a soft, textured feel underfoot. The playful fringe edges add a whimsical touch, complementing its bohemian and coastal vibes. Perfect for living rooms or dining spaces, this rug not only enhances your decor with vibrant colors but also reflects a commitment to sustainable living. Elevate your home with this unique masterpiece and enjoy a harmonious blend of style and comfort.",
+      "features": [
+        "Vibrant geometric patterns",
+        "Playful fringe edges",
+        "Eco-friendly jute and cotton materials",
+        "Durable and textured",
+        "Bohemian and coastal style",
+        "Rich color palette: blues, reds, greens, oranges",
+        "Sustainable and artisan-crafted"
+      ],
+      "careInstructions": "Vacuum regularly to maintain cleanliness. Spot clean with mild detergent as needed. Avoid direct sunlight to prevent color fading.",
+      "materialComposition": "70% Jute, 30% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Deep Ocean Blue",
+          "hex": "#004f7c",
+          "category": "primary"
+        },
+        {
+          "name": "Crimson Red",
+          "hex": "#9e1b1b",
+          "category": "accent"
+        },
+        {
+          "name": "Natural Beige",
+          "hex": "#d3b8a1",
+          "category": "secondary"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "#2e6b2d",
+          "category": "accent"
+        },
+        {
+          "name": "Sunset Orange",
+          "hex": "#d87f3e",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Flat-weave with fringe edges"
+    },
+    "seo": {
+      "metaTitle": "Mixed Fiber Natural Rug - Eco-Friendly & Vibrant Design",
+      "metaDescription": "Discover the Mixed Fiber Natural Rug, a blend of jute & cotton with vibrant geometric patterns. Perfect for living rooms. Shop now for style & sustainability!",
+      "altText": "Mixed Fiber Natural Rug with vibrant geometric patterns and fringe edges.",
+      "keywords": [
+        "Mixed Fiber Natural Rug",
+        "eco-friendly rug",
+        "bohemian rug",
+        "geometric rug",
+        "jute cotton rug",
+        "vibrant rug",
+        "living room rug",
+        "dining room rug",
+        "colorful rug",
+        "sustainable rug",
+        "handmade rug",
+        "artisan rug",
+        "coastal style rug",
+        "natural fiber rug",
+        "textured rug",
+        "patterned rug",
+        "decorative rug",
+        "durable rug",
+        "fringe edge rug",
+        "modern rug",
+        "home decor rug",
+        "floor covering rug",
+        "unique rug design",
+        "artistic rug",
+        "eye-catching rug",
+        "multi-color rug",
+        "woven rug",
+        "soft comfortable rug",
+        "high quality rug"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:03:02.515Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  }
+]

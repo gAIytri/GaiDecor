@@ -1,0 +1,6128 @@
+[
+  {
+    "id": "ceiling-light-1",
+    "sku": "LGT-CL-001",
+    "name": "Modern Globe Pendant",
+    "description": "Sleek glass globe pendant light with brass accents for contemporary spaces",
+    "price": 159.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-1.jpeg"
+    ],
+    "primaryImage": "ceiling-light-1.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Warm Brass",
+        "Frosted White"
+      ],
+      "material": [
+        "Glass",
+        "Brass"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Kitchen"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "pendant",
+      "globe",
+      "modern",
+      "brass",
+      "glass",
+      "pendant light",
+      "globe design",
+      "modern lighting",
+      "brass accents",
+      "frosted glass",
+      "ceiling fixture",
+      "contemporary style",
+      "multi-directional light",
+      "ambient lighting",
+      "living room light",
+      "dining room light",
+      "kitchen light",
+      "elegant design",
+      "home decor",
+      "interior lighting",
+      "stylish fixture",
+      "versatile lighting",
+      "chic appearance",
+      "sophisticated ambiance",
+      "modern interiors",
+      "modern globe pendant",
+      "lighting fixture",
+      "frosted glass globes",
+      "contemporary lighting",
+      "multi-directional lighting",
+      "elegant pendant light",
+      "chic lighting",
+      "modern design",
+      "luxury lighting",
+      "cluster design",
+      "warm brass finish",
+      "organic silhouette",
+      "matte finish",
+      "smooth texture",
+      "solid pattern"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 25,
+      "rating": 4.7,
+      "reviewCount": 89,
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Chic globe pendant light featuring frosted glass and brass accents for a modern touch.",
+      "long": "Illuminate your home with the Modern Globe Pendant, an exquisite blend of style and function. This lighting fixture boasts a sleek design with multiple frosted glass globes, gracefully suspended by warm brass accents. Perfect for contemporary interiors, its multi-directional lighting offers a sophisticated ambiance, whether in your living room, dining area, or kitchen. The elegant silhouette of clustered globes intertwined with brass rods adds a touch of luxury and modernity to any space. Its versatile design ensures it complements various decor themes, making it a must-have for those looking to enhance their home with chic and functional lighting.",
+      "features": [
+        "Sleek frosted glass globes",
+        "Elegant warm brass accents",
+        "Versatile multi-directional lighting",
+        "Sophisticated modern design",
+        "Ideal for living rooms, dining areas, and kitchens",
+        "Enhances contemporary interiors",
+        "Easy installation"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid using harsh chemicals or abrasive cleaners to maintain the finish.",
+      "materialComposition": "Constructed with frosted glass globes and sturdy brass metal accents"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Brass",
+          "hex": "#B8860B",
+          "category": "primary"
+        },
+        {
+          "name": "Frosted White",
+          "hex": "#F5F5F5",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Cluster of globes with intersecting brass rods"
+    },
+    "seo": {
+      "metaTitle": "Modern Globe Pendant - Chic Lighting with Brass Accents",
+      "metaDescription": "Illuminate your space with the Modern Globe Pendant. Enjoy chic design and multi-directional lighting. Perfect for any room. Shop now for elegance!",
+      "altText": "Elegant modern globe pendant light featuring frosted glass globes and warm brass accents.",
+      "keywords": [
+        "modern globe pendant",
+        "lighting fixture",
+        "brass accents",
+        "frosted glass globes",
+        "contemporary lighting",
+        "multi-directional lighting",
+        "ambient lighting",
+        "living room light",
+        "dining room light",
+        "kitchen light",
+        "elegant pendant light",
+        "chic lighting",
+        "stylish fixture",
+        "home decor",
+        "interior lighting",
+        "modern design",
+        "versatile lighting",
+        "luxury lighting",
+        "sophisticated ambiance",
+        "pendant light",
+        "ceiling fixture",
+        "cluster design",
+        "warm brass finish",
+        "organic silhouette",
+        "matte finish",
+        "smooth texture",
+        "solid pattern"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:54:59.690Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-2",
+    "sku": "LGT-CL-002",
+    "name": "Industrial Cage Pendant",
+    "description": "Vintage-inspired industrial cage pendant with Edison bulb compatibility",
+    "price": 89.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-2.jpeg"
+    ],
+    "primaryImage": "ceiling-light-2.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Polished Chrome"
+      ],
+      "material": [
+        "Chrome Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Kitchen",
+        "Dining Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "industrial",
+      "cage",
+      "vintage",
+      "edison",
+      "pendant",
+      "modern lighting",
+      "chrome pendant",
+      "organic design",
+      "ambient light",
+      "sculptural light",
+      "contemporary decor",
+      "reflective finish",
+      "high-gloss lighting",
+      "sleek pendant",
+      "artistic lighting",
+      "interior design",
+      "home decor",
+      "stylish light",
+      "unique pendant",
+      "fluid shape",
+      "designer lighting",
+      "luxury light",
+      "kitchen lighting",
+      "dining room light",
+      "office pendant",
+      "ambient illumination",
+      "statement piece",
+      "decorative lighting",
+      "modern pendant",
+      "chrome finish",
+      "elegant light",
+      "architectural light",
+      "minimalist design",
+      "contemporary style",
+      "functional art",
+      "high-end lighting",
+      "industrial cage pendant",
+      "matte black pendant",
+      "exposed bulb lighting",
+      "kitchen pendant light",
+      "dining room lighting",
+      "loft-style pendant",
+      "industrial elegance",
+      "bold lighting design",
+      "robust cage structure",
+      "ambient lighting",
+      "statement lighting",
+      "unique pendant light",
+      "industrial style light",
+      "interior lighting",
+      "elegant pendant",
+      "stylish pendant",
+      "home transformation"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 42,
+      "rating": 4.5,
+      "reviewCount": 156,
+      "createdAt": "2024-01-12T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish industrial pendant light with a cage design, perfect for modern spaces.",
+      "long": "Illuminate your space with the Industrial Cage Pendant, a bold statement in modern lighting design. This striking piece features a robust cage structure crafted from durable metal, providing a touch of industrial elegance to any room. The exposed bulb design casts a warm glow, creating an inviting ambiance ideal for kitchens, dining rooms, or loft-style living areas. The matte black finish adds a contemporary edge, effortlessly blending with various decor styles. Hang this pendant solo for a focal point or in multiples for a dramatic effect, and transform your home with its unique charm.",
+      "features": [
+        "Durable metal cage design",
+        "Exposed bulb for ambient lighting",
+        "Matte black finish for modern appeal",
+        "Perfect for kitchens, dining rooms, and lofts",
+        "Easy installation with adjustable height",
+        "Compatible with multiple bulb types",
+        "Versatile use in residential or commercial spaces"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid using abrasive cleaners or water on the metal finish.",
+      "materialComposition": "Made from high-quality steel with a matte black coating"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Polished Chrome",
+          "hex": "#C0C0C0",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "glossy",
+      "shape": "organic",
+      "silhouette": "Fluid, sculptural form with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Industrial Cage Pendant - Modern Lighting with Matte Black Finish",
+      "metaDescription": "Transform your space with the Industrial Cage Pendant. Its robust cage design and matte black finish add an industrial edge. Perfect for kitchens and dining rooms.",
+      "altText": "Industrial Cage Pendant with matte black finish and exposed bulb design.",
+      "keywords": [
+        "industrial cage pendant",
+        "modern lighting",
+        "matte black pendant",
+        "exposed bulb lighting",
+        "kitchen pendant light",
+        "dining room lighting",
+        "loft-style pendant",
+        "contemporary decor",
+        "industrial elegance",
+        "bold lighting design",
+        "robust cage structure",
+        "ambient lighting",
+        "home decor",
+        "statement lighting",
+        "unique pendant light",
+        "modern pendant",
+        "industrial style light",
+        "decorative lighting",
+        "interior lighting",
+        "elegant pendant",
+        "ambient illumination",
+        "designer lighting",
+        "stylish pendant",
+        "architectural light",
+        "minimalist design",
+        "high-end lighting",
+        "functional art",
+        "luxury light",
+        "statement piece",
+        "home transformation"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:01.514Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-3",
+    "sku": "LGT-CL-003",
+    "name": "Rattan Dome Pendant",
+    "description": "Handwoven rattan dome pendant bringing natural warmth to any room",
+    "price": 129.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-3.jpeg"
+    ],
+    "primaryImage": "ceiling-light-3.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Warm White"
+      ],
+      "material": [
+        "Metal",
+        "Acrylic"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "rattan",
+      "bohemian",
+      "natural",
+      "handwoven",
+      "dome",
+      "modern lighting",
+      "ceiling light",
+      "ambient glow",
+      "organic design",
+      "layered light",
+      "contemporary",
+      "home decor",
+      "interior lighting",
+      "stylish ceiling light",
+      "warm light",
+      "versatile",
+      "living room light",
+      "bedroom light",
+      "dining room light",
+      "smooth finish",
+      "matte finish",
+      "metal",
+      "acrylic",
+      "unique design",
+      "flowing lines",
+      "ambient atmosphere",
+      "modern aesthetic",
+      "home improvement",
+      "lighting fixture",
+      "decorative light",
+      "soft glow",
+      "elegant design",
+      "statement piece",
+      "designer light",
+      "artistic lighting",
+      "minimalist",
+      "sleek design",
+      "contemporary style",
+      "home lighting",
+      "interior design",
+      "stylish decor",
+      "functional lighting",
+      "ambient effect",
+      "eye-catching",
+      "Rattan Dome Pendant",
+      "versatile lighting",
+      "metal light fixture",
+      "acrylic light fixture",
+      "minimalist lighting",
+      "eye-catching light"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.8,
+      "reviewCount": 67,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the chic Rattan Dome Pendant, offering warm, natural ambiance.",
+      "long": "Transform your home with the Rattan Dome Pendant, a stunning focal point that combines natural charm with modern elegance. Handcrafted from high-quality rattan, its dome shape casts a beautifully diffused light, creating a warm and inviting atmosphere. Whether hanging over a dining table or in a cozy reading nook, its organic texture and neutral tones complement any decor style, from rustic to contemporary. This pendant light not only enhances your home's aesthetic but also provides functional ambient lighting, making it a versatile choice for any room.",
+      "features": [
+        "Handcrafted from high-quality rattan",
+        "Dome shape for diffused lighting",
+        "Warm, natural ambiance",
+        "Versatile design complements various decor styles",
+        "Ideal for dining areas, living rooms, or reading nooks",
+        "Easy to install with adjustable hanging height"
+      ],
+      "careInstructions": "Dust gently with a soft cloth. Avoid exposure to excessive moisture. Use a mild cleaner if needed, avoiding harsh chemicals.",
+      "materialComposition": "100% natural rattan with a metal frame for durability."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm White",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Layered with flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Rattan Dome Pendant - Modern Elegance with Ambient Glow",
+      "metaDescription": "Illuminate your space with the Rattan Dome Pendant. Handcrafted elegance meets modern design. Perfect for any room. Shop now for style and function.",
+      "altText": "Rattan Dome Pendant light fixture with modern layered design and warm ambient glow.",
+      "keywords": [
+        "Rattan Dome Pendant",
+        "modern lighting",
+        "ceiling light",
+        "ambient glow",
+        "organic design",
+        "layered light",
+        "contemporary style",
+        "home decor",
+        "interior lighting",
+        "stylish ceiling light",
+        "warm light",
+        "versatile lighting",
+        "living room light",
+        "bedroom light",
+        "dining room light",
+        "smooth finish",
+        "matte finish",
+        "metal light fixture",
+        "acrylic light fixture",
+        "unique design",
+        "flowing lines",
+        "ambient atmosphere",
+        "modern aesthetic",
+        "home improvement",
+        "decorative light",
+        "soft glow",
+        "elegant design",
+        "statement piece",
+        "designer light",
+        "artistic lighting",
+        "minimalist lighting",
+        "sleek design",
+        "home lighting",
+        "interior design",
+        "stylish decor",
+        "functional lighting",
+        "ambient effect",
+        "eye-catching light"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:12.889Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-4",
+    "sku": "LGT-CL-004",
+    "name": "Crystal Chandelier",
+    "description": "Elegant crystal chandelier with chrome finish for luxurious spaces",
+    "price": 399.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-4.jpg"
+    ],
+    "primaryImage": "ceiling-light-4.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Chrome",
+        "Clear"
+      ],
+      "material": [
+        "Crystal",
+        "Metal"
+      ],
+      "style": [
+        "Glamorous",
+        "Traditional"
+      ],
+      "room": [
+        "Dining Room",
+        "Foyer",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Formal Events"
+      ]
+    },
+    "tags": [
+      "chandelier",
+      "crystal",
+      "glamorous",
+      "elegant",
+      "chrome",
+      "luxury lighting",
+      "dining room light",
+      "foyer chandelier",
+      "bedroom lighting",
+      "sparkling",
+      "decorative light",
+      "ceiling fixture",
+      "home decor",
+      "interior design",
+      "traditional style",
+      "metal and crystal",
+      "ambient lighting",
+      "statement piece",
+      "luxurious",
+      "high-end",
+      "classic design",
+      "timeless",
+      "refined",
+      "sophisticated",
+      "decorative",
+      "ornate",
+      "multi-light",
+      "bright",
+      "shimmering",
+      "eye-catching",
+      "crystal chandelier",
+      "chrome chandelier",
+      "elegant lighting",
+      "dining room chandelier",
+      "foyer lighting",
+      "bedroom chandelier",
+      "sparkling chandelier",
+      "decorative lighting",
+      "traditional chandelier",
+      "metal and crystal lighting",
+      "statement chandelier",
+      "luxurious chandelier",
+      "high-end lighting",
+      "classic chandelier design",
+      "timeless chandelier",
+      "refined lighting",
+      "sophisticated chandelier",
+      "ornate chandelier",
+      "multi-light chandelier",
+      "bright chandelier",
+      "shimmering chandelier",
+      "eye-catching chandelier"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 8,
+      "rating": 4.9,
+      "reviewCount": 45,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Graceful crystal chandelier with a shimmering chrome finish.",
+      "long": "Add a touch of opulence to your home with our Crystal Chandelier, a dazzling masterpiece featuring a sophisticated chrome finish. This exquisite piece boasts an intricate array of sparkling crystals that capture and refract light beautifully, casting a radiant, shimmering glow across any room. Perfect for dining rooms, foyers, or bedrooms, this chandelier is crafted from high-quality metal and crystal, ensuring enduring elegance and durability. Its timeless design complements both traditional and contemporary décor styles, making it a versatile and eye-catching centerpiece. Elevate your space with this stunning chandelier and enjoy the luxurious ambiance it creates.",
+      "features": [
+        "Sophisticated chrome finish",
+        "Dazzling crystal arrangement",
+        "Timeless, elegant design",
+        "High-quality, durable materials",
+        "Ideal for dining rooms, foyers, and bedrooms",
+        "Versatile for traditional and modern spaces",
+        "Creates a radiant, shimmering glow"
+      ],
+      "careInstructions": "Dust regularly using a soft cloth. Avoid abrasive cleaners. Gently wipe crystals with a damp cloth as needed for extra shine.",
+      "materialComposition": "Crafted from premium crystal and sturdy metal."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Chrome",
+          "hex": "#B0B0B0",
+          "category": "primary"
+        },
+        {
+          "name": "Clear",
+          "hex": "#FFFFFF",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "gloss",
+      "shape": "organic",
+      "silhouette": "Intricate with cascading crystals"
+    },
+    "seo": {
+      "metaTitle": "Crystal Chandelier - Luxurious Chrome Finish & Sparkling Crystals",
+      "metaDescription": "Elevate your home's ambiance with our Crystal Chandelier. Featuring a luxurious chrome finish and sparkling crystals, it's perfect for any elegant space. Shop now!",
+      "altText": "Elegant crystal chandelier with a luxurious chrome finish and sparkling crystals.",
+      "keywords": [
+        "crystal chandelier",
+        "luxury lighting",
+        "chrome chandelier",
+        "elegant lighting",
+        "dining room chandelier",
+        "foyer lighting",
+        "bedroom chandelier",
+        "sparkling chandelier",
+        "decorative lighting",
+        "ceiling fixture",
+        "home decor",
+        "interior design",
+        "traditional chandelier",
+        "metal and crystal lighting",
+        "ambient lighting",
+        "statement chandelier",
+        "luxurious chandelier",
+        "high-end lighting",
+        "classic chandelier design",
+        "timeless chandelier",
+        "refined lighting",
+        "sophisticated chandelier",
+        "ornate chandelier",
+        "multi-light chandelier",
+        "bright chandelier",
+        "shimmering chandelier",
+        "eye-catching chandelier"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:16.768Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-5",
+    "sku": "LGT-CL-005",
+    "name": "Minimalist Flush Mount",
+    "description": "Ultra-thin LED flush mount light for modern minimalist interiors",
+    "price": 119.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-5.jpg"
+    ],
+    "primaryImage": "ceiling-light-5.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Golden Yellow",
+        "Emerald Green"
+      ],
+      "material": [
+        "Glass",
+        "Ceramic"
+      ],
+      "style": [
+        "Artistic",
+        "Bohemian"
+      ],
+      "room": [
+        "Dining Room",
+        "Living Room"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Ambient Lighting"
+      ]
+    },
+    "tags": [
+      "flush mount",
+      "LED",
+      "minimalist",
+      "modern",
+      "slim",
+      "mosaic light",
+      "pendant lighting",
+      "artistic design",
+      "ambient light",
+      "decorative lighting",
+      "bohemian style",
+      "glass tiles",
+      "ceramic tiles",
+      "warm glow",
+      "elegant lighting",
+      "interior decor",
+      "home lighting",
+      "unique design",
+      "colorful lighting",
+      "handcrafted",
+      "artistic lighting",
+      "living room light",
+      "dining room light",
+      "stylish lighting",
+      "modern lighting",
+      "decorative pendant",
+      "ambient glow",
+      "home decor",
+      "creative lighting",
+      "designer light",
+      "luxury lighting",
+      "chic lighting",
+      "sophisticated lighting",
+      "vibrant colors",
+      "eye-catching design",
+      "statement piece",
+      "minimalist flush mount",
+      "ceiling light",
+      "living room lighting",
+      "bedroom lighting",
+      "hallway lighting",
+      "sleek design light",
+      "low-profile ceiling light",
+      "ambient lighting",
+      "home decor lighting",
+      "flush mount light",
+      "contemporary lighting",
+      "stylish ceiling fixture",
+      "easy installation light",
+      "warm diffused glow",
+      "refined simplicity lighting",
+      "modern aesthetic light",
+      "unobtrusive ceiling light",
+      "serene atmosphere light",
+      "practical chic lighting",
+      "timeless appeal light",
+      "elegant flush mount",
+      "functional lighting solution",
+      "subtle statement light",
+      "complementary decor light",
+      "home ambiance lighting",
+      "lighting for modern homes",
+      "chic flush mount"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 35,
+      "rating": 4.6,
+      "reviewCount": 198,
+      "createdAt": "2024-01-08T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Sleek and sophisticated, the Minimalist Flush Mount illuminates spaces with a modern, understated elegance.",
+      "long": "Elevate your home’s ambiance with the Minimalist Flush Mount, a perfect fusion of style and functionality. Its sleek, low-profile design seamlessly integrates into any ceiling, offering a modern aesthetic that complements a variety of decor styles. Crafted with precision, this flush mount provides ample lighting with its warm, diffused glow, ideal for creating a serene atmosphere in living rooms, bedrooms, or hallways. The unobtrusive silhouette ensures it blends effortlessly into your space while making a subtle statement. With its easy installation and timeless appeal, this lighting solution is both practical and chic, making it an excellent choice for those who appreciate refined simplicity.",
+      "features": [
+        "Sleek, low-profile design",
+        "Warm, diffused illumination",
+        "Ideal for living rooms, bedrooms, and hallways",
+        "Easy installation process",
+        "Timeless, modern aesthetic",
+        "Energy-efficient lighting solution"
+      ],
+      "careInstructions": "Wipe with a soft, damp cloth to remove dust. Avoid using harsh chemicals or abrasive materials.",
+      "materialComposition": "Metal frame with a matte finish, frosted glass diffuser"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Golden Yellow",
+          "hex": "#FFD700",
+          "category": "primary"
+        },
+        {
+          "name": "Emerald Green",
+          "hex": "#50C878",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "mosaic",
+      "texture": "textured",
+      "finish": "glossy",
+      "shape": "organic",
+      "silhouette": "Bulbous with mosaic pattern"
+    },
+    "seo": {
+      "metaTitle": "Minimalist Flush Mount - Sleek, Modern Lighting Fixture",
+      "metaDescription": "Enhance your home's ambiance with the Minimalist Flush Mount. Enjoy easy installation and a warm glow. Perfect for living rooms and bedrooms. Buy now!",
+      "altText": "Minimalist Flush Mount with sleek design and warm glow for modern decor.",
+      "keywords": [
+        "minimalist flush mount",
+        "modern lighting",
+        "ceiling light",
+        "living room lighting",
+        "bedroom lighting",
+        "hallway lighting",
+        "sleek design light",
+        "low-profile ceiling light",
+        "ambient lighting",
+        "home decor lighting",
+        "flush mount light",
+        "contemporary lighting",
+        "stylish ceiling fixture",
+        "easy installation light",
+        "warm diffused glow",
+        "refined simplicity lighting",
+        "modern aesthetic light",
+        "unobtrusive ceiling light",
+        "serene atmosphere light",
+        "practical chic lighting",
+        "timeless appeal light",
+        "elegant flush mount",
+        "functional lighting solution",
+        "subtle statement light",
+        "complementary decor light",
+        "home ambiance lighting",
+        "lighting for modern homes",
+        "chic flush mount"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:29.457Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-6",
+    "sku": "LGT-CL-006",
+    "name": "Sputnik Chandelier",
+    "description": "Mid-century inspired sputnik chandelier with multiple arms",
+    "price": 279.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-6.jpg"
+    ],
+    "primaryImage": "ceiling-light-6.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Copper Gold",
+        "Black"
+      ],
+      "material": [
+        "Metal"
+      ],
+      "style": [
+        "Mid-Century Modern",
+        "Retro"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Office"
+      ],
+      "occasion": [
+        "Entertaining",
+        "Everyday"
+      ]
+    },
+    "tags": [
+      "sputnik",
+      "mid-century",
+      "chandelier",
+      "gold",
+      "retro",
+      "metallic",
+      "ambient lighting",
+      "modern decor",
+      "reflective",
+      "luxury lighting",
+      "living room",
+      "dining room",
+      "office",
+      "elegant",
+      "sophisticated",
+      "design",
+      "interior",
+      "home decor",
+      "ceiling light",
+      "unique",
+      "stylish",
+      "contemporary",
+      "artistic",
+      "statement piece",
+      "decorative",
+      "lighting fixture",
+      "modern",
+      "black",
+      "polished finish",
+      "organic shape",
+      "cluster design",
+      "Sputnik chandelier",
+      "mid-century modern lighting",
+      "retro chandelier",
+      "metallic lighting fixture",
+      "living room chandelier",
+      "dining room lighting",
+      "office decor",
+      "elegant chandelier",
+      "sophisticated lighting",
+      "interior design",
+      "stylish lighting",
+      "contemporary chandelier",
+      "artistic lighting",
+      "statement lighting piece",
+      "decorative chandelier",
+      "gold chandelier",
+      "black accent lighting",
+      "polished finish chandelier",
+      "organic shape lighting",
+      "cluster design chandelier"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 12,
+      "rating": 4.7,
+      "reviewCount": 78,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant mid-century Sputnik chandelier with reflective metallic spheres, perfect for ambient lighting.",
+      "long": "Illuminate your space with the iconic elegance of the Sputnik Chandelier. This masterpiece of mid-century modern design features an array of reflective metallic spheres that radiate light in captivating directions, creating a stunning interplay of shadows and brilliance. Perfect for living rooms, dining areas, or offices, its luxurious copper gold finish and organic cluster silhouette add a sophisticated touch to any decor. Whether hosting guests or enjoying a quiet evening, this chandelier offers ambient lighting that transforms your space into a stylish haven.",
+      "features": [
+        "Mid-century modern design",
+        "Reflective metallic spheres",
+        "Luxurious copper gold finish",
+        "Ambient lighting for any room",
+        "Organic cluster silhouette",
+        "Perfect for living rooms, dining rooms, or offices",
+        "Multiple arms for even light distribution"
+      ],
+      "careInstructions": "Wipe gently with a soft, dry cloth to maintain shine. Avoid harsh chemicals and abrasive materials.",
+      "materialComposition": "Constructed from high-quality metal spheres with a polished reflective finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Copper Gold",
+          "hex": "#B87333",
+          "category": "primary"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "glossy",
+      "finish": "polished",
+      "shape": "organic",
+      "silhouette": "Cluster of spherical forms with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Sputnik Chandelier: Mid-Century Elegance in Copper Gold",
+      "metaDescription": "Elevate your decor with the Sputnik Chandelier's luxurious copper gold finish and iconic mid-century design. Perfect for stylish living rooms or offices. Buy now!",
+      "altText": "Elegant Sputnik chandelier with reflective metallic spheres in copper gold finish.",
+      "keywords": [
+        "Sputnik chandelier",
+        "mid-century modern lighting",
+        "retro chandelier",
+        "metallic lighting fixture",
+        "ambient lighting",
+        "luxury lighting",
+        "living room chandelier",
+        "dining room lighting",
+        "office decor",
+        "elegant chandelier",
+        "sophisticated lighting",
+        "interior design",
+        "home decor",
+        "ceiling light",
+        "stylish lighting",
+        "contemporary chandelier",
+        "artistic lighting",
+        "statement lighting piece",
+        "decorative chandelier",
+        "modern decor",
+        "gold chandelier",
+        "black accent lighting",
+        "polished finish chandelier",
+        "organic shape lighting",
+        "cluster design chandelier"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:31.417Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-7",
+    "sku": "LGT-CL-007",
+    "name": "Fabric Drum Pendant",
+    "description": "Classic fabric drum shade pendant in neutral tones",
+    "price": 149.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-7.jpg"
+    ],
+    "primaryImage": "ceiling-light-7.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Pure White"
+      ],
+      "material": [
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Bedroom",
+        "Living Room",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "drum",
+      "fabric",
+      "pendant",
+      "classic",
+      "neutral",
+      "flush mount",
+      "white light",
+      "modern lighting",
+      "minimalist design",
+      "ambient light",
+      "bedroom light",
+      "living room light",
+      "dining room light",
+      "elegant lighting",
+      "sleek design",
+      "versatile light",
+      "home decor",
+      "ceiling light",
+      "round light",
+      "matte finish",
+      "clean lines",
+      "low-profile",
+      "neutral tones",
+      "classic style",
+      "metal frame",
+      "Fabric Drum Pendant",
+      "pendant light",
+      "contemporary interiors",
+      "cozy atmosphere",
+      "chic lighting",
+      "versatile lighting",
+      "metal fittings",
+      "cylindrical shade",
+      "warm glow",
+      "statement piece",
+      "modern design",
+      "flush mount light"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 28,
+      "rating": 4.4,
+      "reviewCount": 112,
+      "createdAt": "2024-01-14T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Transform any room with the sophisticated Fabric Drum Pendant, offering modern elegance and warm illumination.",
+      "long": "Introducing the Fabric Drum Pendant, a striking piece that seamlessly blends modern design with timeless elegance. Its cylindrical fabric shade casts a warm, inviting glow, perfect for creating a cozy atmosphere in any room. The pendant's minimalist silhouette, complemented by its sleek metal fittings, makes it a versatile addition to both contemporary and classic interiors. Hang it above your dining table or in your living room to instantly elevate your space with its chic presence. At $149.99, this pendant light not only illuminates your home but also serves as a statement piece that enhances your decor.",
+      "features": [
+        "Cylindrical fabric shade for soft lighting",
+        "Modern and minimalist design",
+        "Versatile for various room styles",
+        "Sleek metal fittings",
+        "Warm ambient glow",
+        "Easy installation",
+        "Adjustable hanging length"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Use a mild cleaner for fabric stains. Avoid harsh chemicals on metal parts.",
+      "materialComposition": "Fabric shade with metal frame and fittings"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Pure White",
+          "hex": "#FFFFFF",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "round",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Fabric Drum Pendant - Modern Elegance & Warm Glow",
+      "metaDescription": "Elevate your space with the Fabric Drum Pendant. Its modern design and warm glow create a cozy atmosphere. Shop now for stylish lighting at $149.99!",
+      "altText": "Fabric Drum Pendant with a sleek metal frame and warm fabric shade.",
+      "keywords": [
+        "Fabric Drum Pendant",
+        "modern lighting",
+        "elegant lighting",
+        "pendant light",
+        "home decor",
+        "ambient light",
+        "contemporary interiors",
+        "minimalist design",
+        "cozy atmosphere",
+        "dining room light",
+        "living room light",
+        "bedroom light",
+        "chic lighting",
+        "versatile lighting",
+        "metal fittings",
+        "cylindrical shade",
+        "warm glow",
+        "statement piece",
+        "modern design",
+        "classic style",
+        "flush mount light",
+        "sleek design",
+        "round light",
+        "matte finish",
+        "clean lines",
+        "low-profile",
+        "neutral tones"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:42.793Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "ceiling-light-8",
+    "sku": "LGT-CL-008",
+    "name": "Geometric Metal Pendant",
+    "description": "Geometric cage pendant with angular metal frame design",
+    "price": 169.99,
+    "currency": "USD",
+    "images": [
+      "ceiling-light-8.jpg"
+    ],
+    "primaryImage": "ceiling-light-8.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Ceiling Light",
+        "slug": "ceiling-light"
+      },
+      "productType": "Ceiling Light"
+    },
+    "attributes": {
+      "color": [
+        "Matte Black",
+        "Warm Gold"
+      ],
+      "material": [
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Geometric"
+      ],
+      "room": [
+        "Living Room",
+        "Foyer",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "geometric",
+      "metal",
+      "pendant",
+      "modern",
+      "angular",
+      "lighting",
+      "ceiling light",
+      "black",
+      "gold",
+      "drum shade",
+      "home decor",
+      "interior design",
+      "ambient light",
+      "stylish",
+      "sophisticated",
+      "durable",
+      "patterned",
+      "warm ambiance",
+      "living room",
+      "foyer",
+      "dining room",
+      "contemporary",
+      "unique design",
+      "shadow casting",
+      "light fixture",
+      "home lighting",
+      "modern lighting",
+      "metal pendant",
+      "angular design",
+      "geometric pendant",
+      "metal pendant light",
+      "angular design lighting",
+      "chic lighting",
+      "black and gold pendant",
+      "drum shade pendant",
+      "sophisticated lighting",
+      "home decor lighting",
+      "interior design light",
+      "ambient lighting",
+      "stylish pendant light",
+      "durable metal light",
+      "shadow casting pendant",
+      "warm ambiance light",
+      "living room pendant",
+      "foyer lighting",
+      "dining room light",
+      "contemporary pendant",
+      "unique design lighting",
+      "ceiling light fixture",
+      "home lighting solution",
+      "modern pendant",
+      "metal construction light",
+      "geometric pattern light",
+      "matte finish pendant",
+      "textured design light",
+      "statement piece lighting"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 20,
+      "rating": 4.5,
+      "reviewCount": 64,
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the geometric elegance of this metal pendant light.",
+      "long": "Transform your living room, foyer, or dining area with the Geometric Metal Pendant. Its chic angular design with a matte black and warm gold finish creates a statement piece that adds sophistication to any modern interior. The drum-shaped shade, adorned with an intricate geometric pattern, casts mesmerizing shadows that dance across your walls, generating a cozy and inviting atmosphere. Crafted from durable metal, this pendant ensures lasting quality while its open design maximizes light diffusion, enhancing your space with a warm glow.",
+      "features": [
+        "Striking geometric angular design",
+        "Matte black and warm gold finish",
+        "Drum-shaped shade with intricate pattern",
+        "Captivating shadow casting for warm ambiance",
+        "Durable metal construction",
+        "Ideal for modern interiors",
+        "Ample light diffusion"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid abrasive cleaners to maintain finish quality.",
+      "materialComposition": "Metal frame with a matte black and warm gold finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Matte Black",
+          "hex": "#1C1C1C",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Gold",
+          "hex": "#FFD700",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "drum",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Geometric Metal Pendant - Chic Angular Design Lighting",
+      "metaDescription": "Upgrade your space with the Geometric Metal Pendant. Its chic angular design and warm glow create a sophisticated ambiance. Shop now for modern elegance!",
+      "altText": "Geometric metal pendant light with angular design, matte black and gold finish, drum shade casting shadows.",
+      "keywords": [
+        "geometric pendant",
+        "metal pendant light",
+        "angular design lighting",
+        "modern lighting",
+        "chic lighting",
+        "black and gold pendant",
+        "drum shade pendant",
+        "sophisticated lighting",
+        "home decor lighting",
+        "interior design light",
+        "ambient lighting",
+        "stylish pendant light",
+        "durable metal light",
+        "shadow casting pendant",
+        "warm ambiance light",
+        "living room pendant",
+        "foyer lighting",
+        "dining room light",
+        "contemporary pendant",
+        "unique design lighting",
+        "ceiling light fixture",
+        "home lighting solution",
+        "modern pendant",
+        "metal construction light",
+        "geometric pattern light",
+        "matte finish pendant",
+        "textured design light",
+        "statement piece lighting"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:45.925Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-1",
+    "sku": "LGT-FL-001",
+    "name": "Arc Floor Lamp",
+    "description": "Dramatic arched floor lamp with marble base and drum shade",
+    "price": 249.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-1.jpeg"
+    ],
+    "primaryImage": "floor-lamp-1.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Warm Ivory",
+        "Matte Black"
+      ],
+      "material": [
+        "Resin",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Reading Nook"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "arc",
+      "floor lamp",
+      "marble",
+      "dramatic",
+      "modern",
+      "sculptural lamp",
+      "ambient lighting",
+      "modern decor",
+      "contemporary design",
+      "organic shape",
+      "warm glow",
+      "statement piece",
+      "living room lighting",
+      "bedroom lamp",
+      "reading nook light",
+      "artistic lamp",
+      "unique design",
+      "home decor",
+      "interior lighting",
+      "soft lighting",
+      "elegant lamp",
+      "stylish lighting",
+      "decorative lamp",
+      "high-quality materials",
+      "modern floor lamp",
+      "contemporary floor lamp",
+      "ambient lamp",
+      "sculptural lighting",
+      "organic design",
+      "warm ivory",
+      "matte black",
+      "smooth texture",
+      "solid pattern",
+      "matte finish",
+      "organic silhouette",
+      "Arc Floor Lamp"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 15,
+      "rating": 4.8,
+      "reviewCount": 234,
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant sculptural floor lamp with organic form and warm glow.",
+      "long": "Illuminate your home with the sophisticated elegance of the Arc Floor Lamp. Its striking sculptural design features an organic, flowing silhouette that seamlessly integrates into modern and contemporary interiors. Bathe your living room, bedroom, or reading nook in a warm, ambient glow that transforms any space into a cozy haven. Crafted from high-quality materials, this lamp promises durability and style, making it the perfect statement piece to elevate your decor. Stand out with its unique shape and soft lighting, whether you're unwinding with a book or entertaining guests. Experience the blend of artistry and functionality with this exceptional lamp.",
+      "features": [
+        "Striking sculptural design",
+        "Organic flowing silhouette",
+        "Warm ambient glow",
+        "Durable high-quality materials",
+        "Perfect for modern and contemporary spaces",
+        "Creates cozy atmosphere",
+        "Ideal statement piece"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid using harsh chemicals to maintain the lamp's finish and appearance.",
+      "materialComposition": "Crafted from durable resin for the shade, complemented by a sturdy metal base."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Ivory",
+          "hex": "#F5E9DA",
+          "category": "primary"
+        },
+        {
+          "name": "Matte Black",
+          "hex": "#2C2C2C",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Tall and sculptural with flowing lines"
+    },
+    "seo": {
+      "metaTitle": "Arc Floor Lamp - Elegant Sculptural Design & Warm Glow",
+      "metaDescription": "Transform any space with the Arc Floor Lamp's elegant design and warm glow. Perfect for modern interiors. Shop now for style and durability!",
+      "altText": "Arc Floor Lamp with elegant sculptural design and warm ambient glow, perfect for modern interiors.",
+      "keywords": [
+        "Arc Floor Lamp",
+        "sculptural lamp",
+        "modern decor",
+        "ambient lighting",
+        "contemporary design",
+        "organic shape",
+        "living room lighting",
+        "bedroom lamp",
+        "reading nook light",
+        "artistic lamp",
+        "unique design",
+        "home decor",
+        "interior lighting",
+        "soft lighting",
+        "elegant lamp",
+        "stylish lighting",
+        "decorative lamp",
+        "high-quality materials",
+        "modern floor lamp",
+        "contemporary floor lamp",
+        "ambient lamp",
+        "sculptural lighting",
+        "organic design",
+        "warm ivory",
+        "matte black",
+        "smooth texture",
+        "solid pattern",
+        "matte finish",
+        "organic silhouette"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:56.479Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-2",
+    "sku": "LGT-FL-002",
+    "name": "Tripod Floor Lamp",
+    "description": "Wooden tripod floor lamp with linen shade for cozy ambiance",
+    "price": 179.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-2.jpeg"
+    ],
+    "primaryImage": "floor-lamp-2.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Black",
+        "Beige"
+      ],
+      "material": [
+        "Metal",
+        "Linen"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "tripod",
+      "wooden",
+      "floor lamp",
+      "scandinavian",
+      "cozy",
+      "modern lighting",
+      "contemporary design",
+      "black lamp",
+      "linen shade",
+      "living room lighting",
+      "bedroom lamp",
+      "office decor",
+      "ambient lighting",
+      "unique design",
+      "home decor",
+      "stylish lamp",
+      "elegant lighting",
+      "interior design",
+      "decorative lamp",
+      "tall lamp",
+      "sophisticated lighting",
+      "cozy ambiance",
+      "matte finish",
+      "metal base",
+      "tripod floor lamp",
+      "modern floor lamp",
+      "contemporary lighting",
+      "black floor lamp",
+      "linen shade lamp",
+      "bedroom floor lamp",
+      "office decor lamp",
+      "unique design lamp",
+      "home decor lighting",
+      "stylish floor lamp",
+      "interior design lamp",
+      "decorative floor lamp",
+      "tall floor lamp",
+      "cozy ambiance lamp",
+      "matte finish lamp",
+      "metal base floor lamp",
+      "modern silhouette lamp",
+      "beige shade floor lamp",
+      "sturdy construction lamp",
+      "organic shape lamp",
+      "floor lamp for living room",
+      "floor lamp for bedroom",
+      "floor lamp for office",
+      "elegant tripod lamp",
+      "floor lamp with linen shade"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 22,
+      "rating": 4.6,
+      "reviewCount": 145,
+      "createdAt": "2024-01-12T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish tripod floor lamp with a sleek matte finish and warm linen shade.",
+      "long": "Transform your living space with our elegant Tripod Floor Lamp, designed to elevate any room with its modern charm. Featuring a unique tripod base finished in sleek matte black, this lamp offers both stability and style. The warm beige linen shade diffuses light softly, creating a cozy ambiance perfect for relaxing evenings or sophisticated gatherings. With its versatile design, this lamp effortlessly complements contemporary or classic decor, making it an ideal choice for living rooms, bedrooms, or home offices. Illuminate your space with a touch of elegance and functional beauty.",
+      "features": [
+        "Unique tripod base for stability",
+        "Sleek matte black finish",
+        "Warm beige linen shade",
+        "Soft light diffusion for cozy ambiance",
+        "Versatile for various decor styles",
+        "Ideal for living rooms, bedrooms, and offices"
+      ],
+      "careInstructions": "Dust regularly with a soft, dry cloth. Avoid using water or cleaning solutions on the metal base. Spot clean the shade as needed.",
+      "materialComposition": "Metal base with a linen fabric shade"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "primary"
+        },
+        {
+          "name": "Beige",
+          "hex": "#F5F5DC",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Tall with a circular design and clean lines"
+    },
+    "seo": {
+      "metaTitle": "Elegant Tripod Floor Lamp - Modern Charm & Cozy Ambiance",
+      "metaDescription": "Elevate your room with our Tripod Floor Lamp. Its matte black finish and beige linen shade create a cozy ambiance. Perfect for any decor. Order now!",
+      "altText": "Elegant tripod floor lamp with matte black base and beige linen shade",
+      "keywords": [
+        "tripod floor lamp",
+        "modern floor lamp",
+        "contemporary lighting",
+        "black floor lamp",
+        "linen shade lamp",
+        "living room lighting",
+        "bedroom floor lamp",
+        "office decor lamp",
+        "ambient lighting",
+        "unique design lamp",
+        "home decor lighting",
+        "stylish floor lamp",
+        "elegant lighting",
+        "interior design lamp",
+        "decorative floor lamp",
+        "tall floor lamp",
+        "sophisticated lighting",
+        "cozy ambiance lamp",
+        "matte finish lamp",
+        "metal base floor lamp",
+        "modern silhouette lamp",
+        "beige shade floor lamp",
+        "sturdy construction lamp",
+        "organic shape lamp",
+        "floor lamp for living room",
+        "floor lamp for bedroom",
+        "floor lamp for office",
+        "elegant tripod lamp",
+        "floor lamp with linen shade"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:55:59.128Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-3",
+    "sku": "LGT-FL-003",
+    "name": "Industrial Task Floor Lamp",
+    "description": "Adjustable industrial floor lamp perfect for reading and task lighting",
+    "price": 159.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-3.jpeg"
+    ],
+    "primaryImage": "floor-lamp-3.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Warm Walnut",
+        "Cream"
+      ],
+      "material": [
+        "Walnut Wood",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Study"
+      ],
+      "occasion": [
+        "Everyday",
+        "Reading",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "industrial",
+      "task lamp",
+      "adjustable",
+      "reading",
+      "bronze",
+      "floor lamp",
+      "tripod lamp",
+      "ambient lighting",
+      "modern design",
+      "wood accents",
+      "reading lamp",
+      "minimalist style",
+      "home decor",
+      "living room lighting",
+      "bedroom lamp",
+      "study lamp",
+      "elegant lighting",
+      "soft glow",
+      "fabric shade",
+      "natural finish",
+      "warm walnut",
+      "cream shade",
+      "stylish lamp",
+      "interior lighting",
+      "home ambiance",
+      "decorative lamp",
+      "functional lighting",
+      "lamp with tripod base",
+      "wooden lamp",
+      "contemporary lighting",
+      "cozy atmosphere",
+      "lighting accessory",
+      "industrial task floor lamp",
+      "adjustable floor lamp",
+      "modern lighting",
+      "workspace lamp",
+      "matte black lamp",
+      "urban loft lighting",
+      "contemporary interiors",
+      "minimalist lamp",
+      "floor lamp with adjustable arm",
+      "metal frame lamp",
+      "modern sophistication",
+      "task lighting",
+      "precision lighting",
+      "home decor lighting",
+      "lamp for living room",
+      "lamp for study",
+      "versatile lighting",
+      "floor lamp design",
+      "adjustable head lamp",
+      "modern floor lamp",
+      "lamp for reading corners",
+      "workspace illumination",
+      "black floor lamp"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 30,
+      "rating": 4.4,
+      "reviewCount": 98,
+      "createdAt": "2024-01-14T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with the chic Industrial Task Floor Lamp, boasting a sleek metal finish and adjustable features.",
+      "long": "Introducing the Industrial Task Floor Lamp, an embodiment of functional elegance. Its robust metal frame, paired with an adjustable arm and head, ensures precise lighting where you need it. Ideal for reading corners or workspaces, its matte black finish adds a touch of modern sophistication to any room. The lamp's minimalist design complements urban lofts and contemporary interiors, creating a striking visual impact. Whether illuminating a late-night project or setting the mood in your living room, this lamp is a versatile addition to your decor arsenal.",
+      "features": [
+        "Adjustable arm and head for focused lighting",
+        "Durable metal construction",
+        "Matte black finish",
+        "Ideal for reading or workspace lighting",
+        "Complements industrial and modern decor",
+        "Compact design fits various spaces",
+        "Easy assembly"
+      ],
+      "careInstructions": "Wipe metal surfaces with a soft, damp cloth to remove dust. Avoid using abrasive cleaners. Check electrical connections periodically.",
+      "materialComposition": "Metal frame with matte black finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Walnut",
+          "hex": "#5D3A1A",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "natural",
+      "shape": "angular",
+      "silhouette": "Tall tripod with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Industrial Task Floor Lamp - Adjustable Modern Lighting",
+      "metaDescription": "Illuminate your space with the Industrial Task Floor Lamp. Its adjustable arm and matte black finish offer precise lighting. Perfect for reading or workspaces. Order now!",
+      "altText": "Industrial Task Floor Lamp with adjustable arm and matte black finish for precise lighting in modern interiors.",
+      "keywords": [
+        "industrial task floor lamp",
+        "adjustable floor lamp",
+        "modern lighting",
+        "reading lamp",
+        "workspace lamp",
+        "matte black lamp",
+        "functional lighting",
+        "urban loft lighting",
+        "contemporary interiors",
+        "minimalist lamp",
+        "floor lamp with adjustable arm",
+        "metal frame lamp",
+        "modern sophistication",
+        "elegant lighting",
+        "task lighting",
+        "precision lighting",
+        "decorative lamp",
+        "home decor lighting",
+        "lamp for living room",
+        "lamp for study",
+        "versatile lighting",
+        "floor lamp design",
+        "adjustable head lamp",
+        "modern floor lamp",
+        "lighting accessory",
+        "interior lighting",
+        "home ambiance",
+        "lamp for reading corners",
+        "workspace illumination",
+        "black floor lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:08.473Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-4",
+    "sku": "LGT-FL-004",
+    "name": "Torchiere Floor Lamp",
+    "description": "Sleek torchiere lamp providing ambient uplighting",
+    "price": 119.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-4.jpeg"
+    ],
+    "primaryImage": "floor-lamp-4.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Warm Gold",
+        "Cream"
+      ],
+      "material": [
+        "Metal",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Elegant"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxing"
+      ]
+    },
+    "tags": [
+      "torchiere",
+      "uplighting",
+      "ambient",
+      "modern",
+      "sleek",
+      "floor lamp",
+      "ambient lighting",
+      "modern design",
+      "elegant",
+      "curved silhouette",
+      "pleated shade",
+      "warm glow",
+      "living room lighting",
+      "bedroom lamp",
+      "hallway decor",
+      "metal base",
+      "fabric shade",
+      "polished finish",
+      "home decor",
+      "interior lighting",
+      "stylish lamp",
+      "cozy ambiance",
+      "versatile lighting",
+      "sleek design",
+      "golden finish",
+      "contemporary style",
+      "soft illumination",
+      "decorative lighting",
+      "functional lamp",
+      "reading light",
+      "accent lighting",
+      "minimalist",
+      "artistic design",
+      "warm color palette",
+      "luxury lighting",
+      "designer lamp",
+      "unique lamp",
+      "quality craftsmanship",
+      "durable materials",
+      "easy maintenance",
+      "home improvement",
+      "lighting solution",
+      "floor decor",
+      "space-saving",
+      "soft fabric",
+      "torchiere floor lamp",
+      "elegant lighting",
+      "living room lamp",
+      "bedroom lighting",
+      "metal base lamp",
+      "fabric shade lamp",
+      "home decor lighting",
+      "stylish floor lamp",
+      "uplighting lamp",
+      "sleek lamp design",
+      "golden finish lamp",
+      "contemporary style lamp",
+      "minimalist lamp",
+      "artistic design lamp",
+      "designer floor lamp"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 45,
+      "rating": 4.3,
+      "reviewCount": 76,
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the Torchiere Floor Lamp's elegant curves and warm glow.",
+      "long": "Transform your living space with the Torchiere Floor Lamp, a perfect blend of modern design and ambient lighting. Featuring a gracefully curved silhouette, this lamp is accented with a luxurious warm golden finish that adds a touch of sophistication to any room. The pleated fabric shade gently diffuses light, creating a cozy and inviting ambiance, ideal for living rooms, bedrooms, or hallways. With its sleek and versatile design, this lamp seamlessly complements various interior styles, offering both functionality and aesthetic appeal. Whether you're curling up with a book or hosting guests, the Torchiere Floor Lamp provides the perfect lighting solution that enhances your home's atmosphere.",
+      "features": [
+        "Gracefully curved silhouette",
+        "Warm golden polished finish",
+        "Pleated fabric shade for soft light diffusion",
+        "Ideal for ambient uplighting",
+        "Versatile design suitable for multiple rooms",
+        "Perfect blend of modern elegance and practicality"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid using harsh chemicals on the metal finish to maintain its shine.",
+      "materialComposition": "Constructed with a durable metal base and a pleated fabric shade."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Gold",
+          "hex": "#D4AF37",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "pleated",
+      "texture": "smooth",
+      "finish": "polished",
+      "shape": "organic",
+      "silhouette": "Curved with a flowing form"
+    },
+    "seo": {
+      "metaTitle": "Torchiere Floor Lamp - Modern Design & Ambient Lighting",
+      "metaDescription": "Elevate your space with the Torchiere Floor Lamp's modern elegance and cozy glow. Perfect for any room. Shop now to transform your home ambiance!",
+      "altText": "Elegant torchiere floor lamp with a warm golden finish and pleated shade, offering ambient lighting.",
+      "keywords": [
+        "torchiere floor lamp",
+        "ambient lighting",
+        "modern design",
+        "elegant lighting",
+        "curved silhouette",
+        "pleated shade",
+        "warm glow",
+        "living room lamp",
+        "bedroom lighting",
+        "hallway decor",
+        "metal base lamp",
+        "fabric shade lamp",
+        "polished finish",
+        "home decor lighting",
+        "interior lighting",
+        "stylish floor lamp",
+        "uplighting lamp",
+        "cozy ambiance",
+        "versatile lighting",
+        "sleek lamp design",
+        "golden finish lamp",
+        "contemporary style lamp",
+        "soft illumination",
+        "decorative lighting",
+        "functional lamp",
+        "reading light",
+        "accent lighting",
+        "minimalist lamp",
+        "artistic design lamp",
+        "luxury lighting",
+        "designer floor lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:12.885Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-5",
+    "sku": "LGT-FL-005",
+    "name": "Rattan Floor Lamp",
+    "description": "Bohemian rattan floor lamp with natural texture",
+    "price": 189.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-5.jpeg"
+    ],
+    "primaryImage": "floor-lamp-5.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Warm Gold",
+        "Cream"
+      ],
+      "material": [
+        "Metal",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "rattan",
+      "bohemian",
+      "natural",
+      "floor lamp",
+      "coastal",
+      "modern lighting",
+      "ambient light",
+      "home decor",
+      "living room lamp",
+      "bedroom lighting",
+      "elegant design",
+      "adjustable arm",
+      "metal lamp",
+      "fabric shade",
+      "warm glow",
+      "contemporary style",
+      "interior lighting",
+      "decorative lamp",
+      "stylish lighting",
+      "home ambiance",
+      "lighting solution",
+      "gold finish",
+      "cream shade",
+      "tall lamp",
+      "versatile lighting",
+      "reading light",
+      "accent lighting",
+      "designer lamp",
+      "floor standing lamp",
+      "arch lamp",
+      "minimalist design",
+      "luxury lighting",
+      "soft light",
+      "cozy atmosphere",
+      "home improvement",
+      "lighting fixture",
+      "stable base",
+      "adjustable position",
+      "metal construction",
+      "Rattan Floor Lamp",
+      "rustic lighting",
+      "modern floor lamp",
+      "woven rattan shade",
+      "cozy ambiance",
+      "natural aesthetics",
+      "coastal decor",
+      "bohemian style",
+      "metal stand",
+      "accent piece",
+      "nature-inspired lighting",
+      "versatile design"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 15,
+      "rating": 4.6,
+      "reviewCount": 123,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish rattan floor lamp with natural charm and warm illumination.",
+      "long": "Illuminate your space with the Rattan Floor Lamp, a blend of rustic charm and modern elegance. Crafted with an intricate woven rattan shade, this lamp casts a soft, inviting glow, perfect for creating a cozy ambiance in any room. The sleek metal stand provides sturdy support while emphasizing the natural aesthetics of the rattan. Its versatile design complements various decors from coastal to bohemian. Whether placed in your living room or bedroom, this lamp adds a touch of nature and warmth, making it a perfect accent piece. Enjoy the harmony of functionality and style with this exquisite lighting solution.",
+      "features": [
+        "Woven rattan shade for natural aesthetics",
+        "Soft, warm illumination",
+        "Sturdy metal stand",
+        "Versatile design suits various decor styles",
+        "Perfect for living rooms and bedrooms",
+        "Adds a touch of rustic charm",
+        "Enhances cozy ambiance"
+      ],
+      "careInstructions": "Dust the rattan shade with a soft brush. Clean metal parts with a damp cloth. Avoid exposure to moisture.",
+      "materialComposition": "Woven rattan shade, metal stand and base"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Gold",
+          "hex": "#D4AF37",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "curved",
+      "silhouette": "Tall and elegant with a sweeping arch"
+    },
+    "seo": {
+      "metaTitle": "Rattan Floor Lamp - Rustic Charm & Modern Elegance",
+      "metaDescription": "Brighten your home with the Rattan Floor Lamp. Its woven rattan shade and sleek metal stand create a cozy ambiance. Buy now for stylish lighting!",
+      "altText": "Rattan Floor Lamp with a woven rattan shade and sleek metal stand, casting a warm glow.",
+      "keywords": [
+        "Rattan Floor Lamp",
+        "rustic lighting",
+        "modern floor lamp",
+        "woven rattan shade",
+        "cozy ambiance",
+        "home decor",
+        "living room lamp",
+        "bedroom lighting",
+        "natural aesthetics",
+        "coastal decor",
+        "bohemian style",
+        "metal stand",
+        "elegant design",
+        "ambient light",
+        "accent piece",
+        "lighting solution",
+        "floor standing lamp",
+        "designer lamp",
+        "stylish lighting",
+        "soft light",
+        "warm glow",
+        "interior lighting",
+        "decorative lamp",
+        "home improvement",
+        "lighting fixture",
+        "nature-inspired lighting",
+        "versatile design"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:20.364Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-6",
+    "sku": "LGT-FL-006",
+    "name": "LED Tree Floor Lamp",
+    "description": "Multi-head LED floor lamp with adjustable arms",
+    "price": 199.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-6.jpg"
+    ],
+    "primaryImage": "floor-lamp-6.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Stone Gray",
+        "Warm White"
+      ],
+      "material": [
+        "Composite"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Office",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Artistic Display"
+      ]
+    },
+    "tags": [
+      "LED",
+      "tree lamp",
+      "multi-head",
+      "adjustable",
+      "modern",
+      "LED floor lamp",
+      "tree design",
+      "sculptural lighting",
+      "modern decor",
+      "contemporary style",
+      "ambient light",
+      "artistic lamp",
+      "organic shape",
+      "stone-like finish",
+      "unique lighting",
+      "home decor",
+      "stylish lamp",
+      "statement piece",
+      "living room lamp",
+      "office lighting",
+      "bedroom lamp",
+      "textured finish",
+      "natural look",
+      "designer lamp",
+      "creative lighting",
+      "branching design",
+      "soft glow",
+      "warm ambiance",
+      "decorative lamp",
+      "minimalist lighting",
+      "elegant design",
+      "interior lighting",
+      "home lighting",
+      "floor lamp",
+      "LED bulb",
+      "artistic design",
+      "modern lighting",
+      "contemporary lamp",
+      "ambient decor",
+      "unique design",
+      "stylish lighting",
+      "decorative piece",
+      "home accessory",
+      "lighting solution",
+      "creative decor",
+      "natural texture",
+      "organic decor",
+      "artistic home decor"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 25,
+      "rating": 4.5,
+      "reviewCount": 167,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Enchant your space with the sculptural LED Tree Floor Lamp, a blend of art and ambient light.",
+      "long": "Transform your living area with our LED Tree Floor Lamp, a stunning union of art and functionality. This lamp boasts a unique tree-like silhouette, offering a sculptural elegance that complements modern and contemporary interiors. Crafted from a textured composite material, it mimics the raw beauty of natural stone while providing a soft, ambient glow that warms the room. Perfect for living rooms, bedrooms, or offices, this lamp is more than a light source; it's a statement piece. Bring nature indoors with its branching design and enjoy the tranquil ambiance it creates.",
+      "features": [
+        "Unique tree-like silhouette",
+        "Ambient LED lighting for cozy atmosphere",
+        "Textured composite material with stone-like finish",
+        "Sculptural elegance for modern spaces",
+        "Perfect for living rooms, bedrooms, or offices",
+        "Artistic statement piece that complements decor",
+        "Soft glow enhances tranquility"
+      ],
+      "careInstructions": "Dust gently with a soft cloth to maintain the finish. Avoid exposure to harsh chemicals and direct sunlight.",
+      "materialComposition": "Crafted from a durable textured composite material that resembles natural stone"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Stone Gray",
+          "hex": "#8A8A8A",
+          "category": "primary"
+        },
+        {
+          "name": "Warm White",
+          "hex": "#FFD700",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "organic",
+      "silhouette": "Sculptural with branching form"
+    },
+    "seo": {
+      "metaTitle": "LED Tree Floor Lamp - Sculptural Design & Ambient Glow",
+      "metaDescription": "Illuminate your space with our LED Tree Floor Lamp. Enjoy a sculptural, tree-like design that offers ambient lighting. Perfect for modern interiors. Order now!",
+      "altText": "LED Tree Floor Lamp with sculptural tree-like design and ambient glow",
+      "keywords": [
+        "LED floor lamp",
+        "tree design",
+        "sculptural lighting",
+        "modern decor",
+        "contemporary style",
+        "ambient light",
+        "artistic lamp",
+        "organic shape",
+        "stone-like finish",
+        "unique lighting",
+        "home decor",
+        "stylish lamp",
+        "statement piece",
+        "living room lamp",
+        "office lighting",
+        "bedroom lamp",
+        "textured finish",
+        "natural look",
+        "designer lamp",
+        "creative lighting",
+        "branching design",
+        "soft glow",
+        "warm ambiance",
+        "decorative lamp",
+        "minimalist lighting",
+        "elegant design",
+        "interior lighting",
+        "home lighting",
+        "floor lamp",
+        "LED bulb"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:28.397Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-7",
+    "sku": "LGT-FL-007",
+    "name": "Paper Lantern Floor Lamp",
+    "description": "Japanese-inspired paper lantern floor lamp with soft glow",
+    "price": 139.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-7.jpg"
+    ],
+    "primaryImage": "floor-lamp-7.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Ivory White",
+        "Natural Wood"
+      ],
+      "material": [
+        "Rice Paper",
+        "Wood"
+      ],
+      "style": [
+        "Japanese",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Meditation Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "paper lantern",
+      "japanese",
+      "soft glow",
+      "minimalist",
+      "zen",
+      "Japanese design",
+      "minimalist lighting",
+      "ambient glow",
+      "floor lamp",
+      "rice paper",
+      "wood base",
+      "zen decor",
+      "modern lighting",
+      "soft light",
+      "natural materials",
+      "elegant lamp",
+      "home decor",
+      "relaxation lighting",
+      "living room lamp",
+      "bedroom lamp",
+      "meditation room lighting",
+      "stylish lamp",
+      "warm light",
+      "serene atmosphere",
+      "decorative lighting",
+      "contemporary lamp",
+      "unique design",
+      "eco-friendly materials",
+      "sustainable design",
+      "artisan lamp",
+      "handcrafted look",
+      "soft lighting",
+      "ambient lamp",
+      "floor lighting",
+      "interior design",
+      "home lighting",
+      "decorative lamp",
+      "modern decor",
+      "natural decor",
+      "minimalist decor",
+      "Japanese style",
+      "calming light",
+      "peaceful ambiance",
+      "soft ambiance",
+      "warm ambiance",
+      "natural light",
+      "simple elegance",
+      "clean lines"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.7,
+      "reviewCount": 89,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant Japanese-inspired paper lantern floor lamp with a warm, ambient glow.",
+      "long": "Transform your living space with the Paper Lantern Floor Lamp, a stunning blend of Japanese-inspired design and modern elegance. Its rice paper shade softly diffuses light, creating a calming ambiance that's perfect for relaxation. The minimalist wooden base adds a touch of natural beauty, making it ideal for any room seeking serenity—from your living room to your meditation space. The lamp's slender silhouette and clean lines ensure it fits seamlessly into various decor styles, offering both functionality and aesthetic appeal. At $139.99, this lamp is a stylish investment in warmth and tranquility for your home.",
+      "features": [
+        "Japanese-inspired design",
+        "Soft ambient glow",
+        "Rice paper shade",
+        "Minimalist wooden base",
+        "Slender silhouette",
+        "Fits various decor styles",
+        "Perfect for relaxation spaces"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid direct contact with water. Handle rice paper shade with care.",
+      "materialComposition": "Rice paper shade with a solid wood base."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Ivory White",
+          "hex": "#FFFFF0",
+          "category": "primary"
+        },
+        {
+          "name": "Natural Wood",
+          "hex": "#A0522D",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Slender with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Paper Lantern Floor Lamp - Japanese Design & Soft Glow",
+      "metaDescription": "Enhance your space with the Paper Lantern Floor Lamp. Enjoy its serene, soft glow and minimalist design. Order now for $139.99 and transform your home.",
+      "altText": "Japanese-inspired paper lantern floor lamp with rice paper shade and wooden base.",
+      "keywords": [
+        "paper lantern",
+        "Japanese design",
+        "minimalist lighting",
+        "ambient glow",
+        "floor lamp",
+        "rice paper",
+        "wood base",
+        "zen decor",
+        "modern lighting",
+        "soft light",
+        "natural materials",
+        "elegant lamp",
+        "home decor",
+        "relaxation lighting",
+        "living room lamp",
+        "bedroom lamp",
+        "meditation room lighting",
+        "stylish lamp",
+        "warm light",
+        "serene atmosphere",
+        "decorative lighting",
+        "contemporary lamp",
+        "unique design",
+        "eco-friendly materials",
+        "sustainable design",
+        "artisan lamp",
+        "handcrafted look",
+        "soft lighting",
+        "interior design",
+        "minimalist decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:37.479Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-8",
+    "sku": "LGT-FL-008",
+    "name": "Pharmacy Floor Lamp",
+    "description": "Classic pharmacy-style floor lamp with adjustable head",
+    "price": 169.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-8.jpg"
+    ],
+    "primaryImage": "floor-lamp-8.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Jet Black"
+      ],
+      "material": [
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Study",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Reading",
+        "Accent Lighting"
+      ]
+    },
+    "tags": [
+      "pharmacy",
+      "classic",
+      "adjustable",
+      "brass",
+      "traditional",
+      "floor lamp",
+      "modern lighting",
+      "geometric design",
+      "black lamp",
+      "metal lamp",
+      "contemporary decor",
+      "accent lighting",
+      "reading lamp",
+      "office lighting",
+      "study lamp",
+      "living room lamp",
+      "sleek design",
+      "angular shades",
+      "multi-directional",
+      "matte finish",
+      "durable construction",
+      "stylish lamp",
+      "artistic flair",
+      "home decor",
+      "interior design",
+      "lighting solution",
+      "versatile lamp",
+      "unique lamp",
+      "designer lamp",
+      "decorative lighting",
+      "functional lamp",
+      "adjustable lighting",
+      "minimalist lamp",
+      "statement piece",
+      "elegant design",
+      "Pharmacy Floor Lamp",
+      "multi-directional lighting"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 20,
+      "rating": 4.4,
+      "reviewCount": 56,
+      "createdAt": "2024-01-24T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with our sleek Pharmacy Floor Lamp, offering versatile lighting and a timeless design.",
+      "long": "Elevate your home's ambiance with the Pharmacy Floor Lamp, a perfect blend of elegance and functionality. Designed to suit contemporary aesthetics, this lamp features a polished metal finish that seamlessly integrates with any decor. Its adjustable arm and swivel head ensure optimal lighting angles, making it ideal for reading nooks, cozy corners, or as a stylish accent in living rooms. The lamp's classic silhouette and minimalist appeal create an inviting atmosphere, offering both style and practicality. Whether you're settling down with a good book or need focused lighting for a task, this lamp meets all your needs. A true testament to modern design, it stands as both a functional light source and a decorative piece.",
+      "features": [
+        "Adjustable arm for customized lighting angles",
+        "Swivel head for focused illumination",
+        "Polished metal finish for a sleek look",
+        "Classic silhouette enhances any decor",
+        "Energy-efficient bulb compatibility",
+        "Stable base ensures safety and stability"
+      ],
+      "careInstructions": "Dust regularly with a soft, dry cloth. Avoid cleaners containing alcohol or ammonia. Use a feather duster for delicate components.",
+      "materialComposition": "Crafted from high-quality metal with a polished finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Jet Black",
+          "hex": "#343434",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "matte",
+      "finish": "matte",
+      "shape": "angular",
+      "silhouette": "Tall with angular geometric shades"
+    },
+    "seo": {
+      "metaTitle": "Pharmacy Floor Lamp - Elegant Modern Lighting Solution",
+      "metaDescription": "Enhance your space with the Pharmacy Floor Lamp's sleek design and adjustable lighting. Perfect for reading nooks and stylish accents. Order now!",
+      "altText": "Sleek Pharmacy Floor Lamp with angular geometric shades and modern design in jet black finish.",
+      "keywords": [
+        "Pharmacy Floor Lamp",
+        "modern lighting",
+        "geometric design",
+        "black lamp",
+        "metal lamp",
+        "contemporary decor",
+        "accent lighting",
+        "reading lamp",
+        "office lighting",
+        "study lamp",
+        "living room lamp",
+        "sleek design",
+        "angular shades",
+        "multi-directional lighting",
+        "matte finish",
+        "durable construction",
+        "stylish lamp",
+        "artistic flair",
+        "home decor",
+        "interior design",
+        "lighting solution",
+        "versatile lamp",
+        "unique lamp",
+        "designer lamp",
+        "decorative lighting",
+        "functional lamp",
+        "adjustable lighting",
+        "minimalist lamp",
+        "statement piece",
+        "elegant design"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:43.595Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "floor-lamp-9",
+    "sku": "LGT-FL-009",
+    "name": "Marble Base Floor Lamp",
+    "description": "Elegant floor lamp with genuine marble base and brass finish",
+    "price": 299.99,
+    "currency": "USD",
+    "images": [
+      "floor-lamp-9.jpg"
+    ],
+    "primaryImage": "floor-lamp-9.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Floor Lamp",
+        "slug": "floor-lamp"
+      },
+      "productType": "Floor Lamp"
+    },
+    "attributes": {
+      "color": [
+        "White Marble",
+        "Brass"
+      ],
+      "material": [
+        "Marble",
+        "Metal",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Luxury"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Foyer"
+      ],
+      "occasion": [
+        "Everyday",
+        "Reading",
+        "Ambient Lighting"
+      ]
+    },
+    "tags": [
+      "marble",
+      "luxury",
+      "brass",
+      "elegant",
+      "gold",
+      "floor lamp",
+      "marble base",
+      "brass finish",
+      "modern lighting",
+      "luxury decor",
+      "adjustable arm",
+      "ambient light",
+      "reading lamp",
+      "elegant design",
+      "home lighting",
+      "living room lamp",
+      "bedroom lighting",
+      "foyer decor",
+      "stylish lamp",
+      "contemporary",
+      "interior design",
+      "home decor",
+      "lighting solution",
+      "metal lamp",
+      "white marble",
+      "polished finish",
+      "versatile lighting",
+      "decorative lamp",
+      "designer lamp",
+      "high-end lighting",
+      "sleek design",
+      "modern lamp",
+      "luxury lamp",
+      "adjustable lighting",
+      "reading light",
+      "ambient lamp",
+      "decorative lighting"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 10,
+      "rating": 4.9,
+      "reviewCount": 34,
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Sophisticated floor lamp with marble base and adjustable brass arm.",
+      "long": "Illuminate your living space with our Marble Base Floor Lamp, a beacon of elegance and functionality. The lamp boasts a genuine marble base that anchors it with a touch of luxury and stability, perfect for any sophisticated setting. Its adjustable metal arm, finished in a luxurious brass, allows you to direct light precisely where you need it, whether for reading or creating a warm ambient glow. The sleek, modern design effortlessly integrates into contemporary interiors, enhancing your decor with its refined silhouette. Ideal for living rooms, bedrooms, or foyers, this lamp is more than just a source of light; it's a statement piece that elevates the ambiance of your home.",
+      "features": [
+        "Genuine marble base for stability and luxury",
+        "Adjustable metal arm for versatile lighting",
+        "Elegant brass finish complements modern decor",
+        "Sleek design ideal for contemporary interiors",
+        "Perfect for living rooms, bedrooms, and foyers",
+        "Provides ambient or focused lighting"
+      ],
+      "careInstructions": "Gently wipe the marble base with a damp cloth to remove dust and polish the metal parts with a soft, dry cloth to maintain their shine.",
+      "materialComposition": "Marble base, metal arm and shade with a brass finish, fabric-covered wiring"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "White Marble",
+          "hex": "#FFFFFF",
+          "category": "primary"
+        },
+        {
+          "name": "Brass",
+          "hex": "#B5A642",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "polished",
+      "shape": "angular",
+      "silhouette": "Tall and slender with adjustable arm"
+    },
+    "seo": {
+      "metaTitle": "Marble Base Floor Lamp with Adjustable Brass Arm",
+      "metaDescription": "Elevate your home with our Marble Base Floor Lamp. Luxurious brass finish and adjustable arm for perfect lighting. Shop now for elegance and functionality!",
+      "altText": "Elegant floor lamp with a marble base and adjustable metal arm in brass finish",
+      "keywords": [
+        "floor lamp",
+        "marble base",
+        "brass finish",
+        "modern lighting",
+        "luxury decor",
+        "adjustable arm",
+        "ambient light",
+        "reading lamp",
+        "elegant design",
+        "home lighting",
+        "living room lamp",
+        "bedroom lighting",
+        "foyer decor",
+        "stylish lamp",
+        "contemporary",
+        "interior design",
+        "home decor",
+        "lighting solution",
+        "metal lamp",
+        "white marble",
+        "polished finish",
+        "versatile lighting",
+        "decorative lamp",
+        "designer lamp",
+        "high-end lighting",
+        "sleek design",
+        "modern lamp",
+        "luxury lamp",
+        "adjustable lighting",
+        "reading light",
+        "ambient lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:54.084Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-1",
+    "sku": "LGT-TL-001",
+    "name": "Ceramic Table Lamp",
+    "description": "Hand-painted ceramic table lamp with linen shade",
+    "price": 129.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-1.jpeg"
+    ],
+    "primaryImage": "table-lamp-1.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Deep Plum",
+        "Warm White"
+      ],
+      "material": [
+        "Synthetic Material"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Ambient Lighting"
+      ]
+    },
+    "tags": [
+      "ceramic",
+      "hand-painted",
+      "table lamp",
+      "blue",
+      "coastal",
+      "modern lamp",
+      "cube lamp",
+      "ambient lighting",
+      "textured design",
+      "contemporary decor",
+      "bedroom lamp",
+      "living room lighting",
+      "office lamp",
+      "stylish lamp",
+      "compact lamp",
+      "warm glow",
+      "unique design",
+      "modern aesthetic",
+      "decorative lighting",
+      "soft light",
+      "home decor",
+      "designer lamp",
+      "accent lighting",
+      "ambient lamp",
+      "synthetic material",
+      "matte finish",
+      "rectangular shape",
+      "rounded edges",
+      "cozy atmosphere",
+      "lighting fixture",
+      "plum color",
+      "warm white light",
+      "ceramic table lamp"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 30,
+      "rating": 4.6,
+      "reviewCount": 178,
+      "createdAt": "2024-01-08T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegantly crafted ceramic table lamp with a soft ambient glow.",
+      "long": "Illuminate your living space with our Ceramic Table Lamp, priced at $129.99. This exquisite lamp showcases a beautifully sculpted ceramic base with a sleek, matte finish, exuding a sense of modern sophistication. The lamp's gentle curves and muted tones blend seamlessly into any decor style, making it a versatile addition to your home. The soft ambient glow emitted by the lampshade creates a warm and inviting atmosphere, perfect for relaxing evenings in your living room, bedroom, or office. Its elegant design and practical functionality make this table lamp not just a source of light but an artful statement piece that enhances the aesthetic appeal of your space.",
+      "features": [
+        "Sculpted ceramic base",
+        "Soft ambient glow",
+        "Matte finish",
+        "Versatile design",
+        "Elegant and modern",
+        "Perfect for living rooms, bedrooms, and offices",
+        "Creates a warm, inviting atmosphere"
+      ],
+      "careInstructions": "Gently dust with a soft cloth. Avoid using water or harsh cleaning agents to maintain the lamp's finish.",
+      "materialComposition": "High-quality ceramic base with a fabric lampshade."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Deep Plum",
+          "hex": "#5D3A4B",
+          "category": "primary"
+        },
+        {
+          "name": "Warm White",
+          "hex": "#F5F5DC",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Cube-shaped with rounded edges"
+    },
+    "seo": {
+      "metaTitle": "Ceramic Table Lamp - Modern Cube Design with Ambient Glow",
+      "metaDescription": "Illuminate your space with our Ceramic Table Lamp. Its modern cube design and ambient glow enhance any decor. Buy now for a stylish touch!",
+      "altText": "Modern ceramic table lamp with cube-shaped design and warm ambient glow, perfect for living room or bedroom.",
+      "keywords": [
+        "ceramic table lamp",
+        "modern lamp",
+        "cube lamp",
+        "ambient lighting",
+        "textured design",
+        "contemporary decor",
+        "bedroom lamp",
+        "living room lighting",
+        "office lamp",
+        "stylish lamp",
+        "compact lamp",
+        "warm glow",
+        "unique design",
+        "modern aesthetic",
+        "decorative lighting",
+        "soft light",
+        "home decor",
+        "designer lamp",
+        "accent lighting",
+        "table lamp",
+        "ambient lamp",
+        "synthetic material",
+        "matte finish",
+        "rectangular shape",
+        "rounded edges",
+        "cozy atmosphere",
+        "lighting fixture",
+        "plum color",
+        "warm white light"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:56:56.065Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-2",
+    "sku": "LGT-TL-002",
+    "name": "Crystal Base Table Lamp",
+    "description": "Elegant crystal base table lamp with white pleated shade",
+    "price": 189.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-2.jpeg"
+    ],
+    "primaryImage": "table-lamp-2.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Sage Green",
+        "White"
+      ],
+      "material": [
+        "Ceramic",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Artistic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "crystal",
+      "elegant",
+      "glamorous",
+      "pleated shade",
+      "luxury",
+      "table lamp",
+      "sculptural design",
+      "modern lighting",
+      "ambient light",
+      "sage green",
+      "white shade",
+      "decorative lamp",
+      "artistic lamp",
+      "unique base",
+      "home decor",
+      "living room lighting",
+      "bedroom lamp",
+      "office lamp",
+      "contemporary style",
+      "elegant lighting",
+      "soft light",
+      "stylish lamp",
+      "interior design",
+      "matte finish",
+      "smooth texture",
+      "solid pattern",
+      "organic shape",
+      "clean lines",
+      "Crystal Base Table Lamp",
+      "luxurious decor",
+      "reading nook lighting",
+      "statement piece",
+      "sparkle and shadow",
+      "cozy evenings"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.8,
+      "reviewCount": 145,
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with elegance using the Crystal Base Table Lamp, featuring a stunning crystal base and sophisticated white shade.",
+      "long": "Transform your home with the Crystal Base Table Lamp, a statement piece boasting a dazzling crystal base that captures and refracts light, creating a mesmerizing play of sparkle and shadow. Topped with a refined white shade, this lamp casts a warm, inviting glow, perfect for cozy evenings or adding a touch of sophistication to your reading nook. Its versatile design complements both modern and classic decors, making it an ideal choice for living rooms, bedrooms, or home offices. The lamp’s elegant crystal structure not only serves as a functional lighting solution but also as a luxurious decor element that elevates any room’s aesthetic.",
+      "features": [
+        "Dazzling crystal base for a luxurious look",
+        "Sophisticated white shade for soft illumination",
+        "Versatile design complements various decor styles",
+        "Ideal for living rooms, bedrooms, or offices",
+        "Creates a warm and inviting ambiance",
+        "Durable construction for long-lasting use",
+        "Easy to operate with convenient switch"
+      ],
+      "careInstructions": "Wipe the crystal base with a soft, dry cloth to maintain its sparkle. Avoid using harsh chemicals or abrasives. Gently dust the shade regularly.",
+      "materialComposition": "Base: High-quality crystal; Shade: Premium fabric"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Sage Green",
+          "hex": "#9CAF88",
+          "category": "primary"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Flowing sculptural form with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Crystal Base Table Lamp - Dazzling Design & Warm Glow",
+      "metaDescription": "Elevate your space with the Crystal Base Table Lamp. Its stunning crystal design and warm glow add sophistication. Shop now for modern elegance!",
+      "altText": "Crystal Base Table Lamp with white shade, offering a warm glow and elegant design.",
+      "keywords": [
+        "Crystal Base Table Lamp",
+        "modern lighting",
+        "ambient light",
+        "home decor",
+        "living room lighting",
+        "bedroom lamp",
+        "office lamp",
+        "elegant lighting",
+        "stylish lamp",
+        "interior design",
+        "sculptural design",
+        "decorative lamp",
+        "artistic lamp",
+        "unique base",
+        "contemporary style",
+        "soft light",
+        "matte finish",
+        "smooth texture",
+        "solid pattern",
+        "organic shape",
+        "clean lines",
+        "white shade",
+        "luxurious decor",
+        "reading nook lighting",
+        "statement piece",
+        "sparkle and shadow",
+        "cozy evenings"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:05.916Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-3",
+    "sku": "LGT-TL-003",
+    "name": "Industrial Desk Lamp",
+    "description": "Vintage-style industrial desk lamp with adjustable arm",
+    "price": 89.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-3.jpeg"
+    ],
+    "primaryImage": "table-lamp-3.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Warm Taupe",
+        "Natural Linen"
+      ],
+      "material": [
+        "Ceramic",
+        "Linen"
+      ],
+      "style": [
+        "Contemporary",
+        "Artistic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Study"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "industrial",
+      "desk lamp",
+      "adjustable",
+      "vintage",
+      "task",
+      "table lamp",
+      "ceramic base",
+      "linen shade",
+      "ambient lighting",
+      "home decor",
+      "living room lamp",
+      "bedroom lamp",
+      "study lamp",
+      "elegant design",
+      "textured base",
+      "modern lighting",
+      "artistic lamp",
+      "warm taupe",
+      "natural linen",
+      "ribbed pattern",
+      "matte finish",
+      "round shape",
+      "contemporary style",
+      "versatile lighting",
+      "soft light",
+      "decorative lamp",
+      "stylish lamp",
+      "home lighting",
+      "interior design",
+      "ambient lamp",
+      "cozy ambiance",
+      "sophisticated lamp",
+      "textured ceramic",
+      "linen fabric",
+      "rounded silhouette",
+      "drum shade",
+      "elegant home accessory",
+      "lighting solution",
+      "decorative accessory",
+      "modern decor",
+      "artistic decor",
+      "industrial desk lamp",
+      "adjustable desk lamp",
+      "vintage desk lamp",
+      "task lighting",
+      "black matte lamp",
+      "exposed bulb lamp",
+      "workspace lighting",
+      "reading nook lamp",
+      "modern decor lamp",
+      "contemporary lighting",
+      "retro desk lamp",
+      "home office lamp",
+      "bedside table lamp",
+      "metal desk lamp",
+      "adjustable arm lamp",
+      "industrial charm lighting",
+      "decorative desk lamp",
+      "functional desk lamp",
+      "modern industrial lamp",
+      "stylish desk lamp",
+      "conversation starter lamp",
+      "home lighting solution",
+      "desk lamp with adjustable head",
+      "vintage aesthetic lamp",
+      "elegant desk lamp",
+      "industrial style lamp",
+      "contemporary task lamp",
+      "desk lamp with exposed bulb",
+      "matte finish desk lamp",
+      "versatile desk lamp"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 42,
+      "rating": 4.5,
+      "reviewCount": 203,
+      "createdAt": "2024-01-12T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the sleek Industrial Desk Lamp, blending modern design with vintage charm.",
+      "long": "Enhance your workspace or reading nook with the Industrial Desk Lamp, a perfect blend of contemporary and vintage aesthetics. Its robust metal construction features a black matte finish, exuding industrial charm that complements any modern decor. The adjustable arm and head allow you to direct light precisely where you need it, making it ideal for task lighting. The exposed bulb design adds a touch of retro flair while providing ample illumination. Whether you place it on your desk or bedside table, this lamp is sure to be a conversation starter and a functional addition to your home.",
+      "features": [
+        "Adjustable arm and head for targeted lighting",
+        "Sturdy metal construction with matte finish",
+        "Exposed bulb design for vintage appeal",
+        "Compact size fits perfectly on desks or side tables",
+        "Ideal for task lighting in workspaces or studies"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth regularly. Avoid using harsh chemicals or abrasive cleaners.",
+      "materialComposition": "Metal with a black matte finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Taupe",
+          "hex": "#B19F8E",
+          "category": "primary"
+        },
+        {
+          "name": "Natural Linen",
+          "hex": "#D3C5B4",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "ribbed",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "round",
+      "silhouette": "Rounded base with a drum shade"
+    },
+    "seo": {
+      "metaTitle": "Industrial Desk Lamp - Adjustable Arm & Vintage Charm",
+      "metaDescription": "Upgrade your space with the Industrial Desk Lamp. Enjoy adjustable lighting and vintage style. Perfect for any decor. Order now to illuminate your home!",
+      "altText": "Industrial desk lamp with adjustable arm and black matte finish on a desk.",
+      "keywords": [
+        "industrial desk lamp",
+        "adjustable desk lamp",
+        "vintage desk lamp",
+        "task lighting",
+        "black matte lamp",
+        "exposed bulb lamp",
+        "workspace lighting",
+        "reading nook lamp",
+        "modern decor lamp",
+        "contemporary lighting",
+        "retro desk lamp",
+        "home office lamp",
+        "bedside table lamp",
+        "metal desk lamp",
+        "adjustable arm lamp",
+        "industrial charm lighting",
+        "decorative desk lamp",
+        "functional desk lamp",
+        "modern industrial lamp",
+        "stylish desk lamp",
+        "conversation starter lamp",
+        "home lighting solution",
+        "desk lamp with adjustable head",
+        "vintage aesthetic lamp",
+        "elegant desk lamp",
+        "industrial style lamp",
+        "contemporary task lamp",
+        "desk lamp with exposed bulb",
+        "matte finish desk lamp",
+        "versatile desk lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:09.825Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-4",
+    "sku": "LGT-TL-004",
+    "name": "Glass Orb Table Lamp",
+    "description": "Modern glass orb table lamp with brass accents",
+    "price": 149.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-4.jpeg"
+    ],
+    "primaryImage": "table-lamp-4.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Cream",
+        "Warm Chestnut Brown"
+      ],
+      "material": [
+        "Wood",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Retro"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Accent Lighting"
+      ]
+    },
+    "tags": [
+      "glass orb",
+      "modern",
+      "brass",
+      "contemporary",
+      "accent",
+      "table lamp",
+      "pleated shade",
+      "wooden base",
+      "modern lighting",
+      "retro style",
+      "ambient light",
+      "home decor",
+      "living room lamp",
+      "bedroom lighting",
+      "office lamp",
+      "elegant design",
+      "warm lighting",
+      "chestnut brown",
+      "cream shade",
+      "textured lamp",
+      "natural finish",
+      "stylish lamp",
+      "decorative lighting",
+      "soft light",
+      "home accents",
+      "lighting fixture",
+      "interior design",
+      "contemporary lamp",
+      "classic style",
+      "versatile lamp",
+      "unique design",
+      "quality materials",
+      "easy care",
+      "functional decor",
+      "pleated fabric",
+      "wooden decor",
+      "lamp with shade",
+      "lighting solution",
+      "soft ambiance",
+      "warm glow",
+      "stylish home",
+      "Glass Orb Table Lamp",
+      "glass orb lamp",
+      "polished metal base",
+      "translucent glass",
+      "sophisticated lighting",
+      "contemporary decor",
+      "ambient lighting",
+      "modern sophistication",
+      "elegant home accents"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 25,
+      "rating": 4.7,
+      "reviewCount": 112,
+      "createdAt": "2024-01-14T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the Glass Orb Table Lamp, featuring a sleek glass sphere and elegant metal base.",
+      "long": "Transform your home with the mesmerizing Glass Orb Table Lamp. This captivating lamp showcases a pristine glass orb that exudes modern sophistication, perfectly balanced on a polished metal base. The translucent glass softly diffuses light, creating a warm, inviting glow that enhances any room's ambiance. Whether placed on a bedside table, living room console, or office desk, its sleek design seamlessly complements both contemporary and classic decor styles. Elevate your lighting experience with this stylish and functional piece, ideal for those looking to add a touch of elegance to their space.",
+      "features": [
+        "Sleek glass orb design",
+        "Polished metal base",
+        "Soft, ambient lighting",
+        "Modern elegance",
+        "Versatile decor piece",
+        "Perfect for any room"
+      ],
+      "careInstructions": "Wipe the glass orb with a damp cloth regularly. Avoid using abrasive cleaners. Dust the metal base with a soft cloth.",
+      "materialComposition": "Glass orb with a metal base"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B4513",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "pleated",
+      "texture": "textured",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Elegant with a tapered base and pleated shade"
+    },
+    "seo": {
+      "metaTitle": "Glass Orb Table Lamp: Elegant Design & Warm Glow",
+      "metaDescription": "Enhance your home's ambiance with the Glass Orb Table Lamp. Its modern sophistication and warm glow are perfect for any decor. Shop now for elegance!",
+      "altText": "Elegant Glass Orb Table Lamp with a polished metal base and warm glow.",
+      "keywords": [
+        "Glass Orb Table Lamp",
+        "modern lighting",
+        "home decor",
+        "ambient light",
+        "living room lamp",
+        "bedroom lighting",
+        "office lamp",
+        "elegant design",
+        "warm lighting",
+        "glass orb lamp",
+        "polished metal base",
+        "translucent glass",
+        "sophisticated lighting",
+        "contemporary decor",
+        "classic style",
+        "stylish lamp",
+        "decorative lighting",
+        "soft light",
+        "lighting fixture",
+        "interior design",
+        "quality materials",
+        "functional decor",
+        "warm glow",
+        "ambient lighting",
+        "versatile lamp",
+        "unique design",
+        "modern sophistication",
+        "elegant home accents",
+        "lighting solution"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:18.000Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-5",
+    "sku": "LGT-TL-005",
+    "name": "Wooden Accent Table Lamp",
+    "description": "Natural wood base table lamp with fabric shade",
+    "price": 99.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-5.jpeg"
+    ],
+    "primaryImage": "table-lamp-5.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Olive Green",
+        "Warm Beige"
+      ],
+      "material": [
+        "Ceramic",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "wooden",
+      "natural",
+      "scandinavian",
+      "rustic",
+      "accent",
+      "table lamp",
+      "ceramic",
+      "fabric shade",
+      "modern",
+      "contemporary",
+      "ambient lighting",
+      "home decor",
+      "living room",
+      "bedroom",
+      "office",
+      "elegant",
+      "stylish",
+      "green",
+      "beige",
+      "glossy finish",
+      "stacked design",
+      "unique",
+      "durable",
+      "cozy atmosphere",
+      "decorative",
+      "wooden accent table lamp",
+      "rustic table lamp",
+      "modern table lamp",
+      "wood base lamp",
+      "beige shade lamp",
+      "living room lighting",
+      "bedroom lamp",
+      "office lamp",
+      "home decor lamp",
+      "elegant table lamp",
+      "stylish lamp",
+      "unique design lamp",
+      "durable lamp",
+      "cozy atmosphere lamp",
+      "decorative table lamp",
+      "rustic charm lamp",
+      "modern elegance lamp",
+      "natural finish lamp",
+      "timeless appeal lamp",
+      "wood grain lamp",
+      "reading lamp",
+      "quiet evening lamp",
+      "sophisticated decor lamp",
+      "warm inviting ambiance lamp",
+      "sturdy design lamp"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 35,
+      "rating": 4.4,
+      "reviewCount": 87,
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Charming wooden accent table lamp with a natural finish and beige fabric shade.",
+      "long": "Illuminate your space with the Wooden Accent Table Lamp, a perfect blend of rustic charm and modern elegance. This lamp features a beautifully crafted wooden base with a natural finish that highlights the wood's unique grains. Topped with a soft beige fabric shade, it diffuses light gently, creating a warm and inviting ambiance ideal for any living room, bedroom, or office. Its sturdy design ensures long-lasting durability while adding a touch of sophistication to your decor. Whether you're reading a book or enjoying a quiet evening, this lamp is sure to enhance your space with its timeless appeal.",
+      "features": [
+        "Natural wooden base",
+        "Soft beige fabric shade",
+        "Warm ambient lighting",
+        "Rustic and modern design",
+        "Durable construction",
+        "Ideal for various room settings",
+        "Enhances decor with elegance"
+      ],
+      "careInstructions": "Dust the wooden base regularly with a dry cloth. Clean the fabric shade with a lint roller or vacuum using an upholstery attachment.",
+      "materialComposition": "Solid wood base, polyester fabric shade"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Olive Green",
+          "hex": "#808000",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Beige",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "glossy",
+      "finish": "gloss",
+      "shape": "organic",
+      "silhouette": "Stacked cylindrical form with a tapered shade"
+    },
+    "seo": {
+      "metaTitle": "Wooden Accent Table Lamp - Rustic Charm & Modern Elegance",
+      "metaDescription": "Enhance your decor with the Wooden Accent Table Lamp, featuring a natural wooden base and beige shade. Perfect for living rooms, bedrooms, or offices. Buy now!",
+      "altText": "Elegant Wooden Accent Table Lamp with a rustic wooden base and beige fabric shade.",
+      "keywords": [
+        "wooden accent table lamp",
+        "rustic table lamp",
+        "modern table lamp",
+        "wood base lamp",
+        "beige shade lamp",
+        "living room lighting",
+        "bedroom lamp",
+        "office lamp",
+        "home decor lamp",
+        "elegant table lamp",
+        "stylish lamp",
+        "ambient lighting",
+        "unique design lamp",
+        "durable lamp",
+        "cozy atmosphere lamp",
+        "decorative table lamp",
+        "rustic charm lamp",
+        "modern elegance lamp",
+        "natural finish lamp",
+        "timeless appeal lamp",
+        "wood grain lamp",
+        "reading lamp",
+        "quiet evening lamp",
+        "sophisticated decor lamp",
+        "warm inviting ambiance lamp",
+        "sturdy design lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:21.489Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-6",
+    "sku": "LGT-TL-006",
+    "name": "Marble Cylinder Table Lamp",
+    "description": "Sleek marble cylinder lamp with gold trim",
+    "price": 179.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-6.jpg"
+    ],
+    "primaryImage": "table-lamp-6.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Off-White",
+        "Slate Gray"
+      ],
+      "material": [
+        "Metal",
+        "Ceramic",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Decorative"
+      ]
+    },
+    "tags": [
+      "marble",
+      "cylinder",
+      "luxury",
+      "gold",
+      "modern",
+      "modern lamp",
+      "table lamp",
+      "ribbed shade",
+      "integrated planter",
+      "gray frame",
+      "contemporary design",
+      "home decor",
+      "lighting",
+      "plant holder",
+      "ambient light",
+      "office lamp",
+      "bedroom lamp",
+      "living room lamp",
+      "unique design",
+      "stylish lamp",
+      "ceramic planter",
+      "fabric shade",
+      "metal frame",
+      "matte finish",
+      "cylindrical shape",
+      "angular silhouette",
+      "decorative lighting",
+      "greenery",
+      "Marble Cylinder Table Lamp",
+      "modern table lamp",
+      "elegant lighting",
+      "contemporary decor",
+      "unique lamp design",
+      "modern interiors",
+      "lighting with planter",
+      "minimalist lamp",
+      "warm ambiance",
+      "statement piece",
+      "sophisticated lighting"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 15,
+      "rating": 4.8,
+      "reviewCount": 67,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Sleek marble table lamp with cylindrical design and warm glow.",
+      "long": "Illuminate your home with the Marble Cylinder Table Lamp, a stunning blend of elegance and modern flair. Its cylindrical marble base adds a touch of sophistication, while the fabric shade softly diffuses light to create a warm, inviting atmosphere in any room. Perfect for a bedroom nightstand or living room side table, the lamp's minimalist design complements both contemporary and classic decor. Its subtle textures and hues provide a versatile style that seamlessly integrates into your space, offering not just illumination, but a statement piece that elevates your home’s aesthetic.",
+      "features": [
+        "Elegant cylindrical marble base",
+        "Soft fabric shade for warm lighting",
+        "Modern minimalist design",
+        "Versatile for bedroom or living room",
+        "Sophisticated blend of textures",
+        "Perfect for contemporary or classic decor"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid harsh cleaning agents to preserve the marble finish.",
+      "materialComposition": "Natural marble base, fabric shade, metal fittings"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Off-White",
+          "hex": "#F5F5F5",
+          "category": "primary"
+        },
+        {
+          "name": "Slate Gray",
+          "hex": "#708090",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "ribbed",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "cylindrical",
+      "silhouette": "angular with integrated planter"
+    },
+    "seo": {
+      "metaTitle": "Marble Cylinder Table Lamp - Elegant Lighting & Modern Flair",
+      "metaDescription": "Illuminate your space with the Marble Cylinder Table Lamp. Its elegant marble base and soft fabric shade create a warm ambiance. Perfect for any decor. Shop now!",
+      "altText": "Modern table lamp with ribbed off-white shade and integrated planter on a sleek gray frame.",
+      "keywords": [
+        "Marble Cylinder Table Lamp",
+        "modern table lamp",
+        "elegant lighting",
+        "contemporary decor",
+        "ribbed shade",
+        "integrated planter",
+        "gray frame",
+        "home decor",
+        "ambient light",
+        "bedroom lamp",
+        "living room lamp",
+        "office lamp",
+        "unique lamp design",
+        "stylish lamp",
+        "ceramic planter",
+        "fabric shade",
+        "metal frame",
+        "matte finish",
+        "cylindrical shape",
+        "angular silhouette",
+        "decorative lighting",
+        "modern interiors",
+        "lighting with planter",
+        "minimalist lamp",
+        "warm ambiance",
+        "statement piece",
+        "sophisticated lighting"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:30.781Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-7",
+    "sku": "LGT-TL-007",
+    "name": "Tiffany Style Table Lamp",
+    "description": "Colorful stained glass Tiffany-style lamp",
+    "price": 229.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-7.jpg"
+    ],
+    "primaryImage": "table-lamp-7.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Beige",
+        "Ivory"
+      ],
+      "material": [
+        "Ceramic",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Traditional"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "tiffany",
+      "stained glass",
+      "art nouveau",
+      "colorful",
+      "vintage",
+      "table lamp",
+      "ceramic base",
+      "fabric shade",
+      "pineapple design",
+      "ambient lighting",
+      "modern decor",
+      "traditional style",
+      "beige lamp",
+      "elegant lighting",
+      "home decor",
+      "bedroom lamp",
+      "living room lighting",
+      "office lamp",
+      "unique design",
+      "compact lamp",
+      "Tiffany Style Table Lamp",
+      "stained glass lamp",
+      "antique finish lamp",
+      "elegant table lamp",
+      "home lighting",
+      "living room lamp",
+      "bedroom lighting",
+      "study area lamp",
+      "decorative lamp",
+      "artistic table lamp",
+      "hand-crafted lamp",
+      "colorful stained glass",
+      "cozy ambiance lamp",
+      "sophisticated lighting",
+      "metal base lamp",
+      "vintage style lamp",
+      "unique design lamp",
+      "warm glow lamp",
+      "statement piece lighting",
+      "artistic home decor",
+      "classic table lamp",
+      "timeless appeal lamp",
+      "functional art lamp",
+      "hand-crafted glass lamp",
+      "elegant home decor",
+      "artistic lighting",
+      "decorative home lighting",
+      "statement table lamp",
+      "warm ambient lighting"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 12,
+      "rating": 4.9,
+      "reviewCount": 98,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the vibrant Tiffany Style Table Lamp.",
+      "long": "The Tiffany Style Table Lamp is a splendid fusion of art and functionality, featuring a hand-crafted stained glass shade that bursts with a kaleidoscope of colors. Its rich, warm glow brings a comforting ambiance to any room, perfect for cozy evenings or sophisticated gatherings. The lamp’s sturdy metal base provides durability and an antique finish, enhancing its timeless appeal. Ideal for living rooms, bedrooms, or study areas, this lamp is a statement piece that captivates attention and inspires warmth and elegance in your decor.",
+      "features": [
+        "Hand-crafted stained glass shade",
+        "Antique finish metal base",
+        "Warm ambient lighting",
+        "Vibrant color palette",
+        "Timeless design",
+        "Perfect for various room settings"
+      ],
+      "careInstructions": "Clean the stained glass shade gently with a damp cloth to maintain its vivid colors. Avoid using harsh chemicals on the metal base.",
+      "materialComposition": "Stained glass shade with a metal base"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Beige",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Compact with a rounded base and tapered shade"
+    },
+    "seo": {
+      "metaTitle": "Tiffany Style Table Lamp with Stained Glass Shade",
+      "metaDescription": "Illuminate your home with the Tiffany Style Table Lamp. Its stained glass shade and antique finish add elegance. Order now for a cozy ambiance!",
+      "altText": "Tiffany Style Table Lamp with stained glass shade and antique finish",
+      "keywords": [
+        "Tiffany Style Table Lamp",
+        "stained glass lamp",
+        "antique finish lamp",
+        "elegant table lamp",
+        "home lighting",
+        "living room lamp",
+        "bedroom lighting",
+        "study area lamp",
+        "decorative lamp",
+        "artistic table lamp",
+        "hand-crafted lamp",
+        "colorful stained glass",
+        "cozy ambiance lamp",
+        "sophisticated lighting",
+        "metal base lamp",
+        "vintage style lamp",
+        "unique design lamp",
+        "warm glow lamp",
+        "statement piece lighting",
+        "artistic home decor",
+        "classic table lamp",
+        "timeless appeal lamp",
+        "functional art lamp",
+        "hand-crafted glass lamp",
+        "elegant home decor",
+        "artistic lighting",
+        "decorative home lighting",
+        "statement table lamp",
+        "warm ambient lighting"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:35.514Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-8",
+    "sku": "LGT-TL-008",
+    "name": "Touch Dimmer Table Lamp",
+    "description": "Modern touch-activated lamp with three brightness levels",
+    "price": 79.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-8.jpg"
+    ],
+    "primaryImage": "table-lamp-8.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Cream",
+        "Brass"
+      ],
+      "material": [
+        "Metal",
+        "Fabric"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Bedroom",
+        "Office",
+        "Nightstand"
+      ],
+      "occasion": [
+        "Everyday",
+        "Reading"
+      ]
+    },
+    "tags": [
+      "touch dimmer",
+      "modern",
+      "bedside",
+      "adjustable",
+      "minimalist",
+      "reading light",
+      "office lamp",
+      "compact",
+      "elegant",
+      "versatile",
+      "ambient lighting",
+      "task lighting",
+      "flexible neck",
+      "cream shade",
+      "brass accent",
+      "space-saving",
+      "sleek design",
+      "three brightness levels",
+      "decorative",
+      "functional",
+      "stylish",
+      "contemporary",
+      "small spaces",
+      "home office",
+      "nightstand lamp",
+      "easy adjustment",
+      "soft lighting",
+      "sophisticated",
+      "touch dimmer lamp",
+      "modern lighting",
+      "bedside lamp",
+      "adjustable neck",
+      "minimalist design",
+      "compact lamp",
+      "elegant lighting",
+      "versatile lamp",
+      "cream shade lamp",
+      "brass accent lamp",
+      "space-saving lamp",
+      "sleek design lamp",
+      "decorative lamp",
+      "functional lighting",
+      "stylish lamp",
+      "contemporary lighting",
+      "small space lamp",
+      "home office lighting",
+      "easy adjustment lighting",
+      "sophisticated lamp"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 50,
+      "rating": 4.5,
+      "reviewCount": 234,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish touch dimmer table lamp with adjustable brass neck and cream shade.",
+      "long": "Illuminate your space with the Touch Dimmer Table Lamp, a blend of elegance and functionality. Its sleek design features a smooth cream-colored shade paired with a flexible brass-toned neck, perfect for adjusting light direction effortlessly. Whether placed on a bedside table or an office desk, this lamp's minimalist aesthetic complements any decor style. The touch-activated dimmer offers three brightness levels, making it ideal for creating ambient lighting or focused task lighting. Compact yet impactful, it enhances small spaces with sophistication and practicality, ensuring it's not just a source of light but a stylish statement piece.",
+      "features": [
+        "Touch-activated dimmer for easy light adjustment",
+        "Adjustable brass-toned neck for directional lighting",
+        "Minimalist cream-colored shade complements any decor",
+        "Compact design perfect for small spaces",
+        "Three brightness levels for versatile lighting options",
+        "Sleek and modern aesthetic"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid using harsh chemicals or abrasive cleaners.",
+      "materialComposition": "Metal base and neck with fabric shade"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "primary"
+        },
+        {
+          "name": "Brass",
+          "hex": "#B5A642",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "sleek with adjustable neck"
+    },
+    "seo": {
+      "metaTitle": "Touch Dimmer Table Lamp - Elegant & Adjustable Lighting",
+      "metaDescription": "Illuminate your space with the Touch Dimmer Table Lamp. Its sleek design and touch-activated dimmer offer versatility. Perfect for any decor style. Shop now!",
+      "altText": "Elegant touch dimmer table lamp with cream shade and adjustable brass neck for versatile lighting.",
+      "keywords": [
+        "touch dimmer lamp",
+        "modern lighting",
+        "bedside lamp",
+        "adjustable neck",
+        "minimalist design",
+        "reading light",
+        "office lamp",
+        "compact lamp",
+        "elegant lighting",
+        "versatile lamp",
+        "ambient lighting",
+        "task lighting",
+        "flexible neck",
+        "cream shade lamp",
+        "brass accent lamp",
+        "space-saving lamp",
+        "sleek design lamp",
+        "three brightness levels",
+        "decorative lamp",
+        "functional lighting",
+        "stylish lamp",
+        "contemporary lighting",
+        "small space lamp",
+        "home office lighting",
+        "nightstand lamp",
+        "easy adjustment lighting",
+        "soft lighting",
+        "sophisticated lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:45.650Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "table-lamp-9",
+    "sku": "LGT-TL-009",
+    "name": "Sculptural Art Table Lamp",
+    "description": "Abstract sculptural lamp doubling as art piece",
+    "price": 249.99,
+    "currency": "USD",
+    "images": [
+      "table-lamp-9.jpg"
+    ],
+    "primaryImage": "table-lamp-9.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Table Lamp",
+        "slug": "table-lamp"
+      },
+      "productType": "Table Lamp"
+    },
+    "attributes": {
+      "color": [
+        "Teal"
+      ],
+      "material": [
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Task Lighting"
+      ]
+    },
+    "tags": [
+      "sculptural",
+      "art piece",
+      "abstract",
+      "contemporary",
+      "statement",
+      "table lamp",
+      "teal lamp",
+      "adjustable lamp",
+      "modern lighting",
+      "contemporary decor",
+      "task lighting",
+      "metal lamp",
+      "sculptural design",
+      "statement piece",
+      "home office",
+      "living room lighting",
+      "stylish lamp",
+      "decorative lamp",
+      "artistic lamp",
+      "minimalist lamp",
+      "colorful lamp",
+      "interior design",
+      "home decor",
+      "lighting fixture",
+      "adjustable arm lamp",
+      "desk lamp",
+      "reading lamp",
+      "workspace lighting",
+      "accent lamp",
+      "designer lamp",
+      "unique lamp",
+      "functional lamp",
+      "durable lamp",
+      "Sculptural Art Table Lamp",
+      "Teal Table Lamp",
+      "Adjustable Arm Lamp",
+      "Modern Lighting",
+      "Contemporary Decor",
+      "Task Lighting",
+      "Metal Lamp",
+      "Sculptural Design",
+      "Statement Piece",
+      "Home Office Lamp",
+      "Living Room Lighting",
+      "Stylish Lamp",
+      "Decorative Lamp",
+      "Artistic Lamp",
+      "Minimalist Lamp",
+      "Colorful Lamp",
+      "Interior Design",
+      "Home Decor",
+      "Lighting Fixture",
+      "Desk Lamp",
+      "Reading Lamp",
+      "Workspace Lighting",
+      "Accent Lamp",
+      "Designer Lamp",
+      "Unique Lamp",
+      "Functional Lamp",
+      "Durable Lamp"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 8,
+      "rating": 4.7,
+      "reviewCount": 45,
+      "createdAt": "2024-01-24T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with this sculptural teal table lamp featuring an adjustable arm for perfect lighting.",
+      "long": "Illuminate your home with the Sculptural Art Table Lamp, a masterpiece of modern design and functionality. This stunning lamp is finished in a vibrant teal, adding a pop of color to any room while complementing contemporary decor. Its sleek, angular shape and smooth gloss finish make it both a functional lighting solution and a statement art piece. The adjustable arm provides versatile positioning, ideal for reading or task lighting in a living room or home office. Crafted from sturdy metal, this lamp promises durability and style, effortlessly enhancing your interior design. Its minimalist silhouette ensures it blends seamlessly with any aesthetic, making it a must-have for those who appreciate artistic yet practical home decor.",
+      "features": [
+        "Adjustable arm for customizable lighting",
+        "Vibrant teal color for a stylish accent",
+        "Durable metal construction for longevity",
+        "Sleek, sculptural design adds artistic flair",
+        "Gloss finish enhances modern aesthetic",
+        "Ideal for living rooms, offices, or study areas"
+      ],
+      "careInstructions": "To maintain its sleek appearance, wipe the lamp with a soft, damp cloth regularly. Avoid using harsh chemicals or abrasive materials that could damage the finish.",
+      "materialComposition": "Constructed from high-quality metal with a painted teal gloss finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Teal",
+          "hex": "#008080",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "gloss",
+      "shape": "angular",
+      "silhouette": "Adjustable arm with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Sculptural Art Table Lamp - Teal Finish & Adjustable Arm",
+      "metaDescription": "Illuminate your space with our Sculptural Art Table Lamp. Featuring a modern teal finish and adjustable arm, it's perfect for stylish, versatile lighting. Shop now!",
+      "altText": "Stylish teal table lamp with adjustable arm and modern design, perfect for task lighting.",
+      "keywords": [
+        "Sculptural Art Table Lamp",
+        "Teal Table Lamp",
+        "Adjustable Arm Lamp",
+        "Modern Lighting",
+        "Contemporary Decor",
+        "Task Lighting",
+        "Metal Lamp",
+        "Sculptural Design",
+        "Statement Piece",
+        "Home Office Lamp",
+        "Living Room Lighting",
+        "Stylish Lamp",
+        "Decorative Lamp",
+        "Artistic Lamp",
+        "Minimalist Lamp",
+        "Colorful Lamp",
+        "Interior Design",
+        "Home Decor",
+        "Lighting Fixture",
+        "Desk Lamp",
+        "Reading Lamp",
+        "Workspace Lighting",
+        "Accent Lamp",
+        "Designer Lamp",
+        "Unique Lamp",
+        "Functional Lamp",
+        "Durable Lamp"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:51.907Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-1",
+    "sku": "LGT-WS-001",
+    "name": "Industrial Swing Arm Sconce",
+    "description": "Adjustable industrial wall sconce with swing arm",
+    "price": 89.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-1.jpeg"
+    ],
+    "primaryImage": "wall-sconce-1.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Olive Green",
+        "Warm Brass",
+        "Natural Wood"
+      ],
+      "material": [
+        "Brass",
+        "Ceramic",
+        "Wood"
+      ],
+      "style": [
+        "Industrial",
+        "Vintage"
+      ],
+      "room": [
+        "Bedroom",
+        "Office",
+        "Living Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Reading"
+      ]
+    },
+    "tags": [
+      "swing arm",
+      "industrial",
+      "adjustable",
+      "wall sconce",
+      "vintage",
+      "brass",
+      "green shade",
+      "wood mount",
+      "elegant lighting",
+      "modern decor",
+      "ambient lighting",
+      "reading nook",
+      "home decor",
+      "interior design",
+      "stylish",
+      "durable",
+      "versatile",
+      "sleek design",
+      "high-quality materials",
+      "living room lighting",
+      "office lighting",
+      "bedroom lighting",
+      "decorative sconce",
+      "unique style",
+      "contemporary",
+      "classic",
+      "home improvement",
+      "lighting fixture",
+      "wall-mounted",
+      "space-saving",
+      "functional",
+      "decorative",
+      "industrial swing arm sconce",
+      "adjustable wall sconce",
+      "vintage lighting",
+      "brass and green sconce",
+      "decorative wall lighting",
+      "elegant lighting fixture",
+      "home decor lighting",
+      "reading nook light",
+      "modern decor sconce",
+      "stylish wall mount light",
+      "high-quality sconce",
+      "interior design lighting",
+      "office wall sconce",
+      "bedroom lighting fixture",
+      "unique style sconce",
+      "contemporary wall light",
+      "classic wall sconce",
+      "home improvement lighting",
+      "space-saving wall light",
+      "functional wall sconce",
+      "decorative lighting fixture",
+      "olive green and brass sconce",
+      "wood mount wall light",
+      "versatile lighting options",
+      "sleek design sconce",
+      "durable lighting fixture",
+      "vintage decor sconce",
+      "modern industrial sconce"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 40,
+      "rating": 4.6,
+      "reviewCount": 189,
+      "createdAt": "2024-01-08T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant industrial swing arm sconce with a brass finish and green shade.",
+      "long": "Illuminate your space with the Industrial Swing Arm Sconce, a harmonious blend of style and functionality. This sconce features a warm brass arm paired with a deep olive green ceramic shade, exuding a sophisticated charm. The wooden wall mount adds a touch of rustic elegance, complementing both modern and vintage decor styles. Its adjustable swing arm offers customizable lighting, perfect for creating cozy reading nooks or enhancing ambient lighting in your living room or office. Crafted with high-quality materials, this sconce promises durability while elevating your interior aesthetic.",
+      "features": [
+        "Adjustable swing arm for versatile lighting",
+        "Deep olive green ceramic shade",
+        "Warm brass finish for a vintage touch",
+        "Sturdy wooden wall mount",
+        "Ideal for modern and vintage decor",
+        "High-quality materials ensure durability",
+        "Space-saving wall-mounted design"
+      ],
+      "careInstructions": "Clean gently with a soft, dry cloth. Avoid harsh chemicals or abrasive cleaners to preserve the finish.",
+      "materialComposition": "Brass arm, ceramic shade, wooden mount"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Olive Green",
+          "hex": "#556B2F",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Brass",
+          "hex": "#B8860B",
+          "category": "accent"
+        },
+        {
+          "name": "Natural Wood",
+          "hex": "#D2B48C",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "curved",
+      "silhouette": "sleek with a curved arm and dome shade"
+    },
+    "seo": {
+      "metaTitle": "Industrial Swing Arm Sconce - Adjustable Lighting & Style",
+      "metaDescription": "Enhance your decor with the Industrial Swing Arm Sconce. Adjustable arm and elegant design make it perfect for any space. Order now for stylish lighting!",
+      "altText": "Industrial swing arm sconce with olive green shade and brass arm on wooden mount.",
+      "keywords": [
+        "industrial swing arm sconce",
+        "adjustable wall sconce",
+        "vintage lighting",
+        "brass and green sconce",
+        "decorative wall lighting",
+        "elegant lighting fixture",
+        "home decor lighting",
+        "reading nook light",
+        "ambient lighting",
+        "modern decor sconce",
+        "stylish wall mount light",
+        "high-quality sconce",
+        "interior design lighting",
+        "living room lighting",
+        "office wall sconce",
+        "bedroom lighting fixture",
+        "unique style sconce",
+        "contemporary wall light",
+        "classic wall sconce",
+        "home improvement lighting",
+        "space-saving wall light",
+        "functional wall sconce",
+        "decorative lighting fixture",
+        "olive green and brass sconce",
+        "wood mount wall light",
+        "versatile lighting options",
+        "sleek design sconce",
+        "durable lighting fixture",
+        "vintage decor sconce",
+        "modern industrial sconce"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:57:58.470Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-2",
+    "sku": "LGT-WS-002",
+    "name": "Crystal Wall Sconce",
+    "description": "Elegant crystal wall sconce with chrome finish",
+    "price": 149.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-2.jpeg"
+    ],
+    "primaryImage": "wall-sconce-2.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Warm Chestnut Brown",
+        "Frosted White"
+      ],
+      "material": [
+        "Wood",
+        "Frosted Glass"
+      ],
+      "style": [
+        "Contemporary",
+        "Scandinavian"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "crystal",
+      "glamorous",
+      "chrome",
+      "elegant",
+      "wall sconce",
+      "modern lighting",
+      "wooden sconce",
+      "ambient light",
+      "frosted glass",
+      "contemporary decor",
+      "Scandinavian style",
+      "wall mounted",
+      "warm glow",
+      "minimalist design",
+      "elegant lighting",
+      "organic shape",
+      "bedroom lighting",
+      "hallway light",
+      "living room decor",
+      "soft illumination",
+      "easy installation",
+      "natural materials",
+      "stylish sconce",
+      "home lighting",
+      "interior design",
+      "Crystal Wall Sconce",
+      "smooth texture",
+      "matte finish",
+      "organic silhouette",
+      "warm chestnut brown",
+      "frosted white globe"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 25,
+      "rating": 4.8,
+      "reviewCount": 112,
+      "createdAt": "2024-01-10T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant wall sconce with a warm glow and organic wooden base.",
+      "long": "Illuminate your space with the Crystal Wall Sconce, an exquisite blend of contemporary and Scandinavian design. This stunning fixture features a smooth, organic-shaped wooden base in a warm chestnut brown, perfectly paired with a frosted white glass globe. As the light filters through, it creates a soft, warm glow, transforming any room into a serene oasis. Ideal for hallways, bedrooms, or living rooms, this sconce adds a sophisticated touch of warmth and elegance to your decor. Easy to mount, it's designed for effortless installation and timeless appeal, making it an essential addition to modern interiors.",
+      "features": [
+        "Smooth organic wooden base",
+        "Frosted glass globe for soft illumination",
+        "Warm ambient lighting to enhance mood",
+        "Minimalist, elegant design",
+        "Quick and easy wall mounting",
+        "Perfect for contemporary and Scandinavian styles",
+        "Versatile use in various rooms"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid harsh chemicals or abrasive materials on the wooden base.",
+      "materialComposition": "Wooden base in warm chestnut brown with frosted glass globe"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Chestnut Brown",
+          "hex": "#8B4513",
+          "category": "primary"
+        },
+        {
+          "name": "Frosted White",
+          "hex": "#F5F5F5",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Organic shape with a rounded globe"
+    },
+    "seo": {
+      "metaTitle": "Crystal Wall Sconce - Modern Lighting with Warm Glow",
+      "metaDescription": "Illuminate your home with the Crystal Wall Sconce. Experience the elegance of Scandinavian design and effortless installation. Perfect for any room!",
+      "altText": "Elegant Crystal Wall Sconce with organic wooden base and frosted glass globe emitting warm ambient light.",
+      "keywords": [
+        "Crystal Wall Sconce",
+        "modern lighting",
+        "wooden sconce",
+        "ambient light",
+        "frosted glass",
+        "contemporary decor",
+        "Scandinavian style",
+        "wall mounted",
+        "warm glow",
+        "minimalist design",
+        "elegant lighting",
+        "organic shape",
+        "bedroom lighting",
+        "hallway light",
+        "living room decor",
+        "soft illumination",
+        "easy installation",
+        "natural materials",
+        "stylish sconce",
+        "home lighting",
+        "interior design",
+        "smooth texture",
+        "matte finish",
+        "organic silhouette",
+        "warm chestnut brown",
+        "frosted white globe"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:03.033Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-3",
+    "sku": "LGT-WS-003",
+    "name": "Modern Globe Sconce",
+    "description": "Minimalist globe wall sconce with brass hardware",
+    "price": 79.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-3.jpeg"
+    ],
+    "primaryImage": "wall-sconce-3.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Warm Brass",
+        "Soft Beige",
+        "Matte Black"
+      ],
+      "material": [
+        "Brass",
+        "Fabric",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Bathroom",
+        "Bedroom",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "globe",
+      "modern",
+      "minimalist",
+      "brass",
+      "white",
+      "wall sconce",
+      "modern lighting",
+      "brass hardware",
+      "pleated shade",
+      "minimalist design",
+      "ambient lighting",
+      "task lighting",
+      "bathroom light",
+      "bedroom light",
+      "hallway light",
+      "elegant lighting",
+      "contemporary decor",
+      "luxury lighting",
+      "fabric shade",
+      "metal arm",
+      "warm brass",
+      "soft beige",
+      "matte black",
+      "angular design",
+      "slim profile",
+      "versatile light",
+      "stylish sconce",
+      "decorative lighting",
+      "home lighting",
+      "interior design",
+      "lighting fixture",
+      "decor accent",
+      "modern sconce",
+      "minimalist sconce",
+      "brass sconce",
+      "fabric sconce",
+      "black sconce",
+      "elegant sconce",
+      "ambient sconce",
+      "task sconce",
+      "bathroom sconce",
+      "bedroom sconce",
+      "hallway sconce",
+      "modern globe sconce",
+      "elegant wall sconce",
+      "brass lighting fixture",
+      "black metal arm",
+      "pleated shade lighting",
+      "bathroom light fixture",
+      "bedroom lighting",
+      "decorative sconce",
+      "interior design lighting",
+      "modern minimalist sconce",
+      "brass hardware light",
+      "fabric shade sconce",
+      "stylish lighting fixture",
+      "versatile home lighting",
+      "warm brass finish",
+      "matte black accent",
+      "angular design sconce",
+      "slim profile lighting",
+      "refined luxury sconce",
+      "ambient and task lighting",
+      "modern home decor"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 55,
+      "rating": 4.5,
+      "reviewCount": 145,
+      "createdAt": "2024-01-12T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Stylish globe sconce with brass and matte black accents for a modern touch.",
+      "long": "Illuminate your space with the Modern Globe Sconce, an embodiment of contemporary elegance. Featuring a spherical design, this sconce combines warm brass and matte black finishes to create a striking visual contrast. Its soft glow is perfect for setting a cozy atmosphere in any room, whether it's a bathroom, bedroom, or hallway. The minimalist silhouette seamlessly integrates into various decor styles, providing both ambient and task lighting. Crafted to enhance your home's aesthetic while being functional, this sconce is an ideal choice for those who appreciate refined luxury.",
+      "features": [
+        "Spherical globe design",
+        "Warm brass accents",
+        "Matte black finish",
+        "Versatile ambient lighting",
+        "Contemporary minimalist style",
+        "Easy wall installation",
+        "Durable metal construction"
+      ],
+      "careInstructions": "Wipe the surface with a soft, damp cloth to remove dust. Avoid harsh chemicals on brass and metal components.",
+      "materialComposition": "Brass accents, matte black metal frame, glass globe"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Brass",
+          "hex": "#B8860B",
+          "category": "primary"
+        },
+        {
+          "name": "Soft Beige",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        },
+        {
+          "name": "Matte Black",
+          "hex": "#2F2F2F",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "angular",
+      "silhouette": "Slim profile with angular shade"
+    },
+    "seo": {
+      "metaTitle": "Modern Globe Sconce - Elegant Brass & Black Lighting Fixture",
+      "metaDescription": "Illuminate your home with the Modern Globe Sconce. Featuring a brass and black finish, it's perfect for creating a cozy atmosphere. Shop now for refined luxury!",
+      "altText": "Modern Globe Sconce with brass accents and pleated shade, ideal for ambient lighting in various rooms.",
+      "keywords": [
+        "modern globe sconce",
+        "elegant wall sconce",
+        "brass lighting fixture",
+        "black metal arm",
+        "pleated shade lighting",
+        "ambient lighting",
+        "task lighting",
+        "minimalist design",
+        "contemporary decor",
+        "luxury lighting",
+        "bathroom light fixture",
+        "bedroom lighting",
+        "hallway sconce",
+        "home lighting",
+        "decorative sconce",
+        "interior design lighting",
+        "modern minimalist sconce",
+        "brass hardware light",
+        "fabric shade sconce",
+        "stylish lighting fixture",
+        "versatile home lighting",
+        "warm brass finish",
+        "matte black accent",
+        "angular design sconce",
+        "slim profile lighting",
+        "refined luxury sconce",
+        "ambient and task lighting",
+        "modern home decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:12.923Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-4",
+    "sku": "LGT-WS-004",
+    "name": "Art Deco Sconce",
+    "description": "Geometric art deco wall sconce with frosted glass",
+    "price": 129.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-4.jpeg"
+    ],
+    "primaryImage": "wall-sconce-4.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Gold",
+        "Frosted White"
+      ],
+      "material": [
+        "Metal",
+        "Glass"
+      ],
+      "style": [
+        "Art Deco",
+        "Glamorous"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Foyer"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "art deco",
+      "geometric",
+      "gold",
+      "frosted glass",
+      "glamorous",
+      "wall sconce",
+      "ambient lighting",
+      "luxury lighting",
+      "home decor",
+      "interior design",
+      "modern lighting",
+      "elegant",
+      "stylish",
+      "sophisticated",
+      "living room lighting",
+      "dining room lighting",
+      "foyer lighting",
+      "metal frame",
+      "glass globes",
+      "vertical design",
+      "spherical elements",
+      "brushed finish",
+      "smooth texture",
+      "Art Deco sconce",
+      "geometric design",
+      "frosted glass globes",
+      "gold finish",
+      "wall-mounted light",
+      "stylish lighting",
+      "sophisticated decor",
+      "elegant wall sconce",
+      "glamorous lighting",
+      "metal frame light",
+      "glass globe lighting",
+      "vertical design light",
+      "art deco style",
+      "luxurious allure",
+      "refined elegance",
+      "vintage-inspired charm",
+      "modern decor accent",
+      "sophisticated interiors"
+    ],
+    "metadata": {
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 18,
+      "rating": 4.7,
+      "reviewCount": 78,
+      "createdAt": "2024-01-14T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant Art Deco sconce with frosted glass globes and glamorous gold finish.",
+      "long": "Illuminate your space with the luxurious allure of the Art Deco Sconce. This wall-mounted fixture boasts a captivating geometric design, featuring frosted glass globes that offer a gentle, ambient glow. The sconce is adorned with a brushed gold finish, adding a sophisticated touch to any room. Perfect for living rooms, dining rooms, or foyers, its seamless blend of style and function transforms interiors with a sense of refined elegance. Whether accentuating a modern decor or adding a vintage-inspired charm, this sconce is a stunning addition that elevates your lighting game.",
+      "features": [
+        "Elegant Art Deco geometric design",
+        "Soft glow from frosted glass globes",
+        "Glamorous brushed gold finish",
+        "Wall-mounted for versatile placement",
+        "Ideal for living, dining, or foyer spaces",
+        "Enhances sophisticated interiors",
+        "Combines style with functionality"
+      ],
+      "careInstructions": "Gently wipe with a soft, dry cloth to maintain shine. Avoid harsh chemicals or abrasive cleaning materials.",
+      "materialComposition": "Crafted with a durable metal frame and frosted glass globes for a luxurious finish."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Gold",
+          "hex": "#D4AF37",
+          "category": "primary"
+        },
+        {
+          "name": "Frosted White",
+          "hex": "#F5F5F5",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "brushed",
+      "shape": "organic",
+      "silhouette": "Vertical with spherical elements"
+    },
+    "seo": {
+      "metaTitle": "Art Deco Sconce - Luxurious Gold Finish & Ambient Glow",
+      "metaDescription": "Transform your space with the Art Deco Sconce. Enjoy ambient lighting and a sophisticated gold finish. Perfect for any stylish room. Buy now!",
+      "altText": "Elegant Art Deco sconce with frosted glass globes and gold finish.",
+      "keywords": [
+        "Art Deco sconce",
+        "luxury lighting",
+        "geometric design",
+        "frosted glass globes",
+        "gold finish",
+        "ambient lighting",
+        "wall-mounted light",
+        "living room lighting",
+        "dining room lighting",
+        "foyer lighting",
+        "stylish lighting",
+        "sophisticated decor",
+        "modern lighting",
+        "elegant wall sconce",
+        "home decor",
+        "interior design",
+        "glamorous lighting",
+        "metal frame light",
+        "glass globe lighting",
+        "vertical design light",
+        "spherical elements",
+        "brushed finish",
+        "smooth texture",
+        "art deco style",
+        "luxurious allure",
+        "refined elegance",
+        "vintage-inspired charm",
+        "modern decor accent",
+        "sophisticated interiors"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:15.240Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-5",
+    "sku": "LGT-WS-005",
+    "name": "Fabric Shade Wall Sconce",
+    "description": "Classic fabric shade wall sconce for ambient lighting",
+    "price": 99.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-5.jpeg"
+    ],
+    "primaryImage": "wall-sconce-5.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Warm Bronze",
+        "Beige"
+      ],
+      "material": [
+        "Fabric",
+        "Bronze Metal"
+      ],
+      "style": [
+        "Traditional",
+        "Classic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Hallway"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxing"
+      ]
+    },
+    "tags": [
+      "fabric shade",
+      "traditional",
+      "classic",
+      "ambient",
+      "beige",
+      "wall sconce",
+      "ambient lighting",
+      "traditional decor",
+      "classic style",
+      "bronze finish",
+      "elegant lighting",
+      "bedroom lighting",
+      "living room lighting",
+      "hallway lighting",
+      "soft glow",
+      "warm ambiance",
+      "home decor",
+      "interior lighting",
+      "decorative sconce",
+      "beige shade",
+      "matte finish",
+      "oval design",
+      "metal base",
+      "fabric diffuser",
+      "cozy atmosphere",
+      "lighting fixture",
+      "wall-mounted",
+      "ambient glow",
+      "stylish lighting",
+      "classic elegance",
+      "bronze metal",
+      "decor accent",
+      "lighting solution",
+      "home lighting",
+      "sconce light",
+      "traditional lighting",
+      "classic lighting",
+      "bronze sconce",
+      "fabric lighting",
+      "soft lighting",
+      "warm lighting",
+      "decorative lighting",
+      "interior design",
+      "lighting decor",
+      "ambient sconce",
+      "classic wall sconce",
+      "Fabric Shade Wall Sconce"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 32,
+      "rating": 4.4,
+      "reviewCount": 98,
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Chic wall sconce with warm bronze finish and fabric shade, perfect for ambient living room or bedroom lighting.",
+      "long": "Illuminate your home with the exquisite Fabric Shade Wall Sconce, designed to bring a touch of elegance and warmth to your space. Featuring a sophisticated warm bronze finish paired with a soft fabric shade, this sconce provides a gentle, ambient glow that effortlessly enhances any room's atmosphere. Perfect for traditional and classic interiors, it complements bedrooms, living rooms, and hallways with its subtle yet stylish design. The oval silhouette and smooth texture add a layer of refinement, while the fabric shade softly diffuses light, creating a cozy and inviting environment. Transform your living space into a haven of tranquility with this versatile lighting solution.",
+      "features": [
+        "Warm bronze matte finish",
+        "Soft fabric shade for diffused lighting",
+        "Elegantly complements traditional and classic decor",
+        "Ideal for living rooms, bedrooms, and hallways",
+        "Oval shape with a slim profile",
+        "Provides a cozy, ambient glow"
+      ],
+      "careInstructions": "Dust regularly with a soft cloth. Avoid using harsh chemicals on the fabric shade to maintain its quality.",
+      "materialComposition": "Bronze metal base with a fabric shade"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Bronze",
+          "hex": "#8C6E58",
+          "category": "primary"
+        },
+        {
+          "name": "Beige",
+          "hex": "#F5F5DC",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "oval",
+      "silhouette": "Slim profile with an oval shape"
+    },
+    "seo": {
+      "metaTitle": "Fabric Shade Wall Sconce - Elegant Ambient Lighting Fixture",
+      "metaDescription": "Enhance your space with our Fabric Shade Wall Sconce. Experience elegance and warmth with its warm bronze finish. Ideal for bedrooms, living rooms, and hallways. Shop now!",
+      "altText": "Elegant wall sconce with warm bronze finish and fabric shade for ambient lighting.",
+      "keywords": [
+        "Fabric Shade Wall Sconce",
+        "ambient lighting",
+        "traditional decor",
+        "classic style",
+        "bronze finish",
+        "elegant lighting",
+        "bedroom lighting",
+        "living room lighting",
+        "hallway lighting",
+        "soft glow",
+        "warm ambiance",
+        "home decor",
+        "interior lighting",
+        "decorative sconce",
+        "beige shade",
+        "matte finish",
+        "oval design",
+        "metal base",
+        "fabric diffuser",
+        "cozy atmosphere",
+        "lighting fixture",
+        "wall-mounted",
+        "ambient glow",
+        "stylish lighting",
+        "classic elegance",
+        "bronze metal",
+        "home lighting",
+        "sconce light",
+        "traditional lighting",
+        "classic lighting"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:26.368Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-6",
+    "sku": "LGT-WS-006",
+    "name": "LED Picture Light",
+    "description": "Slim LED picture light for artwork and displays",
+    "price": 69.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-6.jpeg"
+    ],
+    "primaryImage": "wall-sconce-6.jpeg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Warm White",
+        "Warm Wood"
+      ],
+      "material": [
+        "Glass",
+        "Wood"
+      ],
+      "style": [
+        "Modern",
+        "Minimalist"
+      ],
+      "room": [
+        "Living Room",
+        "Gallery",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "picture light",
+      "LED",
+      "artwork",
+      "gallery",
+      "slim",
+      "LED light",
+      "ambient lighting",
+      "spherical shade",
+      "wood arm",
+      "modern lighting",
+      "minimalist design",
+      "wall-mounted",
+      "art illumination",
+      "home decor",
+      "gallery light",
+      "office light",
+      "living room light",
+      "elegant lighting",
+      "soft glow",
+      "natural materials",
+      "versatile light",
+      "warm ambiance",
+      "decorative lighting",
+      "contemporary design",
+      "interior lighting",
+      "stylish light",
+      "home lighting",
+      "art display",
+      "soft lighting",
+      "glass shade",
+      "wood finish",
+      "modern home",
+      "minimalist home",
+      "design lighting",
+      "sophisticated lighting",
+      "LED picture light",
+      "wall-mounted light"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 45,
+      "rating": 4.5,
+      "reviewCount": 67,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your art with this elegant LED picture light, featuring a sleek design and warm ambiance.",
+      "long": "Transform your living space with the sophisticated elegance of our LED Picture Light. Designed to enhance the beauty of your artwork, this fixture features a sleek, minimalist silhouette with a smooth, spherical white glass shade that casts a soft, ambient glow. The arm, crafted from warm wood, adds a touch of natural sophistication, seamlessly blending into both modern and traditional interiors. Ideal for illuminating your favorite pieces in living rooms, galleries, or offices, this versatile light enhances any environment with its stylish design and functional lighting. Whether it’s for an everyday setting or an entertaining occasion, this wall-mounted picture light will create a warm, inviting atmosphere.",
+      "features": [
+        "Spherical white glass shade",
+        "Warm wood arm for natural elegance",
+        "Soft, ambient lighting",
+        "Minimalist and sleek design",
+        "Versatile for modern and traditional spaces",
+        "Wall-mounted for easy installation",
+        "Perfect for living rooms, galleries, and offices"
+      ],
+      "careInstructions": "Gently wipe with a soft, dry cloth to maintain its pristine appearance. Avoid using harsh chemicals or abrasive materials.",
+      "materialComposition": "Crafted with a smooth glass shade and a sturdy wooden arm for lasting durability and style."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm White",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        },
+        {
+          "name": "Warm Wood",
+          "hex": "#8B4513",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "organic",
+      "silhouette": "Wall-mounted with a spherical shade and linear arm"
+    },
+    "seo": {
+      "metaTitle": "LED Picture Light - Elegant Art Illumination & Ambient Glow",
+      "metaDescription": "Enhance your artwork with our LED Picture Light's ambient glow. Sleek design, wood arm - perfect for living rooms, galleries, or offices. Order now!",
+      "altText": "Elegant LED picture light with spherical white glass shade and warm wood arm for ambient lighting.",
+      "keywords": [
+        "LED picture light",
+        "ambient lighting",
+        "spherical shade",
+        "wood arm",
+        "modern lighting",
+        "minimalist design",
+        "wall-mounted light",
+        "art illumination",
+        "home decor",
+        "gallery light",
+        "office light",
+        "living room light",
+        "elegant lighting",
+        "soft glow",
+        "natural materials",
+        "versatile light",
+        "warm ambiance",
+        "decorative lighting",
+        "contemporary design",
+        "interior lighting",
+        "stylish light",
+        "home lighting",
+        "art display",
+        "soft lighting",
+        "glass shade",
+        "wood finish",
+        "modern home",
+        "minimalist home",
+        "design lighting",
+        "sophisticated lighting"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:28.566Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-7",
+    "sku": "LGT-WS-007",
+    "name": "Outdoor Lantern Sconce",
+    "description": "Weather-resistant outdoor lantern wall sconce",
+    "price": 119.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-7.jpg"
+    ],
+    "primaryImage": "wall-sconce-7.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Black",
+        "Clear"
+      ],
+      "material": [
+        "Metal",
+        "Glass"
+      ],
+      "style": [
+        "Traditional",
+        "Farmhouse"
+      ],
+      "room": [
+        "Porch",
+        "Entryway",
+        "Patio"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "outdoor",
+      "lantern",
+      "weather-resistant",
+      "porch",
+      "farmhouse",
+      "outdoor lighting",
+      "lantern sconce",
+      "porch light",
+      "entryway lighting",
+      "patio decor",
+      "traditional style",
+      "farmhouse decor",
+      "metal and glass",
+      "classic lantern",
+      "black finish",
+      "clear glass",
+      "durable construction",
+      "elegant design",
+      "ambient lighting",
+      "wall-mounted",
+      "exterior light",
+      "home improvement",
+      "garden lighting",
+      "decorative sconce",
+      "rustic charm",
+      "timeless appeal",
+      "easy maintenance",
+      "versatile use",
+      "high-quality materials",
+      "stylish outdoor lighting",
+      "enhanced curb appeal",
+      "inviting glow",
+      "secure mounting",
+      "long-lasting",
+      "outdoor lantern sconce",
+      "weather-resistant lighting",
+      "traditional style lighting",
+      "metal and glass sconce",
+      "classic lantern design",
+      "black finish lighting",
+      "clear glass panels",
+      "durable outdoor light",
+      "elegant outdoor lighting",
+      "ambient lighting for outdoors",
+      "wall-mounted exterior light",
+      "home improvement lighting",
+      "garden lighting solutions",
+      "decorative outdoor sconce",
+      "rustic charm lighting",
+      "timeless appeal lantern",
+      "easy maintenance sconce",
+      "versatile outdoor lighting",
+      "inviting glow lighting",
+      "secure mounting sconce",
+      "long-lasting outdoor light"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "inStock": true,
+      "stockQuantity": 38,
+      "rating": 4.6,
+      "reviewCount": 156,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Elegant outdoor lantern sconce with weather-resistant metal and glass, perfect for adding charm to your porch or patio.",
+      "long": "Illuminate your outdoor spaces with the Outdoor Lantern Sconce, a perfect blend of elegance and durability. Crafted with a robust metal frame and clear glass panels, this sconce offers a warm glow that enhances the ambiance of porches, entryways, or patios. Its traditional lantern design with a farmhouse flair ensures a timeless appeal that complements a variety of outdoor settings. The weather-resistant materials promise longevity, while the sleek black finish adds a touch of sophistication. Whether you're creating a cozy outdoor nook or highlighting your home's architectural features, this lantern sconce is a stylish and functional addition.",
+      "features": [
+        "Weather-resistant metal and glass construction",
+        "Traditional lantern silhouette with farmhouse style",
+        "Sleek black matte finish for a sophisticated look",
+        "Clear glass panels for optimal light diffusion",
+        "Perfect for porches, entryways, and patios",
+        "Easy wall-mounted installation",
+        "Timeless design for versatile outdoor decor"
+      ],
+      "careInstructions": "To maintain its finish, gently wipe with a damp cloth. Avoid using harsh chemicals that may damage the surface.",
+      "materialComposition": "Constructed with a durable metal frame and clear glass panels for lasting performance."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "category": "primary"
+        },
+        {
+          "name": "Clear",
+          "hex": "#FFFFFF",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "angular",
+      "silhouette": "Classic lantern with angular lines"
+    },
+    "seo": {
+      "metaTitle": "Outdoor Lantern Sconce - Elegant, Weather-Resistant Lighting",
+      "metaDescription": "Illuminate your outdoor spaces with our elegant Outdoor Lantern Sconce. Durable and weather-resistant, it's perfect for porches, patios, and entryways. Buy now!",
+      "altText": "Elegant black outdoor lantern sconce with clear glass panels and weather-resistant design.",
+      "keywords": [
+        "outdoor lantern sconce",
+        "weather-resistant lighting",
+        "porch light",
+        "entryway lighting",
+        "patio decor",
+        "traditional style lighting",
+        "farmhouse decor",
+        "metal and glass sconce",
+        "classic lantern design",
+        "black finish lighting",
+        "clear glass panels",
+        "durable outdoor light",
+        "elegant outdoor lighting",
+        "ambient lighting for outdoors",
+        "wall-mounted exterior light",
+        "home improvement lighting",
+        "garden lighting solutions",
+        "decorative outdoor sconce",
+        "rustic charm lighting",
+        "timeless appeal lantern",
+        "easy maintenance sconce",
+        "versatile outdoor lighting",
+        "high-quality materials",
+        "stylish outdoor lighting",
+        "enhanced curb appeal",
+        "inviting glow lighting",
+        "secure mounting sconce",
+        "long-lasting outdoor light"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:41.629Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "wall-sconce-8",
+    "sku": "LGT-WS-008",
+    "name": "Up-Down Wall Light",
+    "description": "Modern up-down LED wall light for ambient effects",
+    "price": 89.99,
+    "currency": "USD",
+    "images": [
+      "wall-sconce-8.jpg"
+    ],
+    "primaryImage": "wall-sconce-8.jpg",
+    "taxonomy": {
+      "category": {
+        "name": "Lighting",
+        "slug": "lighting"
+      },
+      "subcategory": {
+        "name": "Wall Sconce",
+        "slug": "wall-sconce"
+      },
+      "productType": "Wall Sconce"
+    },
+    "attributes": {
+      "color": [
+        "Matte Black"
+      ],
+      "material": [
+        "Aluminum"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Hallway",
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Ambient Lighting"
+      ]
+    },
+    "tags": [
+      "up-down",
+      "LED",
+      "modern",
+      "ambient",
+      "contemporary",
+      "up-down lighting",
+      "LED wall light",
+      "modern wall sconce",
+      "ambient lighting",
+      "contemporary design",
+      "matte black light",
+      "cylindrical wall light",
+      "aluminum light fixture",
+      "hallway lighting",
+      "living room light",
+      "bedroom illumination",
+      "minimalist lighting",
+      "home decor",
+      "interior design",
+      "wall-mounted light",
+      "energy-efficient lighting",
+      "stylish light fixture",
+      "modern home lighting",
+      "sleek design",
+      "soft lighting",
+      "up-down wall light",
+      "modern decor",
+      "contemporary wall light",
+      "upward and downward illumination",
+      "matte finish wall light",
+      "elegant wall fixture",
+      "LED lighting solutions"
+    ],
+    "metadata": {
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "inStock": true,
+      "stockQuantity": 30,
+      "rating": 4.4,
+      "reviewCount": 89,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    "enrichedDescription": {
+      "short": "Illuminate your space with the sleek and modern Up-Down Wall Light, offering ambient LED lighting for any decor.",
+      "long": "Transform your living space with the Up-Down Wall Light, a sophisticated fixture that blends style and functionality. Its sleek cylindrical silhouette crafted from durable aluminum and finished in a matte black hue, exudes contemporary elegance. Ideal for hallways, living rooms, or bedrooms, this wall light casts a warm, ambient glow both upwards and downwards, creating a serene atmosphere. The minimalist design seamlessly integrates with modern and contemporary decor styles, providing a versatile lighting solution that enhances any room's aesthetic. Whether you're highlighting artwork or illuminating a cozy reading nook, this energy-efficient LED light fixture is the perfect choice for stylish home illumination.",
+      "features": [
+        "Up-down LED illumination for ambient lighting",
+        "Sleek, modern cylindrical design",
+        "Elegant matte black finish",
+        "Constructed from durable aluminum",
+        "Complements modern and contemporary decor",
+        "Energy-efficient LED lighting"
+      ],
+      "careInstructions": "Wipe gently with a soft, dry cloth. Avoid harsh chemicals or abrasive cleaners to maintain the finish.",
+      "materialComposition": "Constructed from high-quality aluminum with a matte black finish"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Matte Black",
+          "hex": "#2B2B2B",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "matte",
+      "finish": "matte",
+      "shape": "cylindrical",
+      "silhouette": "Low-profile cylindrical form"
+    },
+    "seo": {
+      "metaTitle": "Up-Down Wall Light - Modern LED Illumination Fixture",
+      "metaDescription": "Enhance your space with the Up-Down Wall Light. Sleek, energy-efficient LED design casts ambient glow. Perfect for modern decor. Shop now!",
+      "altText": "Sleek modern up-down wall light with matte black finish, LED illumination",
+      "keywords": [
+        "up-down wall light",
+        "LED wall light",
+        "modern wall sconce",
+        "ambient lighting",
+        "contemporary design",
+        "matte black light",
+        "cylindrical wall light",
+        "aluminum light fixture",
+        "hallway lighting",
+        "living room light",
+        "bedroom illumination",
+        "minimalist lighting",
+        "home decor",
+        "interior design",
+        "wall-mounted light",
+        "energy-efficient lighting",
+        "stylish light fixture",
+        "modern home lighting",
+        "sleek design",
+        "soft lighting",
+        "modern decor",
+        "contemporary wall light",
+        "upward and downward illumination",
+        "matte finish wall light",
+        "elegant wall fixture",
+        "LED lighting solutions"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T04:58:45.056Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  }
+]

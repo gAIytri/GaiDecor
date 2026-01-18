@@ -1,0 +1,3776 @@
+[
+  {
+    "id": "bedding-set-001",
+    "name": "Linen Duvet Set",
+    "description": "Premium stonewashed linen duvet set in soft white. Includes duvet cover and two pillowcases.",
+    "price": 285,
+    "compareAtPrice": 375,
+    "primaryImage": "bedding-1.jpeg",
+    "images": [
+      "bedding-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Bedding Sets",
+        "slug": "bedding-set"
+      },
+      "productType": "bedding-set"
+    },
+    "attributes": {
+      "color": [
+        "Soft White",
+        "Ivory"
+      ],
+      "material": [
+        "Linen"
+      ],
+      "style": [
+        "Modern",
+        "Natural"
+      ],
+      "room": [
+        "Bedroom",
+        "Guest Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "bedding",
+      "linen",
+      "duvet",
+      "white",
+      "natural",
+      "duvet set",
+      "soft white",
+      "stonewashed",
+      "modern decor",
+      "natural style",
+      "breathable",
+      "comfortable",
+      "luxury bedding",
+      "bedroom essentials",
+      "guest room",
+      "machine washable",
+      "easy care",
+      "high quality",
+      "elegant design",
+      "minimalist",
+      "neutral tones",
+      "textured finish",
+      "relaxation",
+      "cozy",
+      "inviting",
+      "stylish",
+      "functional",
+      "durable",
+      "versatile",
+      "soft touch",
+      "premium material",
+      "home decor",
+      "bedroom update",
+      "interior design",
+      "natural fibers",
+      "eco-friendly",
+      "linen duvet set",
+      "stonewashed linen",
+      "soft white duvet",
+      "breathable bedding",
+      "comfortable linen",
+      "guest room bedding",
+      "machine washable duvet",
+      "easy care linen",
+      "high quality bedding",
+      "elegant duvet design",
+      "minimalist bedding",
+      "neutral tones duvet",
+      "textured finish bedding",
+      "cozy duvet set",
+      "inviting bedroom decor",
+      "stylish linen set",
+      "functional bedding",
+      "durable linen",
+      "versatile duvet",
+      "soft touch bedding",
+      "premium linen material",
+      "eco-friendly bedding"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.9,
+      "reviewCount": 267
+    },
+    "enrichedDescription": {
+      "short": "Indulge in comfort with our luxurious stonewashed linen duvet set in soft white.",
+      "long": "Transform your bedroom into a serene retreat with our Linen Duvet Set. Crafted from 100% stonewashed linen, this elegant set exudes timeless sophistication and ultimate comfort. The soft white hue adds a touch of brightness, while the natural texture offers a cozy, inviting feel. Perfect for modern and minimalist decors, it includes a duvet cover and two matching pillowcases. The breathable linen ensures a restful night's sleep, keeping you cool in summer and warm in winter. Elevate your bedroom with this versatile and durable set that promises to enhance any interior style.",
+      "features": [
+        "Luxurious 100% stonewashed linen",
+        "Includes duvet cover and two pillowcases",
+        "Breathable fabric for year-round comfort",
+        "Elegant soft white color complements any decor",
+        "Durable and versatile for modern and minimalist styles",
+        "Textured finish adds visual interest"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry low or hang to dry. Iron on low heat if needed.",
+      "materialComposition": "100% stonewashed linen"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Soft White",
+          "hex": "#F5F5F5",
+          "category": "primary"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Linen Duvet Set - 100% Stonewashed Linen Comfort",
+      "metaDescription": "Transform your bedroom with our Linen Duvet Set. Crafted from stonewashed linen for ultimate comfort and style. Shop now for a serene retreat.",
+      "altText": "Elegant linen duvet set in soft white with cozy, textured look, includes cover and pillowcases.",
+      "keywords": [
+        "linen duvet set",
+        "stonewashed linen",
+        "bedding",
+        "soft white duvet",
+        "modern decor",
+        "natural style",
+        "breathable bedding",
+        "comfortable linen",
+        "luxury bedding",
+        "bedroom essentials",
+        "guest room bedding",
+        "machine washable duvet",
+        "easy care linen",
+        "high quality bedding",
+        "elegant duvet design",
+        "minimalist bedding",
+        "neutral tones duvet",
+        "textured finish bedding",
+        "cozy duvet set",
+        "inviting bedroom decor",
+        "stylish linen set",
+        "functional bedding",
+        "durable linen",
+        "versatile duvet",
+        "soft touch bedding",
+        "premium linen material",
+        "home decor",
+        "bedroom update",
+        "interior design",
+        "natural fibers",
+        "eco-friendly bedding"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:27.935Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "bedding-set-002",
+    "name": "Cotton Sateen Sheet Set",
+    "description": "Silky smooth 400-thread count cotton sateen sheets. Full set includes fitted, flat, and pillowcases.",
+    "price": 165,
+    "compareAtPrice": null,
+    "primaryImage": "bedding-2.jpeg",
+    "images": [
+      "bedding-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Bedding Sets",
+        "slug": "bedding-set"
+      },
+      "productType": "bedding-set"
+    },
+    "attributes": {
+      "color": [
+        "Charcoal Gray"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Modern",
+        "Classic"
+      ],
+      "room": [
+        "Bedroom",
+        "Guest Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Special Occasions"
+      ]
+    },
+    "tags": [
+      "bedding",
+      "sheets",
+      "cotton",
+      "sateen",
+      "gray",
+      "luxury",
+      "comfort",
+      "bedroom",
+      "modern",
+      "classic",
+      "soft",
+      "durable",
+      "breathable",
+      "high-quality",
+      "fitted sheet",
+      "flat sheet",
+      "pillowcases",
+      "machine washable",
+      "easy care",
+      "home decor",
+      "bed linens",
+      "guest room",
+      "master bedroom",
+      "smooth finish",
+      "elegant",
+      "stylish",
+      "premium",
+      "silky",
+      "tailored",
+      "clean lines",
+      "versatile",
+      "neutral color",
+      "cotton sateen sheet set",
+      "luxury bedding",
+      "400-thread count sheets",
+      "charcoal gray sheets",
+      "silky smooth bed sheets",
+      "breathable cotton sheets",
+      "modern bedding",
+      "classic bedroom decor",
+      "high-quality bed linens",
+      "comfortable sheets",
+      "premium cotton sheets",
+      "elegant bedding",
+      "soft sheet set",
+      "durable bed sheets",
+      "machine washable sheets",
+      "tailored bedding",
+      "versatile bed linens",
+      "neutral color sheets",
+      "guest room sheets",
+      "master bedroom sheets",
+      "satin finish sheets",
+      "smooth finish bedding",
+      "stylish bed sheets",
+      "easy care sheets",
+      "home decor sheets",
+      "fitted sheet set",
+      "flat sheet and pillowcases",
+      "silky texture sheets",
+      "tailored clean lines bedding"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 189
+    },
+    "enrichedDescription": {
+      "short": "Indulge in luxury with our Cotton Sateen Sheet Set, offering a silky touch and supreme comfort.",
+      "long": "Transform your bedroom into a luxurious retreat with our Cotton Sateen Sheet Set. Crafted from premium 100% cotton sateen, these sheets boast an impressive 400-thread count, enveloping you in a silky, smooth embrace each night. The set includes a fitted sheet, a flat sheet, and pillowcases, designed to fit seamlessly into both modern and classic decors. Available in a sophisticated charcoal gray, this sheet set not only elevates the aesthetics of your space but also provides breathable comfort, making it perfect for year-round use. Whether you're preparing for restful slumbers or dressing up the guest room for visitors, this sheet set is the epitome of elegance and functionality.",
+      "features": [
+        "400-thread count for superior softness",
+        "Complete set: fitted sheet, flat sheet, pillowcases",
+        "Silky smooth cotton sateen finish",
+        "Durable and breathable, ideal for all seasons",
+        "Elegant charcoal gray suits various decor styles"
+      ],
+      "careInstructions": "Machine wash cold with similar colors. Tumble dry on low. Avoid bleach to preserve color and texture.",
+      "materialComposition": "100% Cotton Sateen"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Charcoal Gray",
+          "hex": "#36454F",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "satin",
+      "shape": "rectangular",
+      "silhouette": "sleek and tailored with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Cotton Sateen Sheet Set - Luxurious 400-Thread Count Comfort",
+      "metaDescription": "Elevate your bedroom with our Cotton Sateen Sheet Set. Enjoy silky smooth comfort and elegance with a 400-thread count. Shop now for year-round luxury.",
+      "altText": "Charcoal gray cotton sateen sheet set with a silky smooth finish and 400-thread count.",
+      "keywords": [
+        "cotton sateen sheet set",
+        "luxury bedding",
+        "400-thread count sheets",
+        "charcoal gray sheets",
+        "silky smooth bed sheets",
+        "breathable cotton sheets",
+        "modern bedding",
+        "classic bedroom decor",
+        "high-quality bed linens",
+        "comfortable sheets",
+        "premium cotton sheets",
+        "elegant bedding",
+        "soft sheet set",
+        "durable bed sheets",
+        "machine washable sheets",
+        "tailored bedding",
+        "versatile bed linens",
+        "neutral color sheets",
+        "guest room sheets",
+        "master bedroom sheets",
+        "satin finish sheets",
+        "smooth finish bedding",
+        "stylish bed sheets",
+        "easy care sheets",
+        "home decor sheets",
+        "fitted sheet set",
+        "flat sheet and pillowcases",
+        "silky texture sheets",
+        "tailored clean lines bedding"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:28.334Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "bedding-set-004",
+    "name": "Velvet Duvet Cover",
+    "description": "Luxurious velvet duvet cover in deep navy. Button closure with interior ties.",
+    "price": 225,
+    "compareAtPrice": 295,
+    "primaryImage": "bedding-4.jpeg",
+    "images": [
+      "bedding-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Bedding Sets",
+        "slug": "bedding-set"
+      },
+      "productType": "bedding-set"
+    },
+    "attributes": {
+      "color": [
+        "Deep Navy"
+      ],
+      "material": [
+        "Velvet",
+        "Cotton"
+      ],
+      "style": [
+        "Glamorous",
+        "Modern"
+      ],
+      "room": [
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Luxury"
+      ]
+    },
+    "tags": [
+      "bedding",
+      "velvet",
+      "duvet",
+      "navy",
+      "luxury",
+      "duvet cover",
+      "modern",
+      "glamorous",
+      "bedroom decor",
+      "soft texture",
+      "plush feel",
+      "elegant design",
+      "comfortable",
+      "high-quality",
+      "machine washable",
+      "easy care",
+      "stylish",
+      "interior design",
+      "home textiles",
+      "bed linen",
+      "premium bedding",
+      "deep navy",
+      "solid color",
+      "button closure",
+      "cotton lining",
+      "matte finish",
+      "rectangular shape",
+      "low-profile",
+      "clean lines",
+      "bedroom essentials",
+      "textile",
+      "decorative",
+      "functional",
+      "aesthetic",
+      "velvet duvet cover",
+      "deep navy bedding",
+      "luxury duvet cover",
+      "modern bedroom decor",
+      "glamorous bedding",
+      "plush velvet cover",
+      "button closure duvet",
+      "interior ties duvet",
+      "elegant bedroom design",
+      "comfortable duvet cover",
+      "high-quality bedding",
+      "machine washable duvet",
+      "easy care duvet cover",
+      "stylish duvet cover",
+      "solid color duvet",
+      "cotton lined duvet",
+      "matte finish bedding",
+      "rectangular duvet cover",
+      "low-profile bedding",
+      "clean lines duvet",
+      "decorative duvet cover",
+      "functional bedding",
+      "aesthetic duvet cover"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.8,
+      "reviewCount": 78
+    },
+    "enrichedDescription": {
+      "short": "Indulge in luxury with our deep navy velvet duvet cover, featuring a chic button closure.",
+      "long": "Transform your bedroom into a sanctuary of elegance with our Velvet Duvet Cover in a mesmerizing deep navy hue. Crafted from plush velvet, this cover promises an indulgent touch and a lavish feel against your skin. The button closure, complimented by interior ties, ensures your duvet stays perfectly in place while adding a sophisticated finish to your bedding ensemble. Ideal for modern and glamorous interiors, it’s a statement piece designed to elevate the aesthetic of your space. Whether you're looking for a cozy retreat or a stylish upgrade, this velvet duvet cover is your go-to for comfort and refinement.",
+      "features": [
+        "Plush velvet fabric for a luxurious touch",
+        "Chic button closure with interior ties for secure fit",
+        "Deep navy hue complements modern decor",
+        "Matte finish for understated elegance",
+        "Designed for glamorous and contemporary spaces",
+        "Rectangular shape with low-profile silhouette",
+        "Machine washable for easy care"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry low or hang to dry. Do not use bleach.",
+      "materialComposition": "100% Velvet exterior with cotton lining"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Deep Navy",
+          "hex": "#001F3F",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "velvet",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Velvet Duvet Cover - Deep Navy Elegance & Comfort",
+      "metaDescription": "Elevate your bedroom with our Velvet Duvet Cover in deep navy. Experience luxury with plush velvet and secure button closure. Shop now for style and comfort!",
+      "altText": "Deep navy velvet duvet cover with button closure and interior ties, luxurious and elegant bedding.",
+      "keywords": [
+        "velvet duvet cover",
+        "deep navy bedding",
+        "luxury duvet cover",
+        "modern bedroom decor",
+        "glamorous bedding",
+        "plush velvet cover",
+        "button closure duvet",
+        "interior ties duvet",
+        "elegant bedroom design",
+        "comfortable duvet cover",
+        "high-quality bedding",
+        "machine washable duvet",
+        "easy care duvet cover",
+        "stylish duvet cover",
+        "home textiles",
+        "premium bedding",
+        "solid color duvet",
+        "cotton lined duvet",
+        "matte finish bedding",
+        "rectangular duvet cover",
+        "low-profile bedding",
+        "clean lines duvet",
+        "bedroom essentials",
+        "decorative duvet cover",
+        "functional bedding",
+        "aesthetic duvet cover"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:41.067Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "bedding-set-003",
+    "name": "Quilted Coverlet Set",
+    "description": "Lightweight quilted coverlet with matching shams in soft sage green.",
+    "price": 195,
+    "compareAtPrice": null,
+    "primaryImage": "bedding-3.jpeg",
+    "images": [
+      "bedding-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Bedding Sets",
+        "slug": "bedding-set"
+      },
+      "productType": "bedding-set"
+    },
+    "attributes": {
+      "color": [
+        "Sage Green"
+      ],
+      "material": [
+        "Cotton",
+        "Polyester"
+      ],
+      "style": [
+        "Traditional",
+        "Farmhouse"
+      ],
+      "room": [
+        "Bedroom",
+        "Guest Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "bedding",
+      "coverlet",
+      "quilted",
+      "green",
+      "farmhouse",
+      "sage green",
+      "traditional",
+      "cotton blend",
+      "guest room",
+      "bedroom decor",
+      "soft texture",
+      "lightweight",
+      "machine washable",
+      "durable",
+      "comfortable",
+      "cozy",
+      "elegant",
+      "home textiles",
+      "bed linen",
+      "bedding set",
+      "bedroom style",
+      "interior design",
+      "home decor",
+      "blanket",
+      "bedspread",
+      "textile",
+      "fabric",
+      "green bedding",
+      "modern farmhouse",
+      "classic design",
+      "versatile",
+      "quilted coverlet set",
+      "sage green bedding",
+      "elegant bedding",
+      "cotton polyester blend",
+      "traditional bedroom decor",
+      "farmhouse style bedding",
+      "lightweight coverlet",
+      "matching shams",
+      "soft quilted texture",
+      "cozy bedroom set",
+      "durable bedding set",
+      "machine washable coverlet",
+      "guest room bedding",
+      "master bedroom decor",
+      "versatile bedding"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 112
+    },
+    "enrichedDescription": {
+      "short": "Elegant quilted coverlet set in soothing sage green, perfect for a cozy bedroom.",
+      "long": "Transform your bedroom into a tranquil retreat with our Quilted Coverlet Set, elegantly designed in a calming sage green. This lightweight coverlet is crafted with a soft quilted texture, offering both comfort and style. The set comes complete with matching shams, ensuring a harmonious look that fits seamlessly into traditional and farmhouse aesthetics. Made from a durable blend of cotton and polyester, this set promises longevity and easy maintenance. Envelop yourself in its soft embrace, perfect for adding a touch of relaxation and everyday luxury to your master or guest bedroom. Experience the soothing allure of this versatile bedding ensemble, designed to enhance your home's decor effortlessly.",
+      "features": [
+        "Lightweight quilted design",
+        "Matching shams included",
+        "Soft sage green color",
+        "Cotton and polyester blend",
+        "Suitable for traditional and farmhouse styles",
+        "Durable and comfortable",
+        "Versatile for master or guest bedrooms"
+      ],
+      "careInstructions": "Machine wash cold, gentle cycle. Tumble dry low. Do not bleach.",
+      "materialComposition": "70% Cotton, 30% Polyester"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Sage Green",
+          "hex": "#9CAF88",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "quilted",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Quilted Coverlet Set - Elegant Sage Green Comfort",
+      "metaDescription": "Transform your bedroom with our Quilted Coverlet Set in sage green. Enjoy comfort and style with matching shams. Order now for cozy elegance!",
+      "altText": "Elegant quilted coverlet set in soothing sage green with matching shams.",
+      "keywords": [
+        "quilted coverlet set",
+        "sage green bedding",
+        "elegant bedding",
+        "cotton polyester blend",
+        "traditional bedroom decor",
+        "farmhouse style bedding",
+        "lightweight coverlet",
+        "matching shams",
+        "soft quilted texture",
+        "cozy bedroom set",
+        "durable bedding set",
+        "machine washable coverlet",
+        "guest room bedding",
+        "master bedroom decor",
+        "home textiles",
+        "bed linen",
+        "bedroom style",
+        "interior design",
+        "home decor",
+        "blanket",
+        "bedspread",
+        "textile",
+        "fabric",
+        "green bedding",
+        "modern farmhouse",
+        "classic design",
+        "versatile bedding"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:41.986Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "bedding-set-005",
+    "name": "Organic Cotton Bundle",
+    "description": "GOTS certified organic cotton bedding bundle. Chemical-free and sustainable.",
+    "price": 245,
+    "compareAtPrice": null,
+    "primaryImage": "bedding-5.jpeg",
+    "images": [
+      "bedding-5.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Bedding Sets",
+        "slug": "bedding-set"
+      },
+      "productType": "bedding-set"
+    },
+    "attributes": {
+      "color": [
+        "Cream",
+        "Sage Green"
+      ],
+      "material": [
+        "Organic Cotton"
+      ],
+      "style": [
+        "Natural",
+        "Minimalist"
+      ],
+      "room": [
+        "Bedroom",
+        "Guest Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "bedding",
+      "organic",
+      "cotton",
+      "sustainable",
+      "natural",
+      "minimalist",
+      "eco-friendly",
+      "GOTS certified",
+      "cream",
+      "sage green",
+      "bedroom",
+      "guest room",
+      "soft",
+      "breathable",
+      "chemical-free",
+      "luxury",
+      "comfort",
+      "relaxation",
+      "sleep",
+      "home decor",
+      "interior design",
+      "textiles",
+      "bedding set",
+      "duvet cover",
+      "pillowcases",
+      "throw blanket",
+      "machine washable",
+      "easy care",
+      "environmentally friendly",
+      "natural fibers",
+      "clean lines",
+      "calming",
+      "Organic Cotton Bundle",
+      "eco-friendly bedding",
+      "GOTS certified bedding",
+      "sustainable bedding set",
+      "natural cotton bedding",
+      "minimalist bedding design",
+      "cream duvet cover",
+      "sage green throw blanket",
+      "chemical-free bedding",
+      "luxurious sleep set",
+      "breathable cotton bedding",
+      "soft cotton duvet",
+      "eco-conscious bedroom decor",
+      "organic bedding set",
+      "natural fibers bedding",
+      "machine washable bedding",
+      "easy care bedding set",
+      "environmentally friendly textiles",
+      "calming bedroom decor",
+      "luxury bedding",
+      "home decor bedding",
+      "interior design textiles",
+      "relaxation bedding",
+      "comfortable sleep set",
+      "bedroom transformation",
+      "guest room bedding",
+      "serene bedding colors",
+      "GOTS certified cotton"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.9,
+      "reviewCount": 145
+    },
+    "enrichedDescription": {
+      "short": "Luxurious organic cotton bedding set in soothing natural tones.",
+      "long": "Elevate your sleep sanctuary with our Organic Cotton Bundle, a harmonious blend of comfort and sustainability. This exquisite bedding set, priced at $245, features a soft, cream-colored duvet cover and pillowcases that caress your skin with gentle warmth, complemented by a sage green throw blanket that adds a refreshing splash of color. Crafted from 100% GOTS certified organic cotton, this bundle is a haven for those seeking a chemical-free, eco-conscious lifestyle. Its minimalist design and serene hues create an oasis of tranquility, inviting relaxation and restorative sleep. Perfect for both bedrooms and guest rooms, this bundle promises to transform any space into a peaceful retreat.",
+      "features": [
+        "GOTS certified organic cotton for eco-friendly luxury",
+        "Chemical-free production for safe and healthy sleep",
+        "Includes duvet cover, pillowcases, and sage green throw blanket",
+        "Minimalist design in soothing natural tones",
+        "Soft, breathable fabric enhancing comfort"
+      ],
+      "careInstructions": "Machine wash cold with like colors. Tumble dry low or hang to dry. Avoid bleach to maintain fabric integrity.",
+      "materialComposition": "100% GOTS certified organic cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "primary"
+        },
+        {
+          "name": "Sage Green",
+          "hex": "#9CAF88",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Organic Cotton Bundle: Luxurious, Eco-Friendly Bedding",
+      "metaDescription": "Transform your bedroom with our Organic Cotton Bundle. Enjoy sustainable luxury and comfort. Shop now for a serene, eco-friendly sleep experience.",
+      "altText": "Organic Cotton Bundle featuring cream duvet cover and sage green throw blanket.",
+      "keywords": [
+        "Organic Cotton Bundle",
+        "eco-friendly bedding",
+        "GOTS certified bedding",
+        "sustainable bedding set",
+        "natural cotton bedding",
+        "minimalist bedding design",
+        "cream duvet cover",
+        "sage green throw blanket",
+        "chemical-free bedding",
+        "luxurious sleep set",
+        "breathable cotton bedding",
+        "soft cotton duvet",
+        "eco-conscious bedroom decor",
+        "organic bedding set",
+        "natural fibers bedding",
+        "machine washable bedding",
+        "easy care bedding set",
+        "environmentally friendly textiles",
+        "calming bedroom decor",
+        "luxury bedding",
+        "home decor bedding",
+        "interior design textiles",
+        "relaxation bedding",
+        "comfortable sleep set",
+        "bedroom transformation",
+        "guest room bedding",
+        "serene bedding colors",
+        "GOTS certified cotton"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:54.601Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "bedding-set-006",
+    "name": "Percale Sheet Set",
+    "description": "Crisp percale weave sheets in classic white. Cool and breathable.",
+    "price": 145,
+    "compareAtPrice": null,
+    "primaryImage": "bedding-6.jpeg",
+    "images": [
+      "bedding-6.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Bedding Sets",
+        "slug": "bedding-set"
+      },
+      "productType": "bedding-set"
+    },
+    "attributes": {
+      "color": [
+        "Soft White"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Classic",
+        "Hotel"
+      ],
+      "room": [
+        "Bedroom",
+        "Guest Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Special Occasions"
+      ]
+    },
+    "tags": [
+      "bedding",
+      "percale",
+      "sheets",
+      "white",
+      "crisp",
+      "embroidered",
+      "cotton",
+      "luxury",
+      "hotel",
+      "classic",
+      "elegant",
+      "comfortable",
+      "breathable",
+      "soft",
+      "bedroom",
+      "guest room",
+      "high-quality",
+      "machine washable",
+      "cool",
+      "refined",
+      "decor",
+      "sleep",
+      "home",
+      "textiles",
+      "bed linen",
+      "bed set",
+      "sheet set",
+      "matte finish",
+      "smooth texture",
+      "rectangular shape",
+      "low-profile design",
+      "percale sheet set",
+      "crisp cotton sheets",
+      "embroidered sheets",
+      "luxury bed linen",
+      "cool sheets",
+      "breathable cotton",
+      "elegant bedding",
+      "hotel style sheets",
+      "classic white sheets",
+      "high-quality cotton sheets",
+      "machine washable sheets",
+      "soft white percale",
+      "comfortable bed sheets",
+      "bedroom decor",
+      "guest room sheets",
+      "cooling sheets",
+      "sophisticated bedding",
+      "durable sheets",
+      "easy care sheets",
+      "cotton percale sheets",
+      "luxury sleep",
+      "refined bedroom",
+      "soft texture sheets",
+      "matte finish bedding",
+      "rectangular sheet set",
+      "low-profile design sheets"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 234
+    },
+    "enrichedDescription": {
+      "short": "Experience luxury with our soft, breathable Percale Sheet Set, featuring intricate embroidery and a crisp, cool feel.",
+      "long": "Transform your bedroom into a serene retreat with our Percale Sheet Set. Crafted from 100% high-quality cotton, these sheets boast a crisp percale weave that feels cool and refreshing against the skin, perfect for warm nights. The elegant soft white hue is adorned with intricate embroidery, adding a touch of sophistication and timelessness to your decor. Whether you're furnishing a master suite or a guest room, this set promises a restful sleep enveloped in luxury. Easy to care for and designed for durability, these sheets maintain their pristine look and feel wash after wash, ensuring your comfort is uninterrupted.",
+      "features": [
+        "100% high-quality cotton for breathability",
+        "Crisp percale weave for a cool, refreshing feel",
+        "Intricate embroidery for added elegance",
+        "Soft white hue to complement any decor",
+        "Durable and easy to care for"
+      ],
+      "careInstructions": "Machine wash cold with like colors. Tumble dry low. Iron on low heat if needed to maintain the embroidery detail.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Soft White",
+          "hex": "#F5F5F5",
+          "category": "primary"
+        }
+      ],
+      "pattern": "embroidered",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Low-profile with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Percale Sheet Set - Cool, Crisp Cotton with Embroidery",
+      "metaDescription": "Elevate your bedroom with our Percale Sheet Set. Enjoy cool, crisp comfort with intricate embroidery. Order now for luxury sleep!",
+      "altText": "Elegant percale sheet set with intricate embroidery in soft white.",
+      "keywords": [
+        "percale sheet set",
+        "bedding",
+        "crisp cotton sheets",
+        "embroidered sheets",
+        "luxury bed linen",
+        "cool sheets",
+        "breathable cotton",
+        "elegant bedding",
+        "hotel style sheets",
+        "classic white sheets",
+        "high-quality cotton sheets",
+        "machine washable sheets",
+        "soft white percale",
+        "comfortable bed sheets",
+        "bedroom decor",
+        "guest room sheets",
+        "cooling sheets",
+        "sophisticated bedding",
+        "durable sheets",
+        "easy care sheets",
+        "cotton percale sheets",
+        "luxury sleep",
+        "refined bedroom",
+        "soft texture sheets",
+        "matte finish bedding",
+        "rectangular sheet set",
+        "low-profile design sheets"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:04:55.103Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-002",
+    "name": "Velvet Thermal Curtains",
+    "description": "Plush velvet curtains with thermal backing. Insulating and sound-dampening.",
+    "price": 165,
+    "compareAtPrice": 215,
+    "primaryImage": "curtain-2.jpeg",
+    "images": [
+      "curtain-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Emerald Green"
+      ],
+      "material": [
+        "Velvet",
+        "Polyester"
+      ],
+      "style": [
+        "Glamorous",
+        "Traditional"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "velvet",
+      "thermal",
+      "green",
+      "luxury",
+      "insulation",
+      "soundproof",
+      "home decor",
+      "living room",
+      "bedroom",
+      "dining room",
+      "elegant",
+      "plush",
+      "cozy",
+      "traditional",
+      "glamorous",
+      "window treatment",
+      "interior design",
+      "energy efficient",
+      "privacy",
+      "decorative",
+      "rich color",
+      "high quality",
+      "floor-length",
+      "matte finish",
+      "solid pattern",
+      "easy care",
+      "dry clean",
+      "thermal curtains",
+      "emerald green",
+      "velvet curtains",
+      "emerald green curtains",
+      "luxury curtains",
+      "insulation curtains",
+      "soundproof curtains",
+      "living room curtains",
+      "bedroom curtains",
+      "dining room curtains",
+      "elegant curtains",
+      "plush curtains",
+      "cozy curtains",
+      "traditional curtains",
+      "glamorous curtains",
+      "energy efficient curtains",
+      "privacy curtains",
+      "decorative curtains",
+      "rich color curtains",
+      "high quality curtains",
+      "floor-length curtains",
+      "matte finish curtains",
+      "solid pattern curtains",
+      "easy care curtains",
+      "dry clean curtains"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.7,
+      "reviewCount": 134
+    },
+    "enrichedDescription": {
+      "short": "Luxurious emerald green velvet curtains with thermal backing for insulation.",
+      "long": "Transform your living space with these opulent Velvet Thermal Curtains in a captivating emerald green. The sumptuous velvet fabric adds a touch of glamour, while the thermal backing ensures superior insulation, keeping your home cozy and energy-efficient. These curtains not only enhance your decor with their rich, vibrant color but also offer sound-dampening qualities, creating a serene environment. Ideal for living rooms, bedrooms, or dining areas, they bring a blend of luxury and practicality to any setting. The floor-length design with a flowing drape exudes elegance, making these curtains a perfect choice for those who appreciate both style and function.",
+      "features": [
+        "Emerald green velvet fabric",
+        "Thermal backing for insulation",
+        "Sound-dampening properties",
+        "Luxurious and glamorous style",
+        "Suitable for multiple rooms",
+        "Floor-length with a flowing drape",
+        "Energy-efficient design"
+      ],
+      "careInstructions": "Dry clean recommended to maintain fabric quality and thermal properties.",
+      "materialComposition": "Velvet front with polyester thermal backing."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Emerald Green",
+          "hex": "#50C878",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "velvet",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Floor-length with a flowing drape"
+    },
+    "seo": {
+      "metaTitle": "Velvet Thermal Curtains - Emerald Green for Cozy Elegance",
+      "metaDescription": "Upgrade your home with luxurious Velvet Thermal Curtains in emerald green. Enjoy superior insulation and sound-dampening. Shop now for style and comfort!",
+      "altText": "Emerald green velvet thermal curtains offering insulation and sound-dampening properties.",
+      "keywords": [
+        "velvet curtains",
+        "thermal curtains",
+        "emerald green curtains",
+        "luxury curtains",
+        "insulation curtains",
+        "soundproof curtains",
+        "home decor",
+        "living room curtains",
+        "bedroom curtains",
+        "dining room curtains",
+        "elegant curtains",
+        "plush curtains",
+        "cozy curtains",
+        "traditional curtains",
+        "glamorous curtains",
+        "window treatment",
+        "interior design",
+        "energy efficient curtains",
+        "privacy curtains",
+        "decorative curtains",
+        "rich color curtains",
+        "high quality curtains",
+        "floor-length curtains",
+        "matte finish curtains",
+        "solid pattern curtains",
+        "easy care curtains",
+        "dry clean curtains"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:06.485Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-001",
+    "name": "Linen Blackout Curtains",
+    "description": "Natural linen curtains with blackout lining. Room darkening with elegant drape.",
+    "price": 185,
+    "compareAtPrice": null,
+    "primaryImage": "curtain-1.jpeg",
+    "images": [
+      "curtain-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Sage Green"
+      ],
+      "material": [
+        "Linen"
+      ],
+      "style": [
+        "Natural",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "linen",
+      "blackout",
+      "natural",
+      "drapes",
+      "sage green",
+      "room darkening",
+      "elegant",
+      "modern",
+      "living room",
+      "bedroom",
+      "home decor",
+      "window treatment",
+      "soft drape",
+      "light blocking",
+      "privacy",
+      "energy efficient",
+      "machine washable",
+      "easy care",
+      "stylish",
+      "sophisticated",
+      "serene",
+      "inviting",
+      "full-length",
+      "matte finish",
+      "solid color",
+      "textured",
+      "versatile",
+      "decorative",
+      "functional",
+      "linen blackout curtains",
+      "sage green curtains",
+      "room darkening drapes",
+      "elegant window treatment",
+      "modern linen curtains",
+      "natural decor curtains",
+      "energy efficient curtains",
+      "privacy curtains",
+      "blackout lining curtains",
+      "soft drape curtains",
+      "full-length curtains",
+      "matte finish curtains",
+      "solid color curtains",
+      "textured curtains",
+      "living room curtains",
+      "bedroom curtains",
+      "home decor curtains",
+      "machine washable curtains",
+      "easy care curtains",
+      "stylish curtains",
+      "sophisticated curtains",
+      "serene atmosphere curtains",
+      "inviting ambiance curtains",
+      "versatile curtains",
+      "decorative curtains",
+      "functional curtains"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 198
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with luxurious sage green linen blackout curtains.",
+      "long": "Transform your living room or bedroom into a serene retreat with our Linen Blackout Curtains in a calming sage green. Crafted from premium linen, these curtains offer an elegant matte finish and a soft, natural texture that complements any modern or natural decor. The full-length design provides an elegant drape, creating an inviting ambiance while ensuring complete privacy and light blocking with their efficient blackout lining. Ideal for creating a cozy, energy-efficient environment, these curtains not only enhance your space aesthetically but also offer practical benefits. Enjoy a peaceful night's sleep or a relaxing afternoon, shielded from the outside world.",
+      "features": [
+        "Sage green color palette",
+        "Effective blackout lining",
+        "Soft, elegant drape",
+        "Natural linen texture",
+        "Energy-efficient and light-blocking",
+        "Suitable for various decor styles",
+        "Ideal for bedrooms and living rooms"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Avoid bleach. Tumble dry low and iron on low heat if necessary.",
+      "materialComposition": "Crafted from 100% premium linen with a blackout lining for optimal room darkening."
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Sage Green",
+          "hex": "#9CAF88",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "linen",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Full-length with elegant drape"
+    },
+    "seo": {
+      "metaTitle": "Linen Blackout Curtains - Sage Green Elegance & Privacy",
+      "metaDescription": "Transform your space with our Linen Blackout Curtains in sage green. Enjoy privacy and style with energy-efficient, elegant drapes. Shop now!",
+      "altText": "Elegant sage green linen blackout curtains with a soft drape for complete privacy and style.",
+      "keywords": [
+        "linen blackout curtains",
+        "sage green curtains",
+        "room darkening drapes",
+        "elegant window treatment",
+        "modern linen curtains",
+        "natural decor curtains",
+        "energy efficient curtains",
+        "privacy curtains",
+        "blackout lining curtains",
+        "soft drape curtains",
+        "full-length curtains",
+        "matte finish curtains",
+        "solid color curtains",
+        "textured curtains",
+        "living room curtains",
+        "bedroom curtains",
+        "home decor curtains",
+        "machine washable curtains",
+        "easy care curtains",
+        "stylish curtains",
+        "sophisticated curtains",
+        "serene atmosphere curtains",
+        "inviting ambiance curtains",
+        "versatile curtains",
+        "decorative curtains",
+        "functional curtains"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:10.245Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-003",
+    "name": "Cotton Grommet Curtains",
+    "description": "Classic cotton curtains with brushed nickel grommets. Easy to hang with clean, modern lines.",
+    "price": 125,
+    "compareAtPrice": 165,
+    "primaryImage": "curtain-3.jpeg",
+    "images": [
+      "curtain-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Light Gray",
+        "Brushed Nickel"
+      ],
+      "material": [
+        "Cotton",
+        "Metal"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "cotton",
+      "grommet",
+      "gray",
+      "modern",
+      "contemporary",
+      "living room",
+      "bedroom",
+      "office",
+      "home decor",
+      "window treatment",
+      "easy installation",
+      "privacy",
+      "light filtering",
+      "elegant",
+      "durable",
+      "machine washable",
+      "brushed nickel",
+      "soft texture",
+      "matte finish",
+      "solid pattern",
+      "rectangular shape",
+      "full-length",
+      "cotton grommet curtains",
+      "gray curtains",
+      "modern window treatment",
+      "elegant curtains",
+      "living room curtains",
+      "bedroom curtains",
+      "office curtains",
+      "home decor curtains",
+      "easy installation curtains",
+      "privacy curtains",
+      "light filtering curtains",
+      "contemporary curtains",
+      "durable cotton curtains",
+      "machine washable curtains",
+      "brushed nickel grommets",
+      "soft texture curtains",
+      "matte finish curtains",
+      "solid pattern curtains",
+      "full-length curtains",
+      "rectangular curtains",
+      "modern home decor",
+      "chic window treatment",
+      "elegant home upgrade",
+      "premium cotton curtains",
+      "light gray curtains",
+      "grommet top curtains",
+      "soft cotton texture",
+      "refined curtains",
+      "sophisticated curtains"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.6,
+      "reviewCount": 234
+    },
+    "enrichedDescription": {
+      "short": "Elegant gray cotton curtains with brushed nickel grommets for a modern touch.",
+      "long": "Elevate your living space with our Cotton Grommet Curtains, designed to blend sophistication with functionality. These full-length curtains boast a refined light gray hue that seamlessly complements any decor. The brushed nickel grommets not only add a contemporary flair but also ensure hassle-free installation. Crafted from 100% premium cotton, these curtains offer a soft, smooth texture while maintaining durability. Perfect for your living room, bedroom, or office, they provide the ideal balance of privacy and natural light, creating an inviting and serene atmosphere. Whether you're hosting guests or relaxing at home, these curtains are a chic addition to your space.",
+      "features": [
+        "Elegant light gray color",
+        "Brushed nickel grommets for easy hanging",
+        "Full-length design",
+        "Soft and durable 100% cotton",
+        "Modern and contemporary style",
+        "Enhances privacy while allowing natural light",
+        "Machine washable for easy care"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry low or hang to dry. Iron on low heat if necessary.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Light Gray",
+          "hex": "#D3D3D3",
+          "category": "primary"
+        },
+        {
+          "name": "Brushed Nickel",
+          "hex": "#A9A9A9",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Full-length with clean lines"
+    },
+    "seo": {
+      "metaTitle": "Cotton Grommet Curtains - Elegant Light Gray Design",
+      "metaDescription": "Enhance your home with Cotton Grommet Curtains. Easy to install, these elegant gray curtains offer privacy and style. Shop now for a chic upgrade!",
+      "altText": "Elegant light gray cotton curtains with brushed nickel grommets, perfect for modern spaces.",
+      "keywords": [
+        "cotton grommet curtains",
+        "gray curtains",
+        "modern window treatment",
+        "elegant curtains",
+        "living room curtains",
+        "bedroom curtains",
+        "office curtains",
+        "home decor curtains",
+        "easy installation curtains",
+        "privacy curtains",
+        "light filtering curtains",
+        "contemporary curtains",
+        "durable cotton curtains",
+        "machine washable curtains",
+        "brushed nickel grommets",
+        "soft texture curtains",
+        "matte finish curtains",
+        "solid pattern curtains",
+        "full-length curtains",
+        "rectangular curtains",
+        "modern home decor",
+        "chic window treatment",
+        "elegant home upgrade",
+        "premium cotton curtains",
+        "light gray curtains",
+        "grommet top curtains",
+        "soft cotton texture",
+        "refined curtains",
+        "sophisticated curtains"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:19.649Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-004",
+    "name": "Sheer Voile Panels",
+    "description": "Lightweight sheer voile panels in pure white. Filter light beautifully.",
+    "price": 65,
+    "compareAtPrice": null,
+    "primaryImage": "curtain-4.jpeg",
+    "images": [
+      "curtain-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige",
+        "Pure White"
+      ],
+      "material": [
+        "Polyester"
+      ],
+      "style": [
+        "Classic",
+        "Romantic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "sheer",
+      "voile",
+      "white",
+      "light",
+      "beige",
+      "light-filtering",
+      "elegant",
+      "classic",
+      "romantic",
+      "polyester",
+      "living room",
+      "bedroom",
+      "dining room",
+      "neutral tones",
+      "home decor",
+      "window treatment",
+      "soft light",
+      "airy",
+      "floor-length",
+      "machine washable",
+      "easy care",
+      "modern",
+      "versatile",
+      "matte finish",
+      "smooth texture",
+      "solid pattern",
+      "warm beige",
+      "pure white",
+      "soft folds",
+      "sheer voile panels",
+      "elegant curtains",
+      "light-filtering curtains",
+      "neutral tone curtains",
+      "polyester curtains",
+      "living room curtains",
+      "bedroom curtains",
+      "dining room curtains",
+      "soft light curtains",
+      "airy curtains",
+      "floor-length curtains",
+      "machine washable curtains",
+      "classic style curtains",
+      "romantic curtains",
+      "modern curtains",
+      "versatile curtains",
+      "matte finish curtains",
+      "smooth texture curtains",
+      "solid pattern curtains",
+      "warm beige curtains",
+      "pure white curtains",
+      "soft folds curtains",
+      "elegant home decor",
+      "lightweight curtains"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.5,
+      "reviewCount": 178
+    },
+    "enrichedDescription": {
+      "short": "Elegant sheer voile panels in warm neutral tones, perfect for softening light.",
+      "long": "Transform your space with our exquisite Sheer Voile Panels, designed to impart a touch of elegance and serenity to any room. These panels, crafted from lightweight 100% polyester, offer an inviting ambiance with their warm neutral tones that beautifully filter natural light. The airy texture and graceful drape create a soft, romantic feel, ideal for living rooms, bedrooms, and dining areas. The sheer fabric allows for a gentle diffusion of sunlight, enhancing the aesthetic of your home while maintaining privacy. With their versatile design, these panels effortlessly complement any interior style, adding a classic charm and sophistication that is timeless.",
+      "features": [
+        "Lightweight sheer fabric",
+        "Warm neutral tones",
+        "Elegant drape with soft folds",
+        "Light-filtering design",
+        "Versatile for living rooms, bedrooms, dining rooms",
+        "Classic and romantic style",
+        "Smooth, matte finish"
+      ],
+      "careInstructions": "Machine wash cold, gentle cycle. Tumble dry low. Iron on low heat if needed.",
+      "materialComposition": "100% Polyester"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A3",
+          "category": "primary"
+        },
+        {
+          "name": "Pure White",
+          "hex": "#FFFFFF",
+          "category": "accent"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Floor-length with soft folds"
+    },
+    "seo": {
+      "metaTitle": "Sheer Voile Panels - Elegant Light-Filtering Curtains",
+      "metaDescription": "Elevate your home decor with our Sheer Voile Panels. Crafted from lightweight polyester, they softly filter light. Shop now for elegance and style!",
+      "altText": "Elegant sheer voile panels in warm neutral tones, filtering light in a living room.",
+      "keywords": [
+        "sheer voile panels",
+        "elegant curtains",
+        "light-filtering curtains",
+        "neutral tone curtains",
+        "polyester curtains",
+        "living room curtains",
+        "bedroom curtains",
+        "dining room curtains",
+        "home decor",
+        "window treatment",
+        "soft light curtains",
+        "airy curtains",
+        "floor-length curtains",
+        "machine washable curtains",
+        "classic style curtains",
+        "romantic curtains",
+        "modern curtains",
+        "versatile curtains",
+        "matte finish curtains",
+        "smooth texture curtains",
+        "solid pattern curtains",
+        "warm beige curtains",
+        "pure white curtains",
+        "soft folds curtains",
+        "elegant home decor",
+        "lightweight curtains"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:23.789Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-005",
+    "name": "Patterned Jacquard Curtains",
+    "description": "Elegant jacquard weave curtains with subtle geometric pattern.",
+    "price": 155,
+    "compareAtPrice": null,
+    "primaryImage": "curtain-5.jpeg",
+    "images": [
+      "curtain-5.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Warm Gold",
+        "Cream"
+      ],
+      "material": [
+        "Polyester",
+        "Cotton"
+      ],
+      "style": [
+        "Traditional",
+        "Glamorous"
+      ],
+      "room": [
+        "Living Room",
+        "Dining Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "jacquard",
+      "patterned",
+      "gold",
+      "elegant",
+      "geometric",
+      "traditional",
+      "glamorous",
+      "living room",
+      "bedroom",
+      "dining room",
+      "home decor",
+      "window treatment",
+      "luxury",
+      "privacy",
+      "light control",
+      "polyester",
+      "cotton",
+      "warm tones",
+      "floor-length",
+      "textured",
+      "matte finish",
+      "machine washable",
+      "durable",
+      "versatile",
+      "sophisticated",
+      "cozy ambiance",
+      "patterned jacquard curtains",
+      "elegant curtains",
+      "geometric design curtains",
+      "gold and cream curtains",
+      "living room curtains",
+      "bedroom curtains",
+      "dining room curtains",
+      "home decor curtains",
+      "luxury curtains",
+      "privacy curtains",
+      "light control curtains",
+      "polyester curtains",
+      "cotton curtains",
+      "warm tone curtains",
+      "floor-length curtains",
+      "textured curtains",
+      "matte finish curtains",
+      "machine washable curtains",
+      "durable curtains",
+      "versatile curtains",
+      "sophisticated curtains",
+      "cozy ambiance curtains",
+      "traditional style curtains",
+      "glamorous style curtains",
+      "high-quality curtains",
+      "jacquard weave curtains",
+      "subtle geometric pattern"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Elegant jacquard curtains with a subtle geometric pattern in warm tones.",
+      "long": "Transform your space with our Patterned Jacquard Curtains, featuring a sophisticated geometric design that exudes elegance. The warm gold and cream hues harmonize beautifully, creating a cozy ambiance that invites relaxation. Crafted from a high-quality polyester and cotton blend, these curtains are not only durable but also luxuriously soft to the touch. Perfectly suited for living rooms, dining rooms, or bedrooms, they offer both style and functionality, enhancing privacy and light control. The traditional yet glamorous style effortlessly complements a variety of interior designs, making them a versatile addition to your home decor. Experience the refined charm they bring to your windows, creating a stunning focal point in any room.",
+      "features": [
+        "Elegant jacquard weave",
+        "Sophisticated geometric pattern",
+        "Warm gold and cream hues",
+        "Durable polyester-cotton blend",
+        "Enhances privacy and light control",
+        "Versatile for multiple rooms",
+        "Luxurious feel and appearance"
+      ],
+      "careInstructions": "Machine wash cold, gentle cycle. Tumble dry low or hang to dry. Iron on low heat if needed.",
+      "materialComposition": "70% Polyester, 30% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Gold",
+          "hex": "#D4AF37",
+          "category": "primary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "secondary"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Floor-length with elegant drape"
+    },
+    "seo": {
+      "metaTitle": "Patterned Jacquard Curtains - Elegant Geometric Design",
+      "metaDescription": "Enhance your home with our Patterned Jacquard Curtains. Luxurious and durable with a geometric design. Perfect for any room. Shop now for elegance!",
+      "altText": "Elegant jacquard curtains with geometric pattern in gold and cream hues.",
+      "keywords": [
+        "patterned jacquard curtains",
+        "elegant curtains",
+        "geometric design curtains",
+        "gold and cream curtains",
+        "living room curtains",
+        "bedroom curtains",
+        "dining room curtains",
+        "home decor curtains",
+        "window treatment",
+        "luxury curtains",
+        "privacy curtains",
+        "light control curtains",
+        "polyester curtains",
+        "cotton curtains",
+        "warm tone curtains",
+        "floor-length curtains",
+        "textured curtains",
+        "matte finish curtains",
+        "machine washable curtains",
+        "durable curtains",
+        "versatile curtains",
+        "sophisticated curtains",
+        "cozy ambiance curtains",
+        "traditional style curtains",
+        "glamorous style curtains",
+        "high-quality curtains",
+        "jacquard weave curtains",
+        "subtle geometric pattern"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:32.676Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-006",
+    "name": "Boho Tassel Curtains",
+    "description": "Cotton curtains with hand-knotted tassel trim. Bohemian charm.",
+    "price": 135,
+    "compareAtPrice": null,
+    "primaryImage": "curtain-6.webp",
+    "images": [
+      "curtain-6.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Cream"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Bohemian",
+        "Coastal"
+      ],
+      "room": [
+        "Bedroom",
+        "Living Room",
+        "Nursery"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "tassel",
+      "boho",
+      "cream",
+      "bohemian",
+      "cotton",
+      "natural",
+      "light-filtering",
+      "bedroom",
+      "living room",
+      "nursery",
+      "home decor",
+      "window treatment",
+      "soft",
+      "elegant",
+      "versatile",
+      "coastal",
+      "hand-knotted",
+      "textiles",
+      "bedding",
+      "matte finish",
+      "solid pattern",
+      "smooth texture",
+      "boho tassel curtains",
+      "bohemian curtains",
+      "cotton curtains",
+      "light-filtering curtains",
+      "cream curtains",
+      "natural cotton curtains",
+      "hand-knotted tassel curtains",
+      "elegant curtains",
+      "bohemian home decor",
+      "coastal style curtains",
+      "bedroom curtains",
+      "living room curtains",
+      "nursery curtains",
+      "soft cotton curtains",
+      "versatile curtains",
+      "matte finish curtains",
+      "solid pattern curtains",
+      "smooth texture curtains",
+      "home textiles",
+      "boho style curtains",
+      "decorative curtains",
+      "privacy curtains",
+      "serene sanctuary curtains",
+      "charming tassel curtains",
+      "boho chic curtains",
+      "soft light curtains",
+      "elegant home decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with elegant Boho Tassel Curtains, featuring creamy tones and playful tassels.",
+      "long": "Transform your room into a serene sanctuary with our Boho Tassel Curtains. Crafted from 100% soft, natural cotton, these curtains offer a blend of bohemian flair and timeless elegance. The hand-knotted tassels add a charming touch, while the creamy hue harmonizes with a variety of decor styles, from coastal to contemporary. Designed to softly diffuse light, these curtains create an inviting ambiance while maintaining privacy. Perfect for bedrooms, living rooms, or nurseries, they are a versatile addition to any home. Let these curtains be the finishing touch that ties your room together, offering both style and substance.",
+      "features": [
+        "Elegant hand-knotted tassel details",
+        "Made from 100% natural cotton",
+        "Cream color complements multiple styles",
+        "Light-filtering for a cozy atmosphere",
+        "Bohemian chic and coastal-inspired design",
+        "Versatile use in various rooms"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry on low heat. Iron on low setting if needed.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Cream",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Full-length with tassel accents"
+    },
+    "seo": {
+      "metaTitle": "Boho Tassel Curtains - Soft Cotton, Light-Filtering Elegance",
+      "metaDescription": "Elevate your space with Boho Tassel Curtains. Crafted from 100% cotton, these elegant curtains offer bohemian charm and light-filtering privacy. Shop now!",
+      "altText": "Elegant cream Boho Tassel Curtains with hand-knotted tassels, made from soft cotton.",
+      "keywords": [
+        "boho tassel curtains",
+        "bohemian curtains",
+        "cotton curtains",
+        "light-filtering curtains",
+        "cream curtains",
+        "natural cotton curtains",
+        "hand-knotted tassel curtains",
+        "elegant curtains",
+        "bohemian home decor",
+        "coastal style curtains",
+        "bedroom curtains",
+        "living room curtains",
+        "nursery curtains",
+        "window treatment",
+        "soft cotton curtains",
+        "versatile curtains",
+        "matte finish curtains",
+        "solid pattern curtains",
+        "smooth texture curtains",
+        "home textiles",
+        "boho style curtains",
+        "decorative curtains",
+        "privacy curtains",
+        "serene sanctuary curtains",
+        "charming tassel curtains",
+        "boho chic curtains",
+        "soft light curtains",
+        "elegant home decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:37.171Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-007",
+    "name": "Room Darkening Drapes",
+    "description": "Triple-weave room darkening drapes in charcoal. Maximum light blocking.",
+    "price": 145,
+    "compareAtPrice": 185,
+    "primaryImage": "curtain-7.webp",
+    "images": [
+      "curtain-7.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Soft Beige"
+      ],
+      "material": [
+        "Polyester"
+      ],
+      "style": [
+        "Modern",
+        "Contemporary"
+      ],
+      "room": [
+        "Bedroom",
+        "Media Room",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Privacy Enhancement"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "blackout",
+      "room darkening",
+      "charcoal",
+      "drapes",
+      "beige curtains",
+      "modern decor",
+      "privacy curtains",
+      "light blocking",
+      "polyester drapes",
+      "contemporary style",
+      "bedroom curtains",
+      "office drapes",
+      "media room curtains",
+      "elegant pleats",
+      "machine washable",
+      "easy care",
+      "soft texture",
+      "matte finish",
+      "solid pattern",
+      "floor-length curtains",
+      "room darkening drapes",
+      "light blocking drapes",
+      "contemporary style curtains",
+      "machine washable drapes",
+      "easy care curtains",
+      "soft texture drapes",
+      "matte finish curtains",
+      "solid pattern drapes",
+      "high-quality polyester",
+      "smooth texture drapes",
+      "chic pleated design",
+      "privacy enhancement",
+      "modern interiors",
+      "versatile drapes",
+      "functional drapes",
+      "timeless beige drapes",
+      "premium drapes"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.6,
+      "reviewCount": 156
+    },
+    "enrichedDescription": {
+      "short": "Elegant room darkening drapes in soft beige to elevate modern interiors.",
+      "long": "Transform your space with these elegant room darkening drapes, designed in a timeless soft beige that seamlessly complements modern interiors. Crafted from premium polyester, these drapes promise superior light blocking, offering you the privacy and tranquility you crave. Their smooth texture combined with a chic pleated design adds a touch of sophistication, making them perfect for bedrooms, offices, or media rooms. These versatile drapes not only enhance your decor but also provide practical benefits, blending style with functionality effortlessly.",
+      "features": [
+        "Superior room darkening capabilities",
+        "Chic pleated design for added elegance",
+        "Soft beige hue complements various decors",
+        "Crafted from premium polyester",
+        "Ideal for modern and contemporary spaces",
+        "Smooth, matte finish",
+        "Floor-length for full coverage"
+      ],
+      "careInstructions": "Machine wash cold on gentle cycle. Avoid bleach. Tumble dry on low and iron on low heat if necessary.",
+      "materialComposition": "100% Polyester"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Soft Beige",
+          "hex": "#D3C6B6",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "smooth",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Floor-length with elegant pleats"
+    },
+    "seo": {
+      "metaTitle": "Room Darkening Drapes - Elegant Beige for Modern Interiors",
+      "metaDescription": "Transform your space with elegant room darkening drapes. Enjoy privacy and style with premium polyester, perfect for bedrooms and offices. Shop now!",
+      "altText": "Elegant room darkening drapes in soft beige, featuring pleated design for modern interiors.",
+      "keywords": [
+        "room darkening drapes",
+        "beige curtains",
+        "modern decor",
+        "privacy curtains",
+        "light blocking drapes",
+        "polyester drapes",
+        "contemporary style curtains",
+        "bedroom curtains",
+        "office drapes",
+        "media room curtains",
+        "elegant pleats",
+        "machine washable drapes",
+        "easy care curtains",
+        "soft texture drapes",
+        "matte finish curtains",
+        "solid pattern drapes",
+        "floor-length curtains",
+        "high-quality polyester",
+        "smooth texture drapes",
+        "chic pleated design",
+        "privacy enhancement",
+        "modern interiors",
+        "versatile drapes",
+        "functional drapes",
+        "timeless beige drapes",
+        "premium drapes"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:44.342Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "curtain-008",
+    "name": "Stripe Linen Curtains",
+    "description": "Classic striped linen curtains in navy and white. Coastal elegance.",
+    "price": 175,
+    "compareAtPrice": null,
+    "primaryImage": "curtain-8.webp",
+    "images": [
+      "curtain-8.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Curtains",
+        "slug": "curtain"
+      },
+      "productType": "curtain"
+    },
+    "attributes": {
+      "color": [
+        "Warm Beige"
+      ],
+      "material": [
+        "Linen"
+      ],
+      "style": [
+        "Coastal",
+        "Classic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "curtains",
+      "striped",
+      "linen",
+      "navy",
+      "coastal",
+      "beige",
+      "textured",
+      "classic",
+      "living room",
+      "bedroom",
+      "dining room",
+      "elegant",
+      "natural",
+      "warm",
+      "full-length",
+      "light control",
+      "privacy",
+      "home decor",
+      "window treatment",
+      "cozy",
+      "sophisticated",
+      "inviting",
+      "Stripe Linen Curtains",
+      "beige linen curtains",
+      "elegant window treatment",
+      "full-length curtains",
+      "curtains for living room",
+      "curtains for bedroom",
+      "curtains for dining room",
+      "linen home decor",
+      "coastal style curtains",
+      "classic style curtains",
+      "textured fabric curtains",
+      "light control curtains",
+      "privacy curtains",
+      "modern elegant curtains",
+      "sophisticated home decor",
+      "warm tone curtains",
+      "inviting home ambiance",
+      "natural light enhancement",
+      "luxurious linen curtains",
+      "curtains with flowing drape",
+      "beige home accessories",
+      "curtains for cozy spaces",
+      "machine washable curtains",
+      "100% linen curtains",
+      "home decor curtains",
+      "statement piece curtains"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 112
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with our Stripe Linen Curtains, offering warmth and elegance in a stunning beige tone.",
+      "long": "Transform your home with the sophisticated charm of our Stripe Linen Curtains. These luxurious curtains, crafted from 100% linen, boast a warm beige hue that enhances the natural light in any room, creating an inviting and serene atmosphere. The subtle stripe pattern adds a touch of modern elegance, while the full-length design ensures optimal privacy and light control. Perfect for living rooms, bedrooms, or dining spaces, these curtains not only serve as a beautiful window treatment but also as a statement piece that complements a variety of decor styles. Let the flowing drape and textured fabric bring a timeless and cozy allure to your home.",
+      "features": [
+        "Warm beige with subtle stripe pattern",
+        "100% linen for a natural look",
+        "Full-length for enhanced privacy",
+        "Optimal light control",
+        "Versatile for any room",
+        "Textured fabric for depth",
+        "Elegant and timeless design"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry low. Iron on low heat as needed to maintain the fabric's texture.",
+      "materialComposition": "100% Linen"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#D3B8A3",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Full-length with a flowing drape"
+    },
+    "seo": {
+      "metaTitle": "Stripe Linen Curtains - Elegant Full-Length Privacy Solution",
+      "metaDescription": "Enhance your home with Stripe Linen Curtains. Enjoy modern elegance with optimal privacy. Shop now for a cozy and sophisticated touch!",
+      "altText": "Warm beige Stripe Linen Curtains with a textured weave, full-length design for light control.",
+      "keywords": [
+        "Stripe Linen Curtains",
+        "beige linen curtains",
+        "elegant window treatment",
+        "full-length curtains",
+        "curtains for living room",
+        "curtains for bedroom",
+        "curtains for dining room",
+        "linen home decor",
+        "coastal style curtains",
+        "classic style curtains",
+        "textured fabric curtains",
+        "light control curtains",
+        "privacy curtains",
+        "modern elegant curtains",
+        "sophisticated home decor",
+        "warm tone curtains",
+        "inviting home ambiance",
+        "natural light enhancement",
+        "luxurious linen curtains",
+        "curtains with flowing drape",
+        "beige home accessories",
+        "curtains for cozy spaces",
+        "machine washable curtains",
+        "100% linen curtains",
+        "home decor curtains",
+        "statement piece curtains"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:51.739Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-001",
+    "name": "Chunky Knit Throw",
+    "description": "Hand-knitted chunky wool throw in soft cream. Cozy and textural.",
+    "price": 125,
+    "compareAtPrice": null,
+    "primaryImage": "blanket-1.jpeg",
+    "images": [
+      "blanket-1.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Soft Cream"
+      ],
+      "material": [
+        "Wool"
+      ],
+      "style": [
+        "Cozy",
+        "Modern"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxing"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "throw",
+      "chunky knit",
+      "cream",
+      "wool",
+      "cozy",
+      "modern",
+      "handmade",
+      "soft",
+      "warm",
+      "decor",
+      "living room",
+      "bedroom",
+      "luxury",
+      "plush",
+      "comfort",
+      "textural",
+      "knitted",
+      "home",
+      "accessory",
+      "gift",
+      "neutral",
+      "elegant",
+      "stylish",
+      "interior",
+      "design",
+      "snug",
+      "relaxation",
+      "quality",
+      "natural",
+      "versatile",
+      "decorative",
+      "premium",
+      "chunky knit throw",
+      "soft cream throw",
+      "hand-knitted blanket",
+      "wool throw",
+      "cozy bedding",
+      "modern decor throw",
+      "luxury knit throw",
+      "plush wool blanket",
+      "living room throw",
+      "bedroom decor",
+      "warm knit blanket",
+      "elegant throw",
+      "interior design accessory",
+      "soft wool throw",
+      "neutral color throw",
+      "stylish home accessory",
+      "premium knit throw",
+      "decorative blanket",
+      "versatile home decor",
+      "quality wool throw",
+      "natural fiber throw",
+      "plush and cozy throw",
+      "snug wool blanket",
+      "textural knit throw",
+      "handmade wool throw",
+      "gift throw blanket",
+      "elegant home decor",
+      "cream color throw",
+      "relaxation blanket",
+      "chunky knit design"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.9,
+      "reviewCount": 234
+    },
+    "enrichedDescription": {
+      "short": "Luxurious chunky knit throw in soft cream for ultimate coziness.",
+      "long": "Embrace the warmth and style with our Chunky Knit Throw, a masterpiece hand-knitted from premium wool in a soothing soft cream shade. This plush throw invites you to experience its sumptuous texture, draping elegantly over your favorite chair or sofa, transforming any room into a cozy sanctuary. The chunky knit design not only provides exceptional warmth but also adds a modern touch to your decor. Perfect for snuggling during chilly evenings, its timeless appeal and versatile color effortlessly complement any interior style, making it a must-have addition to your living room or bedroom.",
+      "features": [
+        "Hand-knitted for unique texture",
+        "Soft cream color for versatile styling",
+        "Made from high-quality wool",
+        "Chunky knit design for added warmth",
+        "Perfect for living room or bedroom decor",
+        "Plush and voluminous with thick knit strands",
+        "Enhances home decor with cozy aesthetic"
+      ],
+      "careInstructions": "Spot clean with mild detergent and cold water. Lay flat to dry. Avoid machine washing to maintain texture.",
+      "materialComposition": "100% Wool"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Soft Cream",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "chunky knit",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Plush and voluminous with thick knit strands"
+    },
+    "seo": {
+      "metaTitle": "Chunky Knit Throw - Soft Cream, Hand-Knitted Luxury",
+      "metaDescription": "Snuggle up in style with our Chunky Knit Throw. Hand-knitted in soft cream, it's perfect for adding warmth and elegance to your home. Buy now!",
+      "altText": "Luxurious chunky knit throw in soft cream, hand-knitted for warmth and style.",
+      "keywords": [
+        "chunky knit throw",
+        "soft cream throw",
+        "hand-knitted blanket",
+        "wool throw",
+        "cozy bedding",
+        "modern decor throw",
+        "luxury knit throw",
+        "plush wool blanket",
+        "living room throw",
+        "bedroom decor",
+        "warm knit blanket",
+        "elegant throw",
+        "interior design accessory",
+        "soft wool throw",
+        "neutral color throw",
+        "stylish home accessory",
+        "premium knit throw",
+        "decorative blanket",
+        "versatile home decor",
+        "quality wool throw",
+        "natural fiber throw",
+        "plush and cozy throw",
+        "snug wool blanket",
+        "textural knit throw",
+        "handmade wool throw",
+        "gift throw blanket",
+        "elegant home decor",
+        "cream color throw",
+        "relaxation blanket",
+        "chunky knit design"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:05:57.108Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-002",
+    "name": "Cashmere Blend Throw",
+    "description": "Luxuriously soft cashmere blend throw with fringed edges.",
+    "price": 195,
+    "compareAtPrice": 250,
+    "primaryImage": "blanket-2.jpeg",
+    "images": [
+      "blanket-2.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Warm Gray",
+        "Burnt Orange",
+        "Cream"
+      ],
+      "material": [
+        "Cashmere",
+        "Wool"
+      ],
+      "style": [
+        "Luxury",
+        "Classic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "throw",
+      "cashmere",
+      "camel",
+      "luxury",
+      "cashmere blend",
+      "throw blanket",
+      "geometric design",
+      "fringed edges",
+      "luxury bedding",
+      "soft texture",
+      "warm gray",
+      "burnt orange accent",
+      "living room decor",
+      "bedroom accessory",
+      "high-quality craftsmanship",
+      "cozy throw",
+      "classic style",
+      "woven texture",
+      "natural finish",
+      "elegant design",
+      "durable wool",
+      "dry clean only",
+      "soft cashmere",
+      "decorative throw",
+      "warm tones",
+      "stylish blanket",
+      "premium material",
+      "comfortable bedding",
+      "home decor",
+      "interior design",
+      "textile accessory",
+      "versatile use",
+      "gift idea",
+      "seasonal decor",
+      "accent piece",
+      "modern classic",
+      "timeless design",
+      "cashmere blend throw",
+      "geometric pattern throw",
+      "fringed edges blanket",
+      "soft texture bedding",
+      "warm gray throw",
+      "cozy throw blanket",
+      "classic style bedding",
+      "woven texture throw",
+      "natural finish throw",
+      "elegant design blanket",
+      "durable wool throw",
+      "dry clean only bedding",
+      "soft cashmere blanket",
+      "decorative throw blanket",
+      "warm tones bedding",
+      "premium material throw",
+      "home decor throw",
+      "interior design accessory",
+      "versatile use throw",
+      "gift idea bedding",
+      "seasonal decor throw",
+      "accent piece blanket",
+      "modern classic throw"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": true,
+      "rating": 4.8,
+      "reviewCount": 89
+    },
+    "enrichedDescription": {
+      "short": "Elegant cashmere blend throw with geometric pattern and fringed edges.",
+      "long": "Wrap yourself in the luxurious embrace of our Cashmere Blend Throw, a perfect fusion of style and comfort. Featuring a sophisticated geometric pattern, this throw showcases soft gray tones that bring warmth and elegance to any space. The fringed edges add a playful touch of burnt orange, making it a versatile accent piece for your living room or bedroom. Crafted from high-quality materials, this throw combines the exquisite softness of cashmere with the durability of wool, ensuring it remains a cherished part of your home decor for years to come. Whether draped over a sofa or snuggled up in bed, it offers a cozy retreat during chilly evenings while elevating your interior design with its classic allure.",
+      "features": [
+        "Soft cashmere blend for ultimate comfort",
+        "Elegant geometric pattern for visual interest",
+        "Fringed edges adding a stylish touch",
+        "Warm gray tones complemented by burnt orange accents",
+        "High-quality craftsmanship ensuring longevity",
+        "Versatile design suitable for living room or bedroom",
+        "Perfect for cozy evenings or stylish decor"
+      ],
+      "careInstructions": "Dry clean only to maintain the quality and softness of the cashmere blend.",
+      "materialComposition": "70% Cashmere, 30% Wool"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Gray",
+          "hex": "#A9A9A9",
+          "category": "primary"
+        },
+        {
+          "name": "Burnt Orange",
+          "hex": "#CC5500",
+          "category": "accent"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "geometric",
+      "texture": "woven",
+      "finish": "natural",
+      "shape": "rectangular",
+      "silhouette": "Soft drape with fringed edges"
+    },
+    "seo": {
+      "metaTitle": "Cashmere Blend Throw - Luxury Bedding with Geometric Pattern",
+      "metaDescription": "Experience luxury with our Cashmere Blend Throw. Soft, durable, and stylish, it's perfect for cozy nights. Shop now for elegance and comfort!",
+      "altText": "Cashmere blend throw with geometric pattern in gray tones and fringed burnt orange edges.",
+      "keywords": [
+        "cashmere blend throw",
+        "luxury bedding",
+        "geometric pattern throw",
+        "fringed edges blanket",
+        "soft texture bedding",
+        "warm gray throw",
+        "burnt orange accent",
+        "living room decor",
+        "bedroom accessory",
+        "high-quality craftsmanship",
+        "cozy throw blanket",
+        "classic style bedding",
+        "woven texture throw",
+        "natural finish throw",
+        "elegant design blanket",
+        "durable wool throw",
+        "dry clean only bedding",
+        "soft cashmere blanket",
+        "decorative throw blanket",
+        "warm tones bedding",
+        "stylish blanket",
+        "premium material throw",
+        "comfortable bedding",
+        "home decor throw",
+        "interior design accessory",
+        "textile accessory",
+        "versatile use throw",
+        "gift idea bedding",
+        "seasonal decor throw",
+        "accent piece blanket",
+        "modern classic throw"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:06:04.053Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-003",
+    "name": "Cotton Waffle Blanket",
+    "description": "Breathable cotton waffle weave blanket. Perfect for year-round comfort.",
+    "price": 85,
+    "compareAtPrice": null,
+    "primaryImage": "blanket-3.jpeg",
+    "images": [
+      "blanket-3.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Navy Blue",
+        "Light Gray",
+        "Cream"
+      ],
+      "material": [
+        "Cotton"
+      ],
+      "style": [
+        "Modern",
+        "Classic"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Entertaining"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "cotton",
+      "waffle",
+      "white",
+      "breathable",
+      "waffle weave",
+      "striped",
+      "navy blue",
+      "light gray",
+      "cream",
+      "cozy",
+      "modern",
+      "classic",
+      "home decor",
+      "bedding",
+      "throw blanket",
+      "comfortable",
+      "soft",
+      "warm",
+      "versatile",
+      "machine washable",
+      "durable",
+      "stylish",
+      "decorative",
+      "layering",
+      "bedroom",
+      "living room",
+      "sofa",
+      "bed",
+      "year-round",
+      "textured",
+      "cotton waffle blanket",
+      "striped blanket",
+      "modern bedding",
+      "navy blue blanket",
+      "light gray blanket",
+      "cream blanket",
+      "breathable cotton blanket",
+      "cozy blanket",
+      "home decor blanket",
+      "comfortable blanket",
+      "soft blanket",
+      "warm blanket",
+      "versatile blanket",
+      "machine washable blanket",
+      "durable blanket",
+      "stylish blanket",
+      "decorative blanket",
+      "layering blanket",
+      "bedroom blanket",
+      "living room blanket",
+      "sofa blanket",
+      "bed blanket",
+      "year-round blanket",
+      "textured blanket"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 178
+    },
+    "enrichedDescription": {
+      "short": "Experience cozy comfort with this stylish cotton waffle blanket.",
+      "long": "Wrap yourself in comfort with our Cotton Waffle Blanket, designed to elevate any room with its modern striped pattern in navy blue, light gray, and cream hues. The textured waffle weave adds a layer of visual interest and warmth, ensuring year-round coziness. Perfect for draping over your sofa or layering on your bed, this blanket not only serves as a functional piece but also as a stylish accent that complements a variety of decor styles. Made from breathable 100% cotton, it offers a soft touch and a comforting embrace, making it an ideal addition to your home.",
+      "features": [
+        "Striking navy, light gray, and cream stripes",
+        "Textured waffle weave for added warmth",
+        "Breathable 100% cotton fabric",
+        "Ideal for both living room and bedroom",
+        "Modern yet classic design",
+        "Soft and cozy feel",
+        "Perfect for year-round use"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry on low heat. Avoid using bleach.",
+      "materialComposition": "100% Cotton"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Navy Blue",
+          "hex": "#001F54",
+          "category": "primary"
+        },
+        {
+          "name": "Light Gray",
+          "hex": "#D3D3D3",
+          "category": "secondary"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FFFDD0",
+          "category": "accent"
+        }
+      ],
+      "pattern": "striped",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Classic rectangular form with bold stripes"
+    },
+    "seo": {
+      "metaTitle": "Cotton Waffle Blanket - Modern Striped Design",
+      "metaDescription": "Discover ultimate comfort with our Cotton Waffle Blanket. Featuring a stylish striped pattern, it's perfect for any decor. Shop now for cozy elegance!",
+      "altText": "Cotton waffle blanket with navy blue, light gray, and cream stripes, perfect for modern decor.",
+      "keywords": [
+        "cotton waffle blanket",
+        "striped blanket",
+        "modern bedding",
+        "navy blue blanket",
+        "light gray blanket",
+        "cream blanket",
+        "breathable cotton blanket",
+        "cozy blanket",
+        "home decor blanket",
+        "bedding",
+        "throw blanket",
+        "comfortable blanket",
+        "soft blanket",
+        "warm blanket",
+        "versatile blanket",
+        "machine washable blanket",
+        "durable blanket",
+        "stylish blanket",
+        "decorative blanket",
+        "layering blanket",
+        "bedroom blanket",
+        "living room blanket",
+        "sofa blanket",
+        "bed blanket",
+        "year-round blanket",
+        "textured blanket"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:06:09.444Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-004",
+    "name": "Faux Fur Throw",
+    "description": "Plush faux fur throw in warm gray. Ultimate softness.",
+    "price": 95,
+    "compareAtPrice": null,
+    "primaryImage": "blanket-4.jpeg",
+    "images": [
+      "blanket-4.jpeg"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Soft Cream"
+      ],
+      "material": [
+        "Faux Fur",
+        "Polyester"
+      ],
+      "style": [
+        "Glamorous",
+        "Cozy"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxing"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "throw",
+      "faux fur",
+      "gray",
+      "plush",
+      "faux fur throw",
+      "soft cream blanket",
+      "plush bedding",
+      "cozy throw",
+      "luxurious blanket",
+      "home decor",
+      "living room accessory",
+      "bedroom throw",
+      "warm blanket",
+      "soft texture",
+      "elegant design",
+      "machine washable",
+      "polyester faux fur",
+      "ethical bedding",
+      "comfortable throw",
+      "snuggle blanket",
+      "decorative blanket",
+      "versatile use",
+      "chic style",
+      "modern home",
+      "glamorous style",
+      "high-quality faux fur",
+      "plush texture",
+      "velvety feel",
+      "ethically crafted",
+      "soft cream color",
+      "textured pattern",
+      "rectangular throw",
+      "living room throw"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.6,
+      "reviewCount": 145
+    },
+    "enrichedDescription": {
+      "short": "Luxurious faux fur throw in soft cream, perfect for cozying up.",
+      "long": "Wrap yourself in the indulgent embrace of our Faux Fur Throw, a statement piece in soft cream designed to elevate your home decor. Enveloping you in warmth and plush comfort, its velvety texture is perfect for snuggling during chilly evenings. Whether draped elegantly over your sofa or layered onto your bed, this throw adds a touch of glamour to any space. Ethically crafted from high-quality faux fur, it replicates the softness of real fur without the ethical concerns. Experience the ultimate blend of style and comfort, transforming your living room or bedroom into a haven of relaxation and sophistication.",
+      "features": [
+        "Soft cream color complements any décor",
+        "Luxurious faux fur texture for ultimate comfort",
+        "Enhances elegance in living room or bedroom",
+        "Generously sized for versatile use",
+        "Ethically crafted from high-quality materials",
+        "Plush and cozy feel"
+      ],
+      "careInstructions": "Machine wash cold on a gentle cycle. Tumble dry low or air dry. Avoid using bleach to maintain quality.",
+      "materialComposition": "100% high-quality polyester faux fur"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Soft Cream",
+          "hex": "#F5F5DC",
+          "category": "primary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "velvet",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Generously sized with plush folds"
+    },
+    "seo": {
+      "metaTitle": "Faux Fur Throw - Luxurious Soft Cream Blanket",
+      "metaDescription": "Elevate your home decor with our Faux Fur Throw. Experience plush comfort and style. Perfect for cozy evenings. Shop now for ultimate relaxation.",
+      "altText": "Luxurious faux fur throw blanket in soft cream, perfect for cozying up.",
+      "keywords": [
+        "faux fur throw",
+        "soft cream blanket",
+        "plush bedding",
+        "cozy throw",
+        "luxurious blanket",
+        "home decor",
+        "living room accessory",
+        "bedroom throw",
+        "warm blanket",
+        "soft texture",
+        "elegant design",
+        "machine washable",
+        "polyester faux fur",
+        "ethical bedding",
+        "comfortable throw",
+        "snuggle blanket",
+        "decorative blanket",
+        "versatile use",
+        "chic style",
+        "modern home",
+        "glamorous style",
+        "high-quality faux fur",
+        "plush texture",
+        "velvety feel",
+        "ethically crafted",
+        "soft cream color",
+        "textured pattern",
+        "rectangular throw",
+        "living room throw"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:06:16.725Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-005",
+    "name": "Herringbone Wool Throw",
+    "description": "Classic herringbone pattern wool throw in charcoal and ivory.",
+    "price": 145,
+    "compareAtPrice": null,
+    "primaryImage": "blanket-5.webp",
+    "images": [
+      "blanket-5.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Ivory"
+      ],
+      "material": [
+        "Faux Fur",
+        "Polyester"
+      ],
+      "style": [
+        "Luxurious",
+        "Contemporary"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Office"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "throw",
+      "herringbone",
+      "wool",
+      "classic",
+      "faux fur",
+      "throw blanket",
+      "ivory",
+      "luxury",
+      "cozy",
+      "soft",
+      "home decor",
+      "living room",
+      "bedroom",
+      "office",
+      "plush",
+      "warm",
+      "comfortable",
+      "elegant",
+      "contemporary",
+      "machine washable",
+      "polyester",
+      "cruelty-free",
+      "gift",
+      "relaxation",
+      "chic",
+      "stylish",
+      "decorative",
+      "snuggle",
+      "textile",
+      "bedding",
+      "accessory",
+      "interior design",
+      "modern",
+      "neutral",
+      "versatile",
+      "soft touch",
+      "gentle cycle",
+      "tumble dry",
+      "no bleach",
+      "no ironing",
+      "Herringbone Wool Throw",
+      "luxurious bedding",
+      "premium wool throw",
+      "classic herringbone pattern",
+      "warm wool blanket",
+      "neutral decor throw",
+      "elegant home accessory",
+      "comfortable wool blanket",
+      "sophisticated throw",
+      "versatile home decor",
+      "living room throw",
+      "bedroom blanket",
+      "office decor",
+      "plush wool throw",
+      "stylish bedding",
+      "warm and cozy throw",
+      "timeless style blanket",
+      "neutral tones throw",
+      "premium quality wool",
+      "soft texture blanket",
+      "decorative wool throw",
+      "bedding accessory",
+      "interior design throw",
+      "modern wool blanket",
+      "classic design throw",
+      "cozy home decor",
+      "wool throw blanket",
+      "sophisticated home accessory",
+      "comfortable and stylish throw",
+      "elegant wool blanket"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.8,
+      "reviewCount": 98
+    },
+    "enrichedDescription": {
+      "short": "Elegant Herringbone Wool Throw for warmth and style in any setting.",
+      "long": "Enhance your living space with the luxurious Herringbone Wool Throw, priced at $145. Crafted from premium wool, this throw features a classic herringbone pattern, marrying timeless style with unmatched comfort. Its rich texture and weight make it perfect for draping over a sofa or layering on your bed, providing both warmth and a sophisticated touch. The neutral tones blend seamlessly into any decor, making it a versatile addition to your home.",
+      "features": [
+        "Classic herringbone pattern for timeless style",
+        "Crafted from premium wool for ultimate warmth",
+        "Versatile neutral tones complement any decor",
+        "Perfect for layering on beds or draping over sofas",
+        "Adds a sophisticated touch to your living space",
+        "Generous size for ample coverage",
+        "Durable construction for long-lasting use"
+      ],
+      "careInstructions": "Dry clean only to maintain quality and texture. Avoid direct sunlight to prevent fading. Store in a cool, dry place when not in use.",
+      "materialComposition": "100% Wool"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Ivory",
+          "hex": "#FFFFF0",
+          "category": "primary"
+        }
+      ],
+      "pattern": "solid",
+      "texture": "velvet",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Plush and inviting with a soft drape"
+    },
+    "seo": {
+      "metaTitle": "Herringbone Wool Throw - Luxurious Comfort & Style",
+      "metaDescription": "Add elegance to your home with the Herringbone Wool Throw. Crafted from premium wool, it offers warmth and style for $145. Shop now for sophistication!",
+      "altText": "Luxurious Herringbone Wool Throw in neutral tones, perfect for draping over furniture.",
+      "keywords": [
+        "Herringbone Wool Throw",
+        "luxurious bedding",
+        "premium wool throw",
+        "classic herringbone pattern",
+        "warm wool blanket",
+        "neutral decor throw",
+        "elegant home accessory",
+        "comfortable wool blanket",
+        "sophisticated throw",
+        "versatile home decor",
+        "living room throw",
+        "bedroom blanket",
+        "office decor",
+        "plush wool throw",
+        "stylish bedding",
+        "warm and cozy throw",
+        "timeless style blanket",
+        "neutral tones throw",
+        "premium quality wool",
+        "soft texture blanket",
+        "decorative wool throw",
+        "bedding accessory",
+        "interior design throw",
+        "modern wool blanket",
+        "classic design throw",
+        "cozy home decor",
+        "wool throw blanket",
+        "sophisticated home accessory",
+        "comfortable and stylish throw",
+        "elegant wool blanket"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:06:22.971Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-006",
+    "name": "Sherpa Fleece Blanket",
+    "description": "Reversible sherpa fleece blanket with smooth velvet side.",
+    "price": 75,
+    "compareAtPrice": 95,
+    "primaryImage": "blanket-6.webp",
+    "images": [
+      "blanket-6.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Warm Taupe"
+      ],
+      "material": [
+        "Polyester",
+        "Sherpa Fleece"
+      ],
+      "style": [
+        "Cozy",
+        "Casual"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Family Room"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "sherpa",
+      "fleece",
+      "navy",
+      "reversible",
+      "taupe",
+      "cozy",
+      "soft",
+      "plush",
+      "textured",
+      "warm",
+      "bedding",
+      "home decor",
+      "living room",
+      "bedroom",
+      "family room",
+      "comfortable",
+      "luxurious",
+      "machine washable",
+      "polyester",
+      "casual style",
+      "elegant",
+      "snuggle",
+      "cold nights",
+      "decorative",
+      "matte finish",
+      "soft touch",
+      "versatile",
+      "gift idea",
+      "warmth",
+      "relaxation",
+      "comfort",
+      "sherpa fleece blanket",
+      "reversible blanket",
+      "taupe blanket",
+      "cozy bedding",
+      "plush blanket",
+      "textured blanket",
+      "warm bedding",
+      "home decor blanket",
+      "living room blanket",
+      "bedroom blanket",
+      "family room blanket",
+      "comfortable blanket",
+      "luxurious blanket",
+      "machine washable blanket",
+      "polyester blanket",
+      "casual style blanket",
+      "elegant blanket",
+      "snuggle blanket",
+      "cold nights blanket",
+      "decorative blanket",
+      "matte finish blanket",
+      "soft touch blanket",
+      "versatile blanket",
+      "gift idea blanket",
+      "warmth blanket",
+      "relaxation blanket",
+      "comfort blanket"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": false,
+      "bestSeller": true,
+      "onSale": true,
+      "rating": 4.5,
+      "reviewCount": 212
+    },
+    "enrichedDescription": {
+      "short": "Luxurious reversible sherpa fleece blanket with textured design.",
+      "long": "Wrap yourself in warmth and elegance with our Sherpa Fleece Blanket, priced at $75. This plush blanket features a reversible design, offering a smooth velvet-like texture on one side and a cozy sherpa fleece on the other. Its warm taupe color adds a sophisticated touch to any room, enhancing your decor with its textured pattern. Perfect for those chilly nights when you want to snuggle up with a good book or a movie, this blanket blends comfort with style effortlessly. Whether draped over your living room sofa, spread across your bed, or used in a family room, it promises to be a delightful addition to your home.",
+      "features": [
+        "Reversible design with sherpa fleece and velvet sides",
+        "Warm taupe color with textured pattern",
+        "Soft and plush for ultimate comfort",
+        "Ideal for living room, bedroom, or family room",
+        "Enhances room decor with elegant style",
+        "Offers cozy warmth for cold nights",
+        "Machine washable for easy care"
+      ],
+      "careInstructions": "Machine wash cold on gentle cycle. Tumble dry low. Do not bleach.",
+      "materialComposition": "100% Polyester"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Warm Taupe",
+          "hex": "#B38B6D",
+          "category": "primary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Soft and plush with a textured surface"
+    },
+    "seo": {
+      "metaTitle": "Sherpa Fleece Blanket - Reversible, Cozy & Elegant Bedding",
+      "metaDescription": "Experience ultimate comfort with our Sherpa Fleece Blanket. Reversible design in warm taupe adds elegance. Order now for cozy nights at $75!",
+      "altText": "Luxurious sherpa fleece blanket with reversible design and textured pattern in warm taupe.",
+      "keywords": [
+        "sherpa fleece blanket",
+        "reversible blanket",
+        "taupe blanket",
+        "cozy bedding",
+        "plush blanket",
+        "textured blanket",
+        "warm bedding",
+        "home decor blanket",
+        "living room blanket",
+        "bedroom blanket",
+        "family room blanket",
+        "comfortable blanket",
+        "luxurious blanket",
+        "machine washable blanket",
+        "polyester blanket",
+        "casual style blanket",
+        "elegant blanket",
+        "snuggle blanket",
+        "cold nights blanket",
+        "decorative blanket",
+        "matte finish blanket",
+        "soft touch blanket",
+        "versatile blanket",
+        "gift idea blanket",
+        "warmth blanket",
+        "relaxation blanket",
+        "comfort blanket"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:06:28.455Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  },
+  {
+    "id": "blanket-007",
+    "name": "Linen Summer Throw",
+    "description": "Lightweight linen throw perfect for warm nights. Relaxed and airy.",
+    "price": 115,
+    "compareAtPrice": null,
+    "primaryImage": "blanket-7.webp",
+    "images": [
+      "blanket-7.webp"
+    ],
+    "taxonomy": {
+      "category": {
+        "name": "Bedding & Textiles",
+        "slug": "bedding"
+      },
+      "subcategory": {
+        "name": "Throw Blankets",
+        "slug": "throw-blanket"
+      },
+      "productType": "throw-blanket"
+    },
+    "attributes": {
+      "color": [
+        "Charcoal Gray"
+      ],
+      "material": [
+        "Polyester"
+      ],
+      "style": [
+        "Contemporary",
+        "Coastal"
+      ],
+      "room": [
+        "Living Room",
+        "Bedroom",
+        "Sunroom"
+      ],
+      "occasion": [
+        "Everyday",
+        "Relaxation"
+      ]
+    },
+    "tags": [
+      "blanket",
+      "throw",
+      "linen",
+      "natural",
+      "summer",
+      "throw blanket",
+      "charcoal gray",
+      "plush",
+      "luxury",
+      "textured",
+      "cozy",
+      "elegant",
+      "home decor",
+      "living room",
+      "bedroom",
+      "soft",
+      "warm",
+      "comfortable",
+      "relaxation",
+      "polyester",
+      "matte finish",
+      "versatile",
+      "decorative",
+      "modern",
+      "contemporary",
+      "coastal",
+      "neutral color",
+      "machine washable",
+      "easy care",
+      "gift idea",
+      "stylish",
+      "high quality",
+      "premium",
+      "snuggle",
+      "winter",
+      "cool evenings",
+      "linen summer throw",
+      "charcoal gray throw",
+      "cozy throw blanket",
+      "luxury home decor",
+      "textured throw",
+      "elegant bedding",
+      "soft throw blanket",
+      "plush linen throw",
+      "contemporary decor",
+      "coastal style throw",
+      "versatile home accessory",
+      "warm and stylish throw",
+      "polyester throw blanket",
+      "machine washable throw",
+      "easy care bedding",
+      "high quality throw",
+      "premium linen throw",
+      "snuggle blanket",
+      "winter throw blanket",
+      "cool evenings throw",
+      "decorative throw blanket",
+      "neutral color throw",
+      "living room decor",
+      "bedroom throw blanket",
+      "stylish home accessory",
+      "gift idea throw",
+      "comfortable throw blanket",
+      "relaxation throw blanket",
+      "modern home decor"
+    ],
+    "metadata": {
+      "inStock": true,
+      "featured": true,
+      "bestSeller": false,
+      "onSale": false,
+      "rating": 4.7,
+      "reviewCount": 67
+    },
+    "enrichedDescription": {
+      "short": "Elevate your space with the Linen Summer Throw in soothing charcoal gray.",
+      "long": "The Linen Summer Throw is the epitome of cozy sophistication. Its deep charcoal gray hue adds a touch of modern elegance to any room, seamlessly blending with contemporary and coastal styles. Crafted from premium linen, it features a subtly textured surface that invites tactile exploration. Perfect for draping over your favorite armchair or layering on your bed, this throw offers warmth without compromising style. Its lightweight yet plush feel makes it ideal for snuggling during cool evenings or enhancing your decor year-round. Experience the luxurious embrace of this versatile piece, which promises comfort and chic aesthetics.",
+      "features": [
+        "Premium linen material",
+        "Deep charcoal gray color",
+        "Subtly textured surface",
+        "Lightweight yet plush",
+        "Versatile design for all seasons",
+        "Perfect for layering and decor"
+      ],
+      "careInstructions": "Machine wash cold on gentle cycle. Tumble dry low or lay flat to dry. Do not bleach.",
+      "materialComposition": "100% Linen"
+    },
+    "visualAttributes": {
+      "primaryColors": [
+        {
+          "name": "Charcoal Gray",
+          "hex": "#4A4A4A",
+          "category": "primary"
+        }
+      ],
+      "pattern": "textured",
+      "texture": "textured",
+      "finish": "matte",
+      "shape": "rectangular",
+      "silhouette": "Draped with plush waves"
+    },
+    "seo": {
+      "metaTitle": "Linen Summer Throw - Cozy Elegance in Charcoal Gray",
+      "metaDescription": "Elevate your decor with the Linen Summer Throw. Experience cozy sophistication in charcoal gray. Perfect for year-round comfort. Shop now!",
+      "altText": "Luxurious charcoal gray linen summer throw blanket with textured surface.",
+      "keywords": [
+        "linen summer throw",
+        "charcoal gray throw",
+        "cozy throw blanket",
+        "luxury home decor",
+        "textured throw",
+        "elegant bedding",
+        "soft throw blanket",
+        "plush linen throw",
+        "contemporary decor",
+        "coastal style throw",
+        "versatile home accessory",
+        "warm and stylish throw",
+        "polyester throw blanket",
+        "machine washable throw",
+        "easy care bedding",
+        "high quality throw",
+        "premium linen throw",
+        "snuggle blanket",
+        "winter throw blanket",
+        "cool evenings throw",
+        "decorative throw blanket",
+        "neutral color throw",
+        "living room decor",
+        "bedroom throw blanket",
+        "stylish home accessory",
+        "gift idea throw",
+        "comfortable throw blanket",
+        "relaxation throw blanket",
+        "modern home decor"
+      ]
+    },
+    "enrichmentMeta": {
+      "enrichedAt": "2026-01-18T05:06:34.634Z",
+      "version": "1.0.0",
+      "confidence": 0.95,
+      "source": "azure-openai"
+    }
+  }
+]
