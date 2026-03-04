@@ -210,7 +210,7 @@ export default function BeddingCategory() {
       <div className="w-full">
         <div className="flex">
           {/* LEFT SIDEBAR - Always Visible Filters */}
-          <aside className="w-[345px] flex-shrink-0 pr-6 py-6 pl-4 border-r border-gray-100">
+          <aside className="hidden md:block w-[345px] flex-shrink-0 pr-6 py-6 pl-4 border-r border-gray-100">
             <div className="sticky top-24">
               {/* Breadcrumb inside sidebar */}
               <nav className="text-xs text-gray-500 mb-4">
@@ -316,7 +316,7 @@ export default function BeddingCategory() {
           </aside>
 
           {/* RIGHT SIDE - Product Grid */}
-          <main className="flex-1 py-6 pl-6 pr-4">
+          <main className="flex-1 py-6 px-4 md:pl-6 md:pr-4">
             {/* Header Row - Title + Sort */}
             <div className="flex items-center justify-between mb-6">
               <div className="flex items-center gap-4">
@@ -346,7 +346,7 @@ export default function BeddingCategory() {
             </div>
 
             {filteredProducts.length > 0 ? (
-              <div className="grid grid-cols-4 gap-x-6 gap-y-8">
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-4 gap-y-6 md:gap-x-6 md:gap-y-8">
                 {filteredProducts.map((product, index) => (
                   <motion.div
                     key={product.id}

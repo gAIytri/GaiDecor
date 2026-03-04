@@ -1,7 +1,9 @@
 import { useState, useMemo, useEffect } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ChevronDown, ChevronUp } from 'lucide-react';
+import { ChevronDown, ChevronUp, SlidersHorizontal } from 'lucide-react';
+import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet';
+import { useUIStore } from '@/store/useUIStore';
 import type { Product as NewProduct } from '@/types/product';
 import furnitureData from '@/data/furniture.json';
 import { furnitureImagesByFilename } from '@/data/images';
@@ -162,124 +164,147 @@ export default function FurnitureCategory() {
 
   // Get active filter count
   const activeFilterCount = Object.values(selectedFilters).reduce((acc, arr) => acc + arr.length, 0);
+  const { isFilterSidebarOpen, setFilterSidebarOpen } = useUIStore();
+
+  // Reusable filter panel JSX
+  const filterPanel = (
+    <>
+      {/* Breadcrumb inside sidebar */}
+      <nav className="text-xs text-gray-500 mb-4">
+        <Link to="/" className="hover:text-gray-900">HOME</Link>
+        <span className="mx-2">/</span>
+        <span className="text-gray-900">FURNITURE</span>
+      </nav>
+
+      {furnitureFilters.map((filter) => (
+        <div key={filter.id} className="border-b border-gray-200 py-3">
+          <button
+            onClick={() => toggleFilter(filter.id)}
+            className="w-full flex items-center justify-between text-sm font-medium text-gray-900"
+          >
+            <span className="uppercase tracking-wide">{filter.label}</span>
+            {expandedFilters.includes(filter.id) ? (
+              <ChevronUp className="w-4 h-4 text-gray-400" />
+            ) : (
+              <ChevronDown className="w-4 h-4 text-gray-400" />
+            )}
+          </button>
+
+          {expandedFilters.includes(filter.id) && (
+            <div className="mt-3">
+              {filter.type === 'color' && filter.options && (
+                <div className="grid grid-cols-4 gap-2">
+                  {filter.options.map((option) => (
+                    <button
+                      key={option.value}
+                      onClick={() => handleFilterChange('color', option.value)}
+                      className="group relative"
+                      title={option.label}
+                    >
+                      <div
+                        className={`w-10 h-10 border-2 transition-all ${
+                          selectedFilters['color']?.includes(option.value)
+                            ? 'border-gray-900 ring-1 ring-gray-400'
+                            : 'border-gray-200 hover:border-gray-300'
+                        }`}
+                        style={{ backgroundColor: option.color || '#CCCCCC' }}
+                      />
+                    </button>
+                  ))}
+                </div>
+              )}
+
+              {filter.type === 'checkbox' && (
+                <div className="flex flex-wrap gap-2">
+                  {filter.id === 'productType' ? (
+                    availableProductTypes.map((typeObj) => (
+                      <button
+                        key={typeObj.slug}
+                        onClick={() => handleFilterChange('productType', typeObj.slug)}
+                        className={`px-3 py-1.5 text-xs border transition-all ${
+                          selectedFilters['productType']?.includes(typeObj.slug)
+                            ? 'bg-gray-900 text-white border-gray-900'
+                            : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
+                        }`}
+                      >
+                        {typeObj.name}
+                      </button>
+                    ))
+                  ) : (
+                    filter.options?.map((option) => (
+                      <button
+                        key={option.value}
+                        onClick={() => handleFilterChange(filter.id, option.value)}
+                        className={`px-3 py-1.5 text-xs border transition-all ${
+                          selectedFilters[filter.id]?.includes(option.value)
+                            ? 'bg-gray-900 text-white border-gray-900'
+                            : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
+                        }`}
+                      >
+                        {option.label}
+                      </button>
+                    ))
+                  )}
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+      ))}
+
+      {activeFilterCount > 0 && (
+        <button
+          onClick={() => {
+            setSelectedFilters({});
+            setSearchParams(new URLSearchParams('view=all'));
+          }}
+          className="mt-4 text-sm text-gray-500 hover:text-gray-900 underline"
+        >
+          Clear all filters ({activeFilterCount})
+        </button>
+      )}
+    </>
+  );
 
   return (
     <div className="min-h-screen bg-white">
+      {/* Mobile Filter Sheet */}
+      <Sheet open={isFilterSidebarOpen} onOpenChange={setFilterSidebarOpen}>
+        <SheetContent side="left" className="w-[85%] max-w-sm overflow-y-auto">
+          <SheetHeader>
+            <SheetTitle className="text-sm font-semibold uppercase tracking-wider">Filters</SheetTitle>
+          </SheetHeader>
+          <div className="px-4 pb-6">{filterPanel}</div>
+        </SheetContent>
+      </Sheet>
+
       {/* MAIN CONTENT - Sidebar + Products */}
       <div className="w-full">
         <div className="flex">
-          {/* LEFT SIDEBAR - Always Visible Filters */}
-          <aside className="w-[345px] flex-shrink-0 pr-6 py-6 pl-4 border-r border-gray-100">
-            <div className="sticky top-24">
-              {/* Breadcrumb inside sidebar */}
-              <nav className="text-xs text-gray-500 mb-4">
-                <Link to="/" className="hover:text-gray-900">HOME</Link>
-                <span className="mx-2">/</span>
-                <span className="text-gray-900">FURNITURE</span>
-              </nav>
-
-              {furnitureFilters.map((filter) => (
-                <div key={filter.id} className="border-b border-gray-200 py-3">
-                  <button
-                    onClick={() => toggleFilter(filter.id)}
-                    className="w-full flex items-center justify-between text-sm font-medium text-gray-900"
-                  >
-                    <span className="uppercase tracking-wide">{filter.label}</span>
-                    {expandedFilters.includes(filter.id) ? (
-                      <ChevronUp className="w-4 h-4 text-gray-400" />
-                    ) : (
-                      <ChevronDown className="w-4 h-4 text-gray-400" />
-                    )}
-                  </button>
-
-                  {/* Filter Options */}
-                  {expandedFilters.includes(filter.id) && (
-                    <div className="mt-3">
-                      {/* Color Swatches - Square */}
-                      {filter.type === 'color' && filter.options && (
-                        <div className="grid grid-cols-4 gap-2">
-                          {filter.options.map((option) => (
-                            <button
-                              key={option.value}
-                              onClick={() => handleFilterChange('color', option.value)}
-                              className="group relative"
-                              title={option.label}
-                            >
-                              <div
-                                className={`w-10 h-10 border-2 transition-all ${
-                                  selectedFilters['color']?.includes(option.value)
-                                    ? 'border-gray-900 ring-1 ring-gray-400'
-                                    : 'border-gray-200 hover:border-gray-300'
-                                }`}
-                                style={{
-                                  backgroundColor: option.color || '#CCCCCC',
-                                }}
-                              />
-                            </button>
-                          ))}
-                        </div>
-                      )}
-
-                      {/* All other filters as square pills */}
-                      {filter.type === 'checkbox' && (
-                        <div className="flex flex-wrap gap-2">
-                          {filter.id === 'productType' ? (
-                            availableProductTypes.map((typeObj) => (
-                              <button
-                                key={typeObj.slug}
-                                onClick={() => handleFilterChange('productType', typeObj.slug)}
-                                className={`px-3 py-1.5 text-xs border transition-all ${
-                                  selectedFilters['productType']?.includes(typeObj.slug)
-                                    ? 'bg-gray-900 text-white border-gray-900'
-                                    : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
-                                }`}
-                              >
-                                {typeObj.name}
-                              </button>
-                            ))
-                          ) : (
-                            filter.options?.map((option) => (
-                              <button
-                                key={option.value}
-                                onClick={() => handleFilterChange(filter.id, option.value)}
-                                className={`px-3 py-1.5 text-xs border transition-all ${
-                                  selectedFilters[filter.id]?.includes(option.value)
-                                    ? 'bg-gray-900 text-white border-gray-900'
-                                    : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
-                                }`}
-                              >
-                                {option.label}
-                              </button>
-                            ))
-                          )}
-                        </div>
-                      )}
-                    </div>
-                  )}
-                </div>
-              ))}
-
-              {/* Clear Filters */}
-              {activeFilterCount > 0 && (
-                <button
-                  onClick={() => {
-                    setSelectedFilters({});
-                    setSearchParams(new URLSearchParams('view=all'));
-                  }}
-                  className="mt-4 text-sm text-gray-500 hover:text-gray-900 underline"
-                >
-                  Clear all filters ({activeFilterCount})
-                </button>
-              )}
-            </div>
+          {/* LEFT SIDEBAR - Hidden on mobile */}
+          <aside className="hidden md:block w-[345px] flex-shrink-0 pr-6 py-6 pl-4 border-r border-gray-100">
+            <div className="sticky top-24">{filterPanel}</div>
           </aside>
 
           {/* RIGHT SIDE - Product Grid */}
-          <main className="flex-1 py-6 pl-6 pr-4">
-            {/* Header Row - Title + Sort */}
+          <main className="flex-1 py-6 px-4 md:pl-6 md:pr-4">
+            {/* Header Row - Title + Sort + Mobile Filter */}
             <div className="flex items-center justify-between mb-6">
-              <div className="flex items-center gap-4">
-                <h1 className="text-xl font-medium text-gray-900 tracking-wide">
+              <div className="flex items-center gap-3 md:gap-4">
+                {/* Mobile Filter Button */}
+                <button
+                  onClick={() => setFilterSidebarOpen(true)}
+                  className="md:hidden flex items-center gap-1.5 text-sm font-medium text-gray-900 border border-gray-300 px-3 py-2"
+                >
+                  <SlidersHorizontal className="w-4 h-4" />
+                  Filters
+                  {activeFilterCount > 0 && (
+                    <span className="text-xs bg-gray-900 text-white px-1.5 py-0.5 rounded-full ml-1">
+                      {activeFilterCount}
+                    </span>
+                  )}
+                </button>
+                <h1 className="text-lg md:text-xl font-medium text-gray-900 tracking-wide">
                   FURNITURE
                 </h1>
                 <span className="text-sm text-gray-500">
@@ -287,12 +312,11 @@ export default function FurnitureCategory() {
                 </span>
               </div>
 
-              {/* Sort Dropdown - Styled like collapsed filter */}
               <div className="relative">
                 <select
                   value={sortBy}
                   onChange={(e) => setSortBy(e.target.value)}
-                  className="appearance-none text-sm font-medium text-gray-900 uppercase tracking-wide bg-white border-b border-gray-200 py-3 pr-8 pl-0 focus:outline-none cursor-pointer"
+                  className="appearance-none text-xs md:text-sm font-medium text-gray-900 uppercase tracking-wide bg-white border-b border-gray-200 py-3 pr-8 pl-0 focus:outline-none cursor-pointer"
                 >
                   <option value="popularity">Sort by: Popularity</option>
                   <option value="price-asc">Sort by: Price Low to High</option>
@@ -305,7 +329,7 @@ export default function FurnitureCategory() {
             </div>
 
             {filteredProducts.length > 0 ? (
-              <div className="grid grid-cols-4 gap-x-6 gap-y-8">
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-4 gap-y-6 md:gap-x-6 md:gap-y-8">
                 {filteredProducts.map((product, index) => (
                   <motion.div
                     key={product.id}
@@ -314,7 +338,6 @@ export default function FurnitureCategory() {
                     transition={{ delay: index * 0.03 }}
                   >
                     <Link to={`/product/${product.id}`} className="group block">
-                      {/* Product Image */}
                       <div className="relative aspect-square bg-gray-50 mb-3 overflow-hidden">
                         <img
                           src={furnitureImagesByFilename[product.primaryImage]}
@@ -323,7 +346,6 @@ export default function FurnitureCategory() {
                         />
                       </div>
 
-                      {/* Color Swatches */}
                       {product.attributes.color && product.attributes.color.length > 0 && (
                         <div className="flex gap-1 mb-2">
                           {product.attributes.color.slice(0, 4).map((color, i) => (
@@ -342,18 +364,16 @@ export default function FurnitureCategory() {
                         </div>
                       )}
 
-                      {/* Product Name */}
-                      <h3 className="text-sm text-gray-900 mb-1 line-clamp-2 group-hover:text-gray-600">
+                      <h3 className="text-xs md:text-sm text-gray-900 mb-1 line-clamp-2 group-hover:text-gray-600">
                         {product.name}
                       </h3>
 
-                      {/* Price */}
                       <div className="flex items-center gap-2">
-                        <p className="text-sm font-medium text-gray-900">
+                        <p className="text-xs md:text-sm font-medium text-gray-900">
                           ${product.price.toFixed(2)}
                         </p>
                         {product.compareAtPrice && (
-                          <p className="text-sm text-gray-400 line-through">
+                          <p className="text-xs md:text-sm text-gray-400 line-through">
                             ${product.compareAtPrice.toFixed(2)}
                           </p>
                         )}

@@ -1,10 +1,12 @@
 import { useParams, Link, useSearchParams } from 'react-router-dom';
-import { useState, useMemo } from 'react';
+import { useMemo } from 'react';
 import { ChevronRight, SlidersHorizontal } from 'lucide-react';
 import ProductGrid from '@/components/product/ProductGrid';
 import FilterSidebar from '@/components/product/FilterSidebar';
 import { Button } from '@/components/ui/button';
+import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet';
 import { useFilterStore } from '@/store/useFilterStore';
+import { useUIStore } from '@/store/useUIStore';
 import { getCategoryConfig } from '@/data/categoryConfig';
 import RugsHub from '@/pages/category/rugs/RugsHub';
 import RugsCategory from '@/pages/category/rugs/RugsCategory';
@@ -81,7 +83,7 @@ export default function Category() {
   const [searchParams] = useSearchParams();
 
   // ALL HOOKS MUST BE AT THE TOP - before any conditional returns
-  const [showFilters, setShowFilters] = useState(false);
+  const { isFilterSidebarOpen, setFilterSidebarOpen } = useUIStore();
   const { sortBy, setSortBy, applyFilters } = useFilterStore();
 
   // Format category name
@@ -291,6 +293,18 @@ export default function Category() {
         </div>
       </div>
 
+      {/* Mobile Filter Sheet */}
+      <Sheet open={isFilterSidebarOpen} onOpenChange={setFilterSidebarOpen}>
+        <SheetContent side="left" className="w-[85%] max-w-sm overflow-y-auto">
+          <SheetHeader>
+            <SheetTitle className="text-sm font-semibold uppercase tracking-wider">Filters</SheetTitle>
+          </SheetHeader>
+          <div className="px-4 pb-6">
+            <FilterSidebar products={categoryProducts} />
+          </div>
+        </SheetContent>
+      </Sheet>
+
       {/* Main Content */}
       <div className="max-w-screen-2xl mx-auto px-2 py-6">
         <div className="flex gap-6">
@@ -309,7 +323,7 @@ export default function Category() {
               <Button
                 variant="outline"
                 size="sm"
-                onClick={() => setShowFilters(!showFilters)}
+                onClick={() => setFilterSidebarOpen(true)}
                 className="lg:hidden gap-2"
               >
                 <SlidersHorizontal className="w-4 h-4" />
@@ -332,13 +346,6 @@ export default function Category() {
                 </select>
               </div>
             </div>
-
-            {/* Mobile Filters */}
-            {showFilters && (
-              <div className="lg:hidden mb-6 p-4 border rounded-lg bg-gray-50 dark:bg-gray-950">
-                <FilterSidebar products={categoryProducts} />
-              </div>
-            )}
 
             {/* Product Grid */}
             <ProductGrid products={filteredProducts} />

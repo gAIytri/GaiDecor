@@ -70,12 +70,12 @@ export default function LightingHub() {
   return (
     <div className="relative min-h-screen bg-white -mt-14 pt-14">
       {/* HERO - Horizontal Auto-Scrolling Images (400px) */}
-      <div className="relative h-[600px] w-full overflow-hidden bg-gray-900">
+      <div className="relative h-[350px] md:h-[600px] w-full overflow-hidden bg-gray-900">
         {/* Scrolling Container */}
         <div className="absolute inset-0 flex animate-scroll-horizontal">
           {/* First set of images */}
           {heroImages.map((image, index) => (
-            <div key={`first-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`first-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Lighting ${index + 1}`}
@@ -85,7 +85,7 @@ export default function LightingHub() {
           ))}
           {/* Duplicate set for seamless loop */}
           {heroImages.map((image, index) => (
-            <div key={`second-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`second-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Lighting ${index + 1}`}
@@ -105,7 +105,7 @@ export default function LightingHub() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
-              className="text-6xl font-light mb-4 uppercase tracking-widest"
+              className="text-3xl md:text-6xl font-light mb-4 uppercase tracking-widest"
             >
               Lighting
             </motion.h1>
@@ -173,7 +173,7 @@ export default function LightingHub() {
         </div>
 
         {/* 4-Column Vertical Scrolling Section */}
-        <div className="grid grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
           {subcategories.map((subcategory, index) => (
             <motion.div
               key={subcategory.slug}
@@ -185,7 +185,7 @@ export default function LightingHub() {
               
 
               {/* Vertical Scrolling Container */}
-              <div className="relative h-[700px] overflow-hidden rounded-lg bg-gray-900">
+              <div className="relative h-[350px] md:h-[700px] overflow-hidden rounded-lg bg-gray-900">
                 <div className="flex flex-col animate-scroll-up-seamless">
                   {/* Original set */}
                   {subcategory.images.map((image, imgIndex) => (

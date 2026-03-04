@@ -43,9 +43,9 @@ interface ScrollingCollectionProps {
 
 function ScrollingCollectionSection({ title, description, images, slug, reverse = false }: ScrollingCollectionProps) {
   return (
-    <div className={`flex ${reverse ? 'flex-row-reverse' : 'flex-row'} gap-12 items-center mb-24`}>
+    <div className={`flex flex-col ${reverse ? 'md:flex-row-reverse' : 'md:flex-row'} gap-8 md:gap-12 items-center mb-16 md:mb-24`}>
       {/* Scrolling Images - Left/Right */}
-      <div className="flex-1 relative h-[600px] overflow-hidden rounded-lg bg-gray-900">
+      <div className="w-full md:flex-1 relative h-[350px] md:h-[600px] overflow-hidden rounded-lg bg-gray-900">
         {/* Scrolling Container - Double the images for seamless loop */}
         <div className="flex flex-col animate-scroll-up-seamless">
           {/* Original set */}
@@ -72,14 +72,14 @@ function ScrollingCollectionSection({ title, description, images, slug, reverse 
       </div>
 
       {/* Text Content - Right/Left */}
-      <div className="flex-1 px-8">
+      <div className="w-full md:flex-1 px-4 md:px-8">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-4xl font-light text-gray-900 mb-6 uppercase tracking-wider">
+          <h2 className="text-2xl md:text-4xl font-light text-gray-900 mb-4 md:mb-6 uppercase tracking-wider">
             {title}
           </h2>
           <p className="text-lg text-gray-600 leading-relaxed mb-8">
@@ -111,12 +111,12 @@ export default function FurnitureHub() {
    
 
       {/* HERO SECTION - Horizontal Auto-Scrolling */}
-      <div className="relative h-[600px] w-full overflow-hidden bg-gray-900">
+      <div className="relative h-[350px] md:h-[600px] w-full overflow-hidden bg-gray-900">
         {/* Scrolling Container */}
         <div className="absolute inset-0 flex animate-scroll-horizontal">
           {/* First set of images */}
           {heroImages.map((image, index) => (
-            <div key={`first-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`first-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Furniture ${index + 1}`}
@@ -126,7 +126,7 @@ export default function FurnitureHub() {
           ))}
           {/* Duplicate set for seamless loop */}
           {heroImages.map((image, index) => (
-            <div key={`second-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`second-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Furniture ${index + 1}`}
@@ -147,10 +147,10 @@ export default function FurnitureHub() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-center text-white px-4"
           >
-            <h1 className="text-6xl font-light mb-4 uppercase tracking-widest">
+            <h1 className="text-3xl md:text-6xl font-light mb-4 uppercase tracking-widest">
               Furniture
             </h1>
-            <p className="text-xl text-white/90 max-w-2xl mx-auto">
+            <p className="text-base md:text-xl text-white/90 max-w-2xl mx-auto">
               Timeless pieces that define your space
             </p>
           </motion.div>
@@ -158,8 +158,8 @@ export default function FurnitureHub() {
       </div>
 
       {/* FOUR FEATURED IMAGES ROW */}
-      <div className="max-w-screen-2xl mx-auto px-6 py-20">
-        <div className="grid grid-cols-4 gap-6 mb-16">
+      <div className="max-w-screen-2xl mx-auto px-4 md:px-6 py-10 md:py-20">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 mb-10 md:mb-16">
           {/* Sofas */}
           <Link to="/category/furniture?productType=sofa" className="group relative aspect-[4/5] overflow-hidden rounded-lg">
             <img
@@ -221,10 +221,10 @@ export default function FurnitureHub() {
           transition={{ duration: 0.6 }}
           className="text-center max-w-4xl mx-auto mb-24 px-8"
         >
-          <h2 className="text-3xl font-light text-gray-900 mb-6 uppercase tracking-wider">
+          <h2 className="text-2xl md:text-3xl font-light text-gray-900 mb-4 md:mb-6 uppercase tracking-wider">
             Crafted for Modern Living
           </h2>
-          <p className="text-lg text-gray-600 leading-relaxed">
+          <p className="text-base md:text-lg text-gray-600 leading-relaxed">
             At Gai Decor, we believe furniture is more than function—it's the foundation of your home's story.
             Each piece in our collection is thoughtfully curated to blend timeless design with contemporary comfort.
             From the clean lines of our sofas to the sculptural beauty of our accent chairs, every item reflects
@@ -298,7 +298,18 @@ export default function FurnitureHub() {
             transform: translateX(0);
           }
           100% {
-            transform: translateX(-2400px); /* 4 images * 600px */
+            transform: translateX(-1200px);
+          }
+        }
+
+        @media (min-width: 768px) {
+          @keyframes scroll-horizontal {
+            0% {
+              transform: translateX(0);
+            }
+            100% {
+              transform: translateX(-2400px);
+            }
           }
         }
 

@@ -1,17 +1,27 @@
 import { Link } from 'react-router-dom';
-import { Star } from 'lucide-react';
+import { Star, Heart } from 'lucide-react';
 import type { Product } from '@/types';
 import { Badge } from '@/components/ui/badge';
 import ProductImage from '@/components/common/ProductImage';
+import { useWishlistStore } from '@/store/useWishlistStore';
 
 interface ProductCardProps {
   product: Product;
 }
 
 export default function ProductCard({ product }: ProductCardProps) {
+  const { isInWishlist, toggleItem } = useWishlistStore();
+  const wishlisted = isInWishlist(product.id);
+
   const discount = product.originalPrice
     ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
     : 0;
+
+  const handleWishlistToggle = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    toggleItem(product);
+  };
 
   return (
     <Link to={`/product/${product.id}`} className="group block">
@@ -25,16 +35,31 @@ export default function ProductCard({ product }: ProductCardProps) {
             className="h-48 w-full group-hover:scale-110 transition-transform duration-300"
           />
 
+          {/* Wishlist Heart - Top Right */}
+          <button
+            onClick={handleWishlistToggle}
+            className="absolute top-2 right-2 z-10 w-8 h-8 flex items-center justify-center bg-white/90 rounded-full shadow-sm hover:bg-white transition-colors"
+            aria-label={wishlisted ? 'Remove from wishlist' : 'Add to wishlist'}
+          >
+            <Heart
+              className={`w-4 h-4 transition-colors ${
+                wishlisted
+                  ? 'fill-red-500 text-red-500'
+                  : 'text-gray-600 hover:text-red-500'
+              }`}
+            />
+          </button>
+
           {/* Brand Badge - Top Left */}
           <Badge className="absolute top-2 left-2 text-[10px] px-2 py-0.5 bg-white/90 dark:bg-gray-900/90 text-gray-900 dark:text-white border">
             {product.brand}
           </Badge>
 
-          {/* Badges - Top Right */}
-          <div className="absolute top-2 right-2 flex flex-col gap-1">
+          {/* Badges - Below wishlist heart */}
+          <div className="absolute top-12 right-2 flex flex-col gap-1">
             {product.trending && (
               <Badge className="text-[10px] px-2 py-0.5 bg-orange-500 text-white border-0">
-                🔥 Hot
+                Hot
               </Badge>
             )}
             {discount > 0 && (
@@ -44,7 +69,7 @@ export default function ProductCard({ product }: ProductCardProps) {
             )}
             {product.featured && (
               <Badge className="text-[10px] px-2 py-0.5 bg-primary text-white border-0">
-                ⭐ Featured
+                Featured
               </Badge>
             )}
           </div>

@@ -93,11 +93,11 @@ export default function BeddingHub() {
   return (
     <div className="min-h-screen bg-white -mt-14 pt-14 overflow-x-hidden">
       {/* HERO SECTION - Horizontal Auto-Scrolling */}
-      <div className="relative h-[600px] w-full overflow-hidden bg-gray-900">
+      <div className="relative h-[350px] md:h-[600px] w-full overflow-hidden bg-gray-900">
         <div className="absolute inset-0 flex animate-scroll-horizontal">
           {/* First set */}
           {heroImages.map((image, index) => (
-            <div key={`first-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`first-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Bedding ${index + 1}`}
@@ -107,7 +107,7 @@ export default function BeddingHub() {
           ))}
           {/* Duplicate set */}
           {heroImages.map((image, index) => (
-            <div key={`second-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`second-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Bedding ${index + 1}`}
@@ -128,7 +128,7 @@ export default function BeddingHub() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-center text-white px-4"
           >
-            <h1 className="text-6xl font-light mb-4 uppercase tracking-widest">
+            <h1 className="text-3xl md:text-6xl font-light mb-4 uppercase tracking-widest">
               Bedding & Curtains
             </h1>
             <p className="text-xl text-white/90 max-w-2xl mx-auto">
@@ -189,7 +189,7 @@ export default function BeddingHub() {
       </div>
 
       {/* TEXT BANNER - "Create Your Sanctuary" */}
-      <div className="relative h-[500px] overflow-hidden" style={{ background: 'linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%)' }}>
+      <div className="relative h-[300px] md:h-[500px] overflow-hidden" style={{ background: 'linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%)' }}>
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center px-8 max-w-4xl">
             <motion.p
@@ -409,7 +409,7 @@ export default function BeddingHub() {
           </motion.div>
 
           {/* Wave/Ripple Grid */}
-          <div className="grid grid-cols-4 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {blanketImages.map((image, index) => (
               <motion.div
                 key={index}

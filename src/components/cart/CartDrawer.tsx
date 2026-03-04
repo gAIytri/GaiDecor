@@ -4,7 +4,7 @@
  */
 
 import { useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { X, Trash2, Plus, Minus, ShoppingBag } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Button } from '@/components/ui/button';
@@ -14,6 +14,7 @@ import { useCartDrawerStore } from '@/store/useCartDrawerStore';
 export default function CartDrawer() {
   const { isOpen, closeDrawer } = useCartDrawerStore();
   const { items, removeItem, updateQuantity, getTotal } = useCartStore();
+  const navigate = useNavigate();
 
   const subtotal = getTotal();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
@@ -206,7 +207,10 @@ export default function CartDrawer() {
                 {/* Checkout Button */}
                 <Button
                   className="w-full h-12 bg-gray-900 hover:bg-gray-800 text-white uppercase tracking-wider text-sm"
-                  onClick={closeDrawer}
+                  onClick={() => {
+                    closeDrawer();
+                    navigate('/checkout');
+                  }}
                 >
                   Checkout
                 </Button>

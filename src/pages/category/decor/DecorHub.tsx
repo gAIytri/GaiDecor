@@ -31,12 +31,12 @@ export default function DecorHub() {
   return (
     <div className="min-h-screen bg-white -mt-14 pt-14">
       {/* HERO SECTION - Horizontal Auto-Scrolling */}
-      <div className="relative h-[600px] w-full overflow-hidden bg-gray-900">
+      <div className="relative h-[350px] md:h-[600px] w-full overflow-hidden bg-gray-900">
         {/* Scrolling Container */}
         <div className="absolute inset-0 flex animate-scroll-horizontal">
           {/* First set of images */}
           {heroImages.map((image, index) => (
-            <div key={`first-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`first-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Decor ${index + 1}`}
@@ -46,7 +46,7 @@ export default function DecorHub() {
           ))}
           {/* Duplicate set for seamless loop */}
           {heroImages.map((image, index) => (
-            <div key={`second-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`second-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Decor ${index + 1}`}
@@ -67,7 +67,7 @@ export default function DecorHub() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-center text-white px-4"
           >
-            <h1 className="text-6xl font-light mb-4 uppercase tracking-widest">
+            <h1 className="text-3xl md:text-6xl font-light mb-4 uppercase tracking-widest">
               Home Decor
             </h1>
             <p className="text-xl text-white/90 max-w-2xl mx-auto">
@@ -101,7 +101,7 @@ export default function DecorHub() {
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
-          className="grid grid-cols-4 grid-rows-3 gap-4 h-[800px]"
+          className="grid grid-cols-4 grid-rows-3 gap-4 h-[400px] md:h-[800px]"
         >
           {/* Large image - spans 2x2 - Top Left */}
           <div className="col-span-2 row-span-2 relative overflow-hidden rounded-lg group">
@@ -202,7 +202,7 @@ export default function DecorHub() {
       {/* SECTION 1: VASES - 2 Images Left, Text Right */}
       <div className="bg-gray-50 py-24">
         <div className="max-w-screen-2xl mx-auto px-6">
-          <div className="flex gap-12 items-center">
+          <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
             {/* Left - 2 Images Stacked */}
             <motion.div
               initial={{ opacity: 0, x: -50 }}
@@ -211,7 +211,7 @@ export default function DecorHub() {
               transition={{ duration: 0.8 }}
               className="flex-1"
             >
-              <div className="grid grid-rows-2 gap-6 h-[700px]">
+              <div className="grid grid-rows-2 gap-6 h-[350px] md:h-[700px]">
                 <div className="relative overflow-hidden rounded-lg">
                   <img
                     src={vase4}
@@ -235,7 +235,7 @@ export default function DecorHub() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              className="flex-1 px-8"
+              className="w-full md:flex-1 px-4 md:px-8"
             >
               <p className="text-xs font-semibold tracking-widest uppercase text-gray-500 mb-4">
                 Vases
@@ -261,14 +261,14 @@ export default function DecorHub() {
       {/* SECTION 2: CANDLES - Text Left, 3 Images Right (Asymmetric Grid) */}
       <div className="py-24">
         <div className="max-w-screen-2xl mx-auto px-6">
-          <div className="flex gap-12 items-center">
+          <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
             {/* Left - Text */}
             <motion.div
               initial={{ opacity: 0, x: -50 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              className="flex-1 px-8"
+              className="w-full md:flex-1 px-4 md:px-8"
             >
               <p className="text-xs font-semibold tracking-widest uppercase text-gray-500 mb-4">
                 Candles
@@ -296,7 +296,7 @@ export default function DecorHub() {
               transition={{ duration: 0.8 }}
               className="flex-1"
             >
-              <div className="grid grid-cols-2 gap-6 h-[600px]">
+              <div className="grid grid-cols-2 gap-4 md:gap-6 h-[350px] md:h-[600px]">
                 {/* Tall left image */}
                 <div className="relative overflow-hidden rounded-lg row-span-2">
                   <img
@@ -329,7 +329,7 @@ export default function DecorHub() {
       {/* SECTION 3: DECORATIVE OBJECTS - 3 Images Left, Text Right */}
       <div className="bg-gray-50 py-24">
         <div className="max-w-screen-2xl mx-auto px-6">
-          <div className="flex gap-12 items-center">
+          <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
             {/* Left - 3 Images in Creative Layout */}
             <motion.div
               initial={{ opacity: 0, x: -50 }}
@@ -338,7 +338,7 @@ export default function DecorHub() {
               transition={{ duration: 0.8 }}
               className="flex-1"
             >
-              <div className="grid grid-cols-2 gap-6 h-[600px]">
+              <div className="grid grid-cols-2 gap-4 md:gap-6 h-[350px] md:h-[600px]">
                 {/* Top left spanning full width */}
                 <div className="col-span-2 relative overflow-hidden rounded-lg">
                   <img
@@ -371,7 +371,7 @@ export default function DecorHub() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              className="flex-1 px-8"
+              className="w-full md:flex-1 px-4 md:px-8"
             >
               <p className="text-xs font-semibold tracking-widest uppercase text-gray-500 mb-4">
                 Decorative Objects
@@ -397,14 +397,14 @@ export default function DecorHub() {
       {/* SECTION 4: THROW PILLOWS - Text Left, 2 Images Right (Side by Side) */}
       <div className="py-24">
         <div className="max-w-screen-2xl mx-auto px-6">
-          <div className="flex gap-12 items-center">
+          <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
             {/* Left - Text */}
             <motion.div
               initial={{ opacity: 0, x: -50 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
-              className="flex-1 px-8"
+              className="w-full md:flex-1 px-4 md:px-8"
             >
               <p className="text-xs font-semibold tracking-widest uppercase text-gray-500 mb-4">
                 Throw Pillows
@@ -432,7 +432,7 @@ export default function DecorHub() {
               transition={{ duration: 0.8 }}
               className="flex-1"
             >
-              <div className="grid grid-cols-2 gap-6 h-[500px]">
+              <div className="grid grid-cols-2 gap-6 h-[300px] md:h-[500px]">
                 <div className="relative overflow-hidden rounded-lg">
                   <img
                     src={pillow2}

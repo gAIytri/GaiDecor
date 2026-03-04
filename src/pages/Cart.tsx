@@ -5,12 +5,13 @@
  * - Right: Fixed order summary
  */
 
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { Minus, Plus } from 'lucide-react';
 import { useCartStore } from '@/store/useCartStore';
 
 export default function Cart() {
   const { items, removeItem, updateQuantity, getTotal } = useCartStore();
+  const navigate = useNavigate();
 
   const subtotal = getTotal();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
@@ -179,7 +180,10 @@ export default function Cart() {
               </div>
 
               {/* Checkout Button */}
-              <button className="w-full py-4 bg-[#1a1f2e] text-white text-sm font-medium uppercase tracking-[0.15em] hover:bg-gray-800 transition-colors">
+              <button
+                onClick={() => navigate('/checkout')}
+                className="w-full py-4 bg-[#1a1f2e] text-white text-sm font-medium uppercase tracking-[0.15em] hover:bg-gray-800 transition-colors"
+              >
                 Checkout
               </button>
 

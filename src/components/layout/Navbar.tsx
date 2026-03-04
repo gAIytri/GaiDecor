@@ -6,13 +6,17 @@
  * - White background on all other pages
  * - Smooth color transitions for text and icons
  * - 100px height with responsive design
+ * - Mobile hamburger menu (md:hidden)
+ * - Search, Heart, User icons in right section
  */
 
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { ShoppingCart } from 'lucide-react';
+import { ShoppingCart, Menu, Search, Heart, User } from 'lucide-react';
 import { useCartStore } from '@/store/useCartStore';
 import { useCartDrawerStore } from '@/store/useCartDrawerStore';
+import { useUIStore } from '@/store/useUIStore';
+import { useWishlistStore } from '@/store/useWishlistStore';
 import MegaMenu from '@/components/layout/MegaMenu';
 import { Box, Flex, Text } from '@/design-system';
 import navigationData from '@/data/navigationData.json';
@@ -23,6 +27,8 @@ export default function Navbar() {
   const location = useLocation();
   const itemCount = useCartStore((state) => state.getItemCount());
   const { openDrawer } = useCartDrawerStore();
+  const { setMobileMenuOpen } = useUIStore();
+  const wishlistCount = useWishlistStore((state) => state.items.length);
 
   // Check if we're on home page
   const isHomePage = location.pathname === '/';
@@ -39,6 +45,8 @@ export default function Navbar() {
 
   // Determine if navbar should be transparent
   const isTransparent = isHomePage && !isScrolled && !isHovered;
+
+  const iconColor = isTransparent ? '#ffffff' : '#111827';
 
   return (
     <Box
@@ -64,43 +72,57 @@ export default function Navbar() {
         justifyContent: 'between',
         gap: 4
       }}>
-        {/* Logo */}
-        <Link to="/">
-          <Flex
-            sx={{
-              alignItems: 'center',
-              gap: 2,
-              cursor: 'pointer',
-              transition: 'transform',
-              transitionDuration: 150,
-              '&:hover': {
-                transform: 'scale(1.05)'
-              }
-            }}
+        {/* Left Section: Hamburger (mobile) + Logo */}
+        <Flex sx={{ alignItems: 'center', gap: 3 }}>
+          {/* Mobile Hamburger - hidden on md+ */}
+          <button
+            onClick={() => setMobileMenuOpen(true)}
+            className="md:hidden p-1 -ml-1"
+            aria-label="Open menu"
           >
+            <Menu
+              className="w-6 h-6 transition-colors duration-300"
+              style={{ color: iconColor }}
+            />
+          </button>
 
-            <Text
-              as="span"
+          {/* Logo */}
+          <Link to="/">
+            <Flex
               sx={{
-                fontSize: '3xl',
-                fontWeight: 'bold',
-                display: 'inline',
-                letterSpacing: 'widest',
-                transition: 'color',
-                transitionDuration: 300
+                alignItems: 'center',
+                gap: 2,
+                cursor: 'pointer',
+                transition: 'transform',
+                transitionDuration: 150,
+                '&:hover': {
+                  transform: 'scale(1.05)'
+                }
               }}
-              style={{ color: isTransparent ? '#ffffff' : '#111827' }}
             >
-              gAI DECOR
-            </Text>
-          </Flex>
-        </Link>
+              <Text
+                as="span"
+                sx={{
+                  fontSize: { base: 'xl', md: '3xl' },
+                  fontWeight: 'bold',
+                  display: 'inline',
+                  letterSpacing: 'widest',
+                  transition: 'color',
+                  transitionDuration: 300
+                }}
+                style={{ color: isTransparent ? '#ffffff' : '#111827' }}
+              >
+                gAI DECOR
+              </Text>
+            </Flex>
+          </Link>
+        </Flex>
 
-        {/* Mega Menus */}
+        {/* Mega Menus - hidden on mobile */}
         <Flex sx={{
           alignItems: 'center',
           gap: 1,
-          display: 'flex'
+          display: { base: 'none', md: 'flex' }
         }}>
           {navigationData.megaMenus.map((menu) => (
             <MegaMenu
@@ -113,11 +135,59 @@ export default function Navbar() {
           ))}
         </Flex>
 
-        {/* Right Section */}
+        {/* Right Section - Icons */}
         <Flex sx={{
           alignItems: 'center',
-          gap: 2
+          gap: { base: 2, md: 3 }
         }}>
+          {/* Search - hidden on mobile for now */}
+          <button
+            className="hidden md:flex items-center justify-center p-1"
+            aria-label="Search"
+          >
+            <Search
+              className="w-5 h-5 transition-colors duration-300"
+              style={{ color: iconColor }}
+            />
+          </button>
+
+          {/* Wishlist Heart */}
+          <Link
+            to="/wishlist"
+            className="relative p-1"
+            aria-label="Wishlist"
+          >
+            <Heart
+              className="w-5 h-5 transition-colors duration-300"
+              style={{ color: iconColor }}
+            />
+            {wishlistCount > 0 && (
+              <span
+                className="absolute flex items-center justify-center min-w-[16px] h-4 px-1 bg-gray-900 text-white rounded-full font-medium"
+                style={{
+                  top: '-4px',
+                  right: '-6px',
+                  fontSize: '10px',
+                  lineHeight: 1
+                }}
+              >
+                {wishlistCount > 99 ? '99+' : wishlistCount}
+              </span>
+            )}
+          </Link>
+
+          {/* User Account - hidden on mobile */}
+          <Link
+            to="/account"
+            className="hidden md:flex items-center justify-center p-1"
+            aria-label="Account"
+          >
+            <User
+              className="w-5 h-5 transition-colors duration-300"
+              style={{ color: iconColor }}
+            />
+          </Link>
+
           {/* Cart */}
           <Box
             sx={{ position: 'relative', cursor: 'pointer' }}
@@ -125,7 +195,7 @@ export default function Navbar() {
           >
             <ShoppingCart
               className="w-5 h-5 transition-colors duration-300"
-              style={{ color: isTransparent ? '#ffffff' : '#111827' }}
+              style={{ color: iconColor }}
             />
             {itemCount > 0 && (
               <Box

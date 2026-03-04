@@ -61,11 +61,11 @@ export default function ArtHub() {
   return (
     <div className="min-h-screen bg-white -mt-14 pt-14 overflow-x-hidden">
       {/* HERO SECTION - Horizontal Auto-Scrolling */}
-      <div className="relative h-[600px] w-full overflow-hidden bg-gray-900">
+      <div className="relative h-[350px] md:h-[600px] w-full overflow-hidden bg-gray-900">
         <div className="absolute inset-0 flex animate-scroll-horizontal">
           {/* First set */}
           {heroImages.map((image, index) => (
-            <div key={`first-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`first-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Art ${index + 1}`}
@@ -75,7 +75,7 @@ export default function ArtHub() {
           ))}
           {/* Duplicate set */}
           {heroImages.map((image, index) => (
-            <div key={`second-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`second-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Art ${index + 1}`}
@@ -96,7 +96,7 @@ export default function ArtHub() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-center text-white px-4"
           >
-            <h1 className="text-6xl font-light mb-4 uppercase tracking-widest">
+            <h1 className="text-3xl md:text-6xl font-light mb-4 uppercase tracking-widest">
               Art & Mirrors
             </h1>
             <p className="text-xl text-white/90 max-w-2xl mx-auto">
@@ -263,7 +263,7 @@ export default function ArtHub() {
           </motion.div>
 
           {/* Radial Mirror Arrangement */}
-          <div className="relative h-[700px] flex items-center justify-center">
+          <div className="relative h-[350px] md:h-[700px] flex items-center justify-center">
             {/* Center large mirror */}
             <motion.div
               initial={{ opacity: 0, scale: 0.5 }}
@@ -360,7 +360,7 @@ export default function ArtHub() {
           </motion.div>
 
           {/* Split Parallax Container */}
-          <div className="grid grid-cols-2 gap-8 h-[800px] overflow-hidden">
+          <div className="grid grid-cols-2 gap-8 h-[400px] md:h-[800px] overflow-hidden">
             {/* Left - Art scrolling UP */}
             <div className="relative overflow-hidden rounded-lg">
               <div className="flex flex-col animate-scroll-up-slow">

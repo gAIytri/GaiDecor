@@ -95,7 +95,7 @@ function NewestCollectionSection() {
 
   return (
     <div ref={ref} className="max-w-screen-2xl mx-auto px-6 py-24">
-      <div className="flex gap-12 items-center">
+      <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
         {/* Text Content - Left */}
         <motion.div
           initial={{ opacity: 0, x: 100 }}
@@ -126,7 +126,7 @@ function NewestCollectionSection() {
         </motion.div>
 
         {/* Images - Right */}
-        <div className="flex-1 relative h-[500px]">
+        <div className="flex-1 relative h-[300px] md:h-[500px]">
           {/* Large Image - Drops from top */}
           <motion.div
             initial={{ y: -400, opacity: 0, rotate: -5 }}
@@ -176,7 +176,7 @@ function RotatingShowcase() {
   return (
     <div className="bg-gray-50 py-24">
       <div className="max-w-screen-2xl mx-auto px-6">
-        <div className="grid grid-cols-2 gap-6 h-[600px]">
+        <div className="grid grid-cols-2 gap-4 md:gap-6 h-[350px] md:h-[600px]">
           {/* Left Side - Rotating Images */}
           <div className="relative overflow-hidden rounded-lg">
             {leftImages.map((image, index) => (
@@ -264,7 +264,7 @@ function RoomVisualizer() {
         </p>
       </div>
 
-      <div className="relative h-[500px] rounded-lg overflow-hidden">
+      <div className="relative h-[300px] md:h-[500px] rounded-lg overflow-hidden">
         {rooms.map((room, index) => (
           <motion.div
             key={index}
@@ -342,7 +342,7 @@ function MaterialShowcase() {
           </p>
         </div>
 
-        <div className="grid grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
           {materials.map((material, index) => (
             <motion.div
               key={material.name}
@@ -382,12 +382,12 @@ export default function RugsHub() {
   return (
     <div className="min-h-screen bg-white -mt-14 pt-14">
       {/* HERO - Horizontal Auto-Scrolling Images (600px) */}
-      <div className="relative h-[600px] w-full overflow-hidden bg-gray-900">
+      <div className="relative h-[350px] md:h-[600px] w-full overflow-hidden bg-gray-900">
         {/* Scrolling Container */}
         <div className="absolute inset-0 flex animate-scroll">
           {/* First set of images */}
           {heroImages.map((image, index) => (
-            <div key={`first-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`first-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Rug ${index + 1}`}
@@ -397,7 +397,7 @@ export default function RugsHub() {
           ))}
           {/* Duplicate set for seamless loop */}
           {heroImages.map((image, index) => (
-            <div key={`second-${index}`} className="flex-shrink-0 w-[600px] h-full">
+            <div key={`second-${index}`} className="flex-shrink-0 w-[300px] md:w-[600px] h-full">
               <img
                 src={image}
                 alt={`Rug ${index + 1}`}
@@ -417,7 +417,7 @@ export default function RugsHub() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
-              className="text-6xl font-light mb-4 uppercase tracking-widest"
+              className="text-3xl md:text-6xl font-light mb-4 uppercase tracking-widest"
             >
               Rugs
             </motion.h1>
