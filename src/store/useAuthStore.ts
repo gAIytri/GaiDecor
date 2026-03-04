@@ -2,11 +2,22 @@ import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import type { User, Address } from '@/types';
 
+function generateSessionId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID();
+  }
+  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
+    const r = (Math.random() * 16) | 0;
+    return (c === 'x' ? r : (r & 0x3) | 0x8).toString(16);
+  });
+}
+
 interface AuthStore {
   user: User | null;
   isAuthenticated: boolean;
   token: string | null;
   refreshToken: string | null;
+  sessionId: string;
 
   login: (user: User, token: string, refreshToken?: string) => void;
   logout: () => void;
@@ -24,6 +35,7 @@ export const useAuthStore = create<AuthStore>()(
       isAuthenticated: false,
       token: null,
       refreshToken: null,
+      sessionId: generateSessionId(),
 
       login: (user, token, refreshToken) =>
         set({ user, isAuthenticated: true, token, refreshToken: refreshToken ?? null }),
@@ -91,6 +103,7 @@ export const useAuthStore = create<AuthStore>()(
       partialize: (state) => ({
         token: state.token,
         refreshToken: state.refreshToken,
+        sessionId: state.sessionId,
       }),
     }
   )
