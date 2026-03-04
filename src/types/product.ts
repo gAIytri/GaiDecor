@@ -1,11 +1,11 @@
 /**
  * Universal Product Schema
- * Canonical Product type aligned with backend API.
+ * Matches the actual JSON data shape used by productService.ts
  * Works for all product categories: Furniture, Rugs, Lighting, Decor, Art, Bedding
  */
 
 // ---------------------------------------------------------------------------
-// Product Image
+// Product Image (for API use — future)
 // ---------------------------------------------------------------------------
 
 export interface ProductImage {
@@ -17,7 +17,7 @@ export interface ProductImage {
 }
 
 // ---------------------------------------------------------------------------
-// Product Attributes (JSONB from backend)
+// Product Attributes (JSONB from backend / JSON data)
 // ---------------------------------------------------------------------------
 
 export interface ProductAttributes {
@@ -25,6 +25,7 @@ export interface ProductAttributes {
   material: string[];
   style: string[];
   room: string[];
+  occasion?: string[];
 
   // Dimensions
   dimensions?: {
@@ -60,8 +61,6 @@ export interface ProductAttributes {
   orientation?: string;
   frame?: boolean;
 
-  // Extensible for any attribute
-  [key: string]: unknown;
 }
 
 // ---------------------------------------------------------------------------
@@ -76,7 +75,55 @@ export interface EnrichedDescription {
 }
 
 // ---------------------------------------------------------------------------
-// Core Product Type (canonical — used everywhere)
+// Taxonomy (nested structure matching JSON data)
+// ---------------------------------------------------------------------------
+
+export interface ProductTaxonomy {
+  category: {
+    name: string;
+    slug: string;
+  };
+  subcategory: {
+    name: string;
+    slug: string;
+  };
+  productType: string;
+}
+
+// ---------------------------------------------------------------------------
+// Metadata (nested structure matching JSON data)
+// ---------------------------------------------------------------------------
+
+export interface ProductMetadata {
+  featured: boolean;
+  bestSeller: boolean;
+  onSale: boolean;
+  inStock: boolean;
+  stockQuantity: number;
+  rating: number;
+  reviewCount: number;
+  createdAt: string;
+}
+
+// ---------------------------------------------------------------------------
+// Visual Attributes
+// ---------------------------------------------------------------------------
+
+export interface VisualAttributes {
+  primaryColors: Array<{
+    name: string;
+    hex: string;
+    category: string;
+  }>;
+  pattern: string;
+  texture: string;
+  finish: string;
+  shape: string;
+  silhouette: string;
+}
+
+// ---------------------------------------------------------------------------
+// Core Product Type (matches JSON data shape — used everywhere)
 // ---------------------------------------------------------------------------
 
 export interface Product {
@@ -84,37 +131,42 @@ export interface Product {
   id: string;
   sku: string;
   name: string;
-  slug: string;
   description: string;
 
   // Pricing
   price: number;
-  compareAtPrice: number | null;
+  compareAtPrice?: number;
   currency: string;
 
-  // Taxonomy
-  categoryId: string;
-  categorySlug: string;
-  categoryName: string;
-  productTypeId: string;
-  productTypeName: string;
+  // Images (strings after processProducts transforms them)
+  primaryImage: string;
+  images: string[];
 
-  // Stock
-  stockQuantity: number;
-  stockStatus: 'in_stock' | 'low_stock' | 'out_of_stock' | 'pre_order';
-
-  // Structured data
+  // Nested structures (match JSON data)
+  taxonomy: ProductTaxonomy;
   attributes: ProductAttributes;
-  images: ProductImage[];
+  metadata: ProductMetadata;
   enrichedDescription: EnrichedDescription;
+  visualAttributes?: VisualAttributes;
 
-  // Metadata
-  isFeatured: boolean;
-  isBestseller: boolean;
-  avgRating: number;
-  reviewCount: number;
+  // Tags
   tags: string[];
-  createdAt: string;
+
+  // SEO
+  seo?: {
+    metaTitle: string;
+    metaDescription: string;
+    altText: string;
+    keywords: string[];
+  };
+
+  // Enrichment metadata
+  enrichmentMeta?: {
+    enrichedAt: string;
+    version: string;
+    confidence: number;
+    source: string;
+  };
 }
 
 // ---------------------------------------------------------------------------

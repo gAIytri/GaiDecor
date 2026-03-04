@@ -13,8 +13,8 @@ export default function ProductCard({ product }: ProductCardProps) {
   const { isInWishlist, toggleItem } = useWishlistStore();
   const wishlisted = isInWishlist(product.id);
 
-  const discount = product.originalPrice
-    ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
+  const discount = product.compareAtPrice
+    ? Math.round(((product.compareAtPrice - product.price) / product.compareAtPrice) * 100)
     : 0;
 
   const handleWishlistToggle = (e: React.MouseEvent) => {
@@ -52,12 +52,12 @@ export default function ProductCard({ product }: ProductCardProps) {
 
           {/* Brand Badge - Top Left */}
           <Badge className="absolute top-2 left-2 text-[10px] px-2 py-0.5 bg-white/90 dark:bg-gray-900/90 text-gray-900 dark:text-white border">
-            {product.brand}
+            {product.taxonomy?.subcategory?.name || product.taxonomy?.category?.name}
           </Badge>
 
           {/* Badges - Below wishlist heart */}
           <div className="absolute top-12 right-2 flex flex-col gap-1">
-            {product.trending && (
+            {product.metadata?.bestSeller && (
               <Badge className="text-[10px] px-2 py-0.5 bg-orange-500 text-white border-0">
                 Hot
               </Badge>
@@ -67,7 +67,7 @@ export default function ProductCard({ product }: ProductCardProps) {
                 -{discount}%
               </Badge>
             )}
-            {product.featured && (
+            {product.metadata?.featured && (
               <Badge className="text-[10px] px-2 py-0.5 bg-primary text-white border-0">
                 Featured
               </Badge>
@@ -75,7 +75,7 @@ export default function ProductCard({ product }: ProductCardProps) {
           </div>
 
           {/* Out of Stock Overlay */}
-          {!product.inStock && (
+          {!product.metadata?.inStock && (
             <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
               <Badge className="text-xs px-3 py-1 bg-gray-900 text-white">
                 Out of Stock
@@ -98,7 +98,7 @@ export default function ProductCard({ product }: ProductCardProps) {
                 <Star
                   key={i}
                   className={`w-3 h-3 ${
-                    i < Math.floor(product.rating)
+                    i < Math.floor(product.metadata?.rating || 0)
                       ? 'fill-yellow-400 text-yellow-400'
                       : 'text-gray-300 dark:text-gray-600'
                   }`}
@@ -106,10 +106,10 @@ export default function ProductCard({ product }: ProductCardProps) {
               ))}
             </div>
             <span className="text-xs text-gray-600 dark:text-gray-400">
-              {product.rating.toFixed(1)}
+              {(product.metadata?.rating || 0).toFixed(1)}
             </span>
             <span className="text-xs text-gray-400 dark:text-gray-500">
-              ({product.reviewCount})
+              ({product.metadata?.reviewCount || 0})
             </span>
           </div>
 
@@ -118,15 +118,15 @@ export default function ProductCard({ product }: ProductCardProps) {
             <span className="text-lg font-bold text-primary-emerald dark:text-primary-emerald">
               ${product.price.toFixed(2)}
             </span>
-            {product.originalPrice && (
+            {product.compareAtPrice && (
               <span className="text-xs text-gray-500 dark:text-gray-400 line-through">
-                ${product.originalPrice.toFixed(2)}
+                ${product.compareAtPrice.toFixed(2)}
               </span>
             )}
           </div>
 
           {/* Stock Status */}
-          {product.inStock && (
+          {product.metadata?.inStock && (
             <p className="text-[10px] text-green-600 dark:text-green-400">
               In Stock
             </p>

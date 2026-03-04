@@ -27,8 +27,8 @@ import type { Product } from '@/types';
 import furnitureData from '@/data/furniture.json';
 import type { Product as NewProduct } from '@/types/product';
 
-const products = productsData as Product[];
-const furnitureProducts = furnitureData as NewProduct[];
+const products = productsData as unknown as Product[];
+const furnitureProducts = furnitureData as unknown as NewProduct[];
 
 // Adapter function to convert new Product schema to old Product format
 function adaptNewProductToOld(newProduct: NewProduct): any {
@@ -79,12 +79,12 @@ function adaptNewProductToOld(newProduct: NewProduct): any {
 }
 
 export default function Category() {
-  const { category, subcategory } = useParams();
+  const { category, subcategory: _subcategory } = useParams();
   const [searchParams] = useSearchParams();
 
   // ALL HOOKS MUST BE AT THE TOP - before any conditional returns
   const { isFilterSidebarOpen, setFilterSidebarOpen } = useUIStore();
-  const { sortBy, setSortBy, applyFilters } = useFilterStore();
+  const { sort: sortBy, setSort: setSortBy, applyFilters } = useFilterStore();
 
   // Format category name
   const categoryName: string | undefined = category
@@ -178,7 +178,7 @@ export default function Category() {
     if (!category || category === 'all') return products;
     const formattedCategory = categoryName?.replace(' & ', ' ');
     return products.filter(
-      (p) => p.category.toLowerCase().replace('&', '').trim() === formattedCategory?.toLowerCase().replace('&', '').trim()
+      (p) => (p as any).category?.toLowerCase().replace('&', '').trim() === formattedCategory?.toLowerCase().replace('&', '').trim()
     );
   }, [category, categoryName]);
 

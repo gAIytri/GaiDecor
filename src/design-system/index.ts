@@ -34,8 +34,16 @@ export type { SxProps, ResponsiveValue } from './sx';
 // Tokens (for advanced usage)
 export * from './tokens';
 
-// Types (for TypeScript users)
-export type * from './types';
+// Types (for TypeScript users) — omit FlexProps/GridProps already exported from primitives
+export type {
+  SpacingProps,
+  LayoutProps,
+  BorderProps,
+  TypographyProps,
+  BackgroundProps,
+  ShadowProps,
+  InteractiveProps,
+} from './types';
 
 // Utils (for creating custom components)
 export * from './utils';

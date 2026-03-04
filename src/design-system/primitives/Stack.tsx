@@ -12,7 +12,7 @@
  */
 
 import { forwardRef } from 'react';
-import type { ElementType } from 'react';
+import type { ElementType as _ElementType } from 'react';
 import { Flex } from './Flex';
 import type { FlexProps } from './Flex';
 import React from 'react';

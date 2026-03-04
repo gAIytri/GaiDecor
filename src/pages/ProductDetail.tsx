@@ -203,7 +203,7 @@ export default function ProductDetail() {
       sizes: product.attributes.size ? [product.attributes.size] : [],
       inStock: product.metadata.inStock,
     };
-    addItem(cartProduct as any, quantity, selectedColor || undefined, selectedSize || undefined);
+    addItem(cartProduct as any, quantity, selectedColor || '', selectedSize || undefined);
     openDrawer();
   };
 

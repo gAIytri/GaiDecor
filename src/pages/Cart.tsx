@@ -93,9 +93,9 @@ export default function Cart() {
                       <div className="flex items-end lg:items-start justify-between lg:flex-col lg:items-end gap-4 mt-4 lg:mt-0">
                         {/* Price */}
                         <div className="text-right flex items-center gap-2">
-                          {item.product.originalPrice && item.product.originalPrice > item.product.price && (
+                          {item.product.compareAtPrice && item.product.compareAtPrice > item.product.price && (
                             <span className="text-sm text-gray-400 line-through">
-                              ${item.product.originalPrice.toFixed(2)}
+                              ${item.product.compareAtPrice.toFixed(2)}
                             </span>
                           )}
                           <span className="text-base font-medium text-gray-900">

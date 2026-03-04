@@ -1,9 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useDebounce } from './useDebounce';
-import productsData from '@/data/products.json';
+import { searchProducts } from '@/services/productService';
 import type { Product } from '@/types';
-
-const products = productsData as Product[];
 
 export function useSearch(query: string) {
   const [results, setResults] = useState<Product[]>([]);
@@ -18,17 +16,7 @@ export function useSearch(query: string) {
     }
 
     setIsSearching(true);
-
-    // Search products by name, brand, category, description
-    const searchTerm = debouncedQuery.toLowerCase();
-    const filtered = products.filter(
-      (product) =>
-        product.name.toLowerCase().includes(searchTerm) ||
-        product.brand.toLowerCase().includes(searchTerm) ||
-        product.category.toLowerCase().includes(searchTerm) ||
-        product.description.toLowerCase().includes(searchTerm)
-    );
-
+    const filtered = searchProducts(debouncedQuery);
     setResults(filtered);
     setIsSearching(false);
   }, [debouncedQuery]);

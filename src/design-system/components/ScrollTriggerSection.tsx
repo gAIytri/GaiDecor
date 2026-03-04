@@ -11,7 +11,7 @@
  */
 
 import { useEffect, useRef, useState } from 'react';
-import { Box, Flex, Text, Heading } from '@/design-system/primitives';
+import { Box, Text, Heading } from '@/design-system/primitives';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export interface ScrollTriggerItem {
@@ -38,7 +38,6 @@ export function ScrollTriggerSection({
     const handleScroll = () => {
       if (!containerRef.current) return;
 
-      const containerTop = containerRef.current.getBoundingClientRect().top;
       const windowHeight = window.innerHeight;
       const triggerPoint = windowHeight / 2;
 

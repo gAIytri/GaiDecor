@@ -30,7 +30,7 @@ export interface VideoHeroProps {
 
 export default function VideoHero({
   src,
-  alt = 'Video',
+  alt: _alt = 'Video',
   text,
   buttonText,
   onButtonClick,

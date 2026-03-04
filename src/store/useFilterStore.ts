@@ -122,12 +122,12 @@ export const useFilterStore = create<FilterStore>((set, get) => ({
         case 'price-desc':
           return b.price - a.price;
         case 'top-rated':
-          return b.avgRating - a.avgRating;
+          return (b.metadata?.rating || 0) - (a.metadata?.rating || 0);
         case 'newest':
-          return new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime();
+          return new Date(b.metadata?.createdAt || 0).getTime() - new Date(a.metadata?.createdAt || 0).getTime();
         case 'best-selling':
         default:
-          return b.reviewCount - a.reviewCount;
+          return (b.metadata?.reviewCount || 0) - (a.metadata?.reviewCount || 0);
       }
     });
 

@@ -7,7 +7,7 @@
  * Example: <Box p={4} m={2} /> → "p-4 m-2"
  */
 
-import { spacing } from './tokens';
+import { spacing as _spacing } from './tokens';
 import type {
   SpacingProps,
   LayoutProps,

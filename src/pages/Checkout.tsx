@@ -25,7 +25,7 @@ const SHIPPING_METHODS = [
 
 export default function Checkout() {
   const navigate = useNavigate();
-  const { items, subtotal, tax, shipping, total, clearCart } = useCartStore();
+  const { items, subtotal, tax, clearCart } = useCartStore();
   const { step, setStep, nextStep, prevStep, isProcessing, setProcessing, reset } =
     useCheckoutStore();
 
