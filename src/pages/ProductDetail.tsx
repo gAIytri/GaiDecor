@@ -1,6 +1,6 @@
 import { useParams, Link, useNavigate } from 'react-router-dom';
-import { useState, useRef, useEffect } from 'react';
-import { ChevronLeft, ChevronRight, ChevronDown, Plus, Minus } from 'lucide-react';
+import { useState, useRef, useEffect, useCallback } from 'react';
+import { ChevronLeft, ChevronRight, ChevronDown, Plus, Minus, Star } from 'lucide-react';
 import { useCartStore } from '@/store/useCartStore';
 import { useCartDrawerStore } from '@/store/useCartDrawerStore';
 import { useRecentlyViewedStore } from '@/store/useRecentlyViewedStore';
@@ -116,8 +116,17 @@ export default function ProductDetail() {
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   const [expandedSections, setExpandedSections] = useState<string[]>([]);
 
+  // Review form state
+  const [showReviewForm, setShowReviewForm] = useState(false);
+  const [reviewRating, setReviewRating] = useState(0);
+  const [reviewHoverRating, setReviewHoverRating] = useState(0);
+  const [reviewTitle, setReviewTitle] = useState('');
+  const [reviewBody, setReviewBody] = useState('');
+  const [reviewSubmitted, setReviewSubmitted] = useState(false);
+
   // For sticky behavior tracking
   const rightSectionRef = useRef<HTMLDivElement>(null);
+  const reviewSectionRef = useRef<HTMLDivElement>(null);
 
   // Use product images from the service (already has local paths)
   const productImages = product?.images || [];
@@ -205,6 +214,31 @@ export default function ProductDetail() {
     };
     addItem(cartProduct as any, quantity, selectedColor || '', selectedSize || undefined);
     openDrawer();
+  };
+
+  const handleWriteReview = useCallback(() => {
+    // Expand the reviews section
+    setExpandedSections(prev =>
+      prev.includes('reviews') ? prev : [...prev, 'reviews']
+    );
+    setShowReviewForm(true);
+    // Scroll to reviews section after a tick
+    setTimeout(() => {
+      reviewSectionRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 100);
+  }, []);
+
+  const handleSubmitReview = () => {
+    if (reviewRating === 0 || !reviewTitle.trim()) return;
+    // In the future this will call the review API
+    setReviewSubmitted(true);
+    setTimeout(() => {
+      setShowReviewForm(false);
+      setReviewSubmitted(false);
+      setReviewRating(0);
+      setReviewTitle('');
+      setReviewBody('');
+    }, 2000);
   };
 
   const toggleSection = (sectionId: string) => {
@@ -324,7 +358,10 @@ export default function ProductDetail() {
                   </span>
                 )}
               </div>
-              <button className="text-xs md:text-sm text-gray-500 underline uppercase tracking-wider">
+              <button
+                onClick={handleWriteReview}
+                className="text-xs md:text-sm text-gray-500 underline uppercase tracking-wider hover:text-gray-900 transition-colors"
+              >
                 Write a Review
               </button>
             </div>
@@ -481,8 +518,8 @@ export default function ProductDetail() {
                         </div>
                       )}
                       {section.id === 'reviews' && (
-                        <div>
-                          <div className="flex items-center gap-2 mb-3">
+                        <div ref={reviewSectionRef}>
+                          <div className="flex items-center gap-2 mb-4">
                             <span className="font-medium">{(product.metadata.rating || 0).toFixed(1)}</span>
                             <div className="flex">
                               {[...Array(5)].map((_, i) => (
@@ -493,9 +530,91 @@ export default function ProductDetail() {
                             </div>
                             <span className="text-gray-500">({product.metadata.reviewCount || 0} reviews)</span>
                           </div>
-                          <button className="text-xs text-gray-900 underline uppercase tracking-wide">
-                            Read All Reviews
-                          </button>
+
+                          {!showReviewForm ? (
+                            <button
+                              onClick={() => setShowReviewForm(true)}
+                              className="px-6 py-2.5 border border-gray-900 text-sm uppercase tracking-wider hover:bg-gray-900 hover:text-white transition-colors"
+                            >
+                              Write a Review
+                            </button>
+                          ) : reviewSubmitted ? (
+                            <div className="bg-green-50 border border-green-200 p-4 text-sm text-green-800">
+                              Thank you! Your review has been submitted.
+                            </div>
+                          ) : (
+                            <div className="space-y-4 border-t border-gray-200 pt-4">
+                              {/* Star Rating */}
+                              <div>
+                                <label className="text-xs uppercase tracking-wider text-gray-600 mb-2 block">Your Rating *</label>
+                                <div className="flex gap-1">
+                                  {[1, 2, 3, 4, 5].map((star) => (
+                                    <button
+                                      key={star}
+                                      onClick={() => setReviewRating(star)}
+                                      onMouseEnter={() => setReviewHoverRating(star)}
+                                      onMouseLeave={() => setReviewHoverRating(0)}
+                                      className="p-0.5"
+                                    >
+                                      <Star
+                                        className={`w-6 h-6 transition-colors ${
+                                          star <= (reviewHoverRating || reviewRating)
+                                            ? 'fill-yellow-400 text-yellow-400'
+                                            : 'text-gray-300'
+                                        }`}
+                                      />
+                                    </button>
+                                  ))}
+                                </div>
+                              </div>
+
+                              {/* Title */}
+                              <div>
+                                <label className="text-xs uppercase tracking-wider text-gray-600 mb-2 block">Review Title *</label>
+                                <input
+                                  type="text"
+                                  value={reviewTitle}
+                                  onChange={(e) => setReviewTitle(e.target.value)}
+                                  placeholder="Summarize your experience"
+                                  className="w-full px-4 py-2.5 border border-gray-300 text-sm focus:outline-none focus:border-gray-900"
+                                />
+                              </div>
+
+                              {/* Body */}
+                              <div>
+                                <label className="text-xs uppercase tracking-wider text-gray-600 mb-2 block">Your Review</label>
+                                <textarea
+                                  value={reviewBody}
+                                  onChange={(e) => setReviewBody(e.target.value)}
+                                  placeholder="Tell us more about your experience..."
+                                  rows={4}
+                                  className="w-full px-4 py-2.5 border border-gray-300 text-sm focus:outline-none focus:border-gray-900 resize-none"
+                                />
+                              </div>
+
+                              {/* Actions */}
+                              <div className="flex gap-3">
+                                <button
+                                  onClick={handleSubmitReview}
+                                  disabled={reviewRating === 0 || !reviewTitle.trim()}
+                                  className="px-6 py-2.5 bg-gray-900 text-white text-sm uppercase tracking-wider hover:bg-gray-800 transition-colors disabled:bg-gray-400 disabled:cursor-not-allowed"
+                                >
+                                  Submit Review
+                                </button>
+                                <button
+                                  onClick={() => {
+                                    setShowReviewForm(false);
+                                    setReviewRating(0);
+                                    setReviewTitle('');
+                                    setReviewBody('');
+                                  }}
+                                  className="px-6 py-2.5 border border-gray-300 text-sm uppercase tracking-wider hover:bg-gray-50 transition-colors"
+                                >
+                                  Cancel
+                                </button>
+                              </div>
+                            </div>
+                          )}
                         </div>
                       )}
                     </div>

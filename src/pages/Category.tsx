@@ -35,7 +35,7 @@ function adaptNewProductToOld(newProduct: NewProduct): any {
   return {
     id: newProduct.id,
     name: newProduct.name,
-    brand: 'Gai Decor',
+    brand: 'gAIytri',
     category: newProduct.taxonomy.category.name as any,
     price: newProduct.price,
     originalPrice: newProduct.compareAtPrice,

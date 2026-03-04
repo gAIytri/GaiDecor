@@ -59,9 +59,9 @@ export default function LightingCategory() {
       initialFilters['productType'] = productType.split(',');
     }
 
-    const tags = searchParams.get('tags');
-    if (tags) {
-      initialFilters['room'] = tags.split(',');
+    const room = searchParams.get('room');
+    if (room) {
+      initialFilters['room'] = room.split(',');
     }
 
     const color = searchParams.get('color');
@@ -104,9 +104,9 @@ export default function LightingCategory() {
 
       const newParams = new URLSearchParams(searchParams);
       if (newValues.length > 0) {
-        newParams.set(filterId === 'room' ? 'tags' : filterId, newValues.join(','));
+        newParams.set(filterId, newValues.join(','));
       } else {
-        newParams.delete(filterId === 'room' ? 'tags' : filterId);
+        newParams.delete(filterId);
       }
 
       const updatedFilters = { ...prev, [filterId]: newValues };
@@ -152,7 +152,9 @@ export default function LightingCategory() {
 
     if (selectedFilters['room']?.length > 0) {
       filtered = filtered.filter(p =>
-        selectedFilters['room'].some(room => p.tags.includes(room))
+        selectedFilters['room'].some(room =>
+          (p as any).attributes?.room?.includes(room)
+        )
       );
     }
 

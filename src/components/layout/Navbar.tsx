@@ -21,7 +21,7 @@ import MegaMenu from '@/components/layout/MegaMenu';
 import { Box, Flex, Text } from '@/design-system';
 import navigationData from '@/data/navigationData.json';
 
-export default function Navbar() {
+export default function Navbar({ headerHeight }: { headerHeight?: number }) {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
   const location = useLocation();
@@ -62,7 +62,7 @@ export default function Navbar() {
         shadow: isTransparent ? 'none' : 'sm',
         py:3
       }}
-      style={{ position: 'sticky', top: 0, zIndex: 1000 }}
+      style={{ position: 'relative', zIndex: 10 }}
     >
       <Flex sx={{
         maxW: 'full',
@@ -112,7 +112,7 @@ export default function Navbar() {
                 }}
                 style={{ color: isTransparent ? '#ffffff' : '#111827' }}
               >
-                gAI DECOR
+                gAIytri
               </Text>
             </Flex>
           </Link>
@@ -131,6 +131,7 @@ export default function Navbar() {
               categorySlug={menu.categorySlug}
               columns={menu.columns}
               isTransparent={isTransparent}
+              headerHeight={headerHeight}
             />
           ))}
         </Flex>

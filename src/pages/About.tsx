@@ -80,7 +80,7 @@ export default function About() {
       <section className="relative h-[50vh] overflow-hidden">
         <img
           src={heroImage}
-          alt="About GaiDecor"
+          alt="About gAIytri"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-black/40" />
@@ -91,7 +91,7 @@ export default function About() {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-5xl lg:text-6xl font-light text-white tracking-wide"
           >
-            About GaiDecor
+            About gAIytri
           </motion.h1>
         </div>
       </section>
@@ -127,7 +127,7 @@ export default function About() {
                 OUR STORY
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6">
-                GaiDecor was born from a simple belief: that beautiful, thoughtfully designed home furnishings should be accessible to everyone. Founded in 2020, we set out to bridge the gap between high-end design and everyday affordability.
+                gAIytri was born from a simple belief: that beautiful, thoughtfully designed home furnishings should be accessible to everyone. Founded in 2020, we set out to bridge the gap between high-end design and everyday affordability.
               </p>
               <p className="text-gray-600 leading-relaxed">
                 What started as a small collection of curated pieces has grown into a comprehensive destination for home decor enthusiasts. Every item in our collection is selected with care, combining timeless aesthetics with modern functionality to help you create spaces that truly feel like home.
@@ -168,10 +168,10 @@ export default function About() {
                 WHO WE ARE
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6">
-                <strong>GaiDecor</strong> is a style-savvy collection of furniture, lighting, rugs, and home accents created with design enthusiasts in mind. Inspired by our love of iconic design styles, we've combined smart pricing with high-end finishes that elevate your space.
+                <strong>gAIytri</strong> is a style-savvy collection of furniture, lighting, rugs, and home accents created with design enthusiasts in mind. Inspired by our love of iconic design styles, we've combined smart pricing with high-end finishes that elevate your space.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                You'll love how we've streamlined sourcing, from quality construction to eco-friendly packaging and fast, free delivery. Let GaiDecor take your home from ordinary to extraordinary - whether that home is a Bohemian loft, modern farmhouse, or classic mid-century ranch.
+                You'll love how we've streamlined sourcing, from quality construction to eco-friendly packaging and fast, free delivery. Let gAIytri take your home from ordinary to extraordinary - whether that home is a Bohemian loft, modern farmhouse, or classic mid-century ranch.
               </p>
             </motion.div>
           </div>
@@ -209,7 +209,7 @@ export default function About() {
                 OUR MISSION
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6">
-                Our mission at GaiDecor is to enhance the atmosphere of your home by providing high-quality, stylish furniture and decor at accessible prices.
+                Our mission at gAIytri is to enhance the atmosphere of your home by providing high-quality, stylish furniture and decor at accessible prices.
               </p>
               <p className="text-gray-600 leading-relaxed">
                 We believe that great design has the power to transform not just spaces, but lives. That's why we're committed to offering a wide range of products - from sleek modern designs to classic timeless pieces - all crafted with attention to detail, quality, and sustainability.

@@ -82,7 +82,7 @@ export default function Cart() {
 
                         {/* Remove Link */}
                         <button
-                          onClick={() => removeItem(item.product.id)}
+                          onClick={() => removeItem(item.id)}
                           className="text-sm text-gray-500 underline mt-4 hover:text-gray-900 transition-colors"
                         >
                           Remove
@@ -106,7 +106,7 @@ export default function Cart() {
                         {/* Quantity Controls */}
                         <div className="flex items-center border border-gray-300">
                           <button
-                            onClick={() => updateQuantity(item.product.id, Math.max(1, item.quantity - 1))}
+                            onClick={() => updateQuantity(item.id, Math.max(1, item.quantity - 1))}
                             disabled={item.quantity <= 1}
                             className="w-9 h-9 flex items-center justify-center hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
                           >
@@ -119,7 +119,7 @@ export default function Cart() {
                             className="w-10 h-9 text-center text-sm font-medium border-x border-gray-300 bg-white"
                           />
                           <button
-                            onClick={() => updateQuantity(item.product.id, Math.min(10, item.quantity + 1))}
+                            onClick={() => updateQuantity(item.id, Math.min(10, item.quantity + 1))}
                             disabled={item.quantity >= 10}
                             className="w-9 h-9 flex items-center justify-center hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
                           >

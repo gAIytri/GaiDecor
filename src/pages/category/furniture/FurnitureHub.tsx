@@ -225,7 +225,7 @@ export default function FurnitureHub() {
             Crafted for Modern Living
           </h2>
           <p className="text-base md:text-lg text-gray-600 leading-relaxed">
-            At Gai Decor, we believe furniture is more than function—it's the foundation of your home's story.
+            At gAIytri, we believe furniture is more than function—it's the foundation of your home's story.
             Each piece in our collection is thoughtfully curated to blend timeless design with contemporary comfort.
             From the clean lines of our sofas to the sculptural beauty of our accent chairs, every item reflects
             our commitment to quality craftsmanship, sustainable materials, and enduring style. Transform your space

@@ -70,7 +70,7 @@ export default function MobileMenu() {
                 onClick={() => setMobileMenuOpen(false)}
                 className="text-xl font-bold tracking-widest text-gray-900"
               >
-                gAI DECOR
+                gAIytri
               </Link>
               <button
                 onClick={() => setMobileMenuOpen(false)}

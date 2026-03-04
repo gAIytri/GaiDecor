@@ -40,6 +40,7 @@ interface MegaMenuProps {
     }[];
   }[];
   isTransparent?: boolean;
+  headerHeight?: number;
 }
 
 // Get random images for a category
@@ -92,7 +93,8 @@ export default function MegaMenu({
   title,
   categorySlug,
   columns,
-  isTransparent = false
+  isTransparent = false,
+  headerHeight
 }: MegaMenuProps) {
   const [isOpen, setIsOpen] = useState(false);
   const openTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -158,7 +160,7 @@ export default function MegaMenu({
       {isOpen && (
         <div
           className="fixed left-0 right-0 z-50 bg-white shadow-xl border-b border-gray-100"
-          style={{ top: '63px' }}
+          style={{ top: headerHeight ? `${headerHeight}px` : '63px' }}
         >
           <div className="max-w-7xl mx-auto px-8 py-10">
             {/* Dynamic Grid */}
