@@ -91,7 +91,7 @@ export default function Navbar() {
               }}
               style={{ color: isTransparent ? '#ffffff' : '#111827' }}
             >
-              GaiDECOR
+              gAI DECOR
             </Text>
           </Flex>
         </Link>

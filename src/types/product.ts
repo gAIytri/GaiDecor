@@ -1,108 +1,152 @@
 /**
  * Universal Product Schema
+ * Canonical Product type aligned with backend API.
  * Works for all product categories: Furniture, Rugs, Lighting, Decor, Art, Bedding
  */
 
+// ---------------------------------------------------------------------------
+// Product Image
+// ---------------------------------------------------------------------------
+
+export interface ProductImage {
+  id: string;
+  url: string;
+  alt: string;
+  isPrimary: boolean;
+  displayOrder: number;
+}
+
+// ---------------------------------------------------------------------------
+// Product Attributes (JSONB from backend)
+// ---------------------------------------------------------------------------
+
+export interface ProductAttributes {
+  color: string[];
+  material: string[];
+  style: string[];
+  room: string[];
+
+  // Dimensions
+  dimensions?: {
+    width?: number;
+    height?: number;
+    depth?: number;
+    diameter?: number;
+    unit: 'cm' | 'in';
+  };
+
+  // Furniture-specific
+  seatingCapacity?: number;
+  numberOfDoors?: number;
+  numberOfDrawers?: number;
+
+  // Lighting-specific
+  bulbType?: string;
+  wattage?: number;
+  dimmable?: boolean;
+  lightColor?: string;
+
+  // Bedding-specific
+  size?: string;
+  threadCount?: number;
+  fabricType?: string;
+
+  // Rug-specific
+  shape?: string;
+  pile?: string;
+
+  // Art-specific
+  artMedium?: string;
+  orientation?: string;
+  frame?: boolean;
+
+  // Extensible for any attribute
+  [key: string]: unknown;
+}
+
+// ---------------------------------------------------------------------------
+// Enriched Description (from AI-generated backend content)
+// ---------------------------------------------------------------------------
+
+export interface EnrichedDescription {
+  short: string;
+  long: string;
+  features: string[];
+  careInstructions: string;
+}
+
+// ---------------------------------------------------------------------------
+// Core Product Type (canonical — used everywhere)
+// ---------------------------------------------------------------------------
+
 export interface Product {
-  // Core Identity
+  // Core identity
   id: string;
   sku: string;
   name: string;
-  description?: string;
+  slug: string;
+  description: string;
 
   // Pricing
   price: number;
-  compareAtPrice?: number; // For showing discounts
-  currency: string; // "USD"
+  compareAtPrice: number | null;
+  currency: string;
 
-  // Media
-  images: string[];
-  primaryImage: string;
+  // Taxonomy
+  categoryId: string;
+  categorySlug: string;
+  categoryName: string;
+  productTypeId: string;
+  productTypeName: string;
 
-  // Taxonomy (Category Structure)
-  taxonomy: {
-    category: {
-      name: string; // "Furniture"
-      slug: string; // "furniture"
-    };
-    subcategory: {
-      name: string; // "Living Room" or "Sofas"
-      slug: string; // "living-room" or "sofas"
-    };
-    productType?: string; // More specific: "3-Seater Sofa"
-  };
+  // Stock
+  stockQuantity: number;
+  stockStatus: 'in_stock' | 'low_stock' | 'out_of_stock' | 'pre_order';
 
-  // Filterable Attributes
-  attributes: {
-    // Universal
-    color?: string[];
-    material?: string[];
-    style?: string[];
-
-    // Dimensions
-    dimensions?: {
-      width?: number;
-      height?: number;
-      depth?: number;
-      diameter?: number; // For round items
-      unit: 'cm' | 'in';
-    };
-
-    // Furniture-specific
-    seatingCapacity?: number;
-    numberOfDoors?: number;
-    numberOfDrawers?: number;
-
-    // Lighting-specific
-    bulbType?: string;
-    wattage?: number;
-    dimmable?: boolean;
-    lightColor?: string; // "Warm", "Cool", "Daylight"
-
-    // Bedding-specific
-    size?: string; // "Queen", "King", "Twin"
-    threadCount?: number;
-    fabricType?: string;
-
-    // Rug-specific
-    shape?: string; // "Rectangle", "Round", "Runner"
-    pile?: string; // "Low", "Medium", "High"
-
-    // Art-specific
-    artMedium?: string; // "Canvas", "Print", "Original"
-    orientation?: string; // "Landscape", "Portrait", "Square"
-    frame?: boolean;
-
-    // Extensible for any attribute
-    [key: string]: any;
-  };
-
-  // Tags for filtering (room type, features, collections, etc.)
-  tags: string[]; // ["living-room", "bedroom", "modern", "luxury", "sale"]
+  // Structured data
+  attributes: ProductAttributes;
+  images: ProductImage[];
+  enrichedDescription: EnrichedDescription;
 
   // Metadata
-  metadata: {
-    featured?: boolean;
-    new?: boolean;
-    bestSeller?: boolean;
-    onSale?: boolean;
-    inStock: boolean;
-    stockQuantity?: number;
-    rating?: number;
-    reviewCount?: number;
-    createdAt: string;
-    updatedAt?: string;
-  };
+  isFeatured: boolean;
+  isBestseller: boolean;
+  avgRating: number;
+  reviewCount: number;
+  tags: string[];
+  createdAt: string;
 }
 
-/**
- * Filter Configuration
- */
+// ---------------------------------------------------------------------------
+// Category & Product Type
+// ---------------------------------------------------------------------------
+
+export interface Category {
+  id: string;
+  name: string;
+  slug: string;
+  description: string;
+  imageUrl: string;
+  displayOrder: number;
+  productTypes: ProductType[];
+  productCount: number;
+}
+
+export interface ProductType {
+  id: string;
+  name: string;
+  slug: string;
+  categoryId: string;
+}
+
+// ---------------------------------------------------------------------------
+// Filter Configuration (for dynamic filter sidebar)
+// ---------------------------------------------------------------------------
 
 export interface FilterOption {
   label: string;
   value: string | null;
-  count?: number; // Number of products with this value
+  count?: number;
 }
 
 export type FilterType = 'select' | 'multiselect' | 'range' | 'toggle' | 'color';
@@ -112,55 +156,41 @@ export interface FilterDefinition {
   label: string;
   type: FilterType;
   source: FilterSource;
-  field: string; // Dot notation path to field (e.g., "taxonomy.subcategory.slug")
-  options?: FilterOption[]; // Predefined options (optional)
+  field: string;
+  options?: FilterOption[];
   enabled: boolean;
-  showCount?: boolean; // Show product count for each option
-  multipleValues?: boolean; // Allow multiple selections
+  showCount?: boolean;
+  multipleValues?: boolean;
 }
 
 export interface CategoryFilterConfig {
   categorySlug: string;
   categoryName: string;
-
-  // Available filters for this category
-  filters: {
-    [filterKey: string]: FilterDefinition;
-  };
-
-  // Default sort options
+  filters: Record<string, FilterDefinition>;
   sortOptions: SortOption[];
-
-  // Default values
   defaultSort?: string;
 }
 
-export interface SortOption {
-  label: string;
-  value: string;
-  field?: string;
-  order?: 'asc' | 'desc';
-}
+export type SortOption = 'best-selling' | 'price-asc' | 'price-desc' | 'newest' | 'top-rated';
 
-/**
- * Filter State (used in URL and component state)
- */
+// ---------------------------------------------------------------------------
+// Filter State (used in URL and component state)
+// ---------------------------------------------------------------------------
+
 export interface FilterState {
-  subcategory?: string | null;
-  color?: string[];
-  material?: string[];
-  style?: string[];
-  room?: string[];
-  priceMin?: number;
-  priceMax?: number;
-  inStock?: boolean;
-  onSale?: boolean;
-  [key: string]: any;
+  colors: string[];
+  materials: string[];
+  styles: string[];
+  rooms: string[];
+  priceRange: [number, number];
+  sort: SortOption;
+  page: number;
+  perPage: number;
 }
 
-/**
- * Utility Types
- */
+// ---------------------------------------------------------------------------
+// Product Search / Listing
+// ---------------------------------------------------------------------------
 
 export interface ProductFilters {
   category?: string;
@@ -176,7 +206,5 @@ export interface ProductFilters {
 export interface ProductSearchResult {
   products: Product[];
   total: number;
-  filters: {
-    [key: string]: FilterOption[];
-  };
+  filters: Record<string, FilterOption[]>;
 }

@@ -25,7 +25,7 @@ export default function Footer() {
               From elegant statement pieces to subtle everyday accents, each design blends
               craftsmanship, comfort, and style helping you create interiors that feel warm, personal, and effortlessly refined.
             </p>
-            <h2 className="text-2xl font-bold mb-4 tracking-widest">GaiDecor</h2>
+            <h2 className="text-2xl font-bold mb-4 tracking-widest">gAI DECOR</h2>
             <div className="flex gap-3">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400 transition">
                 <Facebook className="h-5 w-5" />
@@ -104,7 +104,7 @@ export default function Footer() {
 
           {/* Copyright & Links */}
           <div className="flex justify-between items-center">
-            <p className="text-sm text-gray-500">© 2024 GaiDecor</p>
+            <p className="text-sm text-gray-500">© 2026 gAI DECOR</p>
             <div className="flex gap-6">
               <Link to="/privacy" className="text-sm text-gray-500 hover:text-white transition">Privacy</Link>
               <Link to="/terms" className="text-sm text-gray-500 hover:text-white transition">Terms</Link>
